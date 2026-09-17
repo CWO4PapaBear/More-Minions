@@ -1,0 +1,18 @@
+{
+  "captured": "2026-09-17",
+  "sourceRepository": "CWO4PapaBear/HeroFreePick",
+  "sourceCommit": "708f0ef",
+  "sourceVersion": "0.39.9",
+  "sha256": {
+    "HeroFreePick/Masteries.lua": "5fa2666c5cf6afbb07a0868e70df939251d3336ecd5b1eff07e521f22887053e",
+    "HeroFreePick/HeroFreePick.lua": "3007025ca10836af6876473ddbdba9ca108f328f4e62351f055a40ce0d71a058",
+    "HeroFreePick/Organization.lua": "f515540fa4835bfb146fb49578c2bac8cd499ef1b43c509581a4dcccc4160442",
+    "test_ui.py": "38ab6e6c513aa5ce52854619c275332f31cbea4735e1f669103f8501c72c4bb0"
+  },
+  "referenceEvidenceFiles": [
+    "area52-companion-bundles.json",
+    "elemental-wild-imp-review.json",
+    "package-icon-audit.json"
+  ],
+  "note": "Selected IDs and metadata only. Extracted DBC/MPQ archives and texture binaries are not part of this repository."
+}

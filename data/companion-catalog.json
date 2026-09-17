@@ -1,0 +1,743 @@
+{
+  "schemaVersion": 1,
+  "status": "UI reference only; not authoritative server spell definitions",
+  "sourceAddonVersion": "0.39.9",
+  "bundles": [
+    {
+      "id": 23965200,
+      "name": "Tame Beast",
+      "class": "Hunter",
+      "spec": "BeastMastery",
+      "kind": "Ability",
+      "level": 1,
+      "ae": 4,
+      "te": 0,
+      "quality": "Epic",
+      "rarityCost": 2,
+      "area52Entry": 391,
+      "icon": "Ability_Hunter_BeastTaming",
+      "spellIds": [
+        965200
+      ],
+      "displayIconOverrides": {
+        "965200": "Interface\\Icons\\Ability_Hunter_BeastTaming"
+      },
+      "members": [
+        {
+          "id": 25001515,
+          "name": "Tame Beast",
+          "class": "Hunter",
+          "spec": "BeastMastery",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "Ability_Hunter_BeastTaming",
+          "requiredBundle": 23965200,
+          "spellIds": [
+            1515
+          ],
+          "displayIconOverrides": {
+            "1515": "Interface\\Icons\\Ability_Hunter_BeastTaming"
+          }
+        },
+        {
+          "id": 25000883,
+          "name": "Call Pet",
+          "class": "Hunter",
+          "spec": "BeastMastery",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "Ability_Hunter_BeastTaming",
+          "requiredBundle": 23965200,
+          "spellIds": [
+            883
+          ],
+          "displayIconOverrides": {
+            "883": "Interface\\Icons\\Ability_Hunter_BeastCall"
+          }
+        },
+        {
+          "id": 25002641,
+          "name": "Dismiss Pet",
+          "class": "Hunter",
+          "spec": "BeastMastery",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "Ability_Hunter_BeastTaming",
+          "requiredBundle": 23965200,
+          "spellIds": [
+            2641
+          ],
+          "displayIconOverrides": {
+            "2641": "Interface\\Icons\\Spell_Nature_SpiritWolf"
+          }
+        },
+        {
+          "id": 25006991,
+          "name": "Feed Pet",
+          "class": "Hunter",
+          "spec": "BeastMastery",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "Ability_Hunter_BeastTaming",
+          "requiredBundle": 23965200,
+          "spellIds": [
+            6991
+          ],
+          "displayIconOverrides": {
+            "6991": "Interface\\Icons\\Ability_Hunter_BeastTraining"
+          }
+        },
+        {
+          "id": 25000982,
+          "name": "Revive Pet",
+          "class": "Hunter",
+          "spec": "BeastMastery",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "Ability_Hunter_BeastTaming",
+          "requiredBundle": 23965200,
+          "spellIds": [
+            982
+          ],
+          "displayIconOverrides": {
+            "982": "Interface\\Icons\\Ability_Hunter_BeastSoothe"
+          }
+        },
+        {
+          "id": 25001462,
+          "name": "Beast Lore",
+          "class": "Hunter",
+          "spec": "BeastMastery",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "Ability_Hunter_BeastTaming",
+          "requiredBundle": 23965200,
+          "spellIds": [
+            1462
+          ],
+          "displayIconOverrides": {
+            "1462": "Interface\\Icons\\Ability_Physical_Taunt"
+          }
+        }
+      ]
+    },
+    {
+      "id": 23091634,
+      "name": "Tame Dragonkin",
+      "class": "Mage",
+      "spec": "Fire",
+      "kind": "Ability",
+      "level": 1,
+      "ae": 4,
+      "te": 0,
+      "quality": "Epic",
+      "rarityCost": 2,
+      "area52Entry": 1195,
+      "icon": "ability_mount_drake_red",
+      "spellIds": [
+        91634
+      ],
+      "displayIconOverrides": {
+        "91634": "Interface\\Icons\\ability_mount_drake_red"
+      },
+      "members": [
+        {
+          "id": 25093558,
+          "name": "Tame Dragonkin",
+          "class": "Mage",
+          "spec": "Fire",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "ability_mount_drake_red",
+          "requiredBundle": 23091634,
+          "spellIds": [
+            93558
+          ],
+          "displayIconOverrides": {
+            "93558": "Interface\\Icons\\ability_mount_drake_red"
+          }
+        },
+        {
+          "id": 25091631,
+          "name": "Call Dragonkin",
+          "class": "Mage",
+          "spec": "Fire",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "ability_mount_drake_red",
+          "requiredBundle": 23091634,
+          "spellIds": [
+            91631
+          ],
+          "displayIconOverrides": {
+            "91631": "Interface\\AddOns\\HeroFreePick\\Art\\Companions\\spell_warrior_dragoncharge"
+          }
+        },
+        {
+          "id": 25091652,
+          "name": "Dismiss Dragonkin",
+          "class": "Mage",
+          "spec": "Fire",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "ability_mount_drake_red",
+          "requiredBundle": 23091634,
+          "spellIds": [
+            91652
+          ],
+          "displayIconOverrides": {
+            "91652": "Interface\\Icons\\INV_Misc_Head_Dragon_01"
+          }
+        },
+        {
+          "id": 25091633,
+          "name": "Revive Dragonkin",
+          "class": "Mage",
+          "spec": "Fire",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "ability_mount_drake_red",
+          "requiredBundle": 23091634,
+          "spellIds": [
+            91633
+          ],
+          "displayIconOverrides": {
+            "91633": "Interface\\AddOns\\HeroFreePick\\Art\\Companions\\ability_warrior_dragonroar"
+          }
+        },
+        {
+          "id": 25109982,
+          "name": "Dragonkin Lore",
+          "class": "Mage",
+          "spec": "Fire",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "ability_mount_drake_red",
+          "requiredBundle": 23091634,
+          "spellIds": [
+            109982
+          ],
+          "displayIconOverrides": {
+            "109982": "Interface\\AddOns\\HeroFreePick\\Art\\Companions\\novart_books_(2)_border"
+          }
+        }
+      ]
+    },
+    {
+      "id": 23000890,
+      "name": "Enslave Demon",
+      "class": "Warlock",
+      "spec": "Demonology",
+      "kind": "Ability",
+      "level": 1,
+      "ae": 4,
+      "te": 0,
+      "quality": "Epic",
+      "rarityCost": 2,
+      "area52Entry": 1205,
+      "icon": "spell_warlock_demonbolt",
+      "spellIds": [
+        890
+      ],
+      "displayIconOverrides": {
+        "890": "Interface\\AddOns\\HeroFreePick\\Art\\Companions\\spell_warlock_demonbolt"
+      },
+      "members": [
+        {
+          "id": 25000896,
+          "name": "Enslave Demon",
+          "class": "Warlock",
+          "spec": "Demonology",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "spell_warlock_demonbolt",
+          "requiredBundle": 23000890,
+          "spellIds": [
+            896
+          ],
+          "displayIconOverrides": {
+            "896": "Interface\\AddOns\\HeroFreePick\\Art\\Companions\\spell_warlock_demonbolt"
+          }
+        },
+        {
+          "id": 25000884,
+          "name": "Summon Demon",
+          "class": "Warlock",
+          "spec": "Demonology",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "spell_warlock_demonbolt",
+          "requiredBundle": 23000890,
+          "spellIds": [
+            884
+          ],
+          "displayIconOverrides": {
+            "884": "Interface\\AddOns\\HeroFreePick\\Art\\Companions\\spell_warlock_demonicportal_purple"
+          }
+        },
+        {
+          "id": 25000892,
+          "name": "Dismiss Demon",
+          "class": "Warlock",
+          "spec": "Demonology",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "spell_warlock_demonbolt",
+          "requiredBundle": 23000890,
+          "spellIds": [
+            892
+          ],
+          "displayIconOverrides": {
+            "892": "Interface\\AddOns\\HeroFreePick\\Art\\Companions\\ability_warlock_ancientgrimoire"
+          }
+        },
+        {
+          "id": 25000887,
+          "name": "Revive Demon",
+          "class": "Warlock",
+          "spec": "Demonology",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "spell_warlock_demonbolt",
+          "requiredBundle": 23000890,
+          "spellIds": [
+            887
+          ],
+          "displayIconOverrides": {
+            "887": "Interface\\AddOns\\HeroFreePick\\Art\\Companions\\ability_demonhunter_sigilofmisery"
+          }
+        },
+        {
+          "id": 25109981,
+          "name": "Demon Lore",
+          "class": "Warlock",
+          "spec": "Demonology",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "spell_warlock_demonbolt",
+          "requiredBundle": 23000890,
+          "spellIds": [
+            109981
+          ],
+          "displayIconOverrides": {
+            "109981": "Interface\\Icons\\Spell_Shadow_DemonicFortitude"
+          }
+        }
+      ]
+    },
+    {
+      "id": 23000891,
+      "name": "Dominate Undead",
+      "class": "DeathKnight",
+      "spec": "Unholy",
+      "kind": "Ability",
+      "level": 1,
+      "ae": 4,
+      "te": 0,
+      "quality": "Epic",
+      "rarityCost": 2,
+      "area52Entry": 1153,
+      "icon": "inv_misc_steelweaponchain",
+      "spellIds": [
+        891
+      ],
+      "displayIconOverrides": {
+        "891": "Interface\\AddOns\\HeroFreePick\\Art\\Companions\\inv_misc_steelweaponchain"
+      },
+      "members": [
+        {
+          "id": 25000899,
+          "name": "Dominate Undead",
+          "class": "DeathKnight",
+          "spec": "Unholy",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "inv_misc_steelweaponchain",
+          "requiredBundle": 23000891,
+          "spellIds": [
+            899
+          ],
+          "displayIconOverrides": {
+            "899": "Interface\\AddOns\\HeroFreePick\\Art\\Companions\\inv_misc_steelweaponchain"
+          }
+        },
+        {
+          "id": 25000885,
+          "name": "Raise Undead",
+          "class": "DeathKnight",
+          "spec": "Unholy",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "inv_misc_steelweaponchain",
+          "requiredBundle": 23000891,
+          "spellIds": [
+            885
+          ],
+          "displayIconOverrides": {
+            "885": "Interface\\Icons\\spell_shadow_animatedead"
+          }
+        },
+        {
+          "id": 25000893,
+          "name": "Dismiss Undead",
+          "class": "DeathKnight",
+          "spec": "Unholy",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "inv_misc_steelweaponchain",
+          "requiredBundle": 23000891,
+          "spellIds": [
+            893
+          ],
+          "displayIconOverrides": {
+            "893": "Interface\\Icons\\inv_misc_book_05"
+          }
+        },
+        {
+          "id": 25000889,
+          "name": "Revive Undead",
+          "class": "DeathKnight",
+          "spec": "Unholy",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "inv_misc_steelweaponchain",
+          "requiredBundle": 23000891,
+          "spellIds": [
+            889
+          ],
+          "displayIconOverrides": {
+            "889": "Interface\\AddOns\\HeroFreePick\\Art\\Companions\\_undead_03"
+          }
+        },
+        {
+          "id": 25109980,
+          "name": "Undead Lore",
+          "class": "DeathKnight",
+          "spec": "Unholy",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "inv_misc_steelweaponchain",
+          "requiredBundle": 23000891,
+          "spellIds": [
+            109980
+          ],
+          "displayIconOverrides": {
+            "109980": "Interface\\Icons\\Spell_Holy_HarmUndeadAura"
+          }
+        }
+      ]
+    },
+    {
+      "id": 23091606,
+      "name": "Tether Elemental",
+      "class": "Shaman",
+      "spec": "Elemental",
+      "kind": "Ability",
+      "level": 1,
+      "ae": 4,
+      "te": 0,
+      "quality": "Epic",
+      "rarityCost": 2,
+      "area52Entry": 1615,
+      "icon": "Spell_Nature_ElementalPrecision_1",
+      "spellIds": [
+        91606
+      ],
+      "displayIconOverrides": {
+        "91606": "Interface\\Icons\\Spell_Nature_ElementalPrecision_1"
+      },
+      "members": [
+        {
+          "id": 25093569,
+          "name": "Tether Elemental",
+          "class": "Shaman",
+          "spec": "Elemental",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "Spell_Nature_ElementalPrecision_1",
+          "requiredBundle": 23091606,
+          "spellIds": [
+            93569
+          ],
+          "displayIconOverrides": {
+            "93569": "Interface\\Icons\\Spell_Nature_ElementalPrecision_1"
+          }
+        },
+        {
+          "id": 25091602,
+          "name": "Raise Elemental",
+          "class": "Shaman",
+          "spec": "Elemental",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "Spell_Nature_ElementalPrecision_1",
+          "requiredBundle": 23091606,
+          "spellIds": [
+            91602
+          ],
+          "displayIconOverrides": {
+            "91602": "Interface\\Icons\\Spell_Nature_ElementalPrecision_2"
+          }
+        },
+        {
+          "id": 25091651,
+          "name": "Dismiss Elemental",
+          "class": "Shaman",
+          "spec": "Elemental",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "Spell_Nature_ElementalPrecision_1",
+          "requiredBundle": 23091606,
+          "spellIds": [
+            91651
+          ],
+          "displayIconOverrides": {
+            "91651": "Interface\\Icons\\Spell_Shaman_SpectralTransformation"
+          }
+        },
+        {
+          "id": 25091605,
+          "name": "Revive Elemental",
+          "class": "Shaman",
+          "spec": "Elemental",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "Spell_Nature_ElementalPrecision_1",
+          "requiredBundle": 23091606,
+          "spellIds": [
+            91605
+          ],
+          "displayIconOverrides": {
+            "91605": "Interface\\Icons\\Spell_Nature_ElementalAbsorption"
+          }
+        },
+        {
+          "id": 25109983,
+          "name": "Elemental Lore",
+          "class": "Shaman",
+          "spec": "Elemental",
+          "kind": "Ability",
+          "level": 1,
+          "ae": 0,
+          "te": 0,
+          "quality": "Normal",
+          "rarityCost": 0,
+          "icon": "Spell_Nature_ElementalPrecision_1",
+          "requiredBundle": 23091606,
+          "spellIds": [
+            109983
+          ],
+          "displayIconOverrides": {
+            "109983": "Interface\\AddOns\\HeroFreePick\\Art\\Companions\\spell_shaman_bindelemental"
+          }
+        }
+      ]
+    }
+  ],
+  "demonMastery": {
+    "id": 21954705,
+    "name": "Demon Mastery",
+    "class": "Warlock",
+    "spec": "Demonology",
+    "kind": "Ability",
+    "level": 1,
+    "ae": 2,
+    "te": 0,
+    "quality": "Epic",
+    "rarityCost": 2,
+    "area52Entry": 1364,
+    "icon": "Spell_Shadow_SummonVoidWalker",
+    "spellIds": [
+      954705
+    ],
+    "members": [
+      {
+        "id": 60,
+        "name": "Summon Imp",
+        "class": "Warlock",
+        "spec": "Demonology",
+        "kind": "Ability",
+        "level": 1,
+        "ae": 0,
+        "te": 0,
+        "quality": "Rare",
+        "rarityCost": 0,
+        "requiredMastery": 21954705,
+        "spellIds": [
+          688
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Summon Felhunter",
+        "class": "Warlock",
+        "spec": "Demonology",
+        "kind": "Ability",
+        "level": 30,
+        "ae": 0,
+        "te": 0,
+        "quality": "Epic",
+        "rarityCost": 0,
+        "requiredMastery": 21954705,
+        "spellIds": [
+          691
+        ]
+      },
+      {
+        "id": 65,
+        "name": "Summon Voidwalker",
+        "class": "Warlock",
+        "spec": "Demonology",
+        "kind": "Ability",
+        "level": 10,
+        "ae": 0,
+        "te": 0,
+        "quality": "Epic",
+        "rarityCost": 0,
+        "requiredMastery": 21954705,
+        "spellIds": [
+          697
+        ]
+      },
+      {
+        "id": 70,
+        "name": "Summon Succubus",
+        "class": "Warlock",
+        "spec": "Demonology",
+        "kind": "Ability",
+        "level": 20,
+        "ae": 0,
+        "te": 0,
+        "quality": "Epic",
+        "rarityCost": 0,
+        "requiredMastery": 21954705,
+        "spellIds": [
+          712
+        ]
+      },
+      {
+        "id": 20001672,
+        "name": "Summon Felguard",
+        "class": "Warlock",
+        "spec": "Demonology",
+        "kind": "Ability",
+        "level": 50,
+        "ae": 0,
+        "te": 0,
+        "quality": "Epic",
+        "rarityCost": 0,
+        "area52Entry": 3465,
+        "requiredMastery": 21954705,
+        "spellIds": [
+          30146
+        ]
+      }
+    ]
+  },
+  "wildImps": {
+    "status": "Research only; no companion bundle imported",
+    "handOfGuldanSpell": 954611,
+    "handOfGuldanAdvancement": 1206,
+    "appearanceScrollSpell": 83141
+  }
+}

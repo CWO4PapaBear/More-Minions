@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.zip
+*.MPQ
+*.mpq
+*.dbc
+*.blp
+*.exe
+.env
+work/
