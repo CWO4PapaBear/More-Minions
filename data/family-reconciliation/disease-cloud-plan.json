@@ -1,0 +1,22 @@
+{
+  "status": "approved scope; implementation and validation pending",
+  "ability": "Disease Cloud",
+  "sourceSpell": 880743,
+  "sourceFamilies": [
+    222,
+    230
+  ],
+  "requestedAdditionalFamilies": [
+    203,
+    218
+  ],
+  "triggerSpell": 880742,
+  "tooltipReferenceSpell": 812626,
+  "requirements": [
+    "Resolve tooltip 812626 versus actual trigger 880742",
+    "Review triggered damage scaling and target eligibility",
+    "Retain source 30 energy and 30 second cooldown unless testing requires a reviewed adjustment",
+    "Add to Abomination and Ghoul pet profiles after dependency validation",
+    "Do not change stock NPC abilities or Classic summoned ghouls"
+  ]
+}
