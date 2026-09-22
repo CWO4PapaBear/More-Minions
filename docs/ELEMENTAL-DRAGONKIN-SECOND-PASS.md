@@ -133,3 +133,5 @@ The table records reference links, not a claim that the skills are deployed. Emp
 ## Source verification
 
 Exact source filenames, SHA-256 hashes, alternate-table results, family links and withheld reasons are recorded in [the audit JSON](../data/family-reconciliation/elemental-dragonkin-second-pass.json). Original reference definitions remain in `docs/pet-family-review/pet-family-reference.json`.
+
+[First implementation wave: staged handler and remaining deployment gates](ELEMENTAL-DRAGONKIN-IMPLEMENTATION.md).

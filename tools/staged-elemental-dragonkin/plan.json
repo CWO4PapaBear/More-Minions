@@ -1,0 +1,202 @@
+{
+  "status": "staged first wave; not built or installed",
+  "levelSource": "owning player level, clamped 1..80",
+  "scalingVariable": 182,
+  "formulaCoefficients": [
+    0.0267291844060354,
+    0.0048541098014737,
+    0.0001859597762293
+  ],
+  "rounding": "nearest integer; nonnegative",
+  "bonusPolicy": "explicit zero extra spell-power/AP coefficients for first test release; normal crit, resistance and armor remain",
+  "spells": [
+    {
+      "id": 892102,
+      "name": "Lightning Bolt (Pet)",
+      "effect": 0,
+      "sourceDefinitionSHA256": "3bea29c0e13d70df8f5739f093b529a8154480eff47acd3bdad0cbcafe302ce3",
+      "basePointsStored": 159,
+      "dieSides": 1,
+      "spellLevel": 1
+    },
+    {
+      "id": 892111,
+      "name": "Boulder",
+      "effect": 0,
+      "sourceDefinitionSHA256": "1374b4811725231eacebbccf27fbd985b82b1bc811adee0ceb070cbb6371b88e",
+      "basePointsStored": 122,
+      "dieSides": 5,
+      "spellLevel": 1
+    },
+    {
+      "id": 892121,
+      "name": "Fire Blast (Pet)",
+      "effect": 0,
+      "sourceDefinitionSHA256": "8dd4449286df6c6fd9c6ed886438e58ade4a74f58c5c58f176462110cd26b0fb",
+      "basePointsStored": 121,
+      "dieSides": 5,
+      "spellLevel": 1
+    },
+    {
+      "id": 892131,
+      "name": "Water Bolt (Pet)",
+      "effect": 0,
+      "sourceDefinitionSHA256": "3f3220b80c251622f3320ede08922d6702485a001f6b36e27dff12058f60f4cf",
+      "basePointsStored": 209,
+      "dieSides": 5,
+      "spellLevel": 1
+    },
+    {
+      "id": 91755,
+      "name": "Lesser Fireball",
+      "effect": 0,
+      "sourceDefinitionSHA256": "b459e3797ad480473dac0f2684382abd6dd8aeac508145135eedd492c6e51df1",
+      "basePointsStored": 157,
+      "dieSides": 5,
+      "spellLevel": 1
+    },
+    {
+      "id": 91758,
+      "name": "Fire Blast (Pet)",
+      "effect": 0,
+      "sourceDefinitionSHA256": "2be364aa2f49c9b093d830afddc58f99da75d23770110138c4b9b07ba201ef9c",
+      "basePointsStored": 121,
+      "dieSides": 5,
+      "spellLevel": 1
+    },
+    {
+      "id": 91759,
+      "name": "Arcane Bolt",
+      "effect": 0,
+      "sourceDefinitionSHA256": "fe92d4d943722ffa7bdfcf7c6eb0484bdf97ad18375b43f3a612892891a8f057",
+      "basePointsStored": 157,
+      "dieSides": 5,
+      "spellLevel": 1
+    },
+    {
+      "id": 91821,
+      "name": "Acid Spit",
+      "effect": 0,
+      "sourceDefinitionSHA256": "391f8ce9c04fc9cbad2f687f99638c60c8fbd2cfd11d350f02e701f4cf7d955a",
+      "basePointsStored": 157,
+      "dieSides": 5,
+      "spellLevel": 1
+    },
+    {
+      "id": 91768,
+      "name": "Fireball (Pet)",
+      "effect": 0,
+      "sourceDefinitionSHA256": "0fc04a319b8947a8aa52a7671fbbd01f35fdc9a5df3bfdce26a57049ed4250c3",
+      "basePointsStored": 235,
+      "dieSides": 5,
+      "spellLevel": 1
+    },
+    {
+      "id": 91819,
+      "name": "Fire Blast (Pet)",
+      "effect": 0,
+      "sourceDefinitionSHA256": "876397d45a2d629ab5e599562c7f232866f17781c5cc5b62c3660ef4b13dcd25",
+      "basePointsStored": 121,
+      "dieSides": 5,
+      "spellLevel": 1
+    }
+  ],
+  "families": [
+    {
+      "id": 301,
+      "name": "Air Elemental",
+      "type": 4,
+      "spells": [
+        892102
+      ],
+      "withheld": [
+        892101,
+        892103
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Earth Elemental",
+      "type": 4,
+      "spells": [
+        892111
+      ],
+      "withheld": [
+        892112,
+        892113
+      ]
+    },
+    {
+      "id": 303,
+      "name": "Fire Elemental",
+      "type": 4,
+      "spells": [
+        892121
+      ],
+      "withheld": [
+        892122,
+        892123
+      ]
+    },
+    {
+      "id": 304,
+      "name": "Water Elemental",
+      "type": 4,
+      "spells": [
+        892131
+      ],
+      "withheld": [
+        892132,
+        892133
+      ]
+    },
+    {
+      "id": 402,
+      "name": "Black Whelp",
+      "type": 2,
+      "spells": [
+        91755,
+        91758
+      ],
+      "withheld": [
+        91757
+      ]
+    },
+    {
+      "id": 414,
+      "name": "Blue Whelp",
+      "type": 2,
+      "spells": [
+        91759
+      ],
+      "withheld": [
+        91761,
+        91762
+      ]
+    },
+    {
+      "id": 438,
+      "name": "Green Whelp",
+      "type": 2,
+      "spells": [
+        91821
+      ],
+      "withheld": [
+        91822,
+        91823
+      ]
+    },
+    {
+      "id": 450,
+      "name": "Red Whelp",
+      "type": 2,
+      "spells": [
+        91768,
+        91819
+      ],
+      "withheld": [
+        91820
+      ]
+    }
+  ]
+}
