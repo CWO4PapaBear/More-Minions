@@ -26,3 +26,7 @@ Validation completed locally: Python syntax, baseline preflight fixtures for bef
 - Check family skills, rank upgrades, autocast, relogging and Hunter-style stable storage.
 - Confirm one primary companion and the existing independent Demon Mastery companion still work together.
 - Test existing mapped pets for regressions, especially spell-bar ranks after leveling.
+
+## Activation collation fix
+
+The first PTR activation encountered MySQL error 1267 while comparing text with different implicit collations. Transaction rollback and startup of the previous image completed. Guard comparisons now cast both operands to binary for exact equality, including the rollback review note. Database/schema collations and the approved mapping plan remain unchanged. The SQL-only tool revision requires no C++ rebuild; deployment still awaits a successful activation retry. Generated forward/rollback guards and the local deployment-tool hash were checked; live SQL retry remains pending.

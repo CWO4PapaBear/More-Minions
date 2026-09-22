@@ -13,7 +13,9 @@ def value(v):
  return "CONVERT(0x"+str(v).encode().hex()+" USING utf8mb4)" if str(v) else "''"
 
 def plan():return json.loads((HERE/'approved-plan.json').read_text())
-def condition(row):return ' AND '.join('`'+k+'`='+value(v) for k,v in row.items())
+def equal(column,v):return 'CAST('+column+' AS BINARY)=CAST('+value(v)+' AS BINARY)'
+
+def condition(row):return ' AND '.join(equal('`'+k+'`',v) for k,v in row.items())
 def ids(p):return ','.join(str(r['entry']) for r in p['mappings'])
 def engines():
  rows=query("SELECT TABLE_NAME,ENGINE FROM information_schema.TABLES WHERE TABLE_SCHEMA='acore_world' AND TABLE_NAME IN ('creature_template','more_minions_creature_family');")
@@ -50,7 +52,7 @@ def change(rollback=False):
  for r in p['mappings']:
   where='creature_entry='+str(r['entry'])
   if rollback:
-   where+=' AND family_id='+str(r['family'])+' AND enabled=1 AND review_note='+value(NOTE)
+   where+=' AND family_id='+str(r['family'])+' AND enabled=1 AND '+equal('review_note',NOTE)
    body.append("IF (SELECT COUNT(*) FROM more_minions_creature_family WHERE "+where+") <> 1 THEN SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT='Mapping changed during rollback'; END IF;")
    body.append('DELETE FROM more_minions_creature_family WHERE '+where+';')
   else:
