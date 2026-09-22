@@ -4,1003 +4,1003 @@
 
 | Entry | Creature | Family (ID) | Status | Min level | Notes |
 | --- | --- | --- | --- | ---: | --- |
-| 27382 | Deathbringer Revenant | Air Revenant (326) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
-| 28858 | Storm Revenant | Air Revenant (326) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
-| 29624 | Stormrider | Air Revenant (326) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
-| 30184 | Scion of Storm | Air Revenant (326) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
-| 30872 | Shadow Revenant | Air Revenant (326) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
-| 30875 | Tempest Revenant | Air Revenant (326) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
-| 26283 | Ice Revenant | Earth Revenant (327) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
-| 29436 | Icetouched Earthrager | Earth Revenant (327) | Active | 74 | Enabled mapping; runtime eligibility still applies. |
-| 29844 | Icebound Revenant | Earth Revenant (327) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
-| 30040 | Eternal Watcher | Earth Revenant (327) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
-| 30053 | Icebound Revenant | Earth Revenant (327) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
-| 30160 | Brittle Revenant | Earth Revenant (327) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
-| 30876 | Earthbound Revenant | Earth Revenant (327) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
-| 832 | Dust Devil | Air Elemental (301) | Blocked | 18 | no-supported-skills |
-| 2762 | Thundering Exile | Air Elemental (301) | Blocked | 38 | no-supported-skills |
-| 4526 | Wind Howler | Air Elemental (301) | Blocked | 22 | protected-rank; no-supported-skills |
-| 5898 | Air Spirit | Air Elemental (301) | Blocked | 29 | no-supported-skills |
-| 5902 | Minor Manifestation of Air | Air Elemental (301) | Blocked | 33 | no-supported-skills |
-| 6239 | Cyclonian | Air Elemental (301) | Blocked | 40 | protected-rank; no-supported-skills |
-| 8667 | Gusting Vortex | Air Elemental (301) | Blocked | 43 | no-supported-skills |
-| 9377 | Swirling Vortex | Air Elemental (301) | Blocked | 33 | no-supported-skills |
-| 9397 | Living Storm | Air Elemental (301) | Blocked | 47 | no-supported-skills |
-| 10989 | Blizzard Elemental | Air Elemental (301) | Blocked | 1 | protected-rank; no-supported-skills |
-| 11495 | [UNUSED] Avidus | Air Elemental (301) | Blocked | 60 | protected-rank; no-supported-skills |
-| 11576 | Whirlwind Ripper | Air Elemental (301) | Blocked | 32 | no-supported-skills |
-| 11577 | Whirlwind Stormwalker | Air Elemental (301) | Blocked | 35 | no-supported-skills |
-| 11578 | Whirlwind Shredder | Air Elemental (301) | Blocked | 32 | no-supported-skills |
-| 11579 | Tempest | Air Elemental (301) | Blocked | 41 | no-supported-skills |
-| 11744 | Dust Stormer | Air Elemental (301) | Blocked | 55 | no-supported-skills |
-| 11745 | Cyclone Warrior | Air Elemental (301) | Blocked | 57 | no-supported-skills |
-| 14399 | Arcane Torrent | Air Elemental (301) | Blocked | 59 | protected-rank; no-supported-skills |
-| 14400 | Arcane Feedback | Air Elemental (301) | Blocked | 59 | no-supported-skills |
-| 14454 | The Windreaver | Air Elemental (301) | Blocked | 60 | protected-rank; no-supported-skills |
-| 14455 | Whirling Invader | Air Elemental (301) | Blocked | 57 | no-supported-skills |
-| 14478 | Huricanian | Air Elemental (301) | Blocked | 58 | protected-rank; no-supported-skills |
-| 15212 | Hoary Templar | Air Elemental (301) | Blocked | 60 | no-supported-skills |
-| 17085 | Aeranas | Air Elemental (301) | Blocked | 63 | protected-npc-vehicle-script; no-supported-skills |
-| 17158 | Dust Howler | Air Elemental (301) | Blocked | 64 | no-supported-skills |
-| 17159 | Storm Rager | Air Elemental (301) | Blocked | 65 | no-supported-skills |
-| 17160 | Living Cyclone | Air Elemental (301) | Blocked | 66 | no-supported-skills |
-| 17180 | Spirit of Air | Air Elemental (301) | Blocked | 3 | no-supported-skills |
-| 17435 | Susurrus | Air Elemental (301) | Blocked | 70 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 17436 | Aspect of Air | Air Elemental (301) | Blocked | 43 | no-supported-skills |
-| 18081 | Atsun of the Air | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 18102 | Kalandrios | Air Elemental (301) | Blocked | 73 | protected-rank; no-supported-skills |
-| 18825 | Minor Air Spirit | Air Elemental (301) | Blocked | 10 | no-supported-skills |
-| 18865 | Warp Aberration | Air Elemental (301) | Blocked | 67 | no-supported-skills |
-| 19205 | Syth Arcane Elemental | Air Elemental (301) | Blocked | 69 | no-supported-skills |
-| 20516 | Warp Monstrosity | Air Elemental (301) | Blocked | 68 | no-supported-skills |
-| 20702 | Syth Arcane Elemental (1) | Air Elemental (301) | Blocked | 72 | no-supported-skills |
-| 20908 | Akkiris Lightning-Waker | Air Elemental (301) | Blocked | 72 | protected-rank; no-supported-skills |
-| 21060 | Enraged Air Spirit | Air Elemental (301) | Blocked | 69 | protected-npc-vehicle-script; no-supported-skills |
-| 21132 | Scorned Spirit of Air | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 21617 | Akkiris Lightning-Waker (1) | Air Elemental (301) | Blocked | 72 | protected-rank; no-supported-skills |
-| 21707 | Corrupted Air Elemental | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 21738 | Redeemed Spirit of Air | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 22310 | Storming Wind-Ripper | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 22728 | Blizzard Elemental (1) | Air Elemental (301) | Blocked | 1 | protected-rank; no-supported-skills |
-| 22848 | Storm Fury | Air Elemental (301) | Blocked | 70 | protected-rank; no-supported-skills |
-| 22906 | Air Elemental Force | Air Elemental (301) | Blocked | 1 | no-supported-skills |
-| 23096 | Acolyte of Air | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 24229 | Howling Cyclone | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 24235 | Cyclothar | Air Elemental (301) | Blocked | 71 | no-supported-skills |
-| 24600 | Steam Ripper | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 24602 | Living Geyser | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 24603 | Living Blizzard | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 24604 | Ice Fury | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 24859 | Superheated Elemental | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 25376 | Imperean | Air Elemental (301) | Blocked | 72 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 25415 | Enraged Tempest | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 25757 | Ahunite Frostwind | Air Elemental (301) | Blocked | 80 | no-supported-skills |
-| 26045 | Storm Tempest | Air Elemental (301) | Blocked | 71 | no-supported-skills |
-| 26204 | Chillwind Lieutenant | Air Elemental (301) | Blocked | 43 | no-supported-skills |
-| 26341 | Ahunite Frostwind (1) | Air Elemental (301) | Blocked | 80 | no-supported-skills |
-| 26407 | Lightning Sentry | Air Elemental (301) | Blocked | 74 | no-supported-skills |
-| 26726 | Borean Tundra Air Elemental | Air Elemental (301) | Blocked | 70 | no-supported-skills |
-| 27650 | Phantasmal Air | Air Elemental (301) | Blocked | 79 | protected-rank; no-supported-skills |
-| 28384 | Lesser Air Elemental | Air Elemental (301) | Blocked | 77 | no-supported-skills |
-| 28547 | Storming Vortex | Air Elemental (301) | Blocked | 80 | protected-rank; no-supported-skills |
-| 28825 | Cyclone | Air Elemental (301) | Blocked | 80 | no-supported-skills |
-| 28985 | Haiphoon, the Great Tempest | Air Elemental (301) | Blocked | 80 | protected-npc-vehicle-script; no-supported-skills |
-| 29009 | Storm Revenant Credit | Air Elemental (301) | Blocked | 79 | no-supported-skills |
-| 30418 | Bound Air Elemental | Air Elemental (301) | Blocked | 74 | protected-rank; no-supported-skills |
-| 30848 | Whispering Wind | Air Elemental (301) | Blocked | 80 | no-supported-skills |
-| 30906 | Phantasmal Air (1) | Air Elemental (301) | Blocked | 80 | protected-rank; no-supported-skills |
-| 30965 | Cyclone (1) | Air Elemental (301) | Blocked | 80 | no-supported-skills |
-| 30979 | Storming Vortex (1) | Air Elemental (301) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31382 | Lesser Air Elemental (1) | Air Elemental (301) | Blocked | 80 | no-supported-skills |
-| 31452 | Bound Air Elemental (1) | Air Elemental (301) | Blocked | 81 | protected-rank; no-supported-skills |
-| 31925 | Blizzard Elemental (2) | Air Elemental (301) | Blocked | 1 | protected-rank; no-supported-skills |
-| 32958 | Lightning Elemental | Air Elemental (301) | Blocked | 80 | protected-npc-vehicle-script; no-supported-skills |
-| 33689 | Lightning Elemental (1) | Air Elemental (301) | Blocked | 80 | no-supported-skills |
-| 33999 | Tempest Minion (1) | Air Elemental (301) | Blocked | 82 | protected-rank; no-supported-skills |
-| 36546 | Unstable Air Elemental | Air Elemental (301) | Blocked | 80 | no-supported-skills |
-| 36964 | [PH] Scaling Air Elemental | Air Elemental (301) | Blocked | 40 | no-supported-skills |
-| 37241 | Blizzard Elemental (3) | Air Elemental (301) | Blocked | 1 | protected-rank; no-supported-skills |
-| 40104 | Raging Wind Elemental | Air Elemental (301) | Blocked | 80 | no-supported-skills |
-| 28546 | Ionar | Air Revenant (326) | Blocked | 81 | protected-rank; protected-npc-vehicle-script |
-| 28784 | Altar Warden | Air Revenant (326) | Blocked | 76 | protected-rank |
-| 28826 | Stormfury Revenant | Air Revenant (326) | Blocked | 80 | protected-rank |
-| 30026 | Az'Barin, Prince of the Gust | Air Revenant (326) | Blocked | 76 | protected-rank |
-| 30376 | Halefnir the Windborn | Air Revenant (326) | Blocked | 80 | protected-rank |
-| 30474 | The North Wind | Air Revenant (326) | Blocked | 80 | protected-rank |
-| 30550 | Image of the North Wind | Air Revenant (326) | Blocked | 80 | protected-rank |
-| 30978 | Stormfury Revenant (1) | Air Revenant (326) | Blocked | 80 | protected-rank |
-| 31537 | Ionar (1) | Air Revenant (326) | Blocked | 82 | protected-rank |
-| 33998 | Tempest Minion | Air Revenant (326) | Blocked | 82 | protected-rank |
-| 34015 | Tempest Warder | Air Revenant (326) | Blocked | 82 | protected-rank |
-| 34016 | Tempest Warder (1) | Air Revenant (326) | Blocked | 82 | protected-rank |
-| 34049 | Tempest Minion | Air Revenant (326) | Blocked | 82 | protected-rank |
-| 34200 | Tempest Minion (1) | Air Revenant (326) | Blocked | 82 | protected-rank |
-| 764 | Swampwalker | Bog Beast (355) | Blocked | 38 | no-ability-profile |
-| 765 | Swampwalker Elder | Bog Beast (355) | Blocked | 39 | no-ability-profile |
-| 766 | Tangled Horror | Bog Beast (355) | Blocked | 40 | no-ability-profile |
-| 1039 | Fen Dweller | Bog Beast (355) | Blocked | 20 | no-ability-profile |
-| 1040 | Fen Creeper | Bog Beast (355) | Blocked | 24 | no-ability-profile |
-| 1041 | Fen Lord | Bog Beast (355) | Blocked | 25 | no-ability-profile |
-| 1081 | Mire Lord | Bog Beast (355) | Blocked | 42 | no-ability-profile |
-| 1244 | Rethiel the Greenwarden | Bog Beast (355) | Blocked | 30 | protected-npc-vehicle-script; no-ability-profile |
-| 1812 | Rotting Behemoth | Bog Beast (355) | Blocked | 55 | no-ability-profile |
-| 1813 | Decaying Horror | Bog Beast (355) | Blocked | 56 | no-ability-profile |
-| 1851 | The Husk | Bog Beast (355) | Blocked | 62 | protected-rank; no-ability-profile |
-| 1953 | Lake Skulker | Bog Beast (355) | Blocked | 15 | no-ability-profile |
-| 1954 | Elder Lake Skulker | Bog Beast (355) | Blocked | 16 | no-ability-profile |
-| 1955 | Lake Creeper | Bog Beast (355) | Blocked | 17 | no-ability-profile |
-| 1956 | Elder Lake Creeper | Bog Beast (355) | Blocked | 18 | no-ability-profile |
-| 2022 | Timberling | Bog Beast (355) | Blocked | 5 | no-ability-profile |
-| 2025 | Timberling Bark Ripper | Bog Beast (355) | Blocked | 7 | no-ability-profile |
-| 2027 | Timberling Trampler | Bog Beast (355) | Blocked | 8 | no-ability-profile |
-| 2029 | Timberling Mire Beast | Bog Beast (355) | Blocked | 9 | no-ability-profile |
-| 2030 | Elder Timberling | Bog Beast (355) | Blocked | 10 | no-ability-profile |
-| 2166 | Oakenscowl | Bog Beast (355) | Blocked | 9 | no-ability-profile |
-| 3535 | Blackmoss the Fetid | Bog Beast (355) | Blocked | 13 | protected-rank; no-ability-profile |
-| 3569 | Bogling | Bog Beast (355) | Blocked | 5 | no-ability-profile |
-| 3570 | Cleansed Timberling | Bog Beast (355) | Blocked | 7 | no-ability-profile |
-| 3780 | Shadethicket Moss Eater | Bog Beast (355) | Blocked | 21 | no-ability-profile |
-| 3781 | Shadethicket Wood Shaper | Bog Beast (355) | Blocked | 23 | no-ability-profile |
-| 3782 | Shadethicket Stone Mover | Bog Beast (355) | Blocked | 25 | no-ability-profile |
-| 3783 | Shadethicket Raincaller | Bog Beast (355) | Blocked | 22 | no-ability-profile |
-| 3784 | Shadethicket Bark Ripper | Bog Beast (355) | Blocked | 26 | no-ability-profile |
-| 3931 | Shadethicket Oracle | Bog Beast (355) | Blocked | 30 | no-ability-profile |
-| 4382 | Withervine Creeper | Bog Beast (355) | Blocked | 36 | no-ability-profile |
-| 4385 | Withervine Rager | Bog Beast (355) | Blocked | 36 | no-ability-profile |
-| 4386 | Withervine Bark Ripper | Bog Beast (355) | Blocked | 36 | no-ability-profile |
-| 4387 | Withervine Mire Beast | Bog Beast (355) | Blocked | 37 | no-ability-profile |
-| 5481 | Thistleshrub Dew Collector | Bog Beast (355) | Blocked | 47 | no-ability-profile |
-| 5485 | Thistleshrub Rootshaper | Bog Beast (355) | Blocked | 49 | no-ability-profile |
-| 5490 | Gnarled Thistleshrub | Bog Beast (355) | Blocked | 48 | no-ability-profile |
-| 5761 | Deviate Shambler | Bog Beast (355) | Blocked | 19 | protected-rank; no-ability-profile |
-| 5775 | Verdan the Everliving | Bog Beast (355) | Blocked | 20 | protected-rank; no-ability-profile |
-| 6517 | Tar Beast | Bog Beast (355) | Blocked | 50 | no-ability-profile |
-| 6518 | Tar Lurker | Bog Beast (355) | Blocked | 52 | no-ability-profile |
-| 6519 | Tar Lord | Bog Beast (355) | Blocked | 53 | no-ability-profile |
-| 6527 | Tar Creeper | Bog Beast (355) | Blocked | 51 | no-ability-profile |
-| 6932 | Swamp Spirit | Bog Beast (355) | Blocked | 50 | no-ability-profile |
-| 7100 | Warpwood Moss Flayer | Bog Beast (355) | Blocked | 52 | no-ability-profile |
-| 7101 | Warpwood Shredder | Bog Beast (355) | Blocked | 53 | no-ability-profile |
-| 7104 | Dessecus | Bog Beast (355) | Blocked | 56 | protected-rank; no-ability-profile |
-| 8384 | Deep Lurker | Bog Beast (355) | Blocked | 47 | protected-rank; no-ability-profile |
-| 10641 | Branch Snapper | Bog Beast (355) | Blocked | 25 | protected-rank; no-ability-profile |
-| 11447 | Mushgog | Bog Beast (355) | Blocked | 60 | protected-rank; no-ability-profile |
-| 12223 | Cavern Lurker | Bog Beast (355) | Blocked | 44 | protected-rank; no-ability-profile |
-| 12224 | Cavern Shambler | Bog Beast (355) | Blocked | 45 | protected-rank; no-ability-profile |
-| 12237 | Meshlok the Harvester | Bog Beast (355) | Blocked | 46 | protected-rank; no-ability-profile |
-| 14231 | Drogoth the Roamer | Bog Beast (355) | Blocked | 37 | protected-rank; no-ability-profile |
-| 14424 | Mirelow | Bog Beast (355) | Blocked | 25 | protected-rank; no-ability-profile |
-| 14448 | Molt Thorn | Bog Beast (355) | Blocked | 42 | protected-rank; no-ability-profile |
-| 16035 | [UNUSED] Bog Beast B [PH] | Bog Beast (355) | Blocked | 60 | protected-rank; no-ability-profile |
-| 18136 | Marsh Lurker | Bog Beast (355) | Blocked | 61 | no-ability-profile |
-| 18137 | Marsh Dredger | Bog Beast (355) | Blocked | 61 | no-ability-profile |
-| 18282 | Lord Klaq | Bog Beast (355) | Blocked | 62 | no-ability-profile |
-| 19790 | Mud Lurker | Bog Beast (355) | Blocked | 68 | no-ability-profile |
-| 19791 | Lightless Mud Flinger | Bog Beast (355) | Blocked | 68 | no-ability-profile |
-| 22352 | Colossus Rager | Bog Beast (355) | Blocked | 70 | protected-rank; no-ability-profile |
-| 23874 | Thornvine Creeper | Bog Beast (355) | Blocked | 69 | no-ability-profile |
-| 24245 | Fenstalker | Bog Beast (355) | Blocked | 70 | protected-rank; no-ability-profile |
-| 28323 | Mossy Rampager | Bog Beast (355) | Blocked | 75 | no-ability-profile |
-| 92 | Rock Elemental | Earth Elemental (302) | Blocked | 39 | no-supported-skills |
-| 329 | Earth Elemental | Earth Elemental (302) | Blocked | 59 | no-supported-skills |
-| 2258 | Stone Fury | Earth Elemental (302) | Blocked | 37 | protected-rank; no-supported-skills |
-| 2359 | Elemental Slave | Earth Elemental (302) | Blocked | 33 | no-supported-skills |
-| 2592 | Rumbling Exile | Earth Elemental (302) | Blocked | 38 | no-supported-skills |
-| 2593 | Rough Stone Elemental | Earth Elemental (302) | Blocked | 37 | no-supported-skills |
-| 2735 | Lesser Rock Elemental | Earth Elemental (302) | Blocked | 37 | no-supported-skills |
-| 2736 | Greater Rock Elemental | Earth Elemental (302) | Blocked | 42 | no-supported-skills |
-| 2752 | Rumbler | Earth Elemental (302) | Blocked | 45 | protected-rank; no-supported-skills |
-| 2791 | Enraged Rock Elemental | Earth Elemental (302) | Blocked | 42 | no-supported-skills |
-| 2887 | Prismatic Exile | Earth Elemental (302) | Blocked | 44 | no-supported-skills |
-| 2919 | Fam'retor Guardian | Earth Elemental (302) | Blocked | 45 | no-supported-skills |
-| 4033 | Charred Stone Spirit | Earth Elemental (302) | Blocked | 22 | no-supported-skills |
-| 4034 | Enraged Stone Spirit | Earth Elemental (302) | Blocked | 24 | no-supported-skills |
-| 4035 | Furious Stone Spirit | Earth Elemental (302) | Blocked | 26 | no-supported-skills |
-| 4120 | Thundering Boulderkin | Earth Elemental (302) | Blocked | 28 | no-supported-skills |
-| 4121 | Wandering Boulderkin | Earth Elemental (302) | Blocked | 26 | no-supported-skills |
-| 4499 | Rok'Alim the Pounder | Earth Elemental (302) | Blocked | 30 | no-supported-skills |
-| 4528 | Stone Rumbler | Earth Elemental (302) | Blocked | 21 | protected-rank; no-supported-skills |
-| 4661 | Gelkis Rumbler | Earth Elemental (302) | Blocked | 29 | no-supported-skills |
-| 5465 | Land Rager | Earth Elemental (302) | Blocked | 45 | no-supported-skills |
-| 5855 | Magma Elemental | Earth Elemental (302) | Blocked | 46 | no-supported-skills |
-| 5889 | Mesa Earth Spirit | Earth Elemental (302) | Blocked | 5 | no-supported-skills |
-| 5890 | Redrock Earth Spirit | Earth Elemental (302) | Blocked | 1 | no-supported-skills |
-| 5891 | Minor Manifestation of Earth | Earth Elemental (302) | Blocked | 15 | protected-npc-vehicle-script; no-supported-skills |
-| 7031 | Obsidian Elemental | Earth Elemental (302) | Blocked | 52 | no-supported-skills |
-| 7032 | Greater Obsidian Elemental | Earth Elemental (302) | Blocked | 55 | no-supported-skills |
-| 8206 | Soul of Tanaris | Earth Elemental (302) | Blocked | 51 | protected-rank; no-supported-skills |
-| 8278 | Smoldar | Earth Elemental (302) | Blocked | 50 | protected-rank; no-supported-skills |
-| 9025 | Lord Roccor | Earth Elemental (302) | Blocked | 51 | protected-rank; no-supported-skills |
-| 9396 | Ground Pounder | Earth Elemental (302) | Blocked | 41 | no-supported-skills |
-| 11321 | Molten Elemental | Earth Elemental (302) | Blocked | 13 | protected-rank; no-supported-skills |
-| 11665 | Lava Annihilator | Earth Elemental (302) | Blocked | 61 | protected-rank; no-supported-skills |
-| 11746 | Desert Rumbler | Earth Elemental (302) | Blocked | 56 | no-supported-skills |
-| 11747 | Desert Rager | Earth Elemental (302) | Blocked | 58 | no-supported-skills |
-| 11777 | Shadowshard Rumbler | Earth Elemental (302) | Blocked | 40 | no-supported-skills |
-| 11778 | Shadowshard Smasher | Earth Elemental (302) | Blocked | 41 | no-supported-skills |
-| 11779 | Shadowshard Thunderer | Earth Elemental (302) | Blocked | 47 | protected-rank; no-supported-skills |
-| 11780 | Ambershard Rager | Earth Elemental (302) | Blocked | 45 | protected-rank; no-supported-skills |
-| 11781 | Ambershard Crusher | Earth Elemental (302) | Blocked | 40 | no-supported-skills |
-| 11782 | Ambershard Destroyer | Earth Elemental (302) | Blocked | 42 | no-supported-skills |
-| 11783 | Theradrim Shardling | Earth Elemental (302) | Blocked | 45 | no-supported-skills |
-| 11784 | Theradrim Guardian | Earth Elemental (302) | Blocked | 46 | protected-rank; no-supported-skills |
-| 12057 | Garr | Earth Elemental (302) | Blocked | 63 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 12076 | Lava Elemental | Earth Elemental (302) | Blocked | 61 | protected-rank; no-supported-skills |
-| 12099 | Firesworn | Earth Elemental (302) | Blocked | 60 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 12100 | Lava Reaver | Earth Elemental (302) | Blocked | 62 | protected-rank; no-supported-skills |
-| 12101 | Lava Surger | Earth Elemental (302) | Blocked | 61 | protected-rank; no-supported-skills |
-| 12806 | Magmakin | Earth Elemental (302) | Blocked | 60 | protected-rank; no-supported-skills |
-| 13256 | Lokholar the Ice Lord | Earth Elemental (302) | Blocked | 61 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 14352 | Duke Landressar | Earth Elemental (302) | Blocked | 63 | protected-rank; no-supported-skills |
-| 14462 | Thundering Invader | Earth Elemental (302) | Blocked | 55 | no-supported-skills |
-| 14464 | Avalanchion | Earth Elemental (302) | Blocked | 58 | protected-rank; no-supported-skills |
-| 15307 | Earthen Templar | Earth Elemental (302) | Blocked | 60 | no-supported-skills |
-| 15352 | Greater Earth Elemental | Earth Elemental (302) | Blocked | 66 | protected-npc-vehicle-script; no-supported-skills |
-| 16043 | Magma Lord Bokk | Earth Elemental (302) | Blocked | 60 | no-supported-skills |
-| 17087 | Spirit of the Vale | Earth Elemental (302) | Blocked | 70 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 17156 | Tortured Earth Spirit | Earth Elemental (302) | Blocked | 64 | no-supported-skills |
-| 17157 | Shattered Rumbler | Earth Elemental (302) | Blocked | 66 | no-supported-skills |
-| 17179 | Restless Spirit of Earth | Earth Elemental (302) | Blocked | 4 | no-supported-skills |
-| 18062 | Enraged Crusher | Earth Elemental (302) | Blocked | 65 | no-supported-skills |
-| 18082 | Rokh of the Earth | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
-| 18181 | Minion of Gurok | Earth Elemental (302) | Blocked | 64 | no-supported-skills |
-| 18826 | Minor Earth Spirit | Earth Elemental (302) | Blocked | 10 | no-supported-skills |
-| 18881 | Sundered Rumbler | Earth Elemental (302) | Blocked | 67 | no-supported-skills |
-| 18882 | Sundered Thunderer | Earth Elemental (302) | Blocked | 69 | no-supported-skills |
-| 19431 | Test Elemental | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
-| 20325 | Pink Elemental | Earth Elemental (302) | Blocked | 67 | no-supported-skills |
-| 20498 | Sundered Shard | Earth Elemental (302) | Blocked | 67 | no-supported-skills |
-| 21050 | Enraged Earth Spirit | Earth Elemental (302) | Blocked | 68 | protected-npc-vehicle-script; no-supported-skills |
-| 21129 | Scorned Spirit of Earth | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
-| 21708 | Corrupted Earth Elemental | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
-| 21739 | Redeemed Spirit of Earth | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
-| 22115 | Enraged Earth Shard | Earth Elemental (302) | Blocked | 68 | protected-npc-vehicle-script; no-supported-skills |
-| 22313 | Rumbling Earth-Heart | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
-| 22319 | Living Rock | Earth Elemental (302) | Blocked | 66 | no-supported-skills |
-| 22629 | Lokholar the Ice Lord (1) | Earth Elemental (302) | Blocked | 71 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 22908 | Earth Elemental Force | Earth Elemental (302) | Blocked | 1 | no-supported-skills |
-| 23098 | Acolyte of Earth | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
-| 23919 | Ice Elemental | Earth Elemental (302) | Blocked | 69 | no-supported-skills |
-| 24228 | Iceshard Elemental | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
-| 24340 | Rampaging Earth Elemental | Earth Elemental (302) | Blocked | 69 | no-supported-skills |
-| 24650 | Broken Earth Elemental | Earth Elemental (302) | Blocked | 71 | protected-rank; no-supported-skills |
-| 25514 | Rocknar | Earth Elemental (302) | Blocked | 71 | no-supported-skills |
-| 25715 | Frozen Elemental | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
-| 25742 | Alluvius | Earth Elemental (302) | Blocked | 71 | no-supported-skills |
-| 25755 | Ahunite Hailstone | Earth Elemental (302) | Blocked | 80 | protected-rank; no-supported-skills |
-| 26178 | Hailstone Lieutenant | Earth Elemental (302) | Blocked | 32 | no-supported-skills |
-| 26316 | Crystalline Ice Elemental | Earth Elemental (302) | Blocked | 73 | no-supported-skills |
-| 26342 | Ahunite Hailstone (1) | Earth Elemental (302) | Blocked | 80 | protected-rank; no-supported-skills |
-| 28387 | Zim'Torga Defender | Earth Elemental (302) | Blocked | 76 | no-supported-skills |
-| 28411 | Frozen Earth | Earth Elemental (302) | Blocked | 76 | no-supported-skills |
-| 28585 | Slag | Earth Elemental (302) | Blocked | 79 | no-supported-skills |
-| 29124 | Lifeblood Elemental | Earth Elemental (302) | Blocked | 76 | no-supported-skills |
-| 29303 | Lifeblood Elemental Credit | Earth Elemental (302) | Blocked | 76 | no-supported-skills |
-| 30849 | Chilled Earth Elemental | Earth Elemental (302) | Blocked | 80 | no-supported-skills |
-| 30970 | Slag (1) | Earth Elemental (302) | Blocked | 80 | no-supported-skills |
-| 31822 | Lokholar the Ice Lord (2) | Earth Elemental (302) | Blocked | 81 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 33768 | Rubble | Earth Elemental (302) | Blocked | 81 | protected-rank; no-supported-skills |
-| 33908 | Rubble (1) | Earth Elemental (302) | Blocked | 81 | protected-rank; no-supported-skills |
-| 34135 | Winter Rumbler | Earth Elemental (302) | Blocked | 81 | protected-rank; no-supported-skills |
-| 34142 | Winter Rumbler (1) | Earth Elemental (302) | Blocked | 81 | protected-rank; no-supported-skills |
-| 36554 | Unstable Earth Elemental | Earth Elemental (302) | Blocked | 80 | no-supported-skills |
-| 36963 | [PH] Scaling Earth Elemental | Earth Elemental (302) | Blocked | 40 | no-supported-skills |
-| 37363 | Lokholar the Ice Lord (3) | Earth Elemental (302) | Blocked | 81 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 39021 | Agitated Earth Spirit | Earth Elemental (302) | Blocked | 10 | no-supported-skills |
-| 39132 | Earthen Servant | Earth Elemental (302) | Blocked | 80 | no-supported-skills |
-| 30025 | Erathius, King of Dirt | Earth Revenant (327) | Blocked | 76 | protected-rank |
-| 34134 | Winter Revenant | Earth Revenant (327) | Blocked | 81 | protected-rank |
-| 34141 | Winter Revenant (1) | Earth Revenant (327) | Blocked | 81 | protected-rank |
-| 36874 | Disturbed Glacial Revenant | Earth Revenant (327) | Blocked | 80 | protected-rank |
-| 38482 | Frost Warder | Earth Revenant (327) | Blocked | 82 | protected-rank |
-| 38483 | Frost Warder (1) | Earth Revenant (327) | Blocked | 82 | protected-rank |
-| 575 | Fire Elemental | Fire Elemental (303) | Blocked | 40 | no-supported-skills |
-| 2745 | Ambassador Infernus | Fire Elemental (303) | Blocked | 42 | protected-rank; no-supported-skills |
-| 2760 | Burning Exile | Fire Elemental (303) | Blocked | 38 | no-supported-skills |
-| 3417 | Living Flame | Fire Elemental (303) | Blocked | 16 | no-supported-skills |
-| 4036 | Rogue Flame Spirit | Fire Elemental (303) | Blocked | 23 | no-supported-skills |
-| 4037 | Burning Ravager | Fire Elemental (303) | Blocked | 24 | no-supported-skills |
-| 4038 | Burning Destroyer | Fire Elemental (303) | Blocked | 26 | no-supported-skills |
-| 5850 | Blazing Elemental | Fire Elemental (303) | Blocked | 45 | no-supported-skills |
-| 5852 | Inferno Elemental | Fire Elemental (303) | Blocked | 47 | no-supported-skills |
-| 5893 | Minor Manifestation of Fire | Fire Elemental (303) | Blocked | 12 | no-supported-skills |
-| 5896 | Fire Spirit | Fire Elemental (303) | Blocked | 9 | no-supported-skills |
-| 6296 | Flame Elemental | Fire Elemental (303) | Blocked | 17 | no-supported-skills |
-| 6520 | Scorching Elemental | Fire Elemental (303) | Blocked | 53 | no-supported-skills |
-| 6521 | Living Blaze | Fire Elemental (303) | Blocked | 54 | no-supported-skills |
-| 7266 | Ember | Fire Elemental (303) | Blocked | 26 | no-supported-skills |
-| 7738 | Burning Servant | Fire Elemental (303) | Blocked | 26 | no-supported-skills |
-| 8281 | Scald | Fire Elemental (303) | Blocked | 49 | protected-rank; no-supported-skills |
-| 8909 | Fireguard | Fire Elemental (303) | Blocked | 50 | protected-rank; no-supported-skills |
-| 8910 | Blazing Fireguard | Fire Elemental (303) | Blocked | 52 | protected-rank; no-supported-skills |
-| 8911 | Fireguard Destroyer | Fire Elemental (303) | Blocked | 54 | protected-rank; no-supported-skills |
-| 9017 | Lord Incendius | Fire Elemental (303) | Blocked | 53 | protected-rank; no-supported-skills |
-| 9026 | Overmaster Pyron | Fire Elemental (303) | Blocked | 51 | protected-rank; no-supported-skills |
-| 9178 | Burning Spirit | Fire Elemental (303) | Blocked | 30 | protected-npc-vehicle-script; no-supported-skills |
-| 9376 | Blazerunner | Fire Elemental (303) | Blocked | 56 | protected-rank; no-supported-skills |
-| 9816 | Pyroguard Emberseer | Fire Elemental (303) | Blocked | 60 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 9878 | Entropic Beast | Fire Elemental (303) | Blocked | 51 | no-supported-skills |
-| 9879 | Entropic Horror | Fire Elemental (303) | Blocked | 53 | no-supported-skills |
-| 11481 | [UNUSED] Arcane Terror | Fire Elemental (303) | Blocked | 60 | protected-rank; no-supported-skills |
-| 11666 | Firewalker | Fire Elemental (303) | Blocked | 61 | protected-rank; no-supported-skills |
-| 11667 | Flameguard | Fire Elemental (303) | Blocked | 61 | protected-rank; no-supported-skills |
-| 11668 | Firelord | Fire Elemental (303) | Blocked | 61 | protected-rank; no-supported-skills |
-| 12056 | Baron Geddon | Fire Elemental (303) | Blocked | 63 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 12143 | Son of Flame | Fire Elemental (303) | Blocked | 60 | protected-rank; no-supported-skills |
-| 12265 | Lava Spawn | Fire Elemental (303) | Blocked | 60 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 14460 | Blazing Invader | Fire Elemental (303) | Blocked | 54 | no-supported-skills |
-| 14461 | Baron Charr | Fire Elemental (303) | Blocked | 58 | protected-rank; no-supported-skills |
-| 15209 | Crimson Templar | Fire Elemental (303) | Blocked | 60 | no-supported-skills |
-| 15438 | Greater Fire Elemental | Fire Elemental (303) | Blocked | 68 | protected-npc-vehicle-script; no-supported-skills |
-| 17003 | Cinder Elemental | Fire Elemental (303) | Blocked | 60 | no-supported-skills |
-| 17182 | Spirit of Fire | Fire Elemental (303) | Blocked | 3 | no-supported-skills |
-| 17205 | Temper | Fire Elemental (303) | Blocked | 70 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 17206 | Hauteur | Fire Elemental (303) | Blocked | 10 | no-supported-skills |
-| 17220 | Hauteur Reborn | Fire Elemental (303) | Blocked | 12 | no-supported-skills |
-| 17272 | Flaming Aspect | Fire Elemental (303) | Blocked | 13 | no-supported-skills |
-| 18083 | Far'hir of the Flame | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
-| 18100 | Incineratus | Fire Elemental (303) | Blocked | 73 | protected-rank; no-supported-skills |
-| 18109 | Living Fire | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
-| 18824 | Minor Fire Spirit | Fire Elemental (303) | Blocked | 10 | no-supported-skills |
-| 19203 | Syth Fire Elemental | Fire Elemental (303) | Blocked | 69 | no-supported-skills |
-| 20481 | Raging Flames | Fire Elemental (303) | Blocked | 72 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 20514 | Searing Elemental | Fire Elemental (303) | Blocked | 67 | no-supported-skills |
-| 20703 | Syth Fire Elemental (1) | Fire Elemental (303) | Blocked | 72 | no-supported-skills |
-| 21061 | Enraged Fire Spirit | Fire Elemental (303) | Blocked | 68 | protected-npc-vehicle-script; no-supported-skills |
-| 21130 | Scorned Spirit of Fire | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
-| 21538 | Raging Flames (1) | Fire Elemental (303) | Blocked | 72 | protected-rank; no-supported-skills |
-| 21706 | Corrupted Fire Elemental | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
-| 21740 | Redeemed Spirit of Fire | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
-| 22286 | Fel Rager | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
-| 22298 | Vile Fire-Soul | Fire Elemental (303) | Blocked | 71 | no-supported-skills |
-| 22311 | Raging Fire-Soul | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
-| 22323 | Incandescent Fel Spark | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
-| 22907 | Fire Elemental Force | Fire Elemental (303) | Blocked | 1 | no-supported-skills |
-| 23099 | Acolyte of Fire | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
-| 25416 | Simmer | Fire Elemental (303) | Blocked | 72 | no-supported-skills |
-| 25417 | Raging Boiler | Fire Elemental (303) | Blocked | 69 | no-supported-skills |
-| 26285 | [PH] Dragonblight Elemental Obsidian Dragonshire | Fire Elemental (303) | Blocked | 72 | no-supported-skills |
-| 26401 | Summer Scorchling | Fire Elemental (303) | Blocked | 1 | protected-npc-vehicle-script; no-supported-skills |
-| 26520 | Festival Scorchling | Fire Elemental (303) | Blocked | 1 | protected-npc-vehicle-script; no-supported-skills |
-| 27651 | Phantasmal Fire | Fire Elemental (303) | Blocked | 79 | protected-rank; no-supported-skills |
-| 30416 | Bound Fire Elemental | Fire Elemental (303) | Blocked | 74 | protected-rank; no-supported-skills |
-| 30643 | Lava Blaze | Fire Elemental (303) | Blocked | 81 | no-supported-skills |
-| 30847 | Raging Flame | Fire Elemental (303) | Blocked | 80 | no-supported-skills |
-| 30908 | Phantasmal Fire (1) | Fire Elemental (303) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31317 | Lava Blaze (1) | Fire Elemental (303) | Blocked | 81 | no-supported-skills |
-| 31453 | Bound Fire Elemental (1) | Fire Elemental (303) | Blocked | 81 | protected-rank; no-supported-skills |
-| 33291 | Fiery Dancer | Fire Elemental (303) | Blocked | 80 | no-supported-skills |
-| 33838 | Enslaved Fire Elemental | Fire Elemental (303) | Blocked | 82 | no-supported-skills |
-| 33839 | Enslaved Fire Elemental (1) | Fire Elemental (303) | Blocked | 82 | no-supported-skills |
-| 36533 | Unstable Fire Elemental | Fire Elemental (303) | Blocked | 80 | no-supported-skills |
-| 36949 | [PH] Scaling Fire Elemental | Fire Elemental (303) | Blocked | 40 | no-supported-skills |
-| 37982 | Furious Fire Elemental | Fire Elemental (303) | Blocked | 80 | no-supported-skills |
-| 37983 | Searing Fire Elemental | Fire Elemental (303) | Blocked | 80 | protected-rank; no-supported-skills |
-| 38019 | Anolis | Fire Elemental (303) | Blocked | 83 | protected-rank; no-supported-skills |
-| 38020 | Basiliscus | Fire Elemental (303) | Blocked | 83 | protected-rank; no-supported-skills |
-| 38021 | Conolophus | Fire Elemental (303) | Blocked | 83 | protected-rank; no-supported-skills |
-| 39047 | Agitated Fire Spirit | Fire Elemental (303) | Blocked | 10 | no-supported-skills |
-| 39130 | Blazing Servant | Fire Elemental (303) | Blocked | 80 | no-supported-skills |
-| 39852 | Raging Fire Elemental | Fire Elemental (303) | Blocked | 80 | no-supported-skills |
-| 40681 | Living Inferno | Fire Elemental (303) | Blocked | 82 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 40682 | Living Inferno (1) | Fire Elemental (303) | Blocked | 82 | protected-rank; no-supported-skills |
-| 40683 | Living Ember | Fire Elemental (303) | Blocked | 82 | protected-rank; no-supported-skills |
-| 40684 | Living Ember (1) | Fire Elemental (303) | Blocked | 82 | protected-rank; no-supported-skills |
-| 27895 | Fire Revenant, Northrend | Fire Revenant (328) | Blocked | 72 | no-supported-skills |
-| 28584 | Unbound Firestorm | Fire Revenant (328) | Blocked | 79 | protected-rank; no-supported-skills |
-| 29504 | Seething Revenant | Fire Revenant (328) | Blocked | 80 | no-supported-skills |
-| 30019 | Duke Singen | Fire Revenant (328) | Blocked | 76 | protected-rank; no-supported-skills |
-| 30120 | Seething Revenant | Fire Revenant (328) | Blocked | 80 | no-supported-skills |
-| 30387 | Seething Revenant | Fire Revenant (328) | Blocked | 80 | no-supported-skills |
-| 30873 | Flame Revenant | Fire Revenant (328) | Blocked | 80 | no-supported-skills |
-| 30983 | Unbound Firestorm (1) | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31071 | Quest - Wintergrasp - PvP Kill - Fire | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31072 | Quest - Wintergrasp - PvP Kill - Water | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31073 | Quest - Wintergrasp - PvP Kill - Shadow | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31074 | Quest - Wintergrasp - PvP Kill - Life | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31086 | Quest - Wintergrasp - PvP Kill - Alliance | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31093 | Quest - Wintergrasp - PvP Kill - Vehicle | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31156 | Quest - Wintergrasp - Tower Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31244 | Quest - Wintergrasp - Structure Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31284 | Quest - Wintergrasp - Vehicle Protected | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31286 | Quest - Wintergrasp - Bridge Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31287 | Quest - Wintergrasp - Wall Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31288 | Quest - Wintergrasp - Workshop Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31289 | Quest - Wintergrasp - Gate Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 32338 | Quest - Northrend BG - Gate Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 33289 | Lord Everblaze | Fire Revenant (328) | Blocked | 80 | no-supported-skills |
-| 34086 | Magma Rager | Fire Revenant (328) | Blocked | 82 | protected-rank; no-supported-skills |
-| 34201 | Magma Rager (1) | Fire Revenant (328) | Blocked | 82 | protected-rank; no-supported-skills |
-| 35074 | Quest - Wintergrasp - Southern Tower Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 35143 | Flame Warder | Fire Revenant (328) | Blocked | 78 | protected-rank; no-supported-skills |
-| 35359 | Flame Warder (1) | Fire Revenant (328) | Blocked | 82 | protected-rank; no-supported-skills |
-| 39019 | Quest - Wintergrasp - PvP Kill - Horde | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
-| 11669 | Flame Imp | Imp (115) | Blocked | 61 | protected-rank; creature-type-mismatch |
-| 11670 | [UNUSED] Flame Shrieker | Imp (115) | Blocked | 62 | creature-type-mismatch |
-| 19070 | Holo-Imp | Imp (115) | Blocked | 10 | creature-type-mismatch |
-| 8441 | Raze | Infernal (118) | Blocked | 48 | protected-npc-vehicle-script; creature-type-mismatch |
-| 21435 | Shadow Horror | Shade (224) | Blocked | 68 | creature-type-mismatch |
-| 24601 | Steam Rager | Shade (224) | Blocked | 70 | creature-type-mismatch |
-| 28583 | Blistering Steamrager | Shade (224) | Blocked | 79 | protected-rank; creature-type-mismatch |
-| 30842 | Wandering Shadow | Shade (224) | Blocked | 80 | creature-type-mismatch |
-| 30964 | Blistering Steamrager (1) | Shade (224) | Blocked | 80 | protected-rank; creature-type-mismatch |
-| 32561 | QA Test Dummy 80 Elemental | Skeleton (225) | Blocked | 80 | creature-type-mismatch |
-| 1964 | Treant | Treant (394) | Blocked | 70 | no-ability-profile |
-| 3834 | Crazed Ancient | Treant (394) | Blocked | 27 | no-ability-profile |
-| 3919 | Withered Ancient | Treant (394) | Blocked | 26 | no-ability-profile |
-| 4028 | Charred Ancient | Treant (394) | Blocked | 25 | no-ability-profile |
-| 4029 | Blackened Ancient | Treant (394) | Blocked | 27 | no-ability-profile |
-| 4030 | Vengeful Ancient | Treant (394) | Blocked | 29 | protected-rank; no-ability-profile |
-| 4423 | Darnassian Protector | Treant (394) | Blocked | 65 | no-ability-profile |
-| 5354 | Gnarl Leafbrother | Treant (394) | Blocked | 44 | protected-rank; no-ability-profile |
-| 5806 | Treant Ally | Treant (394) | Blocked | 24 | no-ability-profile |
-| 5881 | Cursed Sycamore | Treant (394) | Blocked | 45 | no-ability-profile |
-| 7138 | Irontree Wanderer | Treant (394) | Blocked | 52 | no-ability-profile |
-| 7139 | Irontree Stomper | Treant (394) | Blocked | 52 | no-ability-profile |
-| 7143 | Decaying Treant | Treant (394) | Blocked | 51 | no-ability-profile |
-| 7144 | Withered Treant | Treant (394) | Blocked | 53 | no-ability-profile |
-| 7146 | Treant Protector | Treant (394) | Blocked | 55 | no-ability-profile |
-| 7584 | Wandering Forest Walker | Treant (394) | Blocked | 44 | no-ability-profile |
-| 9601 | Treant Spirit | Treant (394) | Blocked | 52 | no-ability-profile |
-| 11458 | Petrified Treant | Treant (394) | Blocked | 57 | protected-rank; no-ability-profile |
-| 11461 | Warpwood Guardian | Treant (394) | Blocked | 57 | protected-rank; no-ability-profile |
-| 11462 | Warpwood Treant | Treant (394) | Blocked | 54 | protected-rank; no-ability-profile |
-| 11463 | [UNUSED] Warpwood Scrabbler | Treant (394) | Blocked | 60 | protected-rank; no-ability-profile |
-| 11464 | Warpwood Tangler | Treant (394) | Blocked | 55 | protected-rank; no-ability-profile |
-| 11465 | Warpwood Stomper | Treant (394) | Blocked | 57 | protected-rank; no-ability-profile |
-| 13141 | Deeprot Stomper | Treant (394) | Blocked | 42 | protected-rank; no-ability-profile |
-| 13142 | Deeprot Tangler | Treant (394) | Blocked | 43 | protected-rank; no-ability-profile |
-| 13743 | Corrupt Force of Nature | Treant (394) | Blocked | 42 | no-ability-profile |
-| 14303 | Petrified Guardian | Treant (394) | Blocked | 57 | protected-rank; no-ability-profile |
-| 15271 | Tender | Treant (394) | Blocked | 2 | no-ability-profile |
-| 15294 | Feral Tender | Treant (394) | Blocked | 3 | no-ability-profile |
-| 15409 | Old Whitebark | Treant (394) | Blocked | 10 | no-ability-profile |
-| 15635 | Eversong Tender | Treant (394) | Blocked | 5 | no-ability-profile |
-| 15636 | Eversong Green Keeper | Treant (394) | Blocked | 7 | no-ability-profile |
-| 15637 | Withered Green Keeper | Treant (394) | Blocked | 9 | no-ability-profile |
-| 17352 | Corrupted Treant | Treant (394) | Blocked | 11 | no-ability-profile |
-| 17353 | Corrupted Stomper | Treant (394) | Blocked | 16 | no-ability-profile |
-| 19456 | Whitebark's Spirit | Treant (394) | Blocked | 10 | protected-npc-vehicle-script; no-ability-profile |
-| 19949 | Sapling | Treant (394) | Blocked | 72 | no-ability-profile |
-| 19954 | Greater Sapling | Treant (394) | Blocked | 70 | no-ability-profile |
-| 21040 | Outraged Raven's Wood Sapling | Treant (394) | Blocked | 66 | no-ability-profile |
-| 21072 | Living Grove Defender | Treant (394) | Blocked | 65 | no-ability-profile |
-| 21556 | Greater Sapling (1) | Treant (394) | Blocked | 70 | no-ability-profile |
-| 21567 | Sapling (1) | Treant (394) | Blocked | 72 | no-ability-profile |
-| 21853 | Raven's Wood Ent | Treant (394) | Blocked | 67 | no-ability-profile |
-| 22095 | Infested Root-Walker | Treant (394) | Blocked | 64 | no-ability-profile |
-| 26313 | [PH] Dragonblight Treant | Treant (394) | Blocked | 72 | no-ability-profile |
-| 26421 | Woodlands Walker | Treant (394) | Blocked | 71 | protected-npc-vehicle-script; no-ability-profile |
-| 26782 | Crystalline Keeper | Treant (394) | Blocked | 71 | protected-rank; no-ability-profile |
-| 30526 | Crystalline Keeper (1) | Treant (394) | Blocked | 80 | protected-rank; no-ability-profile |
-| 30862 | Unbound Ent | Treant (394) | Blocked | 77 | no-ability-profile |
-| 31041 | Dispirited Ent | Treant (394) | Blocked | 76 | no-ability-profile |
-| 31228 | Grove Walker | Treant (394) | Blocked | 77 | no-ability-profile |
-| 31802 | Treant Ally | Treant (394) | Blocked | 83 | no-ability-profile |
-| 33525 | Mangrove Ent | Treant (394) | Blocked | 81 | protected-rank; no-ability-profile |
-| 33735 | Mangrove Ent (1) | Treant (394) | Blocked | 81 | protected-rank; no-ability-profile |
-| 33947 | Angry Oak Spirit | Treant (394) | Blocked | 77 | no-ability-profile |
-| 34459 | Erin Misthoof | Treant (394) | Blocked | 83 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
-| 34469 | Melador Valestrider | Treant (394) | Blocked | 83 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
-| 35686 | Erin Misthoof (1) | Treant (394) | Blocked | 83 | protected-rank; no-ability-profile |
-| 35687 | Erin Misthoof (2) | Treant (394) | Blocked | 83 | protected-rank; no-ability-profile |
-| 35688 | Erin Misthoof (3) | Treant (394) | Blocked | 83 | protected-rank; no-ability-profile |
-| 35714 | Melador Valestrider (1) | Treant (394) | Blocked | 83 | protected-rank; no-ability-profile |
-| 35715 | Melador Valestrider (2) | Treant (394) | Blocked | 83 | protected-rank; no-ability-profile |
-| 35716 | Melador Valestrider (3) | Treant (394) | Blocked | 83 | protected-rank; no-ability-profile |
-| 36070 | Treant | Treant (394) | Blocked | 80 | no-ability-profile |
-| 36473 | Treant (1) | Treant (394) | Blocked | 80 | no-ability-profile |
-| 36474 | Treant (2) | Treant (394) | Blocked | 80 | no-ability-profile |
-| 36475 | Treant (3) | Treant (394) | Blocked | 80 | no-ability-profile |
-| 1945 | Tree Form 0.33 | Unassigned () | Blocked | 30 | missing-or-ambiguous-model-assignment |
-| 2156 | Cracked Golem | Unassigned () | Blocked | 18 | missing-or-ambiguous-model-assignment |
-| 2157 | Stone Behemoth | Unassigned () | Blocked | 19 | missing-or-ambiguous-model-assignment |
-| 2551 | Brutus | Unassigned () | Blocked | 43 | missing-or-ambiguous-model-assignment |
-| 2723 | Stone Golem | Unassigned () | Blocked | 38 | missing-or-ambiguous-model-assignment |
-| 2749 | Siege Golem | Unassigned () | Blocked | 40 | protected-rank; missing-or-ambiguous-model-assignment |
-| 2751 | War Golem | Unassigned () | Blocked | 36 | protected-rank; missing-or-ambiguous-model-assignment |
-| 2755 | Myzrael | Unassigned () | Blocked | 44 | protected-rank; missing-or-ambiguous-model-assignment |
-| 4857 | Stone Keeper | Unassigned () | Blocked | 40 | protected-rank; missing-or-ambiguous-model-assignment |
-| 4860 | Stone Steward | Unassigned () | Blocked | 39 | protected-rank; missing-or-ambiguous-model-assignment |
-| 5055 | Deviate Lasher | Unassigned () | Blocked | 19 | missing-or-ambiguous-model-assignment |
-| 5764 | Guardian of Blizzard | Unassigned () | Blocked | 63 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 5853 | Tempered War Golem | Unassigned () | Blocked | 45 | missing-or-ambiguous-model-assignment |
-| 6492 | Rift Spawn | Unassigned () | Blocked | 16 | missing-or-ambiguous-model-assignment |
-| 6509 | Bloodpetal Lasher | Unassigned () | Blocked | 48 | missing-or-ambiguous-model-assignment |
-| 6510 | Bloodpetal Flayer | Unassigned () | Blocked | 51 | missing-or-ambiguous-model-assignment |
-| 6511 | Bloodpetal Thresher | Unassigned () | Blocked | 49 | missing-or-ambiguous-model-assignment |
-| 6512 | Bloodpetal Trapper | Unassigned () | Blocked | 52 | missing-or-ambiguous-model-assignment |
-| 6550 | Mana Surge | Unassigned () | Blocked | 40 | missing-or-ambiguous-model-assignment |
-| 6560 | Stone Guardian | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
-| 6561 | Stone Warden | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
-| 7039 | War Reaver | Unassigned () | Blocked | 53 | missing-or-ambiguous-model-assignment |
-| 7149 | Withered Protector | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
-| 7150 | Withered Guardian | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 7151 | Withered Watcher | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 7152 | Withered Forest Walker | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 7206 | Ancient Stone Keeper | Unassigned () | Blocked | 40 | protected-rank; missing-or-ambiguous-model-assignment |
-| 7226 | Sand Storm | Unassigned () | Blocked | 44 | missing-or-ambiguous-model-assignment |
-| 7364 | Flawless Draenethyst Sphere | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
-| 7365 | Flawless Draenethyst Fragment | Unassigned () | Blocked | 40 | missing-or-ambiguous-model-assignment |
-| 7409 | Faltering Draenethyst Sphere | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 8279 | Faulty War Golem | Unassigned () | Blocked | 46 | protected-rank; missing-or-ambiguous-model-assignment |
-| 8400 | Obsidion | Unassigned () | Blocked | 46 | missing-or-ambiguous-model-assignment |
-| 8905 | Warbringer Construct | Unassigned () | Blocked | 52 | protected-rank; missing-or-ambiguous-model-assignment |
-| 8906 | Ragereaver Golem | Unassigned () | Blocked | 54 | protected-rank; missing-or-ambiguous-model-assignment |
-| 8908 | Molten War Golem | Unassigned () | Blocked | 55 | protected-rank; missing-or-ambiguous-model-assignment |
-| 8923 | Panzor the Invincible | Unassigned () | Blocked | 56 | protected-rank; missing-or-ambiguous-model-assignment |
-| 8981 | Malfunctioning Reaver | Unassigned () | Blocked | 56 | protected-rank; missing-or-ambiguous-model-assignment |
-| 8982 | Ironhand Guardian | Unassigned () | Blocked | 60 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 9502 | Phalanx | Unassigned () | Blocked | 55 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 9598 | Arei | Unassigned () | Blocked | 56 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 9599 | Arei Transformed | Unassigned () | Blocked | 56 | missing-or-ambiguous-model-assignment |
-| 10120 | Vault Warder | Unassigned () | Blocked | 39 | protected-rank; missing-or-ambiguous-model-assignment |
-| 11459 | Ironbark Protector | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
-| 11478 | [UNUSED] Mana Beast | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
-| 11479 | Arcane Horror | Unassigned () | Blocked | 58 | protected-rank; missing-or-ambiguous-model-assignment |
-| 11480 | Arcane Aberration | Unassigned () | Blocked | 59 | protected-rank; missing-or-ambiguous-model-assignment |
-| 11483 | Mana Remnant | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
-| 11484 | Residual Monstrosity | Unassigned () | Blocked | 59 | protected-rank; missing-or-ambiguous-model-assignment |
-| 11489 | Tendris Warpwood | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
-| 11491 | Old Ironbark | Unassigned () | Blocked | 58 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 11502 | Ragnaros | Unassigned () | Blocked | 63 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 11959 | [UNUSED] Obsidian Watcher | Unassigned () | Blocked | 61 | protected-rank; missing-or-ambiguous-model-assignment |
-| 12201 | Princess Theradras | Unassigned () | Blocked | 48 | protected-rank; missing-or-ambiguous-model-assignment |
-| 12219 | Barbed Lasher | Unassigned () | Blocked | 45 | protected-rank; missing-or-ambiguous-model-assignment |
-| 12220 | Constrictor Vine | Unassigned () | Blocked | 44 | protected-rank; missing-or-ambiguous-model-assignment |
-| 12258 | Razorlash | Unassigned () | Blocked | 46 | protected-rank; missing-or-ambiguous-model-assignment |
-| 12804 | [PH] TEST Fire God | Unassigned () | Blocked | 63 | protected-rank; missing-or-ambiguous-model-assignment |
-| 13021 | Warpwood Crusher | Unassigned () | Blocked | 56 | protected-rank; missing-or-ambiguous-model-assignment |
-| 13022 | Whip Lasher | Unassigned () | Blocked | 54 | missing-or-ambiguous-model-assignment |
-| 13196 | Phase Lasher | Unassigned () | Blocked | 54 | protected-rank; missing-or-ambiguous-model-assignment |
-| 13197 | Fel Lash | Unassigned () | Blocked | 56 | protected-rank; missing-or-ambiguous-model-assignment |
-| 13285 | Death Lash | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
-| 14061 | Phase Lasher (Fire) | Unassigned () | Blocked | 37 | protected-rank; missing-or-ambiguous-model-assignment |
-| 14062 | Phase Lasher (Nature) | Unassigned () | Blocked | 37 | protected-rank; missing-or-ambiguous-model-assignment |
-| 14063 | Phase Lasher (Arcane) | Unassigned () | Blocked | 37 | protected-rank; missing-or-ambiguous-model-assignment |
-| 14184 | Phase Lasher (Frost) | Unassigned () | Blocked | 37 | protected-rank; missing-or-ambiguous-model-assignment |
-| 14241 | Ironbark the Redeemed | Unassigned () | Blocked | 58 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 14362 | Thornling | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
-| 14397 | Mana Burst | Unassigned () | Blocked | 59 | missing-or-ambiguous-model-assignment |
-| 14435 | Prince Thunderaan | Unassigned () | Blocked | 63 | protected-rank; missing-or-ambiguous-model-assignment |
-| 14689 | Mana Elemental | Unassigned () | Blocked | 59 | protected-rank; missing-or-ambiguous-model-assignment |
-| 15273 | Arcane Wraith | Unassigned () | Blocked | 3 | missing-or-ambiguous-model-assignment |
-| 15298 | Tainted Arcane Wraith | Unassigned () | Blocked | 4 | missing-or-ambiguous-model-assignment |
-| 15338 | Obsidian Destroyer | Unassigned () | Blocked | 61 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 15342 | [UNUSED] Sphinx | Unassigned () | Blocked | 61 | protected-rank; missing-or-ambiguous-model-assignment |
-| 15428 | Sand Vortex | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
-| 15527 | Mana Fiend | Unassigned () | Blocked | 63 | protected-rank; missing-or-ambiguous-model-assignment |
-| 15638 | Arcane Patroller | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
-| 15639 | Arcane Warder | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
-| 15640 | Arcane Enforcer | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
-| 15647 | Mana Stalker | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
-| 15648 | Manawraith | Unassigned () | Blocked | 6 | missing-or-ambiguous-model-assignment |
-| 15967 | Ether Fiend | Unassigned () | Blocked | 9 | missing-or-ambiguous-model-assignment |
-| 16304 | Arcane Devourer | Unassigned () | Blocked | 11 | missing-or-ambiguous-model-assignment |
-| 16339 | Arcane Reaver | Unassigned () | Blocked | 15 | missing-or-ambiguous-model-assignment |
-| 16488 | Arcane Anomaly | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 16489 | Chaotic Sentience | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
-| 16516 | Volatile Mutation | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 16517 | Mutated Root Lasher | Unassigned () | Blocked | 3 | missing-or-ambiguous-model-assignment |
-| 16529 | Magical Horror | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 16530 | Mana Warp | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
-| 16533 | Inoculated Root Lasher | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 16564 | Myconite | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
-| 16565 | Fungal Beast | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
-| 16566 | Myconite Worker (PH) | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
-| 16854 | Eldinarcus | Unassigned () | Blocked | 11 | protected-rank; missing-or-ambiguous-model-assignment |
-| 17196 | Root Trapper | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
-| 17197 | Root Thresher | Unassigned () | Blocked | 7 | missing-or-ambiguous-model-assignment |
-| 17343 | Thistle Lasher | Unassigned () | Blocked | 11 | missing-or-ambiguous-model-assignment |
-| 17344 | Mutated Constrictor | Unassigned () | Blocked | 14 | missing-or-ambiguous-model-assignment |
-| 17346 | Mutated Tangler | Unassigned () | Blocked | 17 | missing-or-ambiguous-model-assignment |
-| 17725 | Underbog Lurker | Unassigned () | Blocked | 62 | protected-rank; missing-or-ambiguous-model-assignment |
-| 17752 | Outland Mtn. Giant, Zangarmarsh | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 17753 | Outland Mtn. Giant, Blades Edge | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 17754 | Outland Mtn. Giant, Netherstorm | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 17870 | Angered Nether-wraith | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 17871 | Underbog Shambler | Unassigned () | Blocked | 62 | protected-rank; missing-or-ambiguous-model-assignment |
-| 17977 | Warp Splinter | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 17980 | Laj | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 18103 | Arcane Guardian | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
-| 18182 | Gurok the Usurper | Unassigned () | Blocked | 67 | protected-rank; missing-or-ambiguous-model-assignment |
-| 18237 | Tiny Arcane Construct | Unassigned () | Blocked | 15 | missing-or-ambiguous-model-assignment |
-| 18372 | Rough Stone Statue | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
-| 18394 | Ethereal Wraith | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
-| 18400 | Rokdar the Sundered Lord | Unassigned () | Blocked | 66 | protected-rank; missing-or-ambiguous-model-assignment |
-| 18429 | Arcane Fiend | Unassigned () | Blocked | 64 | missing-or-ambiguous-model-assignment |
-| 18568 | Scryer Arcane Guardian | Unassigned () | Blocked | 70 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 18587 | Frayer | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 18682 | Bog Lurker | Unassigned () | Blocked | 63 | protected-rank; missing-or-ambiguous-model-assignment |
-| 18698 | Ever-Core the Punisher | Unassigned () | Blocked | 68 | protected-rank; missing-or-ambiguous-model-assignment |
-| 18708 | Murmur | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 18734 | Coarse Stone Statue | Unassigned () | Blocked | 15 | missing-or-ambiguous-model-assignment |
-| 18735 | Heavy Stone Statue | Unassigned () | Blocked | 25 | missing-or-ambiguous-model-assignment |
-| 18736 | Solid Stone Statue | Unassigned () | Blocked | 35 | missing-or-ambiguous-model-assignment |
-| 18737 | Dense Stone Statue | Unassigned () | Blocked | 45 | missing-or-ambiguous-model-assignment |
-| 18738 | Primal Stone Statue | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
-| 18856 | Arcane Annihilator | Unassigned () | Blocked | 68 | protected-rank; missing-or-ambiguous-model-assignment |
-| 18863 | Manaspawn | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 18864 | Mana Wraith | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
-| 18866 | Mageslayer | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 18867 | Mana Seeker | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 19494 | Ar'kelos | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 19514 | Al'ar | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 19557 | Greater Frayer | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
-| 19584 | Frayer (Arcane) | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 19585 | Frayer (Fire) | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 19586 | Frayer (Frost) | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 19587 | Frayer (Shadow) | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 19608 | Frayer Wildling | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 19688 | Scryer Vault Guardian | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 19919 | Thorn Lasher | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 19920 | Thorn Flayer | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 19922 | Tornado | Unassigned () | Blocked | 63 | missing-or-ambiguous-model-assignment |
-| 19928 | Laj (Arcane) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
-| 19929 | Laj (Fire) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
-| 19930 | Laj (Frost) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
-| 19931 | Laj (Nature) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
-| 19953 | Frayer Protector | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 19958 | White Seedling | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 19962 | Blue Seedling | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 19964 | Red Seedling | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 19969 | Green Seedling | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 20188 | Underbog Lurker (1) | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
-| 20190 | Underbog Shambler (1) | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
-| 20252 | Arcane Fiend (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 20262 | Ethereal Wraith (1) | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
-| 20277 | Root Lasher | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 20478 | Arcane Servant | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 20657 | Murmur (1) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
-| 20774 | Farahlon Lasher | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 20983 | Mutated Farahlon Lasher | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 21023 | Stronglimb Deeproot | Unassigned () | Blocked | 66 | missing-or-ambiguous-model-assignment |
-| 21031 | [PH] Arcane Guardian | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 21062 | Nether Wraith | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
-| 21073 | Enraged Earthen Soul | Unassigned () | Blocked | 68 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 21097 | Enraged Fiery Soul | Unassigned () | Blocked | 68 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 21109 | Enraged Watery Soul | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 21116 | Enraged Airy Soul | Unassigned () | Blocked | 68 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 21181 | Cyrukh the Firelord | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
-| 21267 | Mana Beast | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
-| 21325 | Raven's Wood Stonebark | Unassigned () | Blocked | 67 | protected-rank; missing-or-ambiguous-model-assignment |
-| 21326 | Raven's Wood Leafbeard | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
-| 21331 | Thorny Growth | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 21362 | Phoenix | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
-| 21521 | Arcane Servant (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 21535 | Nether Wraith (1) | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
-| 21550 | Blue Seedling (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 21552 | Frayer (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 21553 | Frayer Protector (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 21554 | Frayer Wildling (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 21555 | Greater Frayer (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 21557 | Green Seedling (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 21559 | Laj (1) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
-| 21566 | Red Seedling (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 21579 | Thorn Flayer (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 21580 | Thorn Lasher (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 21582 | Warp Splinter (1) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
-| 21583 | White Seedling (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 21729 | Electromental | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
-| 21731 | Encased Electromental | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
-| 21737 | Mini-Electromental Flavor | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
-| 21757 | Big Electromental Flavor | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
-| 21863 | Serpentshrine Lurker | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
-| 22022 | Arcane Burst | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
-| 22053 | Mosswood the Ancient | Unassigned () | Blocked | 68 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 22119 | Fathom Lurker | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 22215 | Treebole | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 22233 | Unsuspecting Leafbeard | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
-| 22244 | Unbound Ethereal | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 22307 | Rotting Forest-Rager | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
-| 22347 | Colossus Lurker | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 22408 | Furious Nether-wraith | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 22478 | Evergrove Ancient | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
-| 23029 | Talonsworn Forest-Rager | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 23100 | Flawless Arcane Elemental | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 23763 | Scarlet Ivy | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
-| 23870 | Ember Clutch Ancient | Unassigned () | Blocked | 75 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 23876 | Spore | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
-| 24271 | Iron Rune Golem | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 24316 | Iron Rune Sentinel | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 24339 | Scarlet Growth | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
-| 24387 | Iron Rune Servant | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 24674 | Phoenix | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
-| 24744 | Vexallus | Unassigned () | Blocked | 71 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 24916 | Living Flare | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 24958 | Unstable Living Flare | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 25573 | Vexallus (1) | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 25707 | Magic-bound Ancient | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
-| 25709 | Glacial Ancient | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
-| 25740 | Ahune | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 25865 | Frozen Core | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 26214 | Frigid Lieutenant | Unassigned () | Blocked | 51 | missing-or-ambiguous-model-assignment |
-| 26215 | Glacial Lieutenant | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
-| 26216 | Glacial Templar | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
-| 26274 | [PH] Dragonblight Ancient | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
-| 26284 | Runic Battle Golem | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
-| 26321 | Lothalor Ancient | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 26333 | Corrupted Lothalor Ancient | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 26338 | Ahune (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 26339 | Frozen Core (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 26347 | Runic War Golem | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
-| 26370 | Arcanimus | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
-| 26406 | The Anvil | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
-| 26438 | Tranquil Air Spirit | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
-| 26737 | Crazed Mana-Surge | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 26746 | Crazed Mana-Wraith | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
-| 26761 | Crazed Mana-Wyrm | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 26763 | Anomalus | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 26792 | Crystalline Protector | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 26793 | Crystalline Frayer | Unassigned () | Blocked | 71 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 26794 | Ormorok the Tree-Shaper | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 26918 | Chaotic Rift | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 27075 | Dun Argol Power Core | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
-| 27254 | Emerald Lasher | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
-| 27395 | Typhoon | Unassigned () | Blocked | 50 | missing-or-ambiguous-model-assignment |
-| 27936 | Pumpkin Soldier | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 27998 | Ethereal Mutagen - Pet | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 28000 | Ethereal Mutagen - Player | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 28069 | Sholazar Guardian | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
-| 28092 | The Etymidian | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 28153 | Snowflake | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
-| 28222 | The Etymidian | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 28271 | Glacial Breach Scourge Credit | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
-| 28320 | Servant of Freya | Unassigned () | Blocked | 76 | missing-or-ambiguous-model-assignment |
-| 28452 | Elemental Rift | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
-| 28597 | Guardian of Zim'Rhuk | Unassigned () | Blocked | 76 | protected-rank; missing-or-ambiguous-model-assignment |
-| 28681 | Brittle Golem | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
-| 28695 | Molten Golem | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 28840 | Overlook Sentry | Unassigned () | Blocked | 78 | protected-rank; missing-or-ambiguous-model-assignment |
-| 28877 | Stormwatcher | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 28926 | Spark of Ionar | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 29013 | Perch Guardian | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
-| 29036 | Servant of Freya | Unassigned () | Blocked | 76 | missing-or-ambiguous-model-assignment |
-| 29272 | Dwarven Golem | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 29321 | Ichor Globule | Unassigned () | Blocked | 76 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 29849 | Frozen Orb | Unassigned () | Blocked | 78 | missing-or-ambiguous-model-assignment |
-| 29911 | Wilted Frayer | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 30001 | Blackmaw | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
-| 30042 | Fiend of Fire | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 30043 | Fiend of Earth | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 30044 | Fiend of Water | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 30045 | Fiend of Air | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
-| 30054 | Frozen Orb | Unassigned () | Blocked | 78 | missing-or-ambiguous-model-assignment |
-| 30084 | Power Spark | Unassigned () | Blocked | 79 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 30258 | Amanitar | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 30329 | Savage Cave Beast | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
-| 30450 | Wailing Winds | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
-| 30519 | Crazed Mana-Surge (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 30520 | Crazed Mana-Wraith (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 30521 | Crazed Mana-Wyrm (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 30522 | Chaotic Rift (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 30524 | Crystalline Protector (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 30528 | Crystalline Frayer (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 30529 | Anomalus (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 30532 | Ormorok the Tree-Shaper (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 30617 | Nightmare Aberration | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 30845 | Living Lasher | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 30861 | Unbound Ancient | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 30917 | Snowflake (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 30969 | Molten Golem (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 31229 | Ancient Watcher | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 31463 | Amanitar (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 31470 | Savage Cave Beast (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 31515 | Ichor Globule (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 31688 | Whirlwind | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 31867 | Spark of Ionar (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 32187 | Power Spark (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 32357 | Old Crystalbark | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
-| 32447 | Zul'drak Sentinel | Unassigned () | Blocked | 77 | protected-rank; missing-or-ambiguous-model-assignment |
-| 32665 | Crystalline Tangler | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 32871 | Algalon the Observer | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 32913 | Elder Ironbranch | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 32914 | Elder Stonebark | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 32915 | Elder Brightleaf | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 32916 | Snaplasher | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 32918 | Detonating Lasher | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 32919 | Storm Lasher | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 32953 | Black Hole | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 32955 | Collapsing Star | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 33070 | Algalon the Observer (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33169 | Icicle | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 33173 | Snowpacked Icicle | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 33203 | Ancient Conservator | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 33354 | Corrupted Servitor | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33376 | Ancient Conservator (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33387 | Writhing Lasher | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 33391 | Elder Brightleaf (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33392 | Elder Ironbranch (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33393 | Elder Stonebark (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33399 | Detonating Lasher (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33400 | Snaplasher (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33401 | Storm Lasher (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33430 | Guardian Lasher | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33431 | Forest Swarmer | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33526 | Ironroot Lasher | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33729 | Corrupted Servitor (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33731 | Forest Swarmer (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33732 | Guardian Lasher (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33734 | Ironroot Lasher (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33761 | Elder Brightleaf Image | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33861 | Elder Ironbranch Image | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 33862 | Elder Stonebark Image | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34004 | Life Spark | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 34005 | Life Spark (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34099 | Worm Hole | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 34190 | Hardened Iron Golem | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34196 | Rune Etched Sentry | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34197 | Chamber Overseer | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34215 | Collapsing Star (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34226 | Chamber Overseer (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34229 | Hardened Iron Golem (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34234 | Runeforged Sentry | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34235 | Runeforged Sentry (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34245 | Rune Etched Sentry (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34275 | Ward of Life | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 34276 | Ward of Life (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34277 | Writhing Lasher (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34296 | Black Hole (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 34300 | Mature Lasher | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 35032 | Memory of Thunderaan | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 35052 | Memory of Algalon | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 35519 | Memory of Algalon (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 35540 | Memory of Thunderaan (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
-| 36116 | Melador Valestrider | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
-| 36847 | Collapsing Icicle | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
-| 39158 | Phalanx 2.0 | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 39856 | Raging Storm Elemental | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
-| 18701 | Dark Vortex | Voidwalker (143) | Blocked | 69 | creature-type-mismatch |
-| 19206 | Syth Shadow Elemental | Voidwalker (143) | Blocked | 69 | creature-type-mismatch |
-| 20689 | Dark Vortex (1) | Voidwalker (143) | Blocked | 70 | creature-type-mismatch |
-| 20705 | Syth Shadow Elemental (1) | Voidwalker (143) | Blocked | 72 | creature-type-mismatch |
-| 510 | Water Elemental | Water Elemental (304) | Blocked | 60 | no-supported-skills |
-| 691 | Lesser Water Elemental | Water Elemental (304) | Blocked | 36 | no-supported-skills |
-| 2761 | Cresting Exile | Water Elemental (304) | Blocked | 38 | no-supported-skills |
-| 2776 | Vengeful Surge | Water Elemental (304) | Blocked | 40 | no-supported-skills |
-| 2794 | Summoned Guardian | Water Elemental (304) | Blocked | 38 | no-supported-skills |
-| 3917 | Befouled Water Elemental | Water Elemental (304) | Blocked | 23 | no-supported-skills |
-| 3950 | Minor Water Guardian | Water Elemental (304) | Blocked | 25 | no-supported-skills |
-| 4978 | Aku'mai Servant | Water Elemental (304) | Blocked | 23 | protected-rank; no-supported-skills |
-| 5461 | Sea Elemental | Water Elemental (304) | Blocked | 48 | no-supported-skills |
-| 5462 | Sea Spray | Water Elemental (304) | Blocked | 47 | no-supported-skills |
-| 5894 | Corrupt Minor Manifestation of Water | Water Elemental (304) | Blocked | 22 | no-supported-skills |
-| 5895 | Minor Manifestation of Water | Water Elemental (304) | Blocked | 22 | protected-npc-vehicle-script; no-supported-skills |
-| 5897 | Corrupt Water Spirit | Water Elemental (304) | Blocked | 19 | no-supported-skills |
-| 6047 | Aqua Guardian | Water Elemental (304) | Blocked | 20 | no-supported-skills |
-| 6220 | Irradiated Horror | Water Elemental (304) | Blocked | 26 | protected-rank; no-supported-skills |
-| 6748 | Water Spirit | Water Elemental (304) | Blocked | 18 | no-supported-skills |
-| 7079 | Viscous Fallout | Water Elemental (304) | Blocked | 28 | protected-rank; no-supported-skills |
-| 7132 | Toxic Horror | Water Elemental (304) | Blocked | 53 | no-supported-skills |
-| 7133 | Noxious Horror | Water Elemental (304) | Blocked | 1 | no-supported-skills |
-| 7134 | Poison Flayer | Water Elemental (304) | Blocked | 1 | no-supported-skills |
-| 8519 | Blighted Surge | Water Elemental (304) | Blocked | 54 | no-supported-skills |
-| 8520 | Plague Ravager | Water Elemental (304) | Blocked | 55 | no-supported-skills |
-| 8521 | Blighted Horror | Water Elemental (304) | Blocked | 56 | no-supported-skills |
-| 8522 | Plague Monstrosity | Water Elemental (304) | Blocked | 58 | no-supported-skills |
-| 8837 | Muck Splash | Water Elemental (304) | Blocked | 47 | no-supported-skills |
-| 9453 | Aquementas | Water Elemental (304) | Blocked | 54 | protected-npc-vehicle-script; no-supported-skills |
-| 10642 | Eck'alom | Water Elemental (304) | Blocked | 27 | protected-rank; no-supported-skills |
-| 10756 | Scalding Elemental | Water Elemental (304) | Blocked | 28 | no-supported-skills |
-| 10757 | Boiling Elemental | Water Elemental (304) | Blocked | 27 | no-supported-skills |
-| 10955 | Summoned Water Elemental | Water Elemental (304) | Blocked | 57 | no-supported-skills |
-| 11256 | Manifestation of Water | Water Elemental (304) | Blocked | 60 | protected-rank; no-supported-skills |
-| 11493 | [UNUSED] Sentius | Water Elemental (304) | Blocked | 60 | protected-rank; no-supported-skills |
-| 11862 | Tsunaman | Water Elemental (304) | Blocked | 25 | protected-npc-vehicle-script; no-supported-skills |
-| 12759 | Tideress | Water Elemental (304) | Blocked | 27 | no-supported-skills |
-| 12876 | Baron Aquanis | Water Elemental (304) | Blocked | 24 | protected-rank; no-supported-skills |
-| 13278 | Duke Hydraxis | Water Elemental (304) | Blocked | 60 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 13279 | Discordant Surge | Water Elemental (304) | Blocked | 54 | no-supported-skills |
-| 13280 | Hydrospawn | Water Elemental (304) | Blocked | 57 | protected-rank; no-supported-skills |
-| 13282 | Noxxion | Water Elemental (304) | Blocked | 46 | protected-rank; no-supported-skills |
-| 13322 | Hydraxian Honor Guard | Water Elemental (304) | Blocked | 57 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 13456 | Noxxion's Spawn | Water Elemental (304) | Blocked | 44 | no-supported-skills |
-| 13696 | Noxxious Scion | Water Elemental (304) | Blocked | 44 | no-supported-skills |
-| 13736 | Noxxious Essence | Water Elemental (304) | Blocked | 44 | no-supported-skills |
-| 14269 | Seeker Aqualon | Water Elemental (304) | Blocked | 21 | protected-rank; no-supported-skills |
-| 14350 | Hydroling | Water Elemental (304) | Blocked | 57 | no-supported-skills |
-| 14457 | Princess Tempestria | Water Elemental (304) | Blocked | 60 | protected-rank; no-supported-skills |
-| 14458 | Watery Invader | Water Elemental (304) | Blocked | 56 | no-supported-skills |
-| 15211 | Azure Templar | Water Elemental (304) | Blocked | 60 | no-supported-skills |
-| 16292 | Aquantion | Water Elemental (304) | Blocked | 13 | no-supported-skills |
-| 16570 | Crazed Water Spirit | Water Elemental (304) | Blocked | 75 | no-supported-skills |
-| 16881 | Felblood Horror | Water Elemental (304) | Blocked | 61 | no-supported-skills |
-| 16882 | Felblood Flayer | Water Elemental (304) | Blocked | 54 | no-supported-skills |
-| 16883 | Felblood Hungerer | Water Elemental (304) | Blocked | 61 | no-supported-skills |
-| 17153 | Lake Spirit | Water Elemental (304) | Blocked | 64 | no-supported-skills |
-| 17154 | Muck Spawn | Water Elemental (304) | Blocked | 64 | no-supported-skills |
-| 17155 | Lake Surger | Water Elemental (304) | Blocked | 65 | no-supported-skills |
-| 17165 |  | Water Elemental (304) | Blocked | 50 | no-supported-skills |
-| 17167 | Conjured Elemental | Water Elemental (304) | Blocked | 73 | protected-rank; no-supported-skills |
-| 17181 | Spirit of Water | Water Elemental (304) | Blocked | 3 | no-supported-skills |
-| 17207 | Naias | Water Elemental (304) | Blocked | 37 | no-supported-skills |
-| 17275 | Aqueous | Water Elemental (304) | Blocked | 70 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 17276 | Watery Aspect | Water Elemental (304) | Blocked | 33 | no-supported-skills |
-| 17358 | Fouled Water Spirit | Water Elemental (304) | Blocked | 18 | no-supported-skills |
-| 17917 | Coilfang Water Elemental | Water Elemental (304) | Blocked | 70 | protected-rank; no-supported-skills |
-| 18001 | Guardian Water Elemental | Water Elemental (304) | Blocked | 73 | no-supported-skills |
-| 18084 | Watoosun of the Water | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 18101 | Aborius | Water Elemental (304) | Blocked | 73 | protected-rank; no-supported-skills |
-| 18145 | Watoosun's Polluted Essence | Water Elemental (304) | Blocked | 66 | no-supported-skills |
-| 18823 | Minor Water Spirit | Water Elemental (304) | Blocked | 10 | no-supported-skills |
-| 19204 | Syth Frost Elemental | Water Elemental (304) | Blocked | 69 | no-supported-skills |
-| 19653 | Glacius | Water Elemental (304) | Blocked | 67 | no-supported-skills |
-| 20079 | Darkcrest Sentry | Water Elemental (304) | Blocked | 61 | no-supported-skills |
-| 20090 | Bloodscale Sentry | Water Elemental (304) | Blocked | 62 | no-supported-skills |
-| 20627 | Coilfang Water Elemental (1) | Water Elemental (304) | Blocked | 72 | protected-rank; no-supported-skills |
-| 20704 | Syth Frost Elemental (1) | Water Elemental (304) | Blocked | 72 | no-supported-skills |
-| 20792 | Bloodscale Elemental | Water Elemental (304) | Blocked | 62 | no-supported-skills |
-| 21029 | Captured Water Spirit | Water Elemental (304) | Blocked | 60 | no-supported-skills |
-| 21059 | Enraged Water Spirit | Water Elemental (304) | Blocked | 68 | protected-npc-vehicle-script; no-supported-skills |
-| 21131 | Scorned Spirit of Water | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 21216 | Hydross the Unstable | Water Elemental (304) | Blocked | 73 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 21222 | Undersea Rager | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
-| 21223 | Corrupted Rager | Water Elemental (304) | Blocked | 71 | no-supported-skills |
-| 21253 | Tainted Water Elemental | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
-| 21260 | Purified Water Elemental | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
-| 21428 | Corrupted Water Elemental | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 21695 | Tidal Surger | Water Elemental (304) | Blocked | 70 | protected-rank; no-supported-skills |
-| 21696 | Steam Surger | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 21728 | Skettis Surger | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 21730 | Alluvion | Water Elemental (304) | Blocked | 72 | protected-rank; no-supported-skills |
-| 21741 | Redeemed Spirit of Water | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 21874 | Water Walker Elemental | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
-| 21916 | Steam Surger (1) | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 21917 | Tidal Surger (1) | Water Elemental (304) | Blocked | 72 | protected-rank; no-supported-skills |
-| 21932 | Hydross the Unstable | Water Elemental (304) | Blocked | 63 | protected-rank; no-supported-skills |
-| 21958 | Enchanted Elemental | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 22009 | Tainted Elemental | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 22035 | Pure Spawn of Hydross | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
-| 22036 | Tainted Spawn of Hydross | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
-| 22238 | Serpentshrine Tidecaller | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
-| 22309 | Crashing Wave-Spirit | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 22878 | Aqueous Lord | Water Elemental (304) | Blocked | 72 | protected-rank; no-supported-skills |
-| 22881 | Aqueous Surger | Water Elemental (304) | Blocked | 70 | protected-rank; no-supported-skills |
-| 22883 | Aqueous Spawn | Water Elemental (304) | Blocked | 70 | protected-rank; no-supported-skills |
-| 22909 | Water Elemental Force | Water Elemental (304) | Blocked | 1 | no-supported-skills |
-| 23097 | Acolyte of Water | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 24597 | Coast Surger | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 24598 | Tide Surger | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 24599 | Greater Tide Surger | Water Elemental (304) | Blocked | 70 | no-supported-skills |
-| 25040 | Greater Water Elemental | Water Elemental (304) | Blocked | 59 | protected-rank; no-supported-skills |
-| 25226 | Scalder | Water Elemental (304) | Blocked | 71 | no-supported-skills |
-| 25418 | Churn | Water Elemental (304) | Blocked | 71 | no-supported-skills |
-| 25419 | Boiling Spirit | Water Elemental (304) | Blocked | 69 | no-supported-skills |
-| 25756 | Ahunite Coldwave | Water Elemental (304) | Blocked | 80 | no-supported-skills |
-| 26116 | Frostwave Lieutenant | Water Elemental (304) | Blocked | 22 | no-supported-skills |
-| 26340 | Ahunite Coldwave (1) | Water Elemental (304) | Blocked | 80 | no-supported-skills |
-| 27653 | Phantasmal Water | Water Elemental (304) | Blocked | 79 | protected-rank; no-supported-skills |
-| 28862 | Aqueous Spirit | Water Elemental (304) | Blocked | 79 | no-supported-skills |
-| 28999 | Haiphoon, the Great Tempest | Water Elemental (304) | Blocked | 80 | protected-npc-vehicle-script; no-supported-skills |
-| 29008 | Monsoon Revenant Credit | Water Elemental (304) | Blocked | 79 | no-supported-skills |
-| 29367 | Ichor Globule (Transform) | Water Elemental (304) | Blocked | 76 | protected-rank; no-supported-skills |
-| 29573 | Drakkari Elemental | Water Elemental (304) | Blocked | 78 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 29830 | Living Mojo | Water Elemental (304) | Blocked | 76 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 30419 | Bound Water Elemental | Water Elemental (304) | Blocked | 74 | protected-rank; no-supported-skills |
-| 30846 | Glacial Spirit | Water Elemental (304) | Blocked | 80 | no-supported-skills |
-| 30913 | Phantasmal Water (1) | Water Elemental (304) | Blocked | 81 | protected-rank; no-supported-skills |
-| 30938 | Living Mojo (1) | Water Elemental (304) | Blocked | 80 | protected-rank; no-supported-skills |
-| 31367 | Drakkari Elemental (1) | Water Elemental (304) | Blocked | 82 | protected-rank; no-supported-skills |
-| 31454 | Bound Water Elemental (1) | Water Elemental (304) | Blocked | 81 | protected-rank; no-supported-skills |
-| 36545 | Unstable Water Elemental | Water Elemental (304) | Blocked | 80 | no-supported-skills |
-| 36965 | Furious Water Elemental | Water Elemental (304) | Blocked | 80 | no-supported-skills |
-| 37036 | Rippling Water Elemental | Water Elemental (304) | Blocked | 80 | protected-rank; no-supported-skills |
-| 37037 | Acanthurus | Water Elemental (304) | Blocked | 83 | protected-rank; no-supported-skills |
-| 37193 | Balistoides | Water Elemental (304) | Blocked | 83 | protected-rank; no-supported-skills |
-| 37194 | Chaetodon | Water Elemental (304) | Blocked | 83 | protected-rank; no-supported-skills |
-| 37703 | Surging Water Elemental | Water Elemental (304) | Blocked | 10 | no-supported-skills |
-| 37994 | Water Elemental | Water Elemental (304) | Blocked | 63 | no-supported-skills |
-| 39131 | Watery Servant | Water Elemental (304) | Blocked | 80 | no-supported-skills |
-| 28118 | Watery Lord | Water Revenant (329) | Blocked | 76 | no-supported-skills |
-| 29313 | Ichoron | Water Revenant (329) | Blocked | 77 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 30024 | Gargoral the Water Lord | Water Revenant (329) | Blocked | 76 | protected-rank; no-supported-skills |
-| 30633 | Water Terror | Water Revenant (329) | Blocked | 77 | no-supported-skills |
-| 30642 | Water Terror | Water Revenant (329) | Blocked | 77 | no-supported-skills |
-| 30645 | Water Terror | Water Revenant (329) | Blocked | 80 | protected-npc-vehicle-script; no-supported-skills |
-| 30877 | Water Revenant | Water Revenant (329) | Blocked | 80 | no-supported-skills |
-| 31508 | Ichoron (1) | Water Revenant (329) | Blocked | 82 | protected-rank; no-supported-skills |
-| 32234 | Swirling Water Revenant | Water Revenant (329) | Blocked | 82 | protected-rank; no-supported-skills |
-| 32554 | Swirling Water Revenant (1) | Water Revenant (329) | Blocked | 82 | protected-rank; no-supported-skills |
-| 33202 | Ancient Water Spirit | Water Revenant (329) | Blocked | 81 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
-| 33398 | Ancient Water Spirit (1) | Water Revenant (329) | Blocked | 81 | protected-rank; no-supported-skills |
-| 36851 | Aquanos | Water Revenant (329) | Blocked | 80 | no-supported-skills |
+| [27382](https://www.wowhead.com/wotlk/npc=27382) | Deathbringer Revenant | Air Revenant (326) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| [28858](https://www.wowhead.com/wotlk/npc=28858) | Storm Revenant | Air Revenant (326) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
+| [29624](https://www.wowhead.com/wotlk/npc=29624) | Stormrider | Air Revenant (326) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
+| [30184](https://www.wowhead.com/wotlk/npc=30184) | Scion of Storm | Air Revenant (326) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
+| [30872](https://www.wowhead.com/wotlk/npc=30872) | Shadow Revenant | Air Revenant (326) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| [30875](https://www.wowhead.com/wotlk/npc=30875) | Tempest Revenant | Air Revenant (326) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| [26283](https://www.wowhead.com/wotlk/npc=26283) | Ice Revenant | Earth Revenant (327) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| [29436](https://www.wowhead.com/wotlk/npc=29436) | Icetouched Earthrager | Earth Revenant (327) | Active | 74 | Enabled mapping; runtime eligibility still applies. |
+| [29844](https://www.wowhead.com/wotlk/npc=29844) | Icebound Revenant | Earth Revenant (327) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
+| [30040](https://www.wowhead.com/wotlk/npc=30040) | Eternal Watcher | Earth Revenant (327) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| [30053](https://www.wowhead.com/wotlk/npc=30053) | Icebound Revenant | Earth Revenant (327) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
+| [30160](https://www.wowhead.com/wotlk/npc=30160) | Brittle Revenant | Earth Revenant (327) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| [30876](https://www.wowhead.com/wotlk/npc=30876) | Earthbound Revenant | Earth Revenant (327) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| [832](https://www.wowhead.com/wotlk/npc=832) | Dust Devil | Air Elemental (301) | Blocked | 18 | no-supported-skills |
+| [2762](https://www.wowhead.com/wotlk/npc=2762) | Thundering Exile | Air Elemental (301) | Blocked | 38 | no-supported-skills |
+| [4526](https://www.wowhead.com/wotlk/npc=4526) | Wind Howler | Air Elemental (301) | Blocked | 22 | protected-rank; no-supported-skills |
+| [5898](https://www.wowhead.com/wotlk/npc=5898) | Air Spirit | Air Elemental (301) | Blocked | 29 | no-supported-skills |
+| [5902](https://www.wowhead.com/wotlk/npc=5902) | Minor Manifestation of Air | Air Elemental (301) | Blocked | 33 | no-supported-skills |
+| [6239](https://www.wowhead.com/wotlk/npc=6239) | Cyclonian | Air Elemental (301) | Blocked | 40 | protected-rank; no-supported-skills |
+| [8667](https://www.wowhead.com/wotlk/npc=8667) | Gusting Vortex | Air Elemental (301) | Blocked | 43 | no-supported-skills |
+| [9377](https://www.wowhead.com/wotlk/npc=9377) | Swirling Vortex | Air Elemental (301) | Blocked | 33 | no-supported-skills |
+| [9397](https://www.wowhead.com/wotlk/npc=9397) | Living Storm | Air Elemental (301) | Blocked | 47 | no-supported-skills |
+| [10989](https://www.wowhead.com/wotlk/npc=10989) | Blizzard Elemental | Air Elemental (301) | Blocked | 1 | protected-rank; no-supported-skills |
+| [11495](https://www.wowhead.com/wotlk/npc=11495) | [UNUSED] Avidus | Air Elemental (301) | Blocked | 60 | protected-rank; no-supported-skills |
+| [11576](https://www.wowhead.com/wotlk/npc=11576) | Whirlwind Ripper | Air Elemental (301) | Blocked | 32 | no-supported-skills |
+| [11577](https://www.wowhead.com/wotlk/npc=11577) | Whirlwind Stormwalker | Air Elemental (301) | Blocked | 35 | no-supported-skills |
+| [11578](https://www.wowhead.com/wotlk/npc=11578) | Whirlwind Shredder | Air Elemental (301) | Blocked | 32 | no-supported-skills |
+| [11579](https://www.wowhead.com/wotlk/npc=11579) | Tempest | Air Elemental (301) | Blocked | 41 | no-supported-skills |
+| [11744](https://www.wowhead.com/wotlk/npc=11744) | Dust Stormer | Air Elemental (301) | Blocked | 55 | no-supported-skills |
+| [11745](https://www.wowhead.com/wotlk/npc=11745) | Cyclone Warrior | Air Elemental (301) | Blocked | 57 | no-supported-skills |
+| [14399](https://www.wowhead.com/wotlk/npc=14399) | Arcane Torrent | Air Elemental (301) | Blocked | 59 | protected-rank; no-supported-skills |
+| [14400](https://www.wowhead.com/wotlk/npc=14400) | Arcane Feedback | Air Elemental (301) | Blocked | 59 | no-supported-skills |
+| [14454](https://www.wowhead.com/wotlk/npc=14454) | The Windreaver | Air Elemental (301) | Blocked | 60 | protected-rank; no-supported-skills |
+| [14455](https://www.wowhead.com/wotlk/npc=14455) | Whirling Invader | Air Elemental (301) | Blocked | 57 | no-supported-skills |
+| [14478](https://www.wowhead.com/wotlk/npc=14478) | Huricanian | Air Elemental (301) | Blocked | 58 | protected-rank; no-supported-skills |
+| [15212](https://www.wowhead.com/wotlk/npc=15212) | Hoary Templar | Air Elemental (301) | Blocked | 60 | no-supported-skills |
+| [17085](https://www.wowhead.com/wotlk/npc=17085) | Aeranas | Air Elemental (301) | Blocked | 63 | protected-npc-vehicle-script; no-supported-skills |
+| [17158](https://www.wowhead.com/wotlk/npc=17158) | Dust Howler | Air Elemental (301) | Blocked | 64 | no-supported-skills |
+| [17159](https://www.wowhead.com/wotlk/npc=17159) | Storm Rager | Air Elemental (301) | Blocked | 65 | no-supported-skills |
+| [17160](https://www.wowhead.com/wotlk/npc=17160) | Living Cyclone | Air Elemental (301) | Blocked | 66 | no-supported-skills |
+| [17180](https://www.wowhead.com/wotlk/npc=17180) | Spirit of Air | Air Elemental (301) | Blocked | 3 | no-supported-skills |
+| [17435](https://www.wowhead.com/wotlk/npc=17435) | Susurrus | Air Elemental (301) | Blocked | 70 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [17436](https://www.wowhead.com/wotlk/npc=17436) | Aspect of Air | Air Elemental (301) | Blocked | 43 | no-supported-skills |
+| [18081](https://www.wowhead.com/wotlk/npc=18081) | Atsun of the Air | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [18102](https://www.wowhead.com/wotlk/npc=18102) | Kalandrios | Air Elemental (301) | Blocked | 73 | protected-rank; no-supported-skills |
+| [18825](https://www.wowhead.com/wotlk/npc=18825) | Minor Air Spirit | Air Elemental (301) | Blocked | 10 | no-supported-skills |
+| [18865](https://www.wowhead.com/wotlk/npc=18865) | Warp Aberration | Air Elemental (301) | Blocked | 67 | no-supported-skills |
+| [19205](https://www.wowhead.com/wotlk/npc=19205) | Syth Arcane Elemental | Air Elemental (301) | Blocked | 69 | no-supported-skills |
+| [20516](https://www.wowhead.com/wotlk/npc=20516) | Warp Monstrosity | Air Elemental (301) | Blocked | 68 | no-supported-skills |
+| [20702](https://www.wowhead.com/wotlk/npc=20702) | Syth Arcane Elemental (1) | Air Elemental (301) | Blocked | 72 | no-supported-skills |
+| [20908](https://www.wowhead.com/wotlk/npc=20908) | Akkiris Lightning-Waker | Air Elemental (301) | Blocked | 72 | protected-rank; no-supported-skills |
+| [21060](https://www.wowhead.com/wotlk/npc=21060) | Enraged Air Spirit | Air Elemental (301) | Blocked | 69 | protected-npc-vehicle-script; no-supported-skills |
+| [21132](https://www.wowhead.com/wotlk/npc=21132) | Scorned Spirit of Air | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [21617](https://www.wowhead.com/wotlk/npc=21617) | Akkiris Lightning-Waker (1) | Air Elemental (301) | Blocked | 72 | protected-rank; no-supported-skills |
+| [21707](https://www.wowhead.com/wotlk/npc=21707) | Corrupted Air Elemental | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [21738](https://www.wowhead.com/wotlk/npc=21738) | Redeemed Spirit of Air | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [22310](https://www.wowhead.com/wotlk/npc=22310) | Storming Wind-Ripper | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [22728](https://www.wowhead.com/wotlk/npc=22728) | Blizzard Elemental (1) | Air Elemental (301) | Blocked | 1 | protected-rank; no-supported-skills |
+| [22848](https://www.wowhead.com/wotlk/npc=22848) | Storm Fury | Air Elemental (301) | Blocked | 70 | protected-rank; no-supported-skills |
+| [22906](https://www.wowhead.com/wotlk/npc=22906) | Air Elemental Force | Air Elemental (301) | Blocked | 1 | no-supported-skills |
+| [23096](https://www.wowhead.com/wotlk/npc=23096) | Acolyte of Air | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [24229](https://www.wowhead.com/wotlk/npc=24229) | Howling Cyclone | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [24235](https://www.wowhead.com/wotlk/npc=24235) | Cyclothar | Air Elemental (301) | Blocked | 71 | no-supported-skills |
+| [24600](https://www.wowhead.com/wotlk/npc=24600) | Steam Ripper | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [24602](https://www.wowhead.com/wotlk/npc=24602) | Living Geyser | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [24603](https://www.wowhead.com/wotlk/npc=24603) | Living Blizzard | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [24604](https://www.wowhead.com/wotlk/npc=24604) | Ice Fury | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [24859](https://www.wowhead.com/wotlk/npc=24859) | Superheated Elemental | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [25376](https://www.wowhead.com/wotlk/npc=25376) | Imperean | Air Elemental (301) | Blocked | 72 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [25415](https://www.wowhead.com/wotlk/npc=25415) | Enraged Tempest | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [25757](https://www.wowhead.com/wotlk/npc=25757) | Ahunite Frostwind | Air Elemental (301) | Blocked | 80 | no-supported-skills |
+| [26045](https://www.wowhead.com/wotlk/npc=26045) | Storm Tempest | Air Elemental (301) | Blocked | 71 | no-supported-skills |
+| [26204](https://www.wowhead.com/wotlk/npc=26204) | Chillwind Lieutenant | Air Elemental (301) | Blocked | 43 | no-supported-skills |
+| [26341](https://www.wowhead.com/wotlk/npc=26341) | Ahunite Frostwind (1) | Air Elemental (301) | Blocked | 80 | no-supported-skills |
+| [26407](https://www.wowhead.com/wotlk/npc=26407) | Lightning Sentry | Air Elemental (301) | Blocked | 74 | no-supported-skills |
+| [26726](https://www.wowhead.com/wotlk/npc=26726) | Borean Tundra Air Elemental | Air Elemental (301) | Blocked | 70 | no-supported-skills |
+| [27650](https://www.wowhead.com/wotlk/npc=27650) | Phantasmal Air | Air Elemental (301) | Blocked | 79 | protected-rank; no-supported-skills |
+| [28384](https://www.wowhead.com/wotlk/npc=28384) | Lesser Air Elemental | Air Elemental (301) | Blocked | 77 | no-supported-skills |
+| [28547](https://www.wowhead.com/wotlk/npc=28547) | Storming Vortex | Air Elemental (301) | Blocked | 80 | protected-rank; no-supported-skills |
+| [28825](https://www.wowhead.com/wotlk/npc=28825) | Cyclone | Air Elemental (301) | Blocked | 80 | no-supported-skills |
+| [28985](https://www.wowhead.com/wotlk/npc=28985) | Haiphoon, the Great Tempest | Air Elemental (301) | Blocked | 80 | protected-npc-vehicle-script; no-supported-skills |
+| [29009](https://www.wowhead.com/wotlk/npc=29009) | Storm Revenant Credit | Air Elemental (301) | Blocked | 79 | no-supported-skills |
+| [30418](https://www.wowhead.com/wotlk/npc=30418) | Bound Air Elemental | Air Elemental (301) | Blocked | 74 | protected-rank; no-supported-skills |
+| [30848](https://www.wowhead.com/wotlk/npc=30848) | Whispering Wind | Air Elemental (301) | Blocked | 80 | no-supported-skills |
+| [30906](https://www.wowhead.com/wotlk/npc=30906) | Phantasmal Air (1) | Air Elemental (301) | Blocked | 80 | protected-rank; no-supported-skills |
+| [30965](https://www.wowhead.com/wotlk/npc=30965) | Cyclone (1) | Air Elemental (301) | Blocked | 80 | no-supported-skills |
+| [30979](https://www.wowhead.com/wotlk/npc=30979) | Storming Vortex (1) | Air Elemental (301) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31382](https://www.wowhead.com/wotlk/npc=31382) | Lesser Air Elemental (1) | Air Elemental (301) | Blocked | 80 | no-supported-skills |
+| [31452](https://www.wowhead.com/wotlk/npc=31452) | Bound Air Elemental (1) | Air Elemental (301) | Blocked | 81 | protected-rank; no-supported-skills |
+| [31925](https://www.wowhead.com/wotlk/npc=31925) | Blizzard Elemental (2) | Air Elemental (301) | Blocked | 1 | protected-rank; no-supported-skills |
+| [32958](https://www.wowhead.com/wotlk/npc=32958) | Lightning Elemental | Air Elemental (301) | Blocked | 80 | protected-npc-vehicle-script; no-supported-skills |
+| [33689](https://www.wowhead.com/wotlk/npc=33689) | Lightning Elemental (1) | Air Elemental (301) | Blocked | 80 | no-supported-skills |
+| [33999](https://www.wowhead.com/wotlk/npc=33999) | Tempest Minion (1) | Air Elemental (301) | Blocked | 82 | protected-rank; no-supported-skills |
+| [36546](https://www.wowhead.com/wotlk/npc=36546) | Unstable Air Elemental | Air Elemental (301) | Blocked | 80 | no-supported-skills |
+| [36964](https://www.wowhead.com/wotlk/npc=36964) | [PH] Scaling Air Elemental | Air Elemental (301) | Blocked | 40 | no-supported-skills |
+| [37241](https://www.wowhead.com/wotlk/npc=37241) | Blizzard Elemental (3) | Air Elemental (301) | Blocked | 1 | protected-rank; no-supported-skills |
+| [40104](https://www.wowhead.com/wotlk/npc=40104) | Raging Wind Elemental | Air Elemental (301) | Blocked | 80 | no-supported-skills |
+| [28546](https://www.wowhead.com/wotlk/npc=28546) | Ionar | Air Revenant (326) | Blocked | 81 | protected-rank; protected-npc-vehicle-script |
+| [28784](https://www.wowhead.com/wotlk/npc=28784) | Altar Warden | Air Revenant (326) | Blocked | 76 | protected-rank |
+| [28826](https://www.wowhead.com/wotlk/npc=28826) | Stormfury Revenant | Air Revenant (326) | Blocked | 80 | protected-rank |
+| [30026](https://www.wowhead.com/wotlk/npc=30026) | Az'Barin, Prince of the Gust | Air Revenant (326) | Blocked | 76 | protected-rank |
+| [30376](https://www.wowhead.com/wotlk/npc=30376) | Halefnir the Windborn | Air Revenant (326) | Blocked | 80 | protected-rank |
+| [30474](https://www.wowhead.com/wotlk/npc=30474) | The North Wind | Air Revenant (326) | Blocked | 80 | protected-rank |
+| [30550](https://www.wowhead.com/wotlk/npc=30550) | Image of the North Wind | Air Revenant (326) | Blocked | 80 | protected-rank |
+| [30978](https://www.wowhead.com/wotlk/npc=30978) | Stormfury Revenant (1) | Air Revenant (326) | Blocked | 80 | protected-rank |
+| [31537](https://www.wowhead.com/wotlk/npc=31537) | Ionar (1) | Air Revenant (326) | Blocked | 82 | protected-rank |
+| [33998](https://www.wowhead.com/wotlk/npc=33998) | Tempest Minion | Air Revenant (326) | Blocked | 82 | protected-rank |
+| [34015](https://www.wowhead.com/wotlk/npc=34015) | Tempest Warder | Air Revenant (326) | Blocked | 82 | protected-rank |
+| [34016](https://www.wowhead.com/wotlk/npc=34016) | Tempest Warder (1) | Air Revenant (326) | Blocked | 82 | protected-rank |
+| [34049](https://www.wowhead.com/wotlk/npc=34049) | Tempest Minion | Air Revenant (326) | Blocked | 82 | protected-rank |
+| [34200](https://www.wowhead.com/wotlk/npc=34200) | Tempest Minion (1) | Air Revenant (326) | Blocked | 82 | protected-rank |
+| [764](https://www.wowhead.com/wotlk/npc=764) | Swampwalker | Bog Beast (355) | Blocked | 38 | no-ability-profile |
+| [765](https://www.wowhead.com/wotlk/npc=765) | Swampwalker Elder | Bog Beast (355) | Blocked | 39 | no-ability-profile |
+| [766](https://www.wowhead.com/wotlk/npc=766) | Tangled Horror | Bog Beast (355) | Blocked | 40 | no-ability-profile |
+| [1039](https://www.wowhead.com/wotlk/npc=1039) | Fen Dweller | Bog Beast (355) | Blocked | 20 | no-ability-profile |
+| [1040](https://www.wowhead.com/wotlk/npc=1040) | Fen Creeper | Bog Beast (355) | Blocked | 24 | no-ability-profile |
+| [1041](https://www.wowhead.com/wotlk/npc=1041) | Fen Lord | Bog Beast (355) | Blocked | 25 | no-ability-profile |
+| [1081](https://www.wowhead.com/wotlk/npc=1081) | Mire Lord | Bog Beast (355) | Blocked | 42 | no-ability-profile |
+| [1244](https://www.wowhead.com/wotlk/npc=1244) | Rethiel the Greenwarden | Bog Beast (355) | Blocked | 30 | protected-npc-vehicle-script; no-ability-profile |
+| [1812](https://www.wowhead.com/wotlk/npc=1812) | Rotting Behemoth | Bog Beast (355) | Blocked | 55 | no-ability-profile |
+| [1813](https://www.wowhead.com/wotlk/npc=1813) | Decaying Horror | Bog Beast (355) | Blocked | 56 | no-ability-profile |
+| [1851](https://www.wowhead.com/wotlk/npc=1851) | The Husk | Bog Beast (355) | Blocked | 62 | protected-rank; no-ability-profile |
+| [1953](https://www.wowhead.com/wotlk/npc=1953) | Lake Skulker | Bog Beast (355) | Blocked | 15 | no-ability-profile |
+| [1954](https://www.wowhead.com/wotlk/npc=1954) | Elder Lake Skulker | Bog Beast (355) | Blocked | 16 | no-ability-profile |
+| [1955](https://www.wowhead.com/wotlk/npc=1955) | Lake Creeper | Bog Beast (355) | Blocked | 17 | no-ability-profile |
+| [1956](https://www.wowhead.com/wotlk/npc=1956) | Elder Lake Creeper | Bog Beast (355) | Blocked | 18 | no-ability-profile |
+| [2022](https://www.wowhead.com/wotlk/npc=2022) | Timberling | Bog Beast (355) | Blocked | 5 | no-ability-profile |
+| [2025](https://www.wowhead.com/wotlk/npc=2025) | Timberling Bark Ripper | Bog Beast (355) | Blocked | 7 | no-ability-profile |
+| [2027](https://www.wowhead.com/wotlk/npc=2027) | Timberling Trampler | Bog Beast (355) | Blocked | 8 | no-ability-profile |
+| [2029](https://www.wowhead.com/wotlk/npc=2029) | Timberling Mire Beast | Bog Beast (355) | Blocked | 9 | no-ability-profile |
+| [2030](https://www.wowhead.com/wotlk/npc=2030) | Elder Timberling | Bog Beast (355) | Blocked | 10 | no-ability-profile |
+| [2166](https://www.wowhead.com/wotlk/npc=2166) | Oakenscowl | Bog Beast (355) | Blocked | 9 | no-ability-profile |
+| [3535](https://www.wowhead.com/wotlk/npc=3535) | Blackmoss the Fetid | Bog Beast (355) | Blocked | 13 | protected-rank; no-ability-profile |
+| [3569](https://www.wowhead.com/wotlk/npc=3569) | Bogling | Bog Beast (355) | Blocked | 5 | no-ability-profile |
+| [3570](https://www.wowhead.com/wotlk/npc=3570) | Cleansed Timberling | Bog Beast (355) | Blocked | 7 | no-ability-profile |
+| [3780](https://www.wowhead.com/wotlk/npc=3780) | Shadethicket Moss Eater | Bog Beast (355) | Blocked | 21 | no-ability-profile |
+| [3781](https://www.wowhead.com/wotlk/npc=3781) | Shadethicket Wood Shaper | Bog Beast (355) | Blocked | 23 | no-ability-profile |
+| [3782](https://www.wowhead.com/wotlk/npc=3782) | Shadethicket Stone Mover | Bog Beast (355) | Blocked | 25 | no-ability-profile |
+| [3783](https://www.wowhead.com/wotlk/npc=3783) | Shadethicket Raincaller | Bog Beast (355) | Blocked | 22 | no-ability-profile |
+| [3784](https://www.wowhead.com/wotlk/npc=3784) | Shadethicket Bark Ripper | Bog Beast (355) | Blocked | 26 | no-ability-profile |
+| [3931](https://www.wowhead.com/wotlk/npc=3931) | Shadethicket Oracle | Bog Beast (355) | Blocked | 30 | no-ability-profile |
+| [4382](https://www.wowhead.com/wotlk/npc=4382) | Withervine Creeper | Bog Beast (355) | Blocked | 36 | no-ability-profile |
+| [4385](https://www.wowhead.com/wotlk/npc=4385) | Withervine Rager | Bog Beast (355) | Blocked | 36 | no-ability-profile |
+| [4386](https://www.wowhead.com/wotlk/npc=4386) | Withervine Bark Ripper | Bog Beast (355) | Blocked | 36 | no-ability-profile |
+| [4387](https://www.wowhead.com/wotlk/npc=4387) | Withervine Mire Beast | Bog Beast (355) | Blocked | 37 | no-ability-profile |
+| [5481](https://www.wowhead.com/wotlk/npc=5481) | Thistleshrub Dew Collector | Bog Beast (355) | Blocked | 47 | no-ability-profile |
+| [5485](https://www.wowhead.com/wotlk/npc=5485) | Thistleshrub Rootshaper | Bog Beast (355) | Blocked | 49 | no-ability-profile |
+| [5490](https://www.wowhead.com/wotlk/npc=5490) | Gnarled Thistleshrub | Bog Beast (355) | Blocked | 48 | no-ability-profile |
+| [5761](https://www.wowhead.com/wotlk/npc=5761) | Deviate Shambler | Bog Beast (355) | Blocked | 19 | protected-rank; no-ability-profile |
+| [5775](https://www.wowhead.com/wotlk/npc=5775) | Verdan the Everliving | Bog Beast (355) | Blocked | 20 | protected-rank; no-ability-profile |
+| [6517](https://www.wowhead.com/wotlk/npc=6517) | Tar Beast | Bog Beast (355) | Blocked | 50 | no-ability-profile |
+| [6518](https://www.wowhead.com/wotlk/npc=6518) | Tar Lurker | Bog Beast (355) | Blocked | 52 | no-ability-profile |
+| [6519](https://www.wowhead.com/wotlk/npc=6519) | Tar Lord | Bog Beast (355) | Blocked | 53 | no-ability-profile |
+| [6527](https://www.wowhead.com/wotlk/npc=6527) | Tar Creeper | Bog Beast (355) | Blocked | 51 | no-ability-profile |
+| [6932](https://www.wowhead.com/wotlk/npc=6932) | Swamp Spirit | Bog Beast (355) | Blocked | 50 | no-ability-profile |
+| [7100](https://www.wowhead.com/wotlk/npc=7100) | Warpwood Moss Flayer | Bog Beast (355) | Blocked | 52 | no-ability-profile |
+| [7101](https://www.wowhead.com/wotlk/npc=7101) | Warpwood Shredder | Bog Beast (355) | Blocked | 53 | no-ability-profile |
+| [7104](https://www.wowhead.com/wotlk/npc=7104) | Dessecus | Bog Beast (355) | Blocked | 56 | protected-rank; no-ability-profile |
+| [8384](https://www.wowhead.com/wotlk/npc=8384) | Deep Lurker | Bog Beast (355) | Blocked | 47 | protected-rank; no-ability-profile |
+| [10641](https://www.wowhead.com/wotlk/npc=10641) | Branch Snapper | Bog Beast (355) | Blocked | 25 | protected-rank; no-ability-profile |
+| [11447](https://www.wowhead.com/wotlk/npc=11447) | Mushgog | Bog Beast (355) | Blocked | 60 | protected-rank; no-ability-profile |
+| [12223](https://www.wowhead.com/wotlk/npc=12223) | Cavern Lurker | Bog Beast (355) | Blocked | 44 | protected-rank; no-ability-profile |
+| [12224](https://www.wowhead.com/wotlk/npc=12224) | Cavern Shambler | Bog Beast (355) | Blocked | 45 | protected-rank; no-ability-profile |
+| [12237](https://www.wowhead.com/wotlk/npc=12237) | Meshlok the Harvester | Bog Beast (355) | Blocked | 46 | protected-rank; no-ability-profile |
+| [14231](https://www.wowhead.com/wotlk/npc=14231) | Drogoth the Roamer | Bog Beast (355) | Blocked | 37 | protected-rank; no-ability-profile |
+| [14424](https://www.wowhead.com/wotlk/npc=14424) | Mirelow | Bog Beast (355) | Blocked | 25 | protected-rank; no-ability-profile |
+| [14448](https://www.wowhead.com/wotlk/npc=14448) | Molt Thorn | Bog Beast (355) | Blocked | 42 | protected-rank; no-ability-profile |
+| [16035](https://www.wowhead.com/wotlk/npc=16035) | [UNUSED] Bog Beast B [PH] | Bog Beast (355) | Blocked | 60 | protected-rank; no-ability-profile |
+| [18136](https://www.wowhead.com/wotlk/npc=18136) | Marsh Lurker | Bog Beast (355) | Blocked | 61 | no-ability-profile |
+| [18137](https://www.wowhead.com/wotlk/npc=18137) | Marsh Dredger | Bog Beast (355) | Blocked | 61 | no-ability-profile |
+| [18282](https://www.wowhead.com/wotlk/npc=18282) | Lord Klaq | Bog Beast (355) | Blocked | 62 | no-ability-profile |
+| [19790](https://www.wowhead.com/wotlk/npc=19790) | Mud Lurker | Bog Beast (355) | Blocked | 68 | no-ability-profile |
+| [19791](https://www.wowhead.com/wotlk/npc=19791) | Lightless Mud Flinger | Bog Beast (355) | Blocked | 68 | no-ability-profile |
+| [22352](https://www.wowhead.com/wotlk/npc=22352) | Colossus Rager | Bog Beast (355) | Blocked | 70 | protected-rank; no-ability-profile |
+| [23874](https://www.wowhead.com/wotlk/npc=23874) | Thornvine Creeper | Bog Beast (355) | Blocked | 69 | no-ability-profile |
+| [24245](https://www.wowhead.com/wotlk/npc=24245) | Fenstalker | Bog Beast (355) | Blocked | 70 | protected-rank; no-ability-profile |
+| [28323](https://www.wowhead.com/wotlk/npc=28323) | Mossy Rampager | Bog Beast (355) | Blocked | 75 | no-ability-profile |
+| [92](https://www.wowhead.com/wotlk/npc=92) | Rock Elemental | Earth Elemental (302) | Blocked | 39 | no-supported-skills |
+| [329](https://www.wowhead.com/wotlk/npc=329) | Earth Elemental | Earth Elemental (302) | Blocked | 59 | no-supported-skills |
+| [2258](https://www.wowhead.com/wotlk/npc=2258) | Stone Fury | Earth Elemental (302) | Blocked | 37 | protected-rank; no-supported-skills |
+| [2359](https://www.wowhead.com/wotlk/npc=2359) | Elemental Slave | Earth Elemental (302) | Blocked | 33 | no-supported-skills |
+| [2592](https://www.wowhead.com/wotlk/npc=2592) | Rumbling Exile | Earth Elemental (302) | Blocked | 38 | no-supported-skills |
+| [2593](https://www.wowhead.com/wotlk/npc=2593) | Rough Stone Elemental | Earth Elemental (302) | Blocked | 37 | no-supported-skills |
+| [2735](https://www.wowhead.com/wotlk/npc=2735) | Lesser Rock Elemental | Earth Elemental (302) | Blocked | 37 | no-supported-skills |
+| [2736](https://www.wowhead.com/wotlk/npc=2736) | Greater Rock Elemental | Earth Elemental (302) | Blocked | 42 | no-supported-skills |
+| [2752](https://www.wowhead.com/wotlk/npc=2752) | Rumbler | Earth Elemental (302) | Blocked | 45 | protected-rank; no-supported-skills |
+| [2791](https://www.wowhead.com/wotlk/npc=2791) | Enraged Rock Elemental | Earth Elemental (302) | Blocked | 42 | no-supported-skills |
+| [2887](https://www.wowhead.com/wotlk/npc=2887) | Prismatic Exile | Earth Elemental (302) | Blocked | 44 | no-supported-skills |
+| [2919](https://www.wowhead.com/wotlk/npc=2919) | Fam'retor Guardian | Earth Elemental (302) | Blocked | 45 | no-supported-skills |
+| [4033](https://www.wowhead.com/wotlk/npc=4033) | Charred Stone Spirit | Earth Elemental (302) | Blocked | 22 | no-supported-skills |
+| [4034](https://www.wowhead.com/wotlk/npc=4034) | Enraged Stone Spirit | Earth Elemental (302) | Blocked | 24 | no-supported-skills |
+| [4035](https://www.wowhead.com/wotlk/npc=4035) | Furious Stone Spirit | Earth Elemental (302) | Blocked | 26 | no-supported-skills |
+| [4120](https://www.wowhead.com/wotlk/npc=4120) | Thundering Boulderkin | Earth Elemental (302) | Blocked | 28 | no-supported-skills |
+| [4121](https://www.wowhead.com/wotlk/npc=4121) | Wandering Boulderkin | Earth Elemental (302) | Blocked | 26 | no-supported-skills |
+| [4499](https://www.wowhead.com/wotlk/npc=4499) | Rok'Alim the Pounder | Earth Elemental (302) | Blocked | 30 | no-supported-skills |
+| [4528](https://www.wowhead.com/wotlk/npc=4528) | Stone Rumbler | Earth Elemental (302) | Blocked | 21 | protected-rank; no-supported-skills |
+| [4661](https://www.wowhead.com/wotlk/npc=4661) | Gelkis Rumbler | Earth Elemental (302) | Blocked | 29 | no-supported-skills |
+| [5465](https://www.wowhead.com/wotlk/npc=5465) | Land Rager | Earth Elemental (302) | Blocked | 45 | no-supported-skills |
+| [5855](https://www.wowhead.com/wotlk/npc=5855) | Magma Elemental | Earth Elemental (302) | Blocked | 46 | no-supported-skills |
+| [5889](https://www.wowhead.com/wotlk/npc=5889) | Mesa Earth Spirit | Earth Elemental (302) | Blocked | 5 | no-supported-skills |
+| [5890](https://www.wowhead.com/wotlk/npc=5890) | Redrock Earth Spirit | Earth Elemental (302) | Blocked | 1 | no-supported-skills |
+| [5891](https://www.wowhead.com/wotlk/npc=5891) | Minor Manifestation of Earth | Earth Elemental (302) | Blocked | 15 | protected-npc-vehicle-script; no-supported-skills |
+| [7031](https://www.wowhead.com/wotlk/npc=7031) | Obsidian Elemental | Earth Elemental (302) | Blocked | 52 | no-supported-skills |
+| [7032](https://www.wowhead.com/wotlk/npc=7032) | Greater Obsidian Elemental | Earth Elemental (302) | Blocked | 55 | no-supported-skills |
+| [8206](https://www.wowhead.com/wotlk/npc=8206) | Soul of Tanaris | Earth Elemental (302) | Blocked | 51 | protected-rank; no-supported-skills |
+| [8278](https://www.wowhead.com/wotlk/npc=8278) | Smoldar | Earth Elemental (302) | Blocked | 50 | protected-rank; no-supported-skills |
+| [9025](https://www.wowhead.com/wotlk/npc=9025) | Lord Roccor | Earth Elemental (302) | Blocked | 51 | protected-rank; no-supported-skills |
+| [9396](https://www.wowhead.com/wotlk/npc=9396) | Ground Pounder | Earth Elemental (302) | Blocked | 41 | no-supported-skills |
+| [11321](https://www.wowhead.com/wotlk/npc=11321) | Molten Elemental | Earth Elemental (302) | Blocked | 13 | protected-rank; no-supported-skills |
+| [11665](https://www.wowhead.com/wotlk/npc=11665) | Lava Annihilator | Earth Elemental (302) | Blocked | 61 | protected-rank; no-supported-skills |
+| [11746](https://www.wowhead.com/wotlk/npc=11746) | Desert Rumbler | Earth Elemental (302) | Blocked | 56 | no-supported-skills |
+| [11747](https://www.wowhead.com/wotlk/npc=11747) | Desert Rager | Earth Elemental (302) | Blocked | 58 | no-supported-skills |
+| [11777](https://www.wowhead.com/wotlk/npc=11777) | Shadowshard Rumbler | Earth Elemental (302) | Blocked | 40 | no-supported-skills |
+| [11778](https://www.wowhead.com/wotlk/npc=11778) | Shadowshard Smasher | Earth Elemental (302) | Blocked | 41 | no-supported-skills |
+| [11779](https://www.wowhead.com/wotlk/npc=11779) | Shadowshard Thunderer | Earth Elemental (302) | Blocked | 47 | protected-rank; no-supported-skills |
+| [11780](https://www.wowhead.com/wotlk/npc=11780) | Ambershard Rager | Earth Elemental (302) | Blocked | 45 | protected-rank; no-supported-skills |
+| [11781](https://www.wowhead.com/wotlk/npc=11781) | Ambershard Crusher | Earth Elemental (302) | Blocked | 40 | no-supported-skills |
+| [11782](https://www.wowhead.com/wotlk/npc=11782) | Ambershard Destroyer | Earth Elemental (302) | Blocked | 42 | no-supported-skills |
+| [11783](https://www.wowhead.com/wotlk/npc=11783) | Theradrim Shardling | Earth Elemental (302) | Blocked | 45 | no-supported-skills |
+| [11784](https://www.wowhead.com/wotlk/npc=11784) | Theradrim Guardian | Earth Elemental (302) | Blocked | 46 | protected-rank; no-supported-skills |
+| [12057](https://www.wowhead.com/wotlk/npc=12057) | Garr | Earth Elemental (302) | Blocked | 63 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [12076](https://www.wowhead.com/wotlk/npc=12076) | Lava Elemental | Earth Elemental (302) | Blocked | 61 | protected-rank; no-supported-skills |
+| [12099](https://www.wowhead.com/wotlk/npc=12099) | Firesworn | Earth Elemental (302) | Blocked | 60 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [12100](https://www.wowhead.com/wotlk/npc=12100) | Lava Reaver | Earth Elemental (302) | Blocked | 62 | protected-rank; no-supported-skills |
+| [12101](https://www.wowhead.com/wotlk/npc=12101) | Lava Surger | Earth Elemental (302) | Blocked | 61 | protected-rank; no-supported-skills |
+| [12806](https://www.wowhead.com/wotlk/npc=12806) | Magmakin | Earth Elemental (302) | Blocked | 60 | protected-rank; no-supported-skills |
+| [13256](https://www.wowhead.com/wotlk/npc=13256) | Lokholar the Ice Lord | Earth Elemental (302) | Blocked | 61 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [14352](https://www.wowhead.com/wotlk/npc=14352) | Duke Landressar | Earth Elemental (302) | Blocked | 63 | protected-rank; no-supported-skills |
+| [14462](https://www.wowhead.com/wotlk/npc=14462) | Thundering Invader | Earth Elemental (302) | Blocked | 55 | no-supported-skills |
+| [14464](https://www.wowhead.com/wotlk/npc=14464) | Avalanchion | Earth Elemental (302) | Blocked | 58 | protected-rank; no-supported-skills |
+| [15307](https://www.wowhead.com/wotlk/npc=15307) | Earthen Templar | Earth Elemental (302) | Blocked | 60 | no-supported-skills |
+| [15352](https://www.wowhead.com/wotlk/npc=15352) | Greater Earth Elemental | Earth Elemental (302) | Blocked | 66 | protected-npc-vehicle-script; no-supported-skills |
+| [16043](https://www.wowhead.com/wotlk/npc=16043) | Magma Lord Bokk | Earth Elemental (302) | Blocked | 60 | no-supported-skills |
+| [17087](https://www.wowhead.com/wotlk/npc=17087) | Spirit of the Vale | Earth Elemental (302) | Blocked | 70 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [17156](https://www.wowhead.com/wotlk/npc=17156) | Tortured Earth Spirit | Earth Elemental (302) | Blocked | 64 | no-supported-skills |
+| [17157](https://www.wowhead.com/wotlk/npc=17157) | Shattered Rumbler | Earth Elemental (302) | Blocked | 66 | no-supported-skills |
+| [17179](https://www.wowhead.com/wotlk/npc=17179) | Restless Spirit of Earth | Earth Elemental (302) | Blocked | 4 | no-supported-skills |
+| [18062](https://www.wowhead.com/wotlk/npc=18062) | Enraged Crusher | Earth Elemental (302) | Blocked | 65 | no-supported-skills |
+| [18082](https://www.wowhead.com/wotlk/npc=18082) | Rokh of the Earth | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
+| [18181](https://www.wowhead.com/wotlk/npc=18181) | Minion of Gurok | Earth Elemental (302) | Blocked | 64 | no-supported-skills |
+| [18826](https://www.wowhead.com/wotlk/npc=18826) | Minor Earth Spirit | Earth Elemental (302) | Blocked | 10 | no-supported-skills |
+| [18881](https://www.wowhead.com/wotlk/npc=18881) | Sundered Rumbler | Earth Elemental (302) | Blocked | 67 | no-supported-skills |
+| [18882](https://www.wowhead.com/wotlk/npc=18882) | Sundered Thunderer | Earth Elemental (302) | Blocked | 69 | no-supported-skills |
+| [19431](https://www.wowhead.com/wotlk/npc=19431) | Test Elemental | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
+| [20325](https://www.wowhead.com/wotlk/npc=20325) | Pink Elemental | Earth Elemental (302) | Blocked | 67 | no-supported-skills |
+| [20498](https://www.wowhead.com/wotlk/npc=20498) | Sundered Shard | Earth Elemental (302) | Blocked | 67 | no-supported-skills |
+| [21050](https://www.wowhead.com/wotlk/npc=21050) | Enraged Earth Spirit | Earth Elemental (302) | Blocked | 68 | protected-npc-vehicle-script; no-supported-skills |
+| [21129](https://www.wowhead.com/wotlk/npc=21129) | Scorned Spirit of Earth | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
+| [21708](https://www.wowhead.com/wotlk/npc=21708) | Corrupted Earth Elemental | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
+| [21739](https://www.wowhead.com/wotlk/npc=21739) | Redeemed Spirit of Earth | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
+| [22115](https://www.wowhead.com/wotlk/npc=22115) | Enraged Earth Shard | Earth Elemental (302) | Blocked | 68 | protected-npc-vehicle-script; no-supported-skills |
+| [22313](https://www.wowhead.com/wotlk/npc=22313) | Rumbling Earth-Heart | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
+| [22319](https://www.wowhead.com/wotlk/npc=22319) | Living Rock | Earth Elemental (302) | Blocked | 66 | no-supported-skills |
+| [22629](https://www.wowhead.com/wotlk/npc=22629) | Lokholar the Ice Lord (1) | Earth Elemental (302) | Blocked | 71 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [22908](https://www.wowhead.com/wotlk/npc=22908) | Earth Elemental Force | Earth Elemental (302) | Blocked | 1 | no-supported-skills |
+| [23098](https://www.wowhead.com/wotlk/npc=23098) | Acolyte of Earth | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
+| [23919](https://www.wowhead.com/wotlk/npc=23919) | Ice Elemental | Earth Elemental (302) | Blocked | 69 | no-supported-skills |
+| [24228](https://www.wowhead.com/wotlk/npc=24228) | Iceshard Elemental | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
+| [24340](https://www.wowhead.com/wotlk/npc=24340) | Rampaging Earth Elemental | Earth Elemental (302) | Blocked | 69 | no-supported-skills |
+| [24650](https://www.wowhead.com/wotlk/npc=24650) | Broken Earth Elemental | Earth Elemental (302) | Blocked | 71 | protected-rank; no-supported-skills |
+| [25514](https://www.wowhead.com/wotlk/npc=25514) | Rocknar | Earth Elemental (302) | Blocked | 71 | no-supported-skills |
+| [25715](https://www.wowhead.com/wotlk/npc=25715) | Frozen Elemental | Earth Elemental (302) | Blocked | 70 | no-supported-skills |
+| [25742](https://www.wowhead.com/wotlk/npc=25742) | Alluvius | Earth Elemental (302) | Blocked | 71 | no-supported-skills |
+| [25755](https://www.wowhead.com/wotlk/npc=25755) | Ahunite Hailstone | Earth Elemental (302) | Blocked | 80 | protected-rank; no-supported-skills |
+| [26178](https://www.wowhead.com/wotlk/npc=26178) | Hailstone Lieutenant | Earth Elemental (302) | Blocked | 32 | no-supported-skills |
+| [26316](https://www.wowhead.com/wotlk/npc=26316) | Crystalline Ice Elemental | Earth Elemental (302) | Blocked | 73 | no-supported-skills |
+| [26342](https://www.wowhead.com/wotlk/npc=26342) | Ahunite Hailstone (1) | Earth Elemental (302) | Blocked | 80 | protected-rank; no-supported-skills |
+| [28387](https://www.wowhead.com/wotlk/npc=28387) | Zim'Torga Defender | Earth Elemental (302) | Blocked | 76 | no-supported-skills |
+| [28411](https://www.wowhead.com/wotlk/npc=28411) | Frozen Earth | Earth Elemental (302) | Blocked | 76 | no-supported-skills |
+| [28585](https://www.wowhead.com/wotlk/npc=28585) | Slag | Earth Elemental (302) | Blocked | 79 | no-supported-skills |
+| [29124](https://www.wowhead.com/wotlk/npc=29124) | Lifeblood Elemental | Earth Elemental (302) | Blocked | 76 | no-supported-skills |
+| [29303](https://www.wowhead.com/wotlk/npc=29303) | Lifeblood Elemental Credit | Earth Elemental (302) | Blocked | 76 | no-supported-skills |
+| [30849](https://www.wowhead.com/wotlk/npc=30849) | Chilled Earth Elemental | Earth Elemental (302) | Blocked | 80 | no-supported-skills |
+| [30970](https://www.wowhead.com/wotlk/npc=30970) | Slag (1) | Earth Elemental (302) | Blocked | 80 | no-supported-skills |
+| [31822](https://www.wowhead.com/wotlk/npc=31822) | Lokholar the Ice Lord (2) | Earth Elemental (302) | Blocked | 81 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [33768](https://www.wowhead.com/wotlk/npc=33768) | Rubble | Earth Elemental (302) | Blocked | 81 | protected-rank; no-supported-skills |
+| [33908](https://www.wowhead.com/wotlk/npc=33908) | Rubble (1) | Earth Elemental (302) | Blocked | 81 | protected-rank; no-supported-skills |
+| [34135](https://www.wowhead.com/wotlk/npc=34135) | Winter Rumbler | Earth Elemental (302) | Blocked | 81 | protected-rank; no-supported-skills |
+| [34142](https://www.wowhead.com/wotlk/npc=34142) | Winter Rumbler (1) | Earth Elemental (302) | Blocked | 81 | protected-rank; no-supported-skills |
+| [36554](https://www.wowhead.com/wotlk/npc=36554) | Unstable Earth Elemental | Earth Elemental (302) | Blocked | 80 | no-supported-skills |
+| [36963](https://www.wowhead.com/wotlk/npc=36963) | [PH] Scaling Earth Elemental | Earth Elemental (302) | Blocked | 40 | no-supported-skills |
+| [37363](https://www.wowhead.com/wotlk/npc=37363) | Lokholar the Ice Lord (3) | Earth Elemental (302) | Blocked | 81 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [39021](https://www.wowhead.com/wotlk/npc=39021) | Agitated Earth Spirit | Earth Elemental (302) | Blocked | 10 | no-supported-skills |
+| [39132](https://www.wowhead.com/wotlk/npc=39132) | Earthen Servant | Earth Elemental (302) | Blocked | 80 | no-supported-skills |
+| [30025](https://www.wowhead.com/wotlk/npc=30025) | Erathius, King of Dirt | Earth Revenant (327) | Blocked | 76 | protected-rank |
+| [34134](https://www.wowhead.com/wotlk/npc=34134) | Winter Revenant | Earth Revenant (327) | Blocked | 81 | protected-rank |
+| [34141](https://www.wowhead.com/wotlk/npc=34141) | Winter Revenant (1) | Earth Revenant (327) | Blocked | 81 | protected-rank |
+| [36874](https://www.wowhead.com/wotlk/npc=36874) | Disturbed Glacial Revenant | Earth Revenant (327) | Blocked | 80 | protected-rank |
+| [38482](https://www.wowhead.com/wotlk/npc=38482) | Frost Warder | Earth Revenant (327) | Blocked | 82 | protected-rank |
+| [38483](https://www.wowhead.com/wotlk/npc=38483) | Frost Warder (1) | Earth Revenant (327) | Blocked | 82 | protected-rank |
+| [575](https://www.wowhead.com/wotlk/npc=575) | Fire Elemental | Fire Elemental (303) | Blocked | 40 | no-supported-skills |
+| [2745](https://www.wowhead.com/wotlk/npc=2745) | Ambassador Infernus | Fire Elemental (303) | Blocked | 42 | protected-rank; no-supported-skills |
+| [2760](https://www.wowhead.com/wotlk/npc=2760) | Burning Exile | Fire Elemental (303) | Blocked | 38 | no-supported-skills |
+| [3417](https://www.wowhead.com/wotlk/npc=3417) | Living Flame | Fire Elemental (303) | Blocked | 16 | no-supported-skills |
+| [4036](https://www.wowhead.com/wotlk/npc=4036) | Rogue Flame Spirit | Fire Elemental (303) | Blocked | 23 | no-supported-skills |
+| [4037](https://www.wowhead.com/wotlk/npc=4037) | Burning Ravager | Fire Elemental (303) | Blocked | 24 | no-supported-skills |
+| [4038](https://www.wowhead.com/wotlk/npc=4038) | Burning Destroyer | Fire Elemental (303) | Blocked | 26 | no-supported-skills |
+| [5850](https://www.wowhead.com/wotlk/npc=5850) | Blazing Elemental | Fire Elemental (303) | Blocked | 45 | no-supported-skills |
+| [5852](https://www.wowhead.com/wotlk/npc=5852) | Inferno Elemental | Fire Elemental (303) | Blocked | 47 | no-supported-skills |
+| [5893](https://www.wowhead.com/wotlk/npc=5893) | Minor Manifestation of Fire | Fire Elemental (303) | Blocked | 12 | no-supported-skills |
+| [5896](https://www.wowhead.com/wotlk/npc=5896) | Fire Spirit | Fire Elemental (303) | Blocked | 9 | no-supported-skills |
+| [6296](https://www.wowhead.com/wotlk/npc=6296) | Flame Elemental | Fire Elemental (303) | Blocked | 17 | no-supported-skills |
+| [6520](https://www.wowhead.com/wotlk/npc=6520) | Scorching Elemental | Fire Elemental (303) | Blocked | 53 | no-supported-skills |
+| [6521](https://www.wowhead.com/wotlk/npc=6521) | Living Blaze | Fire Elemental (303) | Blocked | 54 | no-supported-skills |
+| [7266](https://www.wowhead.com/wotlk/npc=7266) | Ember | Fire Elemental (303) | Blocked | 26 | no-supported-skills |
+| [7738](https://www.wowhead.com/wotlk/npc=7738) | Burning Servant | Fire Elemental (303) | Blocked | 26 | no-supported-skills |
+| [8281](https://www.wowhead.com/wotlk/npc=8281) | Scald | Fire Elemental (303) | Blocked | 49 | protected-rank; no-supported-skills |
+| [8909](https://www.wowhead.com/wotlk/npc=8909) | Fireguard | Fire Elemental (303) | Blocked | 50 | protected-rank; no-supported-skills |
+| [8910](https://www.wowhead.com/wotlk/npc=8910) | Blazing Fireguard | Fire Elemental (303) | Blocked | 52 | protected-rank; no-supported-skills |
+| [8911](https://www.wowhead.com/wotlk/npc=8911) | Fireguard Destroyer | Fire Elemental (303) | Blocked | 54 | protected-rank; no-supported-skills |
+| [9017](https://www.wowhead.com/wotlk/npc=9017) | Lord Incendius | Fire Elemental (303) | Blocked | 53 | protected-rank; no-supported-skills |
+| [9026](https://www.wowhead.com/wotlk/npc=9026) | Overmaster Pyron | Fire Elemental (303) | Blocked | 51 | protected-rank; no-supported-skills |
+| [9178](https://www.wowhead.com/wotlk/npc=9178) | Burning Spirit | Fire Elemental (303) | Blocked | 30 | protected-npc-vehicle-script; no-supported-skills |
+| [9376](https://www.wowhead.com/wotlk/npc=9376) | Blazerunner | Fire Elemental (303) | Blocked | 56 | protected-rank; no-supported-skills |
+| [9816](https://www.wowhead.com/wotlk/npc=9816) | Pyroguard Emberseer | Fire Elemental (303) | Blocked | 60 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [9878](https://www.wowhead.com/wotlk/npc=9878) | Entropic Beast | Fire Elemental (303) | Blocked | 51 | no-supported-skills |
+| [9879](https://www.wowhead.com/wotlk/npc=9879) | Entropic Horror | Fire Elemental (303) | Blocked | 53 | no-supported-skills |
+| [11481](https://www.wowhead.com/wotlk/npc=11481) | [UNUSED] Arcane Terror | Fire Elemental (303) | Blocked | 60 | protected-rank; no-supported-skills |
+| [11666](https://www.wowhead.com/wotlk/npc=11666) | Firewalker | Fire Elemental (303) | Blocked | 61 | protected-rank; no-supported-skills |
+| [11667](https://www.wowhead.com/wotlk/npc=11667) | Flameguard | Fire Elemental (303) | Blocked | 61 | protected-rank; no-supported-skills |
+| [11668](https://www.wowhead.com/wotlk/npc=11668) | Firelord | Fire Elemental (303) | Blocked | 61 | protected-rank; no-supported-skills |
+| [12056](https://www.wowhead.com/wotlk/npc=12056) | Baron Geddon | Fire Elemental (303) | Blocked | 63 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [12143](https://www.wowhead.com/wotlk/npc=12143) | Son of Flame | Fire Elemental (303) | Blocked | 60 | protected-rank; no-supported-skills |
+| [12265](https://www.wowhead.com/wotlk/npc=12265) | Lava Spawn | Fire Elemental (303) | Blocked | 60 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [14460](https://www.wowhead.com/wotlk/npc=14460) | Blazing Invader | Fire Elemental (303) | Blocked | 54 | no-supported-skills |
+| [14461](https://www.wowhead.com/wotlk/npc=14461) | Baron Charr | Fire Elemental (303) | Blocked | 58 | protected-rank; no-supported-skills |
+| [15209](https://www.wowhead.com/wotlk/npc=15209) | Crimson Templar | Fire Elemental (303) | Blocked | 60 | no-supported-skills |
+| [15438](https://www.wowhead.com/wotlk/npc=15438) | Greater Fire Elemental | Fire Elemental (303) | Blocked | 68 | protected-npc-vehicle-script; no-supported-skills |
+| [17003](https://www.wowhead.com/wotlk/npc=17003) | Cinder Elemental | Fire Elemental (303) | Blocked | 60 | no-supported-skills |
+| [17182](https://www.wowhead.com/wotlk/npc=17182) | Spirit of Fire | Fire Elemental (303) | Blocked | 3 | no-supported-skills |
+| [17205](https://www.wowhead.com/wotlk/npc=17205) | Temper | Fire Elemental (303) | Blocked | 70 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [17206](https://www.wowhead.com/wotlk/npc=17206) | Hauteur | Fire Elemental (303) | Blocked | 10 | no-supported-skills |
+| [17220](https://www.wowhead.com/wotlk/npc=17220) | Hauteur Reborn | Fire Elemental (303) | Blocked | 12 | no-supported-skills |
+| [17272](https://www.wowhead.com/wotlk/npc=17272) | Flaming Aspect | Fire Elemental (303) | Blocked | 13 | no-supported-skills |
+| [18083](https://www.wowhead.com/wotlk/npc=18083) | Far'hir of the Flame | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
+| [18100](https://www.wowhead.com/wotlk/npc=18100) | Incineratus | Fire Elemental (303) | Blocked | 73 | protected-rank; no-supported-skills |
+| [18109](https://www.wowhead.com/wotlk/npc=18109) | Living Fire | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
+| [18824](https://www.wowhead.com/wotlk/npc=18824) | Minor Fire Spirit | Fire Elemental (303) | Blocked | 10 | no-supported-skills |
+| [19203](https://www.wowhead.com/wotlk/npc=19203) | Syth Fire Elemental | Fire Elemental (303) | Blocked | 69 | no-supported-skills |
+| [20481](https://www.wowhead.com/wotlk/npc=20481) | Raging Flames | Fire Elemental (303) | Blocked | 72 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [20514](https://www.wowhead.com/wotlk/npc=20514) | Searing Elemental | Fire Elemental (303) | Blocked | 67 | no-supported-skills |
+| [20703](https://www.wowhead.com/wotlk/npc=20703) | Syth Fire Elemental (1) | Fire Elemental (303) | Blocked | 72 | no-supported-skills |
+| [21061](https://www.wowhead.com/wotlk/npc=21061) | Enraged Fire Spirit | Fire Elemental (303) | Blocked | 68 | protected-npc-vehicle-script; no-supported-skills |
+| [21130](https://www.wowhead.com/wotlk/npc=21130) | Scorned Spirit of Fire | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
+| [21538](https://www.wowhead.com/wotlk/npc=21538) | Raging Flames (1) | Fire Elemental (303) | Blocked | 72 | protected-rank; no-supported-skills |
+| [21706](https://www.wowhead.com/wotlk/npc=21706) | Corrupted Fire Elemental | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
+| [21740](https://www.wowhead.com/wotlk/npc=21740) | Redeemed Spirit of Fire | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
+| [22286](https://www.wowhead.com/wotlk/npc=22286) | Fel Rager | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
+| [22298](https://www.wowhead.com/wotlk/npc=22298) | Vile Fire-Soul | Fire Elemental (303) | Blocked | 71 | no-supported-skills |
+| [22311](https://www.wowhead.com/wotlk/npc=22311) | Raging Fire-Soul | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
+| [22323](https://www.wowhead.com/wotlk/npc=22323) | Incandescent Fel Spark | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
+| [22907](https://www.wowhead.com/wotlk/npc=22907) | Fire Elemental Force | Fire Elemental (303) | Blocked | 1 | no-supported-skills |
+| [23099](https://www.wowhead.com/wotlk/npc=23099) | Acolyte of Fire | Fire Elemental (303) | Blocked | 70 | no-supported-skills |
+| [25416](https://www.wowhead.com/wotlk/npc=25416) | Simmer | Fire Elemental (303) | Blocked | 72 | no-supported-skills |
+| [25417](https://www.wowhead.com/wotlk/npc=25417) | Raging Boiler | Fire Elemental (303) | Blocked | 69 | no-supported-skills |
+| [26285](https://www.wowhead.com/wotlk/npc=26285) | [PH] Dragonblight Elemental Obsidian Dragonshire | Fire Elemental (303) | Blocked | 72 | no-supported-skills |
+| [26401](https://www.wowhead.com/wotlk/npc=26401) | Summer Scorchling | Fire Elemental (303) | Blocked | 1 | protected-npc-vehicle-script; no-supported-skills |
+| [26520](https://www.wowhead.com/wotlk/npc=26520) | Festival Scorchling | Fire Elemental (303) | Blocked | 1 | protected-npc-vehicle-script; no-supported-skills |
+| [27651](https://www.wowhead.com/wotlk/npc=27651) | Phantasmal Fire | Fire Elemental (303) | Blocked | 79 | protected-rank; no-supported-skills |
+| [30416](https://www.wowhead.com/wotlk/npc=30416) | Bound Fire Elemental | Fire Elemental (303) | Blocked | 74 | protected-rank; no-supported-skills |
+| [30643](https://www.wowhead.com/wotlk/npc=30643) | Lava Blaze | Fire Elemental (303) | Blocked | 81 | no-supported-skills |
+| [30847](https://www.wowhead.com/wotlk/npc=30847) | Raging Flame | Fire Elemental (303) | Blocked | 80 | no-supported-skills |
+| [30908](https://www.wowhead.com/wotlk/npc=30908) | Phantasmal Fire (1) | Fire Elemental (303) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31317](https://www.wowhead.com/wotlk/npc=31317) | Lava Blaze (1) | Fire Elemental (303) | Blocked | 81 | no-supported-skills |
+| [31453](https://www.wowhead.com/wotlk/npc=31453) | Bound Fire Elemental (1) | Fire Elemental (303) | Blocked | 81 | protected-rank; no-supported-skills |
+| [33291](https://www.wowhead.com/wotlk/npc=33291) | Fiery Dancer | Fire Elemental (303) | Blocked | 80 | no-supported-skills |
+| [33838](https://www.wowhead.com/wotlk/npc=33838) | Enslaved Fire Elemental | Fire Elemental (303) | Blocked | 82 | no-supported-skills |
+| [33839](https://www.wowhead.com/wotlk/npc=33839) | Enslaved Fire Elemental (1) | Fire Elemental (303) | Blocked | 82 | no-supported-skills |
+| [36533](https://www.wowhead.com/wotlk/npc=36533) | Unstable Fire Elemental | Fire Elemental (303) | Blocked | 80 | no-supported-skills |
+| [36949](https://www.wowhead.com/wotlk/npc=36949) | [PH] Scaling Fire Elemental | Fire Elemental (303) | Blocked | 40 | no-supported-skills |
+| [37982](https://www.wowhead.com/wotlk/npc=37982) | Furious Fire Elemental | Fire Elemental (303) | Blocked | 80 | no-supported-skills |
+| [37983](https://www.wowhead.com/wotlk/npc=37983) | Searing Fire Elemental | Fire Elemental (303) | Blocked | 80 | protected-rank; no-supported-skills |
+| [38019](https://www.wowhead.com/wotlk/npc=38019) | Anolis | Fire Elemental (303) | Blocked | 83 | protected-rank; no-supported-skills |
+| [38020](https://www.wowhead.com/wotlk/npc=38020) | Basiliscus | Fire Elemental (303) | Blocked | 83 | protected-rank; no-supported-skills |
+| [38021](https://www.wowhead.com/wotlk/npc=38021) | Conolophus | Fire Elemental (303) | Blocked | 83 | protected-rank; no-supported-skills |
+| [39047](https://www.wowhead.com/wotlk/npc=39047) | Agitated Fire Spirit | Fire Elemental (303) | Blocked | 10 | no-supported-skills |
+| [39130](https://www.wowhead.com/wotlk/npc=39130) | Blazing Servant | Fire Elemental (303) | Blocked | 80 | no-supported-skills |
+| [39852](https://www.wowhead.com/wotlk/npc=39852) | Raging Fire Elemental | Fire Elemental (303) | Blocked | 80 | no-supported-skills |
+| [40681](https://www.wowhead.com/wotlk/npc=40681) | Living Inferno | Fire Elemental (303) | Blocked | 82 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [40682](https://www.wowhead.com/wotlk/npc=40682) | Living Inferno (1) | Fire Elemental (303) | Blocked | 82 | protected-rank; no-supported-skills |
+| [40683](https://www.wowhead.com/wotlk/npc=40683) | Living Ember | Fire Elemental (303) | Blocked | 82 | protected-rank; no-supported-skills |
+| [40684](https://www.wowhead.com/wotlk/npc=40684) | Living Ember (1) | Fire Elemental (303) | Blocked | 82 | protected-rank; no-supported-skills |
+| [27895](https://www.wowhead.com/wotlk/npc=27895) | Fire Revenant, Northrend | Fire Revenant (328) | Blocked | 72 | no-supported-skills |
+| [28584](https://www.wowhead.com/wotlk/npc=28584) | Unbound Firestorm | Fire Revenant (328) | Blocked | 79 | protected-rank; no-supported-skills |
+| [29504](https://www.wowhead.com/wotlk/npc=29504) | Seething Revenant | Fire Revenant (328) | Blocked | 80 | no-supported-skills |
+| [30019](https://www.wowhead.com/wotlk/npc=30019) | Duke Singen | Fire Revenant (328) | Blocked | 76 | protected-rank; no-supported-skills |
+| [30120](https://www.wowhead.com/wotlk/npc=30120) | Seething Revenant | Fire Revenant (328) | Blocked | 80 | no-supported-skills |
+| [30387](https://www.wowhead.com/wotlk/npc=30387) | Seething Revenant | Fire Revenant (328) | Blocked | 80 | no-supported-skills |
+| [30873](https://www.wowhead.com/wotlk/npc=30873) | Flame Revenant | Fire Revenant (328) | Blocked | 80 | no-supported-skills |
+| [30983](https://www.wowhead.com/wotlk/npc=30983) | Unbound Firestorm (1) | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31071](https://www.wowhead.com/wotlk/npc=31071) | Quest - Wintergrasp - PvP Kill - Fire | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31072](https://www.wowhead.com/wotlk/npc=31072) | Quest - Wintergrasp - PvP Kill - Water | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31073](https://www.wowhead.com/wotlk/npc=31073) | Quest - Wintergrasp - PvP Kill - Shadow | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31074](https://www.wowhead.com/wotlk/npc=31074) | Quest - Wintergrasp - PvP Kill - Life | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31086](https://www.wowhead.com/wotlk/npc=31086) | Quest - Wintergrasp - PvP Kill - Alliance | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31093](https://www.wowhead.com/wotlk/npc=31093) | Quest - Wintergrasp - PvP Kill - Vehicle | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31156](https://www.wowhead.com/wotlk/npc=31156) | Quest - Wintergrasp - Tower Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31244](https://www.wowhead.com/wotlk/npc=31244) | Quest - Wintergrasp - Structure Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31284](https://www.wowhead.com/wotlk/npc=31284) | Quest - Wintergrasp - Vehicle Protected | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31286](https://www.wowhead.com/wotlk/npc=31286) | Quest - Wintergrasp - Bridge Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31287](https://www.wowhead.com/wotlk/npc=31287) | Quest - Wintergrasp - Wall Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31288](https://www.wowhead.com/wotlk/npc=31288) | Quest - Wintergrasp - Workshop Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31289](https://www.wowhead.com/wotlk/npc=31289) | Quest - Wintergrasp - Gate Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [32338](https://www.wowhead.com/wotlk/npc=32338) | Quest - Northrend BG - Gate Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [33289](https://www.wowhead.com/wotlk/npc=33289) | Lord Everblaze | Fire Revenant (328) | Blocked | 80 | no-supported-skills |
+| [34086](https://www.wowhead.com/wotlk/npc=34086) | Magma Rager | Fire Revenant (328) | Blocked | 82 | protected-rank; no-supported-skills |
+| [34201](https://www.wowhead.com/wotlk/npc=34201) | Magma Rager (1) | Fire Revenant (328) | Blocked | 82 | protected-rank; no-supported-skills |
+| [35074](https://www.wowhead.com/wotlk/npc=35074) | Quest - Wintergrasp - Southern Tower Kill | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [35143](https://www.wowhead.com/wotlk/npc=35143) | Flame Warder | Fire Revenant (328) | Blocked | 78 | protected-rank; no-supported-skills |
+| [35359](https://www.wowhead.com/wotlk/npc=35359) | Flame Warder (1) | Fire Revenant (328) | Blocked | 82 | protected-rank; no-supported-skills |
+| [39019](https://www.wowhead.com/wotlk/npc=39019) | Quest - Wintergrasp - PvP Kill - Horde | Fire Revenant (328) | Blocked | 80 | protected-rank; no-supported-skills |
+| [11669](https://www.wowhead.com/wotlk/npc=11669) | Flame Imp | Imp (115) | Blocked | 61 | protected-rank; creature-type-mismatch |
+| [11670](https://www.wowhead.com/wotlk/npc=11670) | [UNUSED] Flame Shrieker | Imp (115) | Blocked | 62 | creature-type-mismatch |
+| [19070](https://www.wowhead.com/wotlk/npc=19070) | Holo-Imp | Imp (115) | Blocked | 10 | creature-type-mismatch |
+| [8441](https://www.wowhead.com/wotlk/npc=8441) | Raze | Infernal (118) | Blocked | 48 | protected-npc-vehicle-script; creature-type-mismatch |
+| [21435](https://www.wowhead.com/wotlk/npc=21435) | Shadow Horror | Shade (224) | Blocked | 68 | creature-type-mismatch |
+| [24601](https://www.wowhead.com/wotlk/npc=24601) | Steam Rager | Shade (224) | Blocked | 70 | creature-type-mismatch |
+| [28583](https://www.wowhead.com/wotlk/npc=28583) | Blistering Steamrager | Shade (224) | Blocked | 79 | protected-rank; creature-type-mismatch |
+| [30842](https://www.wowhead.com/wotlk/npc=30842) | Wandering Shadow | Shade (224) | Blocked | 80 | creature-type-mismatch |
+| [30964](https://www.wowhead.com/wotlk/npc=30964) | Blistering Steamrager (1) | Shade (224) | Blocked | 80 | protected-rank; creature-type-mismatch |
+| [32561](https://www.wowhead.com/wotlk/npc=32561) | QA Test Dummy 80 Elemental | Skeleton (225) | Blocked | 80 | creature-type-mismatch |
+| [1964](https://www.wowhead.com/wotlk/npc=1964) | Treant | Treant (394) | Blocked | 70 | no-ability-profile |
+| [3834](https://www.wowhead.com/wotlk/npc=3834) | Crazed Ancient | Treant (394) | Blocked | 27 | no-ability-profile |
+| [3919](https://www.wowhead.com/wotlk/npc=3919) | Withered Ancient | Treant (394) | Blocked | 26 | no-ability-profile |
+| [4028](https://www.wowhead.com/wotlk/npc=4028) | Charred Ancient | Treant (394) | Blocked | 25 | no-ability-profile |
+| [4029](https://www.wowhead.com/wotlk/npc=4029) | Blackened Ancient | Treant (394) | Blocked | 27 | no-ability-profile |
+| [4030](https://www.wowhead.com/wotlk/npc=4030) | Vengeful Ancient | Treant (394) | Blocked | 29 | protected-rank; no-ability-profile |
+| [4423](https://www.wowhead.com/wotlk/npc=4423) | Darnassian Protector | Treant (394) | Blocked | 65 | no-ability-profile |
+| [5354](https://www.wowhead.com/wotlk/npc=5354) | Gnarl Leafbrother | Treant (394) | Blocked | 44 | protected-rank; no-ability-profile |
+| [5806](https://www.wowhead.com/wotlk/npc=5806) | Treant Ally | Treant (394) | Blocked | 24 | no-ability-profile |
+| [5881](https://www.wowhead.com/wotlk/npc=5881) | Cursed Sycamore | Treant (394) | Blocked | 45 | no-ability-profile |
+| [7138](https://www.wowhead.com/wotlk/npc=7138) | Irontree Wanderer | Treant (394) | Blocked | 52 | no-ability-profile |
+| [7139](https://www.wowhead.com/wotlk/npc=7139) | Irontree Stomper | Treant (394) | Blocked | 52 | no-ability-profile |
+| [7143](https://www.wowhead.com/wotlk/npc=7143) | Decaying Treant | Treant (394) | Blocked | 51 | no-ability-profile |
+| [7144](https://www.wowhead.com/wotlk/npc=7144) | Withered Treant | Treant (394) | Blocked | 53 | no-ability-profile |
+| [7146](https://www.wowhead.com/wotlk/npc=7146) | Treant Protector | Treant (394) | Blocked | 55 | no-ability-profile |
+| [7584](https://www.wowhead.com/wotlk/npc=7584) | Wandering Forest Walker | Treant (394) | Blocked | 44 | no-ability-profile |
+| [9601](https://www.wowhead.com/wotlk/npc=9601) | Treant Spirit | Treant (394) | Blocked | 52 | no-ability-profile |
+| [11458](https://www.wowhead.com/wotlk/npc=11458) | Petrified Treant | Treant (394) | Blocked | 57 | protected-rank; no-ability-profile |
+| [11461](https://www.wowhead.com/wotlk/npc=11461) | Warpwood Guardian | Treant (394) | Blocked | 57 | protected-rank; no-ability-profile |
+| [11462](https://www.wowhead.com/wotlk/npc=11462) | Warpwood Treant | Treant (394) | Blocked | 54 | protected-rank; no-ability-profile |
+| [11463](https://www.wowhead.com/wotlk/npc=11463) | [UNUSED] Warpwood Scrabbler | Treant (394) | Blocked | 60 | protected-rank; no-ability-profile |
+| [11464](https://www.wowhead.com/wotlk/npc=11464) | Warpwood Tangler | Treant (394) | Blocked | 55 | protected-rank; no-ability-profile |
+| [11465](https://www.wowhead.com/wotlk/npc=11465) | Warpwood Stomper | Treant (394) | Blocked | 57 | protected-rank; no-ability-profile |
+| [13141](https://www.wowhead.com/wotlk/npc=13141) | Deeprot Stomper | Treant (394) | Blocked | 42 | protected-rank; no-ability-profile |
+| [13142](https://www.wowhead.com/wotlk/npc=13142) | Deeprot Tangler | Treant (394) | Blocked | 43 | protected-rank; no-ability-profile |
+| [13743](https://www.wowhead.com/wotlk/npc=13743) | Corrupt Force of Nature | Treant (394) | Blocked | 42 | no-ability-profile |
+| [14303](https://www.wowhead.com/wotlk/npc=14303) | Petrified Guardian | Treant (394) | Blocked | 57 | protected-rank; no-ability-profile |
+| [15271](https://www.wowhead.com/wotlk/npc=15271) | Tender | Treant (394) | Blocked | 2 | no-ability-profile |
+| [15294](https://www.wowhead.com/wotlk/npc=15294) | Feral Tender | Treant (394) | Blocked | 3 | no-ability-profile |
+| [15409](https://www.wowhead.com/wotlk/npc=15409) | Old Whitebark | Treant (394) | Blocked | 10 | no-ability-profile |
+| [15635](https://www.wowhead.com/wotlk/npc=15635) | Eversong Tender | Treant (394) | Blocked | 5 | no-ability-profile |
+| [15636](https://www.wowhead.com/wotlk/npc=15636) | Eversong Green Keeper | Treant (394) | Blocked | 7 | no-ability-profile |
+| [15637](https://www.wowhead.com/wotlk/npc=15637) | Withered Green Keeper | Treant (394) | Blocked | 9 | no-ability-profile |
+| [17352](https://www.wowhead.com/wotlk/npc=17352) | Corrupted Treant | Treant (394) | Blocked | 11 | no-ability-profile |
+| [17353](https://www.wowhead.com/wotlk/npc=17353) | Corrupted Stomper | Treant (394) | Blocked | 16 | no-ability-profile |
+| [19456](https://www.wowhead.com/wotlk/npc=19456) | Whitebark's Spirit | Treant (394) | Blocked | 10 | protected-npc-vehicle-script; no-ability-profile |
+| [19949](https://www.wowhead.com/wotlk/npc=19949) | Sapling | Treant (394) | Blocked | 72 | no-ability-profile |
+| [19954](https://www.wowhead.com/wotlk/npc=19954) | Greater Sapling | Treant (394) | Blocked | 70 | no-ability-profile |
+| [21040](https://www.wowhead.com/wotlk/npc=21040) | Outraged Raven's Wood Sapling | Treant (394) | Blocked | 66 | no-ability-profile |
+| [21072](https://www.wowhead.com/wotlk/npc=21072) | Living Grove Defender | Treant (394) | Blocked | 65 | no-ability-profile |
+| [21556](https://www.wowhead.com/wotlk/npc=21556) | Greater Sapling (1) | Treant (394) | Blocked | 70 | no-ability-profile |
+| [21567](https://www.wowhead.com/wotlk/npc=21567) | Sapling (1) | Treant (394) | Blocked | 72 | no-ability-profile |
+| [21853](https://www.wowhead.com/wotlk/npc=21853) | Raven's Wood Ent | Treant (394) | Blocked | 67 | no-ability-profile |
+| [22095](https://www.wowhead.com/wotlk/npc=22095) | Infested Root-Walker | Treant (394) | Blocked | 64 | no-ability-profile |
+| [26313](https://www.wowhead.com/wotlk/npc=26313) | [PH] Dragonblight Treant | Treant (394) | Blocked | 72 | no-ability-profile |
+| [26421](https://www.wowhead.com/wotlk/npc=26421) | Woodlands Walker | Treant (394) | Blocked | 71 | protected-npc-vehicle-script; no-ability-profile |
+| [26782](https://www.wowhead.com/wotlk/npc=26782) | Crystalline Keeper | Treant (394) | Blocked | 71 | protected-rank; no-ability-profile |
+| [30526](https://www.wowhead.com/wotlk/npc=30526) | Crystalline Keeper (1) | Treant (394) | Blocked | 80 | protected-rank; no-ability-profile |
+| [30862](https://www.wowhead.com/wotlk/npc=30862) | Unbound Ent | Treant (394) | Blocked | 77 | no-ability-profile |
+| [31041](https://www.wowhead.com/wotlk/npc=31041) | Dispirited Ent | Treant (394) | Blocked | 76 | no-ability-profile |
+| [31228](https://www.wowhead.com/wotlk/npc=31228) | Grove Walker | Treant (394) | Blocked | 77 | no-ability-profile |
+| [31802](https://www.wowhead.com/wotlk/npc=31802) | Treant Ally | Treant (394) | Blocked | 83 | no-ability-profile |
+| [33525](https://www.wowhead.com/wotlk/npc=33525) | Mangrove Ent | Treant (394) | Blocked | 81 | protected-rank; no-ability-profile |
+| [33735](https://www.wowhead.com/wotlk/npc=33735) | Mangrove Ent (1) | Treant (394) | Blocked | 81 | protected-rank; no-ability-profile |
+| [33947](https://www.wowhead.com/wotlk/npc=33947) | Angry Oak Spirit | Treant (394) | Blocked | 77 | no-ability-profile |
+| [34459](https://www.wowhead.com/wotlk/npc=34459) | Erin Misthoof | Treant (394) | Blocked | 83 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| [34469](https://www.wowhead.com/wotlk/npc=34469) | Melador Valestrider | Treant (394) | Blocked | 83 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| [35686](https://www.wowhead.com/wotlk/npc=35686) | Erin Misthoof (1) | Treant (394) | Blocked | 83 | protected-rank; no-ability-profile |
+| [35687](https://www.wowhead.com/wotlk/npc=35687) | Erin Misthoof (2) | Treant (394) | Blocked | 83 | protected-rank; no-ability-profile |
+| [35688](https://www.wowhead.com/wotlk/npc=35688) | Erin Misthoof (3) | Treant (394) | Blocked | 83 | protected-rank; no-ability-profile |
+| [35714](https://www.wowhead.com/wotlk/npc=35714) | Melador Valestrider (1) | Treant (394) | Blocked | 83 | protected-rank; no-ability-profile |
+| [35715](https://www.wowhead.com/wotlk/npc=35715) | Melador Valestrider (2) | Treant (394) | Blocked | 83 | protected-rank; no-ability-profile |
+| [35716](https://www.wowhead.com/wotlk/npc=35716) | Melador Valestrider (3) | Treant (394) | Blocked | 83 | protected-rank; no-ability-profile |
+| [36070](https://www.wowhead.com/wotlk/npc=36070) | Treant | Treant (394) | Blocked | 80 | no-ability-profile |
+| [36473](https://www.wowhead.com/wotlk/npc=36473) | Treant (1) | Treant (394) | Blocked | 80 | no-ability-profile |
+| [36474](https://www.wowhead.com/wotlk/npc=36474) | Treant (2) | Treant (394) | Blocked | 80 | no-ability-profile |
+| [36475](https://www.wowhead.com/wotlk/npc=36475) | Treant (3) | Treant (394) | Blocked | 80 | no-ability-profile |
+| [1945](https://www.wowhead.com/wotlk/npc=1945) | Tree Form 0.33 | Unassigned () | Blocked | 30 | missing-or-ambiguous-model-assignment |
+| [2156](https://www.wowhead.com/wotlk/npc=2156) | Cracked Golem | Unassigned () | Blocked | 18 | missing-or-ambiguous-model-assignment |
+| [2157](https://www.wowhead.com/wotlk/npc=2157) | Stone Behemoth | Unassigned () | Blocked | 19 | missing-or-ambiguous-model-assignment |
+| [2551](https://www.wowhead.com/wotlk/npc=2551) | Brutus | Unassigned () | Blocked | 43 | missing-or-ambiguous-model-assignment |
+| [2723](https://www.wowhead.com/wotlk/npc=2723) | Stone Golem | Unassigned () | Blocked | 38 | missing-or-ambiguous-model-assignment |
+| [2749](https://www.wowhead.com/wotlk/npc=2749) | Siege Golem | Unassigned () | Blocked | 40 | protected-rank; missing-or-ambiguous-model-assignment |
+| [2751](https://www.wowhead.com/wotlk/npc=2751) | War Golem | Unassigned () | Blocked | 36 | protected-rank; missing-or-ambiguous-model-assignment |
+| [2755](https://www.wowhead.com/wotlk/npc=2755) | Myzrael | Unassigned () | Blocked | 44 | protected-rank; missing-or-ambiguous-model-assignment |
+| [4857](https://www.wowhead.com/wotlk/npc=4857) | Stone Keeper | Unassigned () | Blocked | 40 | protected-rank; missing-or-ambiguous-model-assignment |
+| [4860](https://www.wowhead.com/wotlk/npc=4860) | Stone Steward | Unassigned () | Blocked | 39 | protected-rank; missing-or-ambiguous-model-assignment |
+| [5055](https://www.wowhead.com/wotlk/npc=5055) | Deviate Lasher | Unassigned () | Blocked | 19 | missing-or-ambiguous-model-assignment |
+| [5764](https://www.wowhead.com/wotlk/npc=5764) | Guardian of Blizzard | Unassigned () | Blocked | 63 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [5853](https://www.wowhead.com/wotlk/npc=5853) | Tempered War Golem | Unassigned () | Blocked | 45 | missing-or-ambiguous-model-assignment |
+| [6492](https://www.wowhead.com/wotlk/npc=6492) | Rift Spawn | Unassigned () | Blocked | 16 | missing-or-ambiguous-model-assignment |
+| [6509](https://www.wowhead.com/wotlk/npc=6509) | Bloodpetal Lasher | Unassigned () | Blocked | 48 | missing-or-ambiguous-model-assignment |
+| [6510](https://www.wowhead.com/wotlk/npc=6510) | Bloodpetal Flayer | Unassigned () | Blocked | 51 | missing-or-ambiguous-model-assignment |
+| [6511](https://www.wowhead.com/wotlk/npc=6511) | Bloodpetal Thresher | Unassigned () | Blocked | 49 | missing-or-ambiguous-model-assignment |
+| [6512](https://www.wowhead.com/wotlk/npc=6512) | Bloodpetal Trapper | Unassigned () | Blocked | 52 | missing-or-ambiguous-model-assignment |
+| [6550](https://www.wowhead.com/wotlk/npc=6550) | Mana Surge | Unassigned () | Blocked | 40 | missing-or-ambiguous-model-assignment |
+| [6560](https://www.wowhead.com/wotlk/npc=6560) | Stone Guardian | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| [6561](https://www.wowhead.com/wotlk/npc=6561) | Stone Warden | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| [7039](https://www.wowhead.com/wotlk/npc=7039) | War Reaver | Unassigned () | Blocked | 53 | missing-or-ambiguous-model-assignment |
+| [7149](https://www.wowhead.com/wotlk/npc=7149) | Withered Protector | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| [7150](https://www.wowhead.com/wotlk/npc=7150) | Withered Guardian | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [7151](https://www.wowhead.com/wotlk/npc=7151) | Withered Watcher | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [7152](https://www.wowhead.com/wotlk/npc=7152) | Withered Forest Walker | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [7206](https://www.wowhead.com/wotlk/npc=7206) | Ancient Stone Keeper | Unassigned () | Blocked | 40 | protected-rank; missing-or-ambiguous-model-assignment |
+| [7226](https://www.wowhead.com/wotlk/npc=7226) | Sand Storm | Unassigned () | Blocked | 44 | missing-or-ambiguous-model-assignment |
+| [7364](https://www.wowhead.com/wotlk/npc=7364) | Flawless Draenethyst Sphere | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| [7365](https://www.wowhead.com/wotlk/npc=7365) | Flawless Draenethyst Fragment | Unassigned () | Blocked | 40 | missing-or-ambiguous-model-assignment |
+| [7409](https://www.wowhead.com/wotlk/npc=7409) | Faltering Draenethyst Sphere | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [8279](https://www.wowhead.com/wotlk/npc=8279) | Faulty War Golem | Unassigned () | Blocked | 46 | protected-rank; missing-or-ambiguous-model-assignment |
+| [8400](https://www.wowhead.com/wotlk/npc=8400) | Obsidion | Unassigned () | Blocked | 46 | missing-or-ambiguous-model-assignment |
+| [8905](https://www.wowhead.com/wotlk/npc=8905) | Warbringer Construct | Unassigned () | Blocked | 52 | protected-rank; missing-or-ambiguous-model-assignment |
+| [8906](https://www.wowhead.com/wotlk/npc=8906) | Ragereaver Golem | Unassigned () | Blocked | 54 | protected-rank; missing-or-ambiguous-model-assignment |
+| [8908](https://www.wowhead.com/wotlk/npc=8908) | Molten War Golem | Unassigned () | Blocked | 55 | protected-rank; missing-or-ambiguous-model-assignment |
+| [8923](https://www.wowhead.com/wotlk/npc=8923) | Panzor the Invincible | Unassigned () | Blocked | 56 | protected-rank; missing-or-ambiguous-model-assignment |
+| [8981](https://www.wowhead.com/wotlk/npc=8981) | Malfunctioning Reaver | Unassigned () | Blocked | 56 | protected-rank; missing-or-ambiguous-model-assignment |
+| [8982](https://www.wowhead.com/wotlk/npc=8982) | Ironhand Guardian | Unassigned () | Blocked | 60 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [9502](https://www.wowhead.com/wotlk/npc=9502) | Phalanx | Unassigned () | Blocked | 55 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [9598](https://www.wowhead.com/wotlk/npc=9598) | Arei | Unassigned () | Blocked | 56 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [9599](https://www.wowhead.com/wotlk/npc=9599) | Arei Transformed | Unassigned () | Blocked | 56 | missing-or-ambiguous-model-assignment |
+| [10120](https://www.wowhead.com/wotlk/npc=10120) | Vault Warder | Unassigned () | Blocked | 39 | protected-rank; missing-or-ambiguous-model-assignment |
+| [11459](https://www.wowhead.com/wotlk/npc=11459) | Ironbark Protector | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
+| [11478](https://www.wowhead.com/wotlk/npc=11478) | [UNUSED] Mana Beast | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| [11479](https://www.wowhead.com/wotlk/npc=11479) | Arcane Horror | Unassigned () | Blocked | 58 | protected-rank; missing-or-ambiguous-model-assignment |
+| [11480](https://www.wowhead.com/wotlk/npc=11480) | Arcane Aberration | Unassigned () | Blocked | 59 | protected-rank; missing-or-ambiguous-model-assignment |
+| [11483](https://www.wowhead.com/wotlk/npc=11483) | Mana Remnant | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
+| [11484](https://www.wowhead.com/wotlk/npc=11484) | Residual Monstrosity | Unassigned () | Blocked | 59 | protected-rank; missing-or-ambiguous-model-assignment |
+| [11489](https://www.wowhead.com/wotlk/npc=11489) | Tendris Warpwood | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| [11491](https://www.wowhead.com/wotlk/npc=11491) | Old Ironbark | Unassigned () | Blocked | 58 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [11502](https://www.wowhead.com/wotlk/npc=11502) | Ragnaros | Unassigned () | Blocked | 63 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [11959](https://www.wowhead.com/wotlk/npc=11959) | [UNUSED] Obsidian Watcher | Unassigned () | Blocked | 61 | protected-rank; missing-or-ambiguous-model-assignment |
+| [12201](https://www.wowhead.com/wotlk/npc=12201) | Princess Theradras | Unassigned () | Blocked | 48 | protected-rank; missing-or-ambiguous-model-assignment |
+| [12219](https://www.wowhead.com/wotlk/npc=12219) | Barbed Lasher | Unassigned () | Blocked | 45 | protected-rank; missing-or-ambiguous-model-assignment |
+| [12220](https://www.wowhead.com/wotlk/npc=12220) | Constrictor Vine | Unassigned () | Blocked | 44 | protected-rank; missing-or-ambiguous-model-assignment |
+| [12258](https://www.wowhead.com/wotlk/npc=12258) | Razorlash | Unassigned () | Blocked | 46 | protected-rank; missing-or-ambiguous-model-assignment |
+| [12804](https://www.wowhead.com/wotlk/npc=12804) | [PH] TEST Fire God | Unassigned () | Blocked | 63 | protected-rank; missing-or-ambiguous-model-assignment |
+| [13021](https://www.wowhead.com/wotlk/npc=13021) | Warpwood Crusher | Unassigned () | Blocked | 56 | protected-rank; missing-or-ambiguous-model-assignment |
+| [13022](https://www.wowhead.com/wotlk/npc=13022) | Whip Lasher | Unassigned () | Blocked | 54 | missing-or-ambiguous-model-assignment |
+| [13196](https://www.wowhead.com/wotlk/npc=13196) | Phase Lasher | Unassigned () | Blocked | 54 | protected-rank; missing-or-ambiguous-model-assignment |
+| [13197](https://www.wowhead.com/wotlk/npc=13197) | Fel Lash | Unassigned () | Blocked | 56 | protected-rank; missing-or-ambiguous-model-assignment |
+| [13285](https://www.wowhead.com/wotlk/npc=13285) | Death Lash | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
+| [14061](https://www.wowhead.com/wotlk/npc=14061) | Phase Lasher (Fire) | Unassigned () | Blocked | 37 | protected-rank; missing-or-ambiguous-model-assignment |
+| [14062](https://www.wowhead.com/wotlk/npc=14062) | Phase Lasher (Nature) | Unassigned () | Blocked | 37 | protected-rank; missing-or-ambiguous-model-assignment |
+| [14063](https://www.wowhead.com/wotlk/npc=14063) | Phase Lasher (Arcane) | Unassigned () | Blocked | 37 | protected-rank; missing-or-ambiguous-model-assignment |
+| [14184](https://www.wowhead.com/wotlk/npc=14184) | Phase Lasher (Frost) | Unassigned () | Blocked | 37 | protected-rank; missing-or-ambiguous-model-assignment |
+| [14241](https://www.wowhead.com/wotlk/npc=14241) | Ironbark the Redeemed | Unassigned () | Blocked | 58 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [14362](https://www.wowhead.com/wotlk/npc=14362) | Thornling | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| [14397](https://www.wowhead.com/wotlk/npc=14397) | Mana Burst | Unassigned () | Blocked | 59 | missing-or-ambiguous-model-assignment |
+| [14435](https://www.wowhead.com/wotlk/npc=14435) | Prince Thunderaan | Unassigned () | Blocked | 63 | protected-rank; missing-or-ambiguous-model-assignment |
+| [14689](https://www.wowhead.com/wotlk/npc=14689) | Mana Elemental | Unassigned () | Blocked | 59 | protected-rank; missing-or-ambiguous-model-assignment |
+| [15273](https://www.wowhead.com/wotlk/npc=15273) | Arcane Wraith | Unassigned () | Blocked | 3 | missing-or-ambiguous-model-assignment |
+| [15298](https://www.wowhead.com/wotlk/npc=15298) | Tainted Arcane Wraith | Unassigned () | Blocked | 4 | missing-or-ambiguous-model-assignment |
+| [15338](https://www.wowhead.com/wotlk/npc=15338) | Obsidian Destroyer | Unassigned () | Blocked | 61 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [15342](https://www.wowhead.com/wotlk/npc=15342) | [UNUSED] Sphinx | Unassigned () | Blocked | 61 | protected-rank; missing-or-ambiguous-model-assignment |
+| [15428](https://www.wowhead.com/wotlk/npc=15428) | Sand Vortex | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| [15527](https://www.wowhead.com/wotlk/npc=15527) | Mana Fiend | Unassigned () | Blocked | 63 | protected-rank; missing-or-ambiguous-model-assignment |
+| [15638](https://www.wowhead.com/wotlk/npc=15638) | Arcane Patroller | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
+| [15639](https://www.wowhead.com/wotlk/npc=15639) | Arcane Warder | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
+| [15640](https://www.wowhead.com/wotlk/npc=15640) | Arcane Enforcer | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| [15647](https://www.wowhead.com/wotlk/npc=15647) | Mana Stalker | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
+| [15648](https://www.wowhead.com/wotlk/npc=15648) | Manawraith | Unassigned () | Blocked | 6 | missing-or-ambiguous-model-assignment |
+| [15967](https://www.wowhead.com/wotlk/npc=15967) | Ether Fiend | Unassigned () | Blocked | 9 | missing-or-ambiguous-model-assignment |
+| [16304](https://www.wowhead.com/wotlk/npc=16304) | Arcane Devourer | Unassigned () | Blocked | 11 | missing-or-ambiguous-model-assignment |
+| [16339](https://www.wowhead.com/wotlk/npc=16339) | Arcane Reaver | Unassigned () | Blocked | 15 | missing-or-ambiguous-model-assignment |
+| [16488](https://www.wowhead.com/wotlk/npc=16488) | Arcane Anomaly | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [16489](https://www.wowhead.com/wotlk/npc=16489) | Chaotic Sentience | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| [16516](https://www.wowhead.com/wotlk/npc=16516) | Volatile Mutation | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [16517](https://www.wowhead.com/wotlk/npc=16517) | Mutated Root Lasher | Unassigned () | Blocked | 3 | missing-or-ambiguous-model-assignment |
+| [16529](https://www.wowhead.com/wotlk/npc=16529) | Magical Horror | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [16530](https://www.wowhead.com/wotlk/npc=16530) | Mana Warp | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| [16533](https://www.wowhead.com/wotlk/npc=16533) | Inoculated Root Lasher | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [16564](https://www.wowhead.com/wotlk/npc=16564) | Myconite | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| [16565](https://www.wowhead.com/wotlk/npc=16565) | Fungal Beast | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| [16566](https://www.wowhead.com/wotlk/npc=16566) | Myconite Worker (PH) | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| [16854](https://www.wowhead.com/wotlk/npc=16854) | Eldinarcus | Unassigned () | Blocked | 11 | protected-rank; missing-or-ambiguous-model-assignment |
+| [17196](https://www.wowhead.com/wotlk/npc=17196) | Root Trapper | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
+| [17197](https://www.wowhead.com/wotlk/npc=17197) | Root Thresher | Unassigned () | Blocked | 7 | missing-or-ambiguous-model-assignment |
+| [17343](https://www.wowhead.com/wotlk/npc=17343) | Thistle Lasher | Unassigned () | Blocked | 11 | missing-or-ambiguous-model-assignment |
+| [17344](https://www.wowhead.com/wotlk/npc=17344) | Mutated Constrictor | Unassigned () | Blocked | 14 | missing-or-ambiguous-model-assignment |
+| [17346](https://www.wowhead.com/wotlk/npc=17346) | Mutated Tangler | Unassigned () | Blocked | 17 | missing-or-ambiguous-model-assignment |
+| [17725](https://www.wowhead.com/wotlk/npc=17725) | Underbog Lurker | Unassigned () | Blocked | 62 | protected-rank; missing-or-ambiguous-model-assignment |
+| [17752](https://www.wowhead.com/wotlk/npc=17752) | Outland Mtn. Giant, Zangarmarsh | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [17753](https://www.wowhead.com/wotlk/npc=17753) | Outland Mtn. Giant, Blades Edge | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [17754](https://www.wowhead.com/wotlk/npc=17754) | Outland Mtn. Giant, Netherstorm | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [17870](https://www.wowhead.com/wotlk/npc=17870) | Angered Nether-wraith | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [17871](https://www.wowhead.com/wotlk/npc=17871) | Underbog Shambler | Unassigned () | Blocked | 62 | protected-rank; missing-or-ambiguous-model-assignment |
+| [17977](https://www.wowhead.com/wotlk/npc=17977) | Warp Splinter | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [17980](https://www.wowhead.com/wotlk/npc=17980) | Laj | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [18103](https://www.wowhead.com/wotlk/npc=18103) | Arcane Guardian | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| [18182](https://www.wowhead.com/wotlk/npc=18182) | Gurok the Usurper | Unassigned () | Blocked | 67 | protected-rank; missing-or-ambiguous-model-assignment |
+| [18237](https://www.wowhead.com/wotlk/npc=18237) | Tiny Arcane Construct | Unassigned () | Blocked | 15 | missing-or-ambiguous-model-assignment |
+| [18372](https://www.wowhead.com/wotlk/npc=18372) | Rough Stone Statue | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
+| [18394](https://www.wowhead.com/wotlk/npc=18394) | Ethereal Wraith | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| [18400](https://www.wowhead.com/wotlk/npc=18400) | Rokdar the Sundered Lord | Unassigned () | Blocked | 66 | protected-rank; missing-or-ambiguous-model-assignment |
+| [18429](https://www.wowhead.com/wotlk/npc=18429) | Arcane Fiend | Unassigned () | Blocked | 64 | missing-or-ambiguous-model-assignment |
+| [18568](https://www.wowhead.com/wotlk/npc=18568) | Scryer Arcane Guardian | Unassigned () | Blocked | 70 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [18587](https://www.wowhead.com/wotlk/npc=18587) | Frayer | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [18682](https://www.wowhead.com/wotlk/npc=18682) | Bog Lurker | Unassigned () | Blocked | 63 | protected-rank; missing-or-ambiguous-model-assignment |
+| [18698](https://www.wowhead.com/wotlk/npc=18698) | Ever-Core the Punisher | Unassigned () | Blocked | 68 | protected-rank; missing-or-ambiguous-model-assignment |
+| [18708](https://www.wowhead.com/wotlk/npc=18708) | Murmur | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [18734](https://www.wowhead.com/wotlk/npc=18734) | Coarse Stone Statue | Unassigned () | Blocked | 15 | missing-or-ambiguous-model-assignment |
+| [18735](https://www.wowhead.com/wotlk/npc=18735) | Heavy Stone Statue | Unassigned () | Blocked | 25 | missing-or-ambiguous-model-assignment |
+| [18736](https://www.wowhead.com/wotlk/npc=18736) | Solid Stone Statue | Unassigned () | Blocked | 35 | missing-or-ambiguous-model-assignment |
+| [18737](https://www.wowhead.com/wotlk/npc=18737) | Dense Stone Statue | Unassigned () | Blocked | 45 | missing-or-ambiguous-model-assignment |
+| [18738](https://www.wowhead.com/wotlk/npc=18738) | Primal Stone Statue | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| [18856](https://www.wowhead.com/wotlk/npc=18856) | Arcane Annihilator | Unassigned () | Blocked | 68 | protected-rank; missing-or-ambiguous-model-assignment |
+| [18863](https://www.wowhead.com/wotlk/npc=18863) | Manaspawn | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [18864](https://www.wowhead.com/wotlk/npc=18864) | Mana Wraith | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| [18866](https://www.wowhead.com/wotlk/npc=18866) | Mageslayer | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [18867](https://www.wowhead.com/wotlk/npc=18867) | Mana Seeker | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [19494](https://www.wowhead.com/wotlk/npc=19494) | Ar'kelos | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [19514](https://www.wowhead.com/wotlk/npc=19514) | Al'ar | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [19557](https://www.wowhead.com/wotlk/npc=19557) | Greater Frayer | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| [19584](https://www.wowhead.com/wotlk/npc=19584) | Frayer (Arcane) | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [19585](https://www.wowhead.com/wotlk/npc=19585) | Frayer (Fire) | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [19586](https://www.wowhead.com/wotlk/npc=19586) | Frayer (Frost) | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [19587](https://www.wowhead.com/wotlk/npc=19587) | Frayer (Shadow) | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [19608](https://www.wowhead.com/wotlk/npc=19608) | Frayer Wildling | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [19688](https://www.wowhead.com/wotlk/npc=19688) | Scryer Vault Guardian | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [19919](https://www.wowhead.com/wotlk/npc=19919) | Thorn Lasher | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [19920](https://www.wowhead.com/wotlk/npc=19920) | Thorn Flayer | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [19922](https://www.wowhead.com/wotlk/npc=19922) | Tornado | Unassigned () | Blocked | 63 | missing-or-ambiguous-model-assignment |
+| [19928](https://www.wowhead.com/wotlk/npc=19928) | Laj (Arcane) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| [19929](https://www.wowhead.com/wotlk/npc=19929) | Laj (Fire) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| [19930](https://www.wowhead.com/wotlk/npc=19930) | Laj (Frost) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| [19931](https://www.wowhead.com/wotlk/npc=19931) | Laj (Nature) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| [19953](https://www.wowhead.com/wotlk/npc=19953) | Frayer Protector | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [19958](https://www.wowhead.com/wotlk/npc=19958) | White Seedling | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [19962](https://www.wowhead.com/wotlk/npc=19962) | Blue Seedling | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [19964](https://www.wowhead.com/wotlk/npc=19964) | Red Seedling | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [19969](https://www.wowhead.com/wotlk/npc=19969) | Green Seedling | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [20188](https://www.wowhead.com/wotlk/npc=20188) | Underbog Lurker (1) | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| [20190](https://www.wowhead.com/wotlk/npc=20190) | Underbog Shambler (1) | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| [20252](https://www.wowhead.com/wotlk/npc=20252) | Arcane Fiend (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [20262](https://www.wowhead.com/wotlk/npc=20262) | Ethereal Wraith (1) | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| [20277](https://www.wowhead.com/wotlk/npc=20277) | Root Lasher | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [20478](https://www.wowhead.com/wotlk/npc=20478) | Arcane Servant | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [20657](https://www.wowhead.com/wotlk/npc=20657) | Murmur (1) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| [20774](https://www.wowhead.com/wotlk/npc=20774) | Farahlon Lasher | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [20983](https://www.wowhead.com/wotlk/npc=20983) | Mutated Farahlon Lasher | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [21023](https://www.wowhead.com/wotlk/npc=21023) | Stronglimb Deeproot | Unassigned () | Blocked | 66 | missing-or-ambiguous-model-assignment |
+| [21031](https://www.wowhead.com/wotlk/npc=21031) | [PH] Arcane Guardian | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [21062](https://www.wowhead.com/wotlk/npc=21062) | Nether Wraith | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| [21073](https://www.wowhead.com/wotlk/npc=21073) | Enraged Earthen Soul | Unassigned () | Blocked | 68 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [21097](https://www.wowhead.com/wotlk/npc=21097) | Enraged Fiery Soul | Unassigned () | Blocked | 68 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [21109](https://www.wowhead.com/wotlk/npc=21109) | Enraged Watery Soul | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [21116](https://www.wowhead.com/wotlk/npc=21116) | Enraged Airy Soul | Unassigned () | Blocked | 68 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [21181](https://www.wowhead.com/wotlk/npc=21181) | Cyrukh the Firelord | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| [21267](https://www.wowhead.com/wotlk/npc=21267) | Mana Beast | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| [21325](https://www.wowhead.com/wotlk/npc=21325) | Raven's Wood Stonebark | Unassigned () | Blocked | 67 | protected-rank; missing-or-ambiguous-model-assignment |
+| [21326](https://www.wowhead.com/wotlk/npc=21326) | Raven's Wood Leafbeard | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| [21331](https://www.wowhead.com/wotlk/npc=21331) | Thorny Growth | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [21362](https://www.wowhead.com/wotlk/npc=21362) | Phoenix | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| [21521](https://www.wowhead.com/wotlk/npc=21521) | Arcane Servant (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [21535](https://www.wowhead.com/wotlk/npc=21535) | Nether Wraith (1) | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| [21550](https://www.wowhead.com/wotlk/npc=21550) | Blue Seedling (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [21552](https://www.wowhead.com/wotlk/npc=21552) | Frayer (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [21553](https://www.wowhead.com/wotlk/npc=21553) | Frayer Protector (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [21554](https://www.wowhead.com/wotlk/npc=21554) | Frayer Wildling (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [21555](https://www.wowhead.com/wotlk/npc=21555) | Greater Frayer (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [21557](https://www.wowhead.com/wotlk/npc=21557) | Green Seedling (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [21559](https://www.wowhead.com/wotlk/npc=21559) | Laj (1) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| [21566](https://www.wowhead.com/wotlk/npc=21566) | Red Seedling (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [21579](https://www.wowhead.com/wotlk/npc=21579) | Thorn Flayer (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [21580](https://www.wowhead.com/wotlk/npc=21580) | Thorn Lasher (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [21582](https://www.wowhead.com/wotlk/npc=21582) | Warp Splinter (1) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| [21583](https://www.wowhead.com/wotlk/npc=21583) | White Seedling (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [21729](https://www.wowhead.com/wotlk/npc=21729) | Electromental | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| [21731](https://www.wowhead.com/wotlk/npc=21731) | Encased Electromental | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| [21737](https://www.wowhead.com/wotlk/npc=21737) | Mini-Electromental Flavor | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| [21757](https://www.wowhead.com/wotlk/npc=21757) | Big Electromental Flavor | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| [21863](https://www.wowhead.com/wotlk/npc=21863) | Serpentshrine Lurker | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| [22022](https://www.wowhead.com/wotlk/npc=22022) | Arcane Burst | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| [22053](https://www.wowhead.com/wotlk/npc=22053) | Mosswood the Ancient | Unassigned () | Blocked | 68 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [22119](https://www.wowhead.com/wotlk/npc=22119) | Fathom Lurker | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [22215](https://www.wowhead.com/wotlk/npc=22215) | Treebole | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [22233](https://www.wowhead.com/wotlk/npc=22233) | Unsuspecting Leafbeard | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| [22244](https://www.wowhead.com/wotlk/npc=22244) | Unbound Ethereal | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [22307](https://www.wowhead.com/wotlk/npc=22307) | Rotting Forest-Rager | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| [22347](https://www.wowhead.com/wotlk/npc=22347) | Colossus Lurker | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [22408](https://www.wowhead.com/wotlk/npc=22408) | Furious Nether-wraith | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [22478](https://www.wowhead.com/wotlk/npc=22478) | Evergrove Ancient | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| [23029](https://www.wowhead.com/wotlk/npc=23029) | Talonsworn Forest-Rager | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [23100](https://www.wowhead.com/wotlk/npc=23100) | Flawless Arcane Elemental | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [23763](https://www.wowhead.com/wotlk/npc=23763) | Scarlet Ivy | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| [23870](https://www.wowhead.com/wotlk/npc=23870) | Ember Clutch Ancient | Unassigned () | Blocked | 75 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [23876](https://www.wowhead.com/wotlk/npc=23876) | Spore | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| [24271](https://www.wowhead.com/wotlk/npc=24271) | Iron Rune Golem | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [24316](https://www.wowhead.com/wotlk/npc=24316) | Iron Rune Sentinel | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [24339](https://www.wowhead.com/wotlk/npc=24339) | Scarlet Growth | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| [24387](https://www.wowhead.com/wotlk/npc=24387) | Iron Rune Servant | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [24674](https://www.wowhead.com/wotlk/npc=24674) | Phoenix | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| [24744](https://www.wowhead.com/wotlk/npc=24744) | Vexallus | Unassigned () | Blocked | 71 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [24916](https://www.wowhead.com/wotlk/npc=24916) | Living Flare | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [24958](https://www.wowhead.com/wotlk/npc=24958) | Unstable Living Flare | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [25573](https://www.wowhead.com/wotlk/npc=25573) | Vexallus (1) | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [25707](https://www.wowhead.com/wotlk/npc=25707) | Magic-bound Ancient | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| [25709](https://www.wowhead.com/wotlk/npc=25709) | Glacial Ancient | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| [25740](https://www.wowhead.com/wotlk/npc=25740) | Ahune | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [25865](https://www.wowhead.com/wotlk/npc=25865) | Frozen Core | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [26214](https://www.wowhead.com/wotlk/npc=26214) | Frigid Lieutenant | Unassigned () | Blocked | 51 | missing-or-ambiguous-model-assignment |
+| [26215](https://www.wowhead.com/wotlk/npc=26215) | Glacial Lieutenant | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| [26216](https://www.wowhead.com/wotlk/npc=26216) | Glacial Templar | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| [26274](https://www.wowhead.com/wotlk/npc=26274) | [PH] Dragonblight Ancient | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| [26284](https://www.wowhead.com/wotlk/npc=26284) | Runic Battle Golem | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| [26321](https://www.wowhead.com/wotlk/npc=26321) | Lothalor Ancient | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [26333](https://www.wowhead.com/wotlk/npc=26333) | Corrupted Lothalor Ancient | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [26338](https://www.wowhead.com/wotlk/npc=26338) | Ahune (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [26339](https://www.wowhead.com/wotlk/npc=26339) | Frozen Core (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [26347](https://www.wowhead.com/wotlk/npc=26347) | Runic War Golem | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| [26370](https://www.wowhead.com/wotlk/npc=26370) | Arcanimus | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| [26406](https://www.wowhead.com/wotlk/npc=26406) | The Anvil | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
+| [26438](https://www.wowhead.com/wotlk/npc=26438) | Tranquil Air Spirit | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| [26737](https://www.wowhead.com/wotlk/npc=26737) | Crazed Mana-Surge | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [26746](https://www.wowhead.com/wotlk/npc=26746) | Crazed Mana-Wraith | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| [26761](https://www.wowhead.com/wotlk/npc=26761) | Crazed Mana-Wyrm | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [26763](https://www.wowhead.com/wotlk/npc=26763) | Anomalus | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [26792](https://www.wowhead.com/wotlk/npc=26792) | Crystalline Protector | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [26793](https://www.wowhead.com/wotlk/npc=26793) | Crystalline Frayer | Unassigned () | Blocked | 71 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [26794](https://www.wowhead.com/wotlk/npc=26794) | Ormorok the Tree-Shaper | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [26918](https://www.wowhead.com/wotlk/npc=26918) | Chaotic Rift | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [27075](https://www.wowhead.com/wotlk/npc=27075) | Dun Argol Power Core | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| [27254](https://www.wowhead.com/wotlk/npc=27254) | Emerald Lasher | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| [27395](https://www.wowhead.com/wotlk/npc=27395) | Typhoon | Unassigned () | Blocked | 50 | missing-or-ambiguous-model-assignment |
+| [27936](https://www.wowhead.com/wotlk/npc=27936) | Pumpkin Soldier | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [27998](https://www.wowhead.com/wotlk/npc=27998) | Ethereal Mutagen - Pet | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [28000](https://www.wowhead.com/wotlk/npc=28000) | Ethereal Mutagen - Player | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [28069](https://www.wowhead.com/wotlk/npc=28069) | Sholazar Guardian | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| [28092](https://www.wowhead.com/wotlk/npc=28092) | The Etymidian | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [28153](https://www.wowhead.com/wotlk/npc=28153) | Snowflake | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
+| [28222](https://www.wowhead.com/wotlk/npc=28222) | The Etymidian | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [28271](https://www.wowhead.com/wotlk/npc=28271) | Glacial Breach Scourge Credit | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| [28320](https://www.wowhead.com/wotlk/npc=28320) | Servant of Freya | Unassigned () | Blocked | 76 | missing-or-ambiguous-model-assignment |
+| [28452](https://www.wowhead.com/wotlk/npc=28452) | Elemental Rift | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| [28597](https://www.wowhead.com/wotlk/npc=28597) | Guardian of Zim'Rhuk | Unassigned () | Blocked | 76 | protected-rank; missing-or-ambiguous-model-assignment |
+| [28681](https://www.wowhead.com/wotlk/npc=28681) | Brittle Golem | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| [28695](https://www.wowhead.com/wotlk/npc=28695) | Molten Golem | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [28840](https://www.wowhead.com/wotlk/npc=28840) | Overlook Sentry | Unassigned () | Blocked | 78 | protected-rank; missing-or-ambiguous-model-assignment |
+| [28877](https://www.wowhead.com/wotlk/npc=28877) | Stormwatcher | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [28926](https://www.wowhead.com/wotlk/npc=28926) | Spark of Ionar | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [29013](https://www.wowhead.com/wotlk/npc=29013) | Perch Guardian | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| [29036](https://www.wowhead.com/wotlk/npc=29036) | Servant of Freya | Unassigned () | Blocked | 76 | missing-or-ambiguous-model-assignment |
+| [29272](https://www.wowhead.com/wotlk/npc=29272) | Dwarven Golem | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [29321](https://www.wowhead.com/wotlk/npc=29321) | Ichor Globule | Unassigned () | Blocked | 76 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [29849](https://www.wowhead.com/wotlk/npc=29849) | Frozen Orb | Unassigned () | Blocked | 78 | missing-or-ambiguous-model-assignment |
+| [29911](https://www.wowhead.com/wotlk/npc=29911) | Wilted Frayer | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [30001](https://www.wowhead.com/wotlk/npc=30001) | Blackmaw | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
+| [30042](https://www.wowhead.com/wotlk/npc=30042) | Fiend of Fire | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [30043](https://www.wowhead.com/wotlk/npc=30043) | Fiend of Earth | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [30044](https://www.wowhead.com/wotlk/npc=30044) | Fiend of Water | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [30045](https://www.wowhead.com/wotlk/npc=30045) | Fiend of Air | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| [30054](https://www.wowhead.com/wotlk/npc=30054) | Frozen Orb | Unassigned () | Blocked | 78 | missing-or-ambiguous-model-assignment |
+| [30084](https://www.wowhead.com/wotlk/npc=30084) | Power Spark | Unassigned () | Blocked | 79 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [30258](https://www.wowhead.com/wotlk/npc=30258) | Amanitar | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [30329](https://www.wowhead.com/wotlk/npc=30329) | Savage Cave Beast | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
+| [30450](https://www.wowhead.com/wotlk/npc=30450) | Wailing Winds | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
+| [30519](https://www.wowhead.com/wotlk/npc=30519) | Crazed Mana-Surge (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [30520](https://www.wowhead.com/wotlk/npc=30520) | Crazed Mana-Wraith (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [30521](https://www.wowhead.com/wotlk/npc=30521) | Crazed Mana-Wyrm (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [30522](https://www.wowhead.com/wotlk/npc=30522) | Chaotic Rift (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [30524](https://www.wowhead.com/wotlk/npc=30524) | Crystalline Protector (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [30528](https://www.wowhead.com/wotlk/npc=30528) | Crystalline Frayer (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [30529](https://www.wowhead.com/wotlk/npc=30529) | Anomalus (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [30532](https://www.wowhead.com/wotlk/npc=30532) | Ormorok the Tree-Shaper (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [30617](https://www.wowhead.com/wotlk/npc=30617) | Nightmare Aberration | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [30845](https://www.wowhead.com/wotlk/npc=30845) | Living Lasher | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [30861](https://www.wowhead.com/wotlk/npc=30861) | Unbound Ancient | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [30917](https://www.wowhead.com/wotlk/npc=30917) | Snowflake (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [30969](https://www.wowhead.com/wotlk/npc=30969) | Molten Golem (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [31229](https://www.wowhead.com/wotlk/npc=31229) | Ancient Watcher | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [31463](https://www.wowhead.com/wotlk/npc=31463) | Amanitar (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [31470](https://www.wowhead.com/wotlk/npc=31470) | Savage Cave Beast (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [31515](https://www.wowhead.com/wotlk/npc=31515) | Ichor Globule (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [31688](https://www.wowhead.com/wotlk/npc=31688) | Whirlwind | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [31867](https://www.wowhead.com/wotlk/npc=31867) | Spark of Ionar (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [32187](https://www.wowhead.com/wotlk/npc=32187) | Power Spark (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [32357](https://www.wowhead.com/wotlk/npc=32357) | Old Crystalbark | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| [32447](https://www.wowhead.com/wotlk/npc=32447) | Zul'drak Sentinel | Unassigned () | Blocked | 77 | protected-rank; missing-or-ambiguous-model-assignment |
+| [32665](https://www.wowhead.com/wotlk/npc=32665) | Crystalline Tangler | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [32871](https://www.wowhead.com/wotlk/npc=32871) | Algalon the Observer | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [32913](https://www.wowhead.com/wotlk/npc=32913) | Elder Ironbranch | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [32914](https://www.wowhead.com/wotlk/npc=32914) | Elder Stonebark | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [32915](https://www.wowhead.com/wotlk/npc=32915) | Elder Brightleaf | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [32916](https://www.wowhead.com/wotlk/npc=32916) | Snaplasher | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [32918](https://www.wowhead.com/wotlk/npc=32918) | Detonating Lasher | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [32919](https://www.wowhead.com/wotlk/npc=32919) | Storm Lasher | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [32953](https://www.wowhead.com/wotlk/npc=32953) | Black Hole | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [32955](https://www.wowhead.com/wotlk/npc=32955) | Collapsing Star | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [33070](https://www.wowhead.com/wotlk/npc=33070) | Algalon the Observer (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33169](https://www.wowhead.com/wotlk/npc=33169) | Icicle | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [33173](https://www.wowhead.com/wotlk/npc=33173) | Snowpacked Icicle | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [33203](https://www.wowhead.com/wotlk/npc=33203) | Ancient Conservator | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [33354](https://www.wowhead.com/wotlk/npc=33354) | Corrupted Servitor | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33376](https://www.wowhead.com/wotlk/npc=33376) | Ancient Conservator (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33387](https://www.wowhead.com/wotlk/npc=33387) | Writhing Lasher | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [33391](https://www.wowhead.com/wotlk/npc=33391) | Elder Brightleaf (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33392](https://www.wowhead.com/wotlk/npc=33392) | Elder Ironbranch (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33393](https://www.wowhead.com/wotlk/npc=33393) | Elder Stonebark (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33399](https://www.wowhead.com/wotlk/npc=33399) | Detonating Lasher (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33400](https://www.wowhead.com/wotlk/npc=33400) | Snaplasher (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33401](https://www.wowhead.com/wotlk/npc=33401) | Storm Lasher (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33430](https://www.wowhead.com/wotlk/npc=33430) | Guardian Lasher | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33431](https://www.wowhead.com/wotlk/npc=33431) | Forest Swarmer | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33526](https://www.wowhead.com/wotlk/npc=33526) | Ironroot Lasher | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33729](https://www.wowhead.com/wotlk/npc=33729) | Corrupted Servitor (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33731](https://www.wowhead.com/wotlk/npc=33731) | Forest Swarmer (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33732](https://www.wowhead.com/wotlk/npc=33732) | Guardian Lasher (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33734](https://www.wowhead.com/wotlk/npc=33734) | Ironroot Lasher (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33761](https://www.wowhead.com/wotlk/npc=33761) | Elder Brightleaf Image | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33861](https://www.wowhead.com/wotlk/npc=33861) | Elder Ironbranch Image | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [33862](https://www.wowhead.com/wotlk/npc=33862) | Elder Stonebark Image | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34004](https://www.wowhead.com/wotlk/npc=34004) | Life Spark | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [34005](https://www.wowhead.com/wotlk/npc=34005) | Life Spark (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34099](https://www.wowhead.com/wotlk/npc=34099) | Worm Hole | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [34190](https://www.wowhead.com/wotlk/npc=34190) | Hardened Iron Golem | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34196](https://www.wowhead.com/wotlk/npc=34196) | Rune Etched Sentry | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34197](https://www.wowhead.com/wotlk/npc=34197) | Chamber Overseer | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34215](https://www.wowhead.com/wotlk/npc=34215) | Collapsing Star (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34226](https://www.wowhead.com/wotlk/npc=34226) | Chamber Overseer (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34229](https://www.wowhead.com/wotlk/npc=34229) | Hardened Iron Golem (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34234](https://www.wowhead.com/wotlk/npc=34234) | Runeforged Sentry | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34235](https://www.wowhead.com/wotlk/npc=34235) | Runeforged Sentry (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34245](https://www.wowhead.com/wotlk/npc=34245) | Rune Etched Sentry (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34275](https://www.wowhead.com/wotlk/npc=34275) | Ward of Life | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [34276](https://www.wowhead.com/wotlk/npc=34276) | Ward of Life (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34277](https://www.wowhead.com/wotlk/npc=34277) | Writhing Lasher (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34296](https://www.wowhead.com/wotlk/npc=34296) | Black Hole (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [34300](https://www.wowhead.com/wotlk/npc=34300) | Mature Lasher | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [35032](https://www.wowhead.com/wotlk/npc=35032) | Memory of Thunderaan | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [35052](https://www.wowhead.com/wotlk/npc=35052) | Memory of Algalon | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [35519](https://www.wowhead.com/wotlk/npc=35519) | Memory of Algalon (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [35540](https://www.wowhead.com/wotlk/npc=35540) | Memory of Thunderaan (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| [36116](https://www.wowhead.com/wotlk/npc=36116) | Melador Valestrider | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| [36847](https://www.wowhead.com/wotlk/npc=36847) | Collapsing Icicle | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| [39158](https://www.wowhead.com/wotlk/npc=39158) | Phalanx 2.0 | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [39856](https://www.wowhead.com/wotlk/npc=39856) | Raging Storm Elemental | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| [18701](https://www.wowhead.com/wotlk/npc=18701) | Dark Vortex | Voidwalker (143) | Blocked | 69 | creature-type-mismatch |
+| [19206](https://www.wowhead.com/wotlk/npc=19206) | Syth Shadow Elemental | Voidwalker (143) | Blocked | 69 | creature-type-mismatch |
+| [20689](https://www.wowhead.com/wotlk/npc=20689) | Dark Vortex (1) | Voidwalker (143) | Blocked | 70 | creature-type-mismatch |
+| [20705](https://www.wowhead.com/wotlk/npc=20705) | Syth Shadow Elemental (1) | Voidwalker (143) | Blocked | 72 | creature-type-mismatch |
+| [510](https://www.wowhead.com/wotlk/npc=510) | Water Elemental | Water Elemental (304) | Blocked | 60 | no-supported-skills |
+| [691](https://www.wowhead.com/wotlk/npc=691) | Lesser Water Elemental | Water Elemental (304) | Blocked | 36 | no-supported-skills |
+| [2761](https://www.wowhead.com/wotlk/npc=2761) | Cresting Exile | Water Elemental (304) | Blocked | 38 | no-supported-skills |
+| [2776](https://www.wowhead.com/wotlk/npc=2776) | Vengeful Surge | Water Elemental (304) | Blocked | 40 | no-supported-skills |
+| [2794](https://www.wowhead.com/wotlk/npc=2794) | Summoned Guardian | Water Elemental (304) | Blocked | 38 | no-supported-skills |
+| [3917](https://www.wowhead.com/wotlk/npc=3917) | Befouled Water Elemental | Water Elemental (304) | Blocked | 23 | no-supported-skills |
+| [3950](https://www.wowhead.com/wotlk/npc=3950) | Minor Water Guardian | Water Elemental (304) | Blocked | 25 | no-supported-skills |
+| [4978](https://www.wowhead.com/wotlk/npc=4978) | Aku'mai Servant | Water Elemental (304) | Blocked | 23 | protected-rank; no-supported-skills |
+| [5461](https://www.wowhead.com/wotlk/npc=5461) | Sea Elemental | Water Elemental (304) | Blocked | 48 | no-supported-skills |
+| [5462](https://www.wowhead.com/wotlk/npc=5462) | Sea Spray | Water Elemental (304) | Blocked | 47 | no-supported-skills |
+| [5894](https://www.wowhead.com/wotlk/npc=5894) | Corrupt Minor Manifestation of Water | Water Elemental (304) | Blocked | 22 | no-supported-skills |
+| [5895](https://www.wowhead.com/wotlk/npc=5895) | Minor Manifestation of Water | Water Elemental (304) | Blocked | 22 | protected-npc-vehicle-script; no-supported-skills |
+| [5897](https://www.wowhead.com/wotlk/npc=5897) | Corrupt Water Spirit | Water Elemental (304) | Blocked | 19 | no-supported-skills |
+| [6047](https://www.wowhead.com/wotlk/npc=6047) | Aqua Guardian | Water Elemental (304) | Blocked | 20 | no-supported-skills |
+| [6220](https://www.wowhead.com/wotlk/npc=6220) | Irradiated Horror | Water Elemental (304) | Blocked | 26 | protected-rank; no-supported-skills |
+| [6748](https://www.wowhead.com/wotlk/npc=6748) | Water Spirit | Water Elemental (304) | Blocked | 18 | no-supported-skills |
+| [7079](https://www.wowhead.com/wotlk/npc=7079) | Viscous Fallout | Water Elemental (304) | Blocked | 28 | protected-rank; no-supported-skills |
+| [7132](https://www.wowhead.com/wotlk/npc=7132) | Toxic Horror | Water Elemental (304) | Blocked | 53 | no-supported-skills |
+| [7133](https://www.wowhead.com/wotlk/npc=7133) | Noxious Horror | Water Elemental (304) | Blocked | 1 | no-supported-skills |
+| [7134](https://www.wowhead.com/wotlk/npc=7134) | Poison Flayer | Water Elemental (304) | Blocked | 1 | no-supported-skills |
+| [8519](https://www.wowhead.com/wotlk/npc=8519) | Blighted Surge | Water Elemental (304) | Blocked | 54 | no-supported-skills |
+| [8520](https://www.wowhead.com/wotlk/npc=8520) | Plague Ravager | Water Elemental (304) | Blocked | 55 | no-supported-skills |
+| [8521](https://www.wowhead.com/wotlk/npc=8521) | Blighted Horror | Water Elemental (304) | Blocked | 56 | no-supported-skills |
+| [8522](https://www.wowhead.com/wotlk/npc=8522) | Plague Monstrosity | Water Elemental (304) | Blocked | 58 | no-supported-skills |
+| [8837](https://www.wowhead.com/wotlk/npc=8837) | Muck Splash | Water Elemental (304) | Blocked | 47 | no-supported-skills |
+| [9453](https://www.wowhead.com/wotlk/npc=9453) | Aquementas | Water Elemental (304) | Blocked | 54 | protected-npc-vehicle-script; no-supported-skills |
+| [10642](https://www.wowhead.com/wotlk/npc=10642) | Eck'alom | Water Elemental (304) | Blocked | 27 | protected-rank; no-supported-skills |
+| [10756](https://www.wowhead.com/wotlk/npc=10756) | Scalding Elemental | Water Elemental (304) | Blocked | 28 | no-supported-skills |
+| [10757](https://www.wowhead.com/wotlk/npc=10757) | Boiling Elemental | Water Elemental (304) | Blocked | 27 | no-supported-skills |
+| [10955](https://www.wowhead.com/wotlk/npc=10955) | Summoned Water Elemental | Water Elemental (304) | Blocked | 57 | no-supported-skills |
+| [11256](https://www.wowhead.com/wotlk/npc=11256) | Manifestation of Water | Water Elemental (304) | Blocked | 60 | protected-rank; no-supported-skills |
+| [11493](https://www.wowhead.com/wotlk/npc=11493) | [UNUSED] Sentius | Water Elemental (304) | Blocked | 60 | protected-rank; no-supported-skills |
+| [11862](https://www.wowhead.com/wotlk/npc=11862) | Tsunaman | Water Elemental (304) | Blocked | 25 | protected-npc-vehicle-script; no-supported-skills |
+| [12759](https://www.wowhead.com/wotlk/npc=12759) | Tideress | Water Elemental (304) | Blocked | 27 | no-supported-skills |
+| [12876](https://www.wowhead.com/wotlk/npc=12876) | Baron Aquanis | Water Elemental (304) | Blocked | 24 | protected-rank; no-supported-skills |
+| [13278](https://www.wowhead.com/wotlk/npc=13278) | Duke Hydraxis | Water Elemental (304) | Blocked | 60 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [13279](https://www.wowhead.com/wotlk/npc=13279) | Discordant Surge | Water Elemental (304) | Blocked | 54 | no-supported-skills |
+| [13280](https://www.wowhead.com/wotlk/npc=13280) | Hydrospawn | Water Elemental (304) | Blocked | 57 | protected-rank; no-supported-skills |
+| [13282](https://www.wowhead.com/wotlk/npc=13282) | Noxxion | Water Elemental (304) | Blocked | 46 | protected-rank; no-supported-skills |
+| [13322](https://www.wowhead.com/wotlk/npc=13322) | Hydraxian Honor Guard | Water Elemental (304) | Blocked | 57 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [13456](https://www.wowhead.com/wotlk/npc=13456) | Noxxion's Spawn | Water Elemental (304) | Blocked | 44 | no-supported-skills |
+| [13696](https://www.wowhead.com/wotlk/npc=13696) | Noxxious Scion | Water Elemental (304) | Blocked | 44 | no-supported-skills |
+| [13736](https://www.wowhead.com/wotlk/npc=13736) | Noxxious Essence | Water Elemental (304) | Blocked | 44 | no-supported-skills |
+| [14269](https://www.wowhead.com/wotlk/npc=14269) | Seeker Aqualon | Water Elemental (304) | Blocked | 21 | protected-rank; no-supported-skills |
+| [14350](https://www.wowhead.com/wotlk/npc=14350) | Hydroling | Water Elemental (304) | Blocked | 57 | no-supported-skills |
+| [14457](https://www.wowhead.com/wotlk/npc=14457) | Princess Tempestria | Water Elemental (304) | Blocked | 60 | protected-rank; no-supported-skills |
+| [14458](https://www.wowhead.com/wotlk/npc=14458) | Watery Invader | Water Elemental (304) | Blocked | 56 | no-supported-skills |
+| [15211](https://www.wowhead.com/wotlk/npc=15211) | Azure Templar | Water Elemental (304) | Blocked | 60 | no-supported-skills |
+| [16292](https://www.wowhead.com/wotlk/npc=16292) | Aquantion | Water Elemental (304) | Blocked | 13 | no-supported-skills |
+| [16570](https://www.wowhead.com/wotlk/npc=16570) | Crazed Water Spirit | Water Elemental (304) | Blocked | 75 | no-supported-skills |
+| [16881](https://www.wowhead.com/wotlk/npc=16881) | Felblood Horror | Water Elemental (304) | Blocked | 61 | no-supported-skills |
+| [16882](https://www.wowhead.com/wotlk/npc=16882) | Felblood Flayer | Water Elemental (304) | Blocked | 54 | no-supported-skills |
+| [16883](https://www.wowhead.com/wotlk/npc=16883) | Felblood Hungerer | Water Elemental (304) | Blocked | 61 | no-supported-skills |
+| [17153](https://www.wowhead.com/wotlk/npc=17153) | Lake Spirit | Water Elemental (304) | Blocked | 64 | no-supported-skills |
+| [17154](https://www.wowhead.com/wotlk/npc=17154) | Muck Spawn | Water Elemental (304) | Blocked | 64 | no-supported-skills |
+| [17155](https://www.wowhead.com/wotlk/npc=17155) | Lake Surger | Water Elemental (304) | Blocked | 65 | no-supported-skills |
+| [17165](https://www.wowhead.com/wotlk/npc=17165) |  | Water Elemental (304) | Blocked | 50 | no-supported-skills |
+| [17167](https://www.wowhead.com/wotlk/npc=17167) | Conjured Elemental | Water Elemental (304) | Blocked | 73 | protected-rank; no-supported-skills |
+| [17181](https://www.wowhead.com/wotlk/npc=17181) | Spirit of Water | Water Elemental (304) | Blocked | 3 | no-supported-skills |
+| [17207](https://www.wowhead.com/wotlk/npc=17207) | Naias | Water Elemental (304) | Blocked | 37 | no-supported-skills |
+| [17275](https://www.wowhead.com/wotlk/npc=17275) | Aqueous | Water Elemental (304) | Blocked | 70 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [17276](https://www.wowhead.com/wotlk/npc=17276) | Watery Aspect | Water Elemental (304) | Blocked | 33 | no-supported-skills |
+| [17358](https://www.wowhead.com/wotlk/npc=17358) | Fouled Water Spirit | Water Elemental (304) | Blocked | 18 | no-supported-skills |
+| [17917](https://www.wowhead.com/wotlk/npc=17917) | Coilfang Water Elemental | Water Elemental (304) | Blocked | 70 | protected-rank; no-supported-skills |
+| [18001](https://www.wowhead.com/wotlk/npc=18001) | Guardian Water Elemental | Water Elemental (304) | Blocked | 73 | no-supported-skills |
+| [18084](https://www.wowhead.com/wotlk/npc=18084) | Watoosun of the Water | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [18101](https://www.wowhead.com/wotlk/npc=18101) | Aborius | Water Elemental (304) | Blocked | 73 | protected-rank; no-supported-skills |
+| [18145](https://www.wowhead.com/wotlk/npc=18145) | Watoosun's Polluted Essence | Water Elemental (304) | Blocked | 66 | no-supported-skills |
+| [18823](https://www.wowhead.com/wotlk/npc=18823) | Minor Water Spirit | Water Elemental (304) | Blocked | 10 | no-supported-skills |
+| [19204](https://www.wowhead.com/wotlk/npc=19204) | Syth Frost Elemental | Water Elemental (304) | Blocked | 69 | no-supported-skills |
+| [19653](https://www.wowhead.com/wotlk/npc=19653) | Glacius | Water Elemental (304) | Blocked | 67 | no-supported-skills |
+| [20079](https://www.wowhead.com/wotlk/npc=20079) | Darkcrest Sentry | Water Elemental (304) | Blocked | 61 | no-supported-skills |
+| [20090](https://www.wowhead.com/wotlk/npc=20090) | Bloodscale Sentry | Water Elemental (304) | Blocked | 62 | no-supported-skills |
+| [20627](https://www.wowhead.com/wotlk/npc=20627) | Coilfang Water Elemental (1) | Water Elemental (304) | Blocked | 72 | protected-rank; no-supported-skills |
+| [20704](https://www.wowhead.com/wotlk/npc=20704) | Syth Frost Elemental (1) | Water Elemental (304) | Blocked | 72 | no-supported-skills |
+| [20792](https://www.wowhead.com/wotlk/npc=20792) | Bloodscale Elemental | Water Elemental (304) | Blocked | 62 | no-supported-skills |
+| [21029](https://www.wowhead.com/wotlk/npc=21029) | Captured Water Spirit | Water Elemental (304) | Blocked | 60 | no-supported-skills |
+| [21059](https://www.wowhead.com/wotlk/npc=21059) | Enraged Water Spirit | Water Elemental (304) | Blocked | 68 | protected-npc-vehicle-script; no-supported-skills |
+| [21131](https://www.wowhead.com/wotlk/npc=21131) | Scorned Spirit of Water | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [21216](https://www.wowhead.com/wotlk/npc=21216) | Hydross the Unstable | Water Elemental (304) | Blocked | 73 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [21222](https://www.wowhead.com/wotlk/npc=21222) | Undersea Rager | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
+| [21223](https://www.wowhead.com/wotlk/npc=21223) | Corrupted Rager | Water Elemental (304) | Blocked | 71 | no-supported-skills |
+| [21253](https://www.wowhead.com/wotlk/npc=21253) | Tainted Water Elemental | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
+| [21260](https://www.wowhead.com/wotlk/npc=21260) | Purified Water Elemental | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
+| [21428](https://www.wowhead.com/wotlk/npc=21428) | Corrupted Water Elemental | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [21695](https://www.wowhead.com/wotlk/npc=21695) | Tidal Surger | Water Elemental (304) | Blocked | 70 | protected-rank; no-supported-skills |
+| [21696](https://www.wowhead.com/wotlk/npc=21696) | Steam Surger | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [21728](https://www.wowhead.com/wotlk/npc=21728) | Skettis Surger | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [21730](https://www.wowhead.com/wotlk/npc=21730) | Alluvion | Water Elemental (304) | Blocked | 72 | protected-rank; no-supported-skills |
+| [21741](https://www.wowhead.com/wotlk/npc=21741) | Redeemed Spirit of Water | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [21874](https://www.wowhead.com/wotlk/npc=21874) | Water Walker Elemental | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
+| [21916](https://www.wowhead.com/wotlk/npc=21916) | Steam Surger (1) | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [21917](https://www.wowhead.com/wotlk/npc=21917) | Tidal Surger (1) | Water Elemental (304) | Blocked | 72 | protected-rank; no-supported-skills |
+| [21932](https://www.wowhead.com/wotlk/npc=21932) | Hydross the Unstable | Water Elemental (304) | Blocked | 63 | protected-rank; no-supported-skills |
+| [21958](https://www.wowhead.com/wotlk/npc=21958) | Enchanted Elemental | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [22009](https://www.wowhead.com/wotlk/npc=22009) | Tainted Elemental | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [22035](https://www.wowhead.com/wotlk/npc=22035) | Pure Spawn of Hydross | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
+| [22036](https://www.wowhead.com/wotlk/npc=22036) | Tainted Spawn of Hydross | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
+| [22238](https://www.wowhead.com/wotlk/npc=22238) | Serpentshrine Tidecaller | Water Elemental (304) | Blocked | 71 | protected-rank; no-supported-skills |
+| [22309](https://www.wowhead.com/wotlk/npc=22309) | Crashing Wave-Spirit | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [22878](https://www.wowhead.com/wotlk/npc=22878) | Aqueous Lord | Water Elemental (304) | Blocked | 72 | protected-rank; no-supported-skills |
+| [22881](https://www.wowhead.com/wotlk/npc=22881) | Aqueous Surger | Water Elemental (304) | Blocked | 70 | protected-rank; no-supported-skills |
+| [22883](https://www.wowhead.com/wotlk/npc=22883) | Aqueous Spawn | Water Elemental (304) | Blocked | 70 | protected-rank; no-supported-skills |
+| [22909](https://www.wowhead.com/wotlk/npc=22909) | Water Elemental Force | Water Elemental (304) | Blocked | 1 | no-supported-skills |
+| [23097](https://www.wowhead.com/wotlk/npc=23097) | Acolyte of Water | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [24597](https://www.wowhead.com/wotlk/npc=24597) | Coast Surger | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [24598](https://www.wowhead.com/wotlk/npc=24598) | Tide Surger | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [24599](https://www.wowhead.com/wotlk/npc=24599) | Greater Tide Surger | Water Elemental (304) | Blocked | 70 | no-supported-skills |
+| [25040](https://www.wowhead.com/wotlk/npc=25040) | Greater Water Elemental | Water Elemental (304) | Blocked | 59 | protected-rank; no-supported-skills |
+| [25226](https://www.wowhead.com/wotlk/npc=25226) | Scalder | Water Elemental (304) | Blocked | 71 | no-supported-skills |
+| [25418](https://www.wowhead.com/wotlk/npc=25418) | Churn | Water Elemental (304) | Blocked | 71 | no-supported-skills |
+| [25419](https://www.wowhead.com/wotlk/npc=25419) | Boiling Spirit | Water Elemental (304) | Blocked | 69 | no-supported-skills |
+| [25756](https://www.wowhead.com/wotlk/npc=25756) | Ahunite Coldwave | Water Elemental (304) | Blocked | 80 | no-supported-skills |
+| [26116](https://www.wowhead.com/wotlk/npc=26116) | Frostwave Lieutenant | Water Elemental (304) | Blocked | 22 | no-supported-skills |
+| [26340](https://www.wowhead.com/wotlk/npc=26340) | Ahunite Coldwave (1) | Water Elemental (304) | Blocked | 80 | no-supported-skills |
+| [27653](https://www.wowhead.com/wotlk/npc=27653) | Phantasmal Water | Water Elemental (304) | Blocked | 79 | protected-rank; no-supported-skills |
+| [28862](https://www.wowhead.com/wotlk/npc=28862) | Aqueous Spirit | Water Elemental (304) | Blocked | 79 | no-supported-skills |
+| [28999](https://www.wowhead.com/wotlk/npc=28999) | Haiphoon, the Great Tempest | Water Elemental (304) | Blocked | 80 | protected-npc-vehicle-script; no-supported-skills |
+| [29008](https://www.wowhead.com/wotlk/npc=29008) | Monsoon Revenant Credit | Water Elemental (304) | Blocked | 79 | no-supported-skills |
+| [29367](https://www.wowhead.com/wotlk/npc=29367) | Ichor Globule (Transform) | Water Elemental (304) | Blocked | 76 | protected-rank; no-supported-skills |
+| [29573](https://www.wowhead.com/wotlk/npc=29573) | Drakkari Elemental | Water Elemental (304) | Blocked | 78 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [29830](https://www.wowhead.com/wotlk/npc=29830) | Living Mojo | Water Elemental (304) | Blocked | 76 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [30419](https://www.wowhead.com/wotlk/npc=30419) | Bound Water Elemental | Water Elemental (304) | Blocked | 74 | protected-rank; no-supported-skills |
+| [30846](https://www.wowhead.com/wotlk/npc=30846) | Glacial Spirit | Water Elemental (304) | Blocked | 80 | no-supported-skills |
+| [30913](https://www.wowhead.com/wotlk/npc=30913) | Phantasmal Water (1) | Water Elemental (304) | Blocked | 81 | protected-rank; no-supported-skills |
+| [30938](https://www.wowhead.com/wotlk/npc=30938) | Living Mojo (1) | Water Elemental (304) | Blocked | 80 | protected-rank; no-supported-skills |
+| [31367](https://www.wowhead.com/wotlk/npc=31367) | Drakkari Elemental (1) | Water Elemental (304) | Blocked | 82 | protected-rank; no-supported-skills |
+| [31454](https://www.wowhead.com/wotlk/npc=31454) | Bound Water Elemental (1) | Water Elemental (304) | Blocked | 81 | protected-rank; no-supported-skills |
+| [36545](https://www.wowhead.com/wotlk/npc=36545) | Unstable Water Elemental | Water Elemental (304) | Blocked | 80 | no-supported-skills |
+| [36965](https://www.wowhead.com/wotlk/npc=36965) | Furious Water Elemental | Water Elemental (304) | Blocked | 80 | no-supported-skills |
+| [37036](https://www.wowhead.com/wotlk/npc=37036) | Rippling Water Elemental | Water Elemental (304) | Blocked | 80 | protected-rank; no-supported-skills |
+| [37037](https://www.wowhead.com/wotlk/npc=37037) | Acanthurus | Water Elemental (304) | Blocked | 83 | protected-rank; no-supported-skills |
+| [37193](https://www.wowhead.com/wotlk/npc=37193) | Balistoides | Water Elemental (304) | Blocked | 83 | protected-rank; no-supported-skills |
+| [37194](https://www.wowhead.com/wotlk/npc=37194) | Chaetodon | Water Elemental (304) | Blocked | 83 | protected-rank; no-supported-skills |
+| [37703](https://www.wowhead.com/wotlk/npc=37703) | Surging Water Elemental | Water Elemental (304) | Blocked | 10 | no-supported-skills |
+| [37994](https://www.wowhead.com/wotlk/npc=37994) | Water Elemental | Water Elemental (304) | Blocked | 63 | no-supported-skills |
+| [39131](https://www.wowhead.com/wotlk/npc=39131) | Watery Servant | Water Elemental (304) | Blocked | 80 | no-supported-skills |
+| [28118](https://www.wowhead.com/wotlk/npc=28118) | Watery Lord | Water Revenant (329) | Blocked | 76 | no-supported-skills |
+| [29313](https://www.wowhead.com/wotlk/npc=29313) | Ichoron | Water Revenant (329) | Blocked | 77 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [30024](https://www.wowhead.com/wotlk/npc=30024) | Gargoral the Water Lord | Water Revenant (329) | Blocked | 76 | protected-rank; no-supported-skills |
+| [30633](https://www.wowhead.com/wotlk/npc=30633) | Water Terror | Water Revenant (329) | Blocked | 77 | no-supported-skills |
+| [30642](https://www.wowhead.com/wotlk/npc=30642) | Water Terror | Water Revenant (329) | Blocked | 77 | no-supported-skills |
+| [30645](https://www.wowhead.com/wotlk/npc=30645) | Water Terror | Water Revenant (329) | Blocked | 80 | protected-npc-vehicle-script; no-supported-skills |
+| [30877](https://www.wowhead.com/wotlk/npc=30877) | Water Revenant | Water Revenant (329) | Blocked | 80 | no-supported-skills |
+| [31508](https://www.wowhead.com/wotlk/npc=31508) | Ichoron (1) | Water Revenant (329) | Blocked | 82 | protected-rank; no-supported-skills |
+| [32234](https://www.wowhead.com/wotlk/npc=32234) | Swirling Water Revenant | Water Revenant (329) | Blocked | 82 | protected-rank; no-supported-skills |
+| [32554](https://www.wowhead.com/wotlk/npc=32554) | Swirling Water Revenant (1) | Water Revenant (329) | Blocked | 82 | protected-rank; no-supported-skills |
+| [33202](https://www.wowhead.com/wotlk/npc=33202) | Ancient Water Spirit | Water Revenant (329) | Blocked | 81 | protected-rank; protected-npc-vehicle-script; no-supported-skills |
+| [33398](https://www.wowhead.com/wotlk/npc=33398) | Ancient Water Spirit (1) | Water Revenant (329) | Blocked | 81 | protected-rank; no-supported-skills |
+| [36851](https://www.wowhead.com/wotlk/npc=36851) | Aquanos | Water Revenant (329) | Blocked | 80 | no-supported-skills |
