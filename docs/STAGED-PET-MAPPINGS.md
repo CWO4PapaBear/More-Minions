@@ -27,3 +27,5 @@ A family without a suitable Ascension skill set may use matching stock WotLK pet
 ## Approved implementation and further reference review
 
 The 190 staged Demon/Undead mappings are approved and [prepared for a guarded PTR build](DEMON-UNDEAD-IMPLEMENTATION.md); they are not yet marked active. [Elemental/Dragonkin second-pass findings](ELEMENTAL-DRAGONKIN-SECOND-PASS.md) document available spells, scaling evidence and remaining implementation work.
+
+**PTR deployment update (2026-09-22):** All 190 staged Demon/Undead mappings were activated. The tables above retain their review-baseline labels; see [verified deployment status](DEMON-UNDEAD-IMPLEMENTATION.md#activation-verified). Elemental/Dragonkin staging remains separate.

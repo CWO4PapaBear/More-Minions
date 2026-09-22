@@ -1,6 +1,6 @@
 # Approved Demon and Undead family patch — 2026-09-22
 
-Status: prepared for PTR build; not yet activated. The existing 701 live mappings are unchanged until deployment. This patch adds 190 approved mappings: 178 Demon and 12 Undead. Blocked rows are excluded.
+Status: ACTIVE on PTR. Activation record and module startup markers verified on 2026-09-22. The package added 190 approved mappings (178 Demon and 12 Undead) alongside the existing 701. Blocked rows remain excluded. In-game capture and skill testing is pending.
 
 - Felstalker (3102) stays in custom family 110, the Felhunter family (called Felhound in Ascension). It is not assigned to custom family 111, Felstalker. Its native family becomes 15 and its level remains 3–4.
 - Vile Familiar (3101) becomes Demon, native Imp family 23/custom family 115, level 1–4. This affects every spawn using that template. Existing SmartAI, faction, loot and spawn positions are retained.
@@ -32,3 +32,7 @@ Validation completed locally: Python syntax, baseline preflight fixtures for bef
 The first PTR activation encountered MySQL error 1267 while comparing text with different implicit collations. Transaction rollback and startup of the previous image completed. Guard comparisons now cast both operands to binary for exact equality, including the rollback review note. Database/schema collations and the approved mapping plan remain unchanged. The SQL-only tool revision requires no C++ rebuild; deployment still awaits a successful activation retry. Generated forward/rollback guards and the local deployment-tool hash were checked; live SQL retry remains pending.
 
 Activation retries now accept the exact package rollback Compose path only after a recorded successful rollback and equality of its resolved configuration with the reviewed original (pinned to the previous image). Image, source, ports and database guards remain enforced. This fixes retries stopping at `Live compose changed` after recovery.
+
+## Activation verified
+
+Image `sha256:fe0dca9d2c254cdaea91fed1bd3c3c1904b871226501a4496b23d13e99ff554e` is recorded active and matches the completed build. Startup logs contain both More Minions readiness markers. No client files changed. Historical mapping-review tables describe the pre-activation baseline; this deployment advances their 190 staged Demon/Undead rows to active. Gameplay testing remains necessary.
