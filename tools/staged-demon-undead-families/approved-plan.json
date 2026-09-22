@@ -1,0 +1,3633 @@
+{
+  "status": "approved; staged not activated",
+  "mappings": [
+    {
+      "entry": 49,
+      "family": 135,
+      "name": "Lesser Succubus"
+    },
+    {
+      "entry": 416,
+      "family": 115,
+      "name": "Imp"
+    },
+    {
+      "entry": 417,
+      "family": 110,
+      "name": "Felhunter"
+    },
+    {
+      "entry": 418,
+      "family": 143,
+      "name": "Lesser Voidwalker"
+    },
+    {
+      "entry": 1860,
+      "family": 143,
+      "name": "Voidwalker"
+    },
+    {
+      "entry": 1861,
+      "family": 143,
+      "name": "Greater Voidwalker"
+    },
+    {
+      "entry": 1863,
+      "family": 135,
+      "name": "Succubus"
+    },
+    {
+      "entry": 1864,
+      "family": 135,
+      "name": "Greater Succubus"
+    },
+    {
+      "entry": 3102,
+      "family": 110,
+      "name": "Felstalker"
+    },
+    {
+      "entry": 3772,
+      "family": 126,
+      "name": "Lesser Felguard"
+    },
+    {
+      "entry": 3774,
+      "family": 110,
+      "name": "Felslayer"
+    },
+    {
+      "entry": 4627,
+      "family": 143,
+      "name": "Arugal's Voidwalker"
+    },
+    {
+      "entry": 4677,
+      "family": 126,
+      "name": "Doomwarder"
+    },
+    {
+      "entry": 4678,
+      "family": 110,
+      "name": "Mana Eater"
+    },
+    {
+      "entry": 4679,
+      "family": 135,
+      "name": "Nether Maiden"
+    },
+    {
+      "entry": 4680,
+      "family": 126,
+      "name": "Doomwarder Captain"
+    },
+    {
+      "entry": 4681,
+      "family": 110,
+      "name": "Mage Hunter"
+    },
+    {
+      "entry": 4682,
+      "family": 135,
+      "name": "Nether Sister"
+    },
+    {
+      "entry": 4683,
+      "family": 126,
+      "name": "Doomwarder Lord"
+    },
+    {
+      "entry": 4684,
+      "family": 135,
+      "name": "Nether Sorceress"
+    },
+    {
+      "entry": 4685,
+      "family": 110,
+      "name": "Ley Hunter"
+    },
+    {
+      "entry": 5676,
+      "family": 143,
+      "name": "Summoned Voidwalker"
+    },
+    {
+      "entry": 5677,
+      "family": 135,
+      "name": "Summoned Succubus"
+    },
+    {
+      "entry": 5726,
+      "family": 110,
+      "name": "Jezelle's Felhunter"
+    },
+    {
+      "entry": 5728,
+      "family": 135,
+      "name": "Jezelle's Succubus"
+    },
+    {
+      "entry": 5729,
+      "family": 143,
+      "name": "Jezelle's Voidwalker"
+    },
+    {
+      "entry": 5730,
+      "family": 115,
+      "name": "Jezelle's Imp"
+    },
+    {
+      "entry": 6010,
+      "family": 110,
+      "name": "Felhound"
+    },
+    {
+      "entry": 6011,
+      "family": 126,
+      "name": "Felguard Sentry"
+    },
+    {
+      "entry": 6071,
+      "family": 110,
+      "name": "Legion Hound"
+    },
+    {
+      "entry": 6115,
+      "family": 126,
+      "name": "Roaming Felguard"
+    },
+    {
+      "entry": 6268,
+      "family": 110,
+      "name": "Summoned Felhunter"
+    },
+    {
+      "entry": 6269,
+      "family": 143,
+      "name": "Azgalaril"
+    },
+    {
+      "entry": 6270,
+      "family": 135,
+      "name": "Asjorah"
+    },
+    {
+      "entry": 7125,
+      "family": 110,
+      "name": "Jaedenar Hound"
+    },
+    {
+      "entry": 7126,
+      "family": 110,
+      "name": "Jaedenar Hunter"
+    },
+    {
+      "entry": 7127,
+      "family": 110,
+      "name": "Jaedenar Stalker"
+    },
+    {
+      "entry": 7128,
+      "family": 110,
+      "name": "Jaedenar Mana Leech"
+    },
+    {
+      "entry": 7129,
+      "family": 143,
+      "name": "Enslaved Voidwalker"
+    },
+    {
+      "entry": 7130,
+      "family": 143,
+      "name": "Voidwalker Servant"
+    },
+    {
+      "entry": 7131,
+      "family": 143,
+      "name": "Voidwalker Guardian"
+    },
+    {
+      "entry": 7728,
+      "family": 110,
+      "name": "Kirith the Damned"
+    },
+    {
+      "entry": 7735,
+      "family": 126,
+      "name": "Felcular"
+    },
+    {
+      "entry": 7767,
+      "family": 110,
+      "name": "Witherbark Felhunter"
+    },
+    {
+      "entry": 8499,
+      "family": 135,
+      "name": "TEST Uber Succubus"
+    },
+    {
+      "entry": 8656,
+      "family": 143,
+      "name": "Hukku's Voidwalker"
+    },
+    {
+      "entry": 8657,
+      "family": 135,
+      "name": "Hukku's Succubus"
+    },
+    {
+      "entry": 8658,
+      "family": 115,
+      "name": "Hukku's Imp"
+    },
+    {
+      "entry": 8668,
+      "family": 110,
+      "name": "Felhound Tracker"
+    },
+    {
+      "entry": 8675,
+      "family": 110,
+      "name": "Felbeast"
+    },
+    {
+      "entry": 8996,
+      "family": 143,
+      "name": "Voidwalker Minion"
+    },
+    {
+      "entry": 9518,
+      "family": 135,
+      "name": "Rakaiah"
+    },
+    {
+      "entry": 9556,
+      "family": 110,
+      "name": "Felhound Minion"
+    },
+    {
+      "entry": 9708,
+      "family": 115,
+      "name": "Burning Imp"
+    },
+    {
+      "entry": 9776,
+      "family": 115,
+      "name": "Flamekin Spitter"
+    },
+    {
+      "entry": 9778,
+      "family": 115,
+      "name": "Flamekin Torcher"
+    },
+    {
+      "entry": 9860,
+      "family": 135,
+      "name": "Salia"
+    },
+    {
+      "entry": 9861,
+      "family": 135,
+      "name": "Moora"
+    },
+    {
+      "entry": 9862,
+      "family": 126,
+      "name": "Jaedenar Legionnaire"
+    },
+    {
+      "entry": 10261,
+      "family": 110,
+      "name": "Burning Felhound"
+    },
+    {
+      "entry": 10656,
+      "family": 110,
+      "name": "Guardian Felhunter"
+    },
+    {
+      "entry": 10928,
+      "family": 135,
+      "name": "Succubus Minion"
+    },
+    {
+      "entry": 11697,
+      "family": 135,
+      "name": "Mannoroc Lasher"
+    },
+    {
+      "entry": 11937,
+      "family": 126,
+      "name": "Demon Portal Guardian"
+    },
+    {
+      "entry": 12922,
+      "family": 115,
+      "name": "Imp Minion"
+    },
+    {
+      "entry": 14482,
+      "family": 115,
+      "name": "Xorothian Imp"
+    },
+    {
+      "entry": 14500,
+      "family": 115,
+      "name": "J'eevee"
+    },
+    {
+      "entry": 16950,
+      "family": 110,
+      "name": "Netherhound"
+    },
+    {
+      "entry": 16952,
+      "family": 126,
+      "name": "Anger Guard"
+    },
+    {
+      "entry": 16953,
+      "family": 126,
+      "name": "Forge Camp Patroller"
+    },
+    {
+      "entry": 16954,
+      "family": 126,
+      "name": "Forge Camp Legionnaire"
+    },
+    {
+      "entry": 16955,
+      "family": 115,
+      "name": "Chained Trickster"
+    },
+    {
+      "entry": 16956,
+      "family": 115,
+      "name": "Dust Hopper"
+    },
+    {
+      "entry": 16957,
+      "family": 115,
+      "name": "Nether Imp"
+    },
+    {
+      "entry": 16960,
+      "family": 135,
+      "name": "Sister of Grief"
+    },
+    {
+      "entry": 16962,
+      "family": 135,
+      "name": "Griefbringer"
+    },
+    {
+      "entry": 16974,
+      "family": 143,
+      "name": "Rogue Voidwalker"
+    },
+    {
+      "entry": 16975,
+      "family": 143,
+      "name": "Uncontrolled Voidwalker"
+    },
+    {
+      "entry": 17000,
+      "family": 126,
+      "name": "Aggonis"
+    },
+    {
+      "entry": 17004,
+      "family": 110,
+      "name": "Jir'see"
+    },
+    {
+      "entry": 17014,
+      "family": 143,
+      "name": "Collapsing Voidwalker"
+    },
+    {
+      "entry": 17252,
+      "family": 126,
+      "name": "Felguard"
+    },
+    {
+      "entry": 17399,
+      "family": 135,
+      "name": "Seductress"
+    },
+    {
+      "entry": 17401,
+      "family": 110,
+      "name": "Felhound Manastalker"
+    },
+    {
+      "entry": 17477,
+      "family": 116,
+      "name": "Hellfire Imp"
+    },
+    {
+      "entry": 17528,
+      "family": 126,
+      "name": "Tzerak"
+    },
+    {
+      "entry": 17540,
+      "family": 110,
+      "name": "Fiendish Hound"
+    },
+    {
+      "entry": 17550,
+      "family": 143,
+      "name": "Void Anomaly"
+    },
+    {
+      "entry": 17648,
+      "family": 110,
+      "name": "Felhunter Minion"
+    },
+    {
+      "entry": 17779,
+      "family": 116,
+      "name": "Outland Imp, Gray"
+    },
+    {
+      "entry": 17780,
+      "family": 116,
+      "name": "Outland Imp, Orange"
+    },
+    {
+      "entry": 17781,
+      "family": 116,
+      "name": "Outland Imp, Purple"
+    },
+    {
+      "entry": 17782,
+      "family": 116,
+      "name": "Outland Imp, Yellow"
+    },
+    {
+      "entry": 17887,
+      "family": 143,
+      "name": "Void Critter"
+    },
+    {
+      "entry": 17981,
+      "family": 143,
+      "name": "Voidspawn"
+    },
+    {
+      "entry": 18056,
+      "family": 110,
+      "name": "Fiendish Hound (1)"
+    },
+    {
+      "entry": 18061,
+      "family": 126,
+      "name": "Felguard Netherstorm"
+    },
+    {
+      "entry": 18232,
+      "family": 135,
+      "name": "Nimrida"
+    },
+    {
+      "entry": 18605,
+      "family": 110,
+      "name": "Felhound Manastalker (1)"
+    },
+    {
+      "entry": 18606,
+      "family": 116,
+      "name": "Hellfire Imp (1)"
+    },
+    {
+      "entry": 18614,
+      "family": 135,
+      "name": "Seductress (1)"
+    },
+    {
+      "entry": 18641,
+      "family": 116,
+      "name": "Cabal Familiar"
+    },
+    {
+      "entry": 18642,
+      "family": 110,
+      "name": "Fel Guardhound"
+    },
+    {
+      "entry": 18663,
+      "family": 135,
+      "name": "Maiden of Discipline"
+    },
+    {
+      "entry": 18676,
+      "family": 115,
+      "name": "Keb'ezil"
+    },
+    {
+      "entry": 18730,
+      "family": 135,
+      "name": "Sirigna'no"
+    },
+    {
+      "entry": 18868,
+      "family": 143,
+      "name": "Voidfiend"
+    },
+    {
+      "entry": 18978,
+      "family": 115,
+      "name": "Heckling Fel Sprite"
+    },
+    {
+      "entry": 19016,
+      "family": 116,
+      "name": "Hellfire Familiar"
+    },
+    {
+      "entry": 19136,
+      "family": 116,
+      "name": "Flamewaker Imp"
+    },
+    {
+      "entry": 19190,
+      "family": 126,
+      "name": "Fel Handler"
+    },
+    {
+      "entry": 19233,
+      "family": 143,
+      "name": "Flying Voidwalker"
+    },
+    {
+      "entry": 19284,
+      "family": 126,
+      "name": "Invading Felguard"
+    },
+    {
+      "entry": 19286,
+      "family": 110,
+      "name": "Invading Fel Stalker"
+    },
+    {
+      "entry": 19287,
+      "family": 143,
+      "name": "Invading Voidwalker"
+    },
+    {
+      "entry": 19290,
+      "family": 135,
+      "name": "Invading Anguisher"
+    },
+    {
+      "entry": 19356,
+      "family": 143,
+      "name": "Void Wanderer"
+    },
+    {
+      "entry": 19408,
+      "family": 135,
+      "name": "Maiden of Pain"
+    },
+    {
+      "entry": 19599,
+      "family": 143,
+      "name": "Void Servant"
+    },
+    {
+      "entry": 19800,
+      "family": 135,
+      "name": "Illidari Painlasher"
+    },
+    {
+      "entry": 19801,
+      "family": 116,
+      "name": "Illidari Agonizer"
+    },
+    {
+      "entry": 19802,
+      "family": 126,
+      "name": "Illidari Shocktrooper"
+    },
+    {
+      "entry": 19803,
+      "family": 126,
+      "name": "Illidari Destroyer"
+    },
+    {
+      "entry": 19804,
+      "family": 110,
+      "name": "Hound of the Betrayer"
+    },
+    {
+      "entry": 19821,
+      "family": 126,
+      "name": "Illidari Peacekeer"
+    },
+    {
+      "entry": 19822,
+      "family": 126,
+      "name": "Illidari Brute"
+    },
+    {
+      "entry": 19852,
+      "family": 110,
+      "name": "Artifact Seeker"
+    },
+    {
+      "entry": 19968,
+      "family": 135,
+      "name": "Maiden of Nightmares"
+    },
+    {
+      "entry": 19973,
+      "family": 119,
+      "name": "Abyssal Flamebringer"
+    },
+    {
+      "entry": 20145,
+      "family": 143,
+      "name": "Unstable Voidwalker"
+    },
+    {
+      "entry": 20195,
+      "family": 110,
+      "name": "Dagz"
+    },
+    {
+      "entry": 20399,
+      "family": 116,
+      "name": "Terror Imp"
+    },
+    {
+      "entry": 20643,
+      "family": 116,
+      "name": "Cabal Familiar (1)"
+    },
+    {
+      "entry": 20655,
+      "family": 135,
+      "name": "Maiden of Discipline (1)"
+    },
+    {
+      "entry": 20664,
+      "family": 143,
+      "name": "Void Traveler (1)"
+    },
+    {
+      "entry": 20887,
+      "family": 116,
+      "name": "Deathforge Imp"
+    },
+    {
+      "entry": 20918,
+      "family": 110,
+      "name": "Deathforge Felstalker"
+    },
+    {
+      "entry": 21021,
+      "family": 116,
+      "name": "Scorch Imp"
+    },
+    {
+      "entry": 21135,
+      "family": 116,
+      "name": "Fel Imp"
+    },
+    {
+      "entry": 21162,
+      "family": 116,
+      "name": "Deathforge Escort"
+    },
+    {
+      "entry": 21309,
+      "family": 135,
+      "name": "Painmistress Gabrissa"
+    },
+    {
+      "entry": 21519,
+      "family": 126,
+      "name": "Death's Might"
+    },
+    {
+      "entry": 21646,
+      "family": 116,
+      "name": "Hellfire Familiar (1)"
+    },
+    {
+      "entry": 21762,
+      "family": 135,
+      "name": "Illidari Tormentor"
+    },
+    {
+      "entry": 21776,
+      "family": 135,
+      "name": "Illidari Temptress"
+    },
+    {
+      "entry": 22202,
+      "family": 115,
+      "name": "Nightmare Imp"
+    },
+    {
+      "entry": 22218,
+      "family": 116,
+      "name": "Insidious Familiar"
+    },
+    {
+      "entry": 22219,
+      "family": 135,
+      "name": "Felstorm Motivator"
+    },
+    {
+      "entry": 22220,
+      "family": 110,
+      "name": "Legion War-Hound"
+    },
+    {
+      "entry": 22291,
+      "family": 126,
+      "name": "Furnace Guard"
+    },
+    {
+      "entry": 22362,
+      "family": 116,
+      "name": "Deathshadow Imp"
+    },
+    {
+      "entry": 22474,
+      "family": 116,
+      "name": "Unstable Fel-Imp"
+    },
+    {
+      "entry": 22475,
+      "family": 116,
+      "name": "Unstable Fel-Imp Transform"
+    },
+    {
+      "entry": 22860,
+      "family": 135,
+      "name": "Illidari Succubus"
+    },
+    {
+      "entry": 23055,
+      "family": 126,
+      "name": "Felguard Degrader"
+    },
+    {
+      "entry": 23105,
+      "family": 116,
+      "name": "Fel Imp Minion Transform"
+    },
+    {
+      "entry": 23137,
+      "family": 110,
+      "name": "Fel Gorehound Transform"
+    },
+    {
+      "entry": 23404,
+      "family": 116,
+      "name": "Imp Retainer"
+    },
+    {
+      "entry": 23536,
+      "family": 126,
+      "name": "Nagulon"
+    },
+    {
+      "entry": 24476,
+      "family": 143,
+      "name": "Minor Voidwalker"
+    },
+    {
+      "entry": 24656,
+      "family": 115,
+      "name": "Fizzle"
+    },
+    {
+      "entry": 24815,
+      "family": 115,
+      "name": "Sunblade Imp"
+    },
+    {
+      "entry": 25000,
+      "family": 119,
+      "name": "Abyss Creature"
+    },
+    {
+      "entry": 25008,
+      "family": 119,
+      "name": "Abyssal Flamewalker (Display)"
+    },
+    {
+      "entry": 25553,
+      "family": 115,
+      "name": "Fizzle (1)"
+    },
+    {
+      "entry": 25566,
+      "family": 115,
+      "name": "Sunblade Imp (1)"
+    },
+    {
+      "entry": 26101,
+      "family": 116,
+      "name": "Fire Fiend"
+    },
+    {
+      "entry": 27059,
+      "family": 218,
+      "name": "Plague Zombie"
+    },
+    {
+      "entry": 30027,
+      "family": 218,
+      "name": "Plague Zombie"
+    },
+    {
+      "entry": 30028,
+      "family": 218,
+      "name": "Plague Zombie"
+    },
+    {
+      "entry": 30029,
+      "family": 218,
+      "name": "Plague Zombie"
+    },
+    {
+      "entry": 30030,
+      "family": 218,
+      "name": "Plague Zombie"
+    },
+    {
+      "entry": 30031,
+      "family": 218,
+      "name": "Plague Zombie"
+    },
+    {
+      "entry": 30032,
+      "family": 218,
+      "name": "Plague Zombie"
+    },
+    {
+      "entry": 30033,
+      "family": 218,
+      "name": "Plague Zombie"
+    },
+    {
+      "entry": 30034,
+      "family": 218,
+      "name": "Plague Zombie"
+    },
+    {
+      "entry": 30465,
+      "family": 115,
+      "name": "Dan's Test Void Sentry"
+    },
+    {
+      "entry": 30491,
+      "family": 115,
+      "name": "Ritssyn"
+    },
+    {
+      "entry": 30597,
+      "family": 218,
+      "name": "Spiked Ghoul"
+    },
+    {
+      "entry": 30743,
+      "family": 135,
+      "name": "Succubus Transform 01"
+    },
+    {
+      "entry": 31529,
+      "family": 135,
+      "name": "Ravishing Betrayer"
+    },
+    {
+      "entry": 32260,
+      "family": 143,
+      "name": "Enslaved Minion"
+    },
+    {
+      "entry": 32316,
+      "family": 143,
+      "name": "Dark Messenger"
+    },
+    {
+      "entry": 32394,
+      "family": 135,
+      "name": "Ravishing Betrayer"
+    },
+    {
+      "entry": 36301,
+      "family": 110,
+      "name": "Zhaagrym (1)"
+    },
+    {
+      "entry": 36302,
+      "family": 110,
+      "name": "Zhaagrym (2)"
+    },
+    {
+      "entry": 36303,
+      "family": 110,
+      "name": "Zhaagrym (3)"
+    },
+    {
+      "entry": 36916,
+      "family": 218,
+      "name": "Ghoul Minion"
+    },
+    {
+      "entry": 37538,
+      "family": 230,
+      "name": "Scourge Zombie"
+    },
+    {
+      "entry": 3101,
+      "family": 115,
+      "name": "Vile Familiar"
+    }
+  ],
+  "expectedTemplates": [
+    {
+      "entry": "49",
+      "name": "Lesser Succubus",
+      "type": "3",
+      "family": "0",
+      "minlevel": "20",
+      "maxlevel": "20",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "416",
+      "name": "Imp",
+      "type": "3",
+      "family": "23",
+      "minlevel": "5",
+      "maxlevel": "5",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "73"
+    },
+    {
+      "entry": "417",
+      "name": "Felhunter",
+      "type": "3",
+      "family": "15",
+      "minlevel": "80",
+      "maxlevel": "80",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "418",
+      "name": "Lesser Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "20",
+      "maxlevel": "20",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "1860",
+      "name": "Voidwalker",
+      "type": "3",
+      "family": "16",
+      "minlevel": "24",
+      "maxlevel": "24",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "1861",
+      "name": "Greater Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "26",
+      "maxlevel": "26",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "1863",
+      "name": "Succubus",
+      "type": "3",
+      "family": "17",
+      "minlevel": "24",
+      "maxlevel": "24",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "1864",
+      "name": "Greater Succubus",
+      "type": "3",
+      "family": "0",
+      "minlevel": "36",
+      "maxlevel": "36",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "3102",
+      "name": "Felstalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "3",
+      "maxlevel": "4",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "7"
+    },
+    {
+      "entry": "3772",
+      "name": "Lesser Felguard",
+      "type": "3",
+      "family": "0",
+      "minlevel": "23",
+      "maxlevel": "24",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "3774",
+      "name": "Felslayer",
+      "type": "3",
+      "family": "0",
+      "minlevel": "22",
+      "maxlevel": "23",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "4627",
+      "name": "Arugal's Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "20",
+      "maxlevel": "20",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "24"
+    },
+    {
+      "entry": "4677",
+      "name": "Doomwarder",
+      "type": "3",
+      "family": "0",
+      "minlevel": "37",
+      "maxlevel": "38",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "4678",
+      "name": "Mana Eater",
+      "type": "3",
+      "family": "0",
+      "minlevel": "37",
+      "maxlevel": "38",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "4679",
+      "name": "Nether Maiden",
+      "type": "3",
+      "family": "0",
+      "minlevel": "37",
+      "maxlevel": "38",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "4680",
+      "name": "Doomwarder Captain",
+      "type": "3",
+      "family": "0",
+      "minlevel": "38",
+      "maxlevel": "39",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "4681",
+      "name": "Mage Hunter",
+      "type": "3",
+      "family": "0",
+      "minlevel": "38",
+      "maxlevel": "39",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "4682",
+      "name": "Nether Sister",
+      "type": "3",
+      "family": "0",
+      "minlevel": "38",
+      "maxlevel": "39",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "4683",
+      "name": "Doomwarder Lord",
+      "type": "3",
+      "family": "0",
+      "minlevel": "39",
+      "maxlevel": "40",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "4684",
+      "name": "Nether Sorceress",
+      "type": "3",
+      "family": "0",
+      "minlevel": "39",
+      "maxlevel": "40",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "CombatAI",
+      "faction": "90"
+    },
+    {
+      "entry": "4685",
+      "name": "Ley Hunter",
+      "type": "3",
+      "family": "0",
+      "minlevel": "39",
+      "maxlevel": "40",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "5676",
+      "name": "Summoned Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "10",
+      "maxlevel": "10",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "14"
+    },
+    {
+      "entry": "5677",
+      "name": "Summoned Succubus",
+      "type": "3",
+      "family": "0",
+      "minlevel": "20",
+      "maxlevel": "20",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "14"
+    },
+    {
+      "entry": "5726",
+      "name": "Jezelle's Felhunter",
+      "type": "3",
+      "family": "0",
+      "minlevel": "30",
+      "maxlevel": "30",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "68"
+    },
+    {
+      "entry": "5728",
+      "name": "Jezelle's Succubus",
+      "type": "3",
+      "family": "0",
+      "minlevel": "40",
+      "maxlevel": "40",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "68"
+    },
+    {
+      "entry": "5729",
+      "name": "Jezelle's Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "40",
+      "maxlevel": "40",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "68"
+    },
+    {
+      "entry": "5730",
+      "name": "Jezelle's Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "40",
+      "maxlevel": "40",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "68"
+    },
+    {
+      "entry": "6010",
+      "name": "Felhound",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "6011",
+      "name": "Felguard Sentry",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "6071",
+      "name": "Legion Hound",
+      "type": "3",
+      "family": "0",
+      "minlevel": "29",
+      "maxlevel": "30",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "6115",
+      "name": "Roaming Felguard",
+      "type": "3",
+      "family": "0",
+      "minlevel": "28",
+      "maxlevel": "30",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "6268",
+      "name": "Summoned Felhunter",
+      "type": "3",
+      "family": "0",
+      "minlevel": "30",
+      "maxlevel": "30",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "6269",
+      "name": "Azgalaril",
+      "type": "3",
+      "family": "0",
+      "minlevel": "10",
+      "maxlevel": "10",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "35"
+    },
+    {
+      "entry": "6270",
+      "name": "Asjorah",
+      "type": "3",
+      "family": "0",
+      "minlevel": "20",
+      "maxlevel": "20",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "35"
+    },
+    {
+      "entry": "7125",
+      "name": "Jaedenar Hound",
+      "type": "3",
+      "family": "0",
+      "minlevel": "50",
+      "maxlevel": "51",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1434"
+    },
+    {
+      "entry": "7126",
+      "name": "Jaedenar Hunter",
+      "type": "3",
+      "family": "0",
+      "minlevel": "52",
+      "maxlevel": "53",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1434"
+    },
+    {
+      "entry": "7127",
+      "name": "Jaedenar Stalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1434"
+    },
+    {
+      "entry": "7128",
+      "name": "Jaedenar Mana Leech",
+      "type": "3",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1434"
+    },
+    {
+      "entry": "7129",
+      "name": "Enslaved Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "7130",
+      "name": "Voidwalker Servant",
+      "type": "3",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "7131",
+      "name": "Voidwalker Guardian",
+      "type": "3",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "7728",
+      "name": "Kirith the Damned",
+      "type": "3",
+      "family": "0",
+      "minlevel": "55",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "7735",
+      "name": "Felcular",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "60",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "7767",
+      "name": "Witherbark Felhunter",
+      "type": "3",
+      "family": "0",
+      "minlevel": "45",
+      "maxlevel": "46",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "8499",
+      "name": "TEST Uber Succubus",
+      "type": "3",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "8656",
+      "name": "Hukku's Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "49",
+      "maxlevel": "49",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "8657",
+      "name": "Hukku's Succubus",
+      "type": "3",
+      "family": "0",
+      "minlevel": "49",
+      "maxlevel": "49",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "8658",
+      "name": "Hukku's Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "49",
+      "maxlevel": "49",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "8668",
+      "name": "Felhound Tracker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "35"
+    },
+    {
+      "entry": "8675",
+      "name": "Felbeast",
+      "type": "3",
+      "family": "0",
+      "minlevel": "50",
+      "maxlevel": "51",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "8996",
+      "name": "Voidwalker Minion",
+      "type": "3",
+      "family": "0",
+      "minlevel": "42",
+      "maxlevel": "56",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "9518",
+      "name": "Rakaiah",
+      "type": "3",
+      "family": "0",
+      "minlevel": "56",
+      "maxlevel": "56",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "954"
+    },
+    {
+      "entry": "9556",
+      "name": "Felhound Minion",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "9708",
+      "name": "Burning Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "40"
+    },
+    {
+      "entry": "9776",
+      "name": "Flamekin Spitter",
+      "type": "3",
+      "family": "0",
+      "minlevel": "51",
+      "maxlevel": "53",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "9778",
+      "name": "Flamekin Torcher",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "56",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "9860",
+      "name": "Salia",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "54",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1434"
+    },
+    {
+      "entry": "9861",
+      "name": "Moora",
+      "type": "3",
+      "family": "0",
+      "minlevel": "52",
+      "maxlevel": "52",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1434"
+    },
+    {
+      "entry": "9862",
+      "name": "Jaedenar Legionnaire",
+      "type": "3",
+      "family": "0",
+      "minlevel": "55",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1434"
+    },
+    {
+      "entry": "10261",
+      "name": "Burning Felhound",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "40"
+    },
+    {
+      "entry": "10656",
+      "name": "Guardian Felhunter",
+      "type": "3",
+      "family": "0",
+      "minlevel": "30",
+      "maxlevel": "30",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "10928",
+      "name": "Succubus Minion",
+      "type": "3",
+      "family": "0",
+      "minlevel": "63",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "11697",
+      "name": "Mannoroc Lasher",
+      "type": "3",
+      "family": "0",
+      "minlevel": "29",
+      "maxlevel": "30",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "11937",
+      "name": "Demon Portal Guardian",
+      "type": "3",
+      "family": "0",
+      "minlevel": "38",
+      "maxlevel": "38",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "954"
+    },
+    {
+      "entry": "12922",
+      "name": "Imp Minion",
+      "type": "3",
+      "family": "0",
+      "minlevel": "66",
+      "maxlevel": "80",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "14482",
+      "name": "Xorothian Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "59",
+      "maxlevel": "60",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "14500",
+      "name": "J'eevee",
+      "type": "3",
+      "family": "0",
+      "minlevel": "58",
+      "maxlevel": "58",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "35"
+    },
+    {
+      "entry": "16950",
+      "name": "Netherhound",
+      "type": "3",
+      "family": "0",
+      "minlevel": "58",
+      "maxlevel": "58",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1752"
+    },
+    {
+      "entry": "16952",
+      "name": "Anger Guard",
+      "type": "3",
+      "family": "0",
+      "minlevel": "67",
+      "maxlevel": "68",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "16953",
+      "name": "Forge Camp Patroller",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "16954",
+      "name": "Forge Camp Legionnaire",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "61",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "16955",
+      "name": "Chained Trickster",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "16956",
+      "name": "Dust Hopper",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "16957",
+      "name": "Nether Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "16960",
+      "name": "Sister of Grief",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "61",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "16962",
+      "name": "Griefbringer",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "16974",
+      "name": "Rogue Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "61",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "954"
+    },
+    {
+      "entry": "16975",
+      "name": "Uncontrolled Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "61",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "954"
+    },
+    {
+      "entry": "17000",
+      "name": "Aggonis",
+      "type": "3",
+      "family": "0",
+      "minlevel": "63",
+      "maxlevel": "63",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "14"
+    },
+    {
+      "entry": "17004",
+      "name": "Jir'see",
+      "type": "3",
+      "family": "0",
+      "minlevel": "54",
+      "maxlevel": "55",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "68"
+    },
+    {
+      "entry": "17014",
+      "name": "Collapsing Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "61",
+      "maxlevel": "62",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "954"
+    },
+    {
+      "entry": "17252",
+      "name": "Felguard",
+      "type": "3",
+      "family": "29",
+      "minlevel": "80",
+      "maxlevel": "80",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "17399",
+      "name": "Seductress",
+      "type": "3",
+      "family": "0",
+      "minlevel": "61",
+      "maxlevel": "61",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "17401",
+      "name": "Felhound Manastalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "61",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "17477",
+      "name": "Hellfire Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "61",
+      "maxlevel": "61",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "17528",
+      "name": "Tzerak",
+      "type": "3",
+      "family": "0",
+      "minlevel": "14",
+      "maxlevel": "14",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "17540",
+      "name": "Fiendish Hound",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "60",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "17550",
+      "name": "Void Anomaly",
+      "type": "3",
+      "family": "0",
+      "minlevel": "15",
+      "maxlevel": "16",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1715"
+    },
+    {
+      "entry": "17648",
+      "name": "Felhunter Minion",
+      "type": "3",
+      "family": "0",
+      "minlevel": "20",
+      "maxlevel": "20",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "17779",
+      "name": "Outland Imp, Gray",
+      "type": "3",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "7"
+    },
+    {
+      "entry": "17780",
+      "name": "Outland Imp, Orange",
+      "type": "3",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "7"
+    },
+    {
+      "entry": "17781",
+      "name": "Outland Imp, Purple",
+      "type": "3",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "7"
+    },
+    {
+      "entry": "17782",
+      "name": "Outland Imp, Yellow",
+      "type": "3",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "7"
+    },
+    {
+      "entry": "17887",
+      "name": "Void Critter",
+      "type": "3",
+      "family": "0",
+      "minlevel": "3",
+      "maxlevel": "5",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1715"
+    },
+    {
+      "entry": "17981",
+      "name": "Voidspawn",
+      "type": "3",
+      "family": "0",
+      "minlevel": "65",
+      "maxlevel": "66",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "18056",
+      "name": "Fiendish Hound (1)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "72",
+      "maxlevel": "72",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "18061",
+      "name": "Felguard Netherstorm",
+      "type": "3",
+      "family": "0",
+      "minlevel": "50",
+      "maxlevel": "50",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "18232",
+      "name": "Nimrida",
+      "type": "3",
+      "family": "0",
+      "minlevel": "23",
+      "maxlevel": "23",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1604"
+    },
+    {
+      "entry": "18605",
+      "name": "Felhound Manastalker (1)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "18606",
+      "name": "Hellfire Imp (1)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "18614",
+      "name": "Seductress (1)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "71",
+      "maxlevel": "71",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "18641",
+      "name": "Cabal Familiar",
+      "type": "3",
+      "family": "0",
+      "minlevel": "69",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "18642",
+      "name": "Fel Guardhound",
+      "type": "3",
+      "family": "0",
+      "minlevel": "69",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "18663",
+      "name": "Maiden of Discipline",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "18676",
+      "name": "Keb'ezil",
+      "type": "3",
+      "family": "0",
+      "minlevel": "63",
+      "maxlevel": "63",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "714"
+    },
+    {
+      "entry": "18730",
+      "name": "Sirigna'no",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "60",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1604"
+    },
+    {
+      "entry": "18868",
+      "name": "Voidfiend",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "18978",
+      "name": "Heckling Fel Sprite",
+      "type": "3",
+      "family": "0",
+      "minlevel": "57",
+      "maxlevel": "58",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "19016",
+      "name": "Hellfire Familiar",
+      "type": "3",
+      "family": "0",
+      "minlevel": "61",
+      "maxlevel": "61",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "19136",
+      "name": "Flamewaker Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "58",
+      "maxlevel": "58",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "19190",
+      "name": "Fel Handler",
+      "type": "3",
+      "family": "0",
+      "minlevel": "58",
+      "maxlevel": "59",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1752"
+    },
+    {
+      "entry": "19233",
+      "name": "Flying Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "61",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "954"
+    },
+    {
+      "entry": "19284",
+      "name": "Invading Felguard",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "60",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1754"
+    },
+    {
+      "entry": "19286",
+      "name": "Invading Fel Stalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "60",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1754"
+    },
+    {
+      "entry": "19287",
+      "name": "Invading Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "60",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1754"
+    },
+    {
+      "entry": "19290",
+      "name": "Invading Anguisher",
+      "type": "3",
+      "family": "0",
+      "minlevel": "61",
+      "maxlevel": "61",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1754"
+    },
+    {
+      "entry": "19356",
+      "name": "Void Wanderer",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "19408",
+      "name": "Maiden of Pain",
+      "type": "3",
+      "family": "0",
+      "minlevel": "61",
+      "maxlevel": "61",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "19599",
+      "name": "Void Servant",
+      "type": "3",
+      "family": "0",
+      "minlevel": "63",
+      "maxlevel": "63",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "19800",
+      "name": "Illidari Painlasher",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1813"
+    },
+    {
+      "entry": "19801",
+      "name": "Illidari Agonizer",
+      "type": "3",
+      "family": "0",
+      "minlevel": "67",
+      "maxlevel": "67",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1813"
+    },
+    {
+      "entry": "19802",
+      "name": "Illidari Shocktrooper",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1813"
+    },
+    {
+      "entry": "19803",
+      "name": "Illidari Destroyer",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1813"
+    },
+    {
+      "entry": "19804",
+      "name": "Hound of the Betrayer",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "19821",
+      "name": "Illidari Peacekeer",
+      "type": "3",
+      "family": "0",
+      "minlevel": "71",
+      "maxlevel": "71",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1813"
+    },
+    {
+      "entry": "19822",
+      "name": "Illidari Brute",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1813"
+    },
+    {
+      "entry": "19852",
+      "name": "Artifact Seeker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "67",
+      "maxlevel": "68",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "19968",
+      "name": "Maiden of Nightmares",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "19973",
+      "name": "Abyssal Flamebringer",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "71",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "20145",
+      "name": "Unstable Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "60",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "14"
+    },
+    {
+      "entry": "20195",
+      "name": "Dagz",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "60",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "35"
+    },
+    {
+      "entry": "20399",
+      "name": "Terror Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "68",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "20643",
+      "name": "Cabal Familiar (1)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "20655",
+      "name": "Maiden of Discipline (1)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "20664",
+      "name": "Void Traveler (1)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "20887",
+      "name": "Deathforge Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "67",
+      "maxlevel": "67",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "20918",
+      "name": "Deathforge Felstalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "67",
+      "maxlevel": "67",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "21021",
+      "name": "Scorch Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "67",
+      "maxlevel": "68",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "21135",
+      "name": "Fel Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "21162",
+      "name": "Deathforge Escort",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "21309",
+      "name": "Painmistress Gabrissa",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "21519",
+      "name": "Death's Might",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "68",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "21646",
+      "name": "Hellfire Familiar (1)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "21762",
+      "name": "Illidari Tormentor",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1813"
+    },
+    {
+      "entry": "21776",
+      "name": "Illidari Temptress",
+      "type": "3",
+      "family": "0",
+      "minlevel": "69",
+      "maxlevel": "69",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "1813"
+    },
+    {
+      "entry": "22202",
+      "name": "Nightmare Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "22218",
+      "name": "Insidious Familiar",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "71",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "22219",
+      "name": "Felstorm Motivator",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "22220",
+      "name": "Legion War-Hound",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "22291",
+      "name": "Furnace Guard",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "72",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "22362",
+      "name": "Deathshadow Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "71",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "22474",
+      "name": "Unstable Fel-Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "68",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "14"
+    },
+    {
+      "entry": "22475",
+      "name": "Unstable Fel-Imp Transform",
+      "type": "3",
+      "family": "0",
+      "minlevel": "68",
+      "maxlevel": "68",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "14"
+    },
+    {
+      "entry": "22860",
+      "name": "Illidari Succubus",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1843"
+    },
+    {
+      "entry": "23055",
+      "name": "Felguard Degrader",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "14"
+    },
+    {
+      "entry": "23105",
+      "name": "Fel Imp Minion Transform",
+      "type": "3",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1829"
+    },
+    {
+      "entry": "23137",
+      "name": "Fel Gorehound Transform",
+      "type": "3",
+      "family": "0",
+      "minlevel": "72",
+      "maxlevel": "72",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1829"
+    },
+    {
+      "entry": "23404",
+      "name": "Imp Retainer",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "1813"
+    },
+    {
+      "entry": "23536",
+      "name": "Nagulon",
+      "type": "3",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "60",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "35"
+    },
+    {
+      "entry": "24476",
+      "name": "Minor Voidwalker",
+      "type": "3",
+      "family": "0",
+      "minlevel": "35",
+      "maxlevel": "36",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "24656",
+      "name": "Fizzle",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "24815",
+      "name": "Sunblade Imp",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "90"
+    },
+    {
+      "entry": "25000",
+      "name": "Abyss Creature",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "71",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "25008",
+      "name": "Abyssal Flamewalker (Display)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "71",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "25553",
+      "name": "Fizzle (1)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "25566",
+      "name": "Sunblade Imp (1)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "26101",
+      "name": "Fire Fiend",
+      "type": "3",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "14"
+    },
+    {
+      "entry": "27059",
+      "name": "Plague Zombie",
+      "type": "6",
+      "family": "0",
+      "minlevel": "70",
+      "maxlevel": "70",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "2023"
+    },
+    {
+      "entry": "30027",
+      "name": "Plague Zombie",
+      "type": "6",
+      "family": "0",
+      "minlevel": "60",
+      "maxlevel": "60",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "2023"
+    },
+    {
+      "entry": "30028",
+      "name": "Plague Zombie",
+      "type": "6",
+      "family": "0",
+      "minlevel": "50",
+      "maxlevel": "50",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "2023"
+    },
+    {
+      "entry": "30029",
+      "name": "Plague Zombie",
+      "type": "6",
+      "family": "0",
+      "minlevel": "40",
+      "maxlevel": "40",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "2023"
+    },
+    {
+      "entry": "30030",
+      "name": "Plague Zombie",
+      "type": "6",
+      "family": "0",
+      "minlevel": "30",
+      "maxlevel": "30",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "2023"
+    },
+    {
+      "entry": "30031",
+      "name": "Plague Zombie",
+      "type": "6",
+      "family": "0",
+      "minlevel": "20",
+      "maxlevel": "20",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "2023"
+    },
+    {
+      "entry": "30032",
+      "name": "Plague Zombie",
+      "type": "6",
+      "family": "0",
+      "minlevel": "10",
+      "maxlevel": "10",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "2023"
+    },
+    {
+      "entry": "30033",
+      "name": "Plague Zombie",
+      "type": "6",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "2023"
+    },
+    {
+      "entry": "30034",
+      "name": "Plague Zombie",
+      "type": "6",
+      "family": "0",
+      "minlevel": "5",
+      "maxlevel": "5",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "2023"
+    },
+    {
+      "entry": "30465",
+      "name": "Dan's Test Void Sentry",
+      "type": "3",
+      "family": "0",
+      "minlevel": "77",
+      "maxlevel": "77",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "30491",
+      "name": "Ritssyn",
+      "type": "3",
+      "family": "0",
+      "minlevel": "1",
+      "maxlevel": "1",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "35"
+    },
+    {
+      "entry": "30597",
+      "name": "Spiked Ghoul",
+      "type": "6",
+      "family": "0",
+      "minlevel": "80",
+      "maxlevel": "80",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "974"
+    },
+    {
+      "entry": "30743",
+      "name": "Succubus Transform 01",
+      "type": "3",
+      "family": "0",
+      "minlevel": "20",
+      "maxlevel": "20",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "90"
+    },
+    {
+      "entry": "31529",
+      "name": "Ravishing Betrayer",
+      "type": "3",
+      "family": "0",
+      "minlevel": "74",
+      "maxlevel": "76",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "14"
+    },
+    {
+      "entry": "32260",
+      "name": "Enslaved Minion",
+      "type": "3",
+      "family": "0",
+      "minlevel": "78",
+      "maxlevel": "79",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "21"
+    },
+    {
+      "entry": "32316",
+      "name": "Dark Messenger",
+      "type": "3",
+      "family": "0",
+      "minlevel": "78",
+      "maxlevel": "78",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "2048"
+    },
+    {
+      "entry": "32394",
+      "name": "Ravishing Betrayer",
+      "type": "3",
+      "family": "0",
+      "minlevel": "74",
+      "maxlevel": "76",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "36301",
+      "name": "Zhaagrym (1)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "80",
+      "maxlevel": "80",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "36302",
+      "name": "Zhaagrym (2)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "80",
+      "maxlevel": "80",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "36303",
+      "name": "Zhaagrym (3)",
+      "type": "3",
+      "family": "0",
+      "minlevel": "80",
+      "maxlevel": "80",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "",
+      "faction": "16"
+    },
+    {
+      "entry": "36916",
+      "name": "Ghoul Minion",
+      "type": "6",
+      "family": "0",
+      "minlevel": "80",
+      "maxlevel": "80",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "16"
+    },
+    {
+      "entry": "37538",
+      "name": "Scourge Zombie",
+      "type": "6",
+      "family": "0",
+      "minlevel": "80",
+      "maxlevel": "80",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "14"
+    },
+    {
+      "entry": "3101",
+      "name": "Vile Familiar",
+      "type": "7",
+      "family": "0",
+      "minlevel": "3",
+      "maxlevel": "4",
+      "rank": "0",
+      "npcflag": "0",
+      "VehicleId": "0",
+      "ScriptName": "",
+      "AIName": "SmartAI",
+      "faction": "7"
+    }
+  ],
+  "templateUpdates": [
+    {
+      "entry": 3101,
+      "type": 3,
+      "family": 23,
+      "minlevel": 1,
+      "maxlevel": 4
+    },
+    {
+      "entry": 3102,
+      "type": 3,
+      "family": 15,
+      "minlevel": 3,
+      "maxlevel": 4
+    }
+  ]
+}

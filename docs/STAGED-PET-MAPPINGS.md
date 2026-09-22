@@ -23,3 +23,7 @@ These are creature **templates**, including unspawned/test templates, not a list
 [All family skill-readiness entries](pet-mappings/families.md) · [Downloadable creature review CSV](pet-mappings/creatures.csv)
 
 A family without a suitable Ascension skill set may use matching stock WotLK pet skills under the owner's approved policy. Families without either remain unavailable. The stock fallback set and rank-selection code are staged, not activated.
+
+## Approved implementation and further reference review
+
+The 190 staged Demon/Undead mappings are approved and [prepared for a guarded PTR build](DEMON-UNDEAD-IMPLEMENTATION.md); they are not yet marked active. [Elemental/Dragonkin second-pass findings](ELEMENTAL-DRAGONKIN-SECOND-PASS.md) document available spells, scaling evidence and remaining implementation work.

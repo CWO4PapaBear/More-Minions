@@ -1,0 +1,4421 @@
+{
+  "sources": [
+    {
+      "file": "ascension-live_Data_area-52_patch-D.MPQ.SkillLineAbility.dbc",
+      "sha256": "b81315dcba10c45f4cadf457f16060929e838ad7e1e1467adff4c2dc1cb2e341",
+      "linkedRows": 328,
+      "additional": []
+    },
+    {
+      "file": "ascension-live_Data_enUS_locale-enUS.MPQ.SkillLineAbility.dbc",
+      "sha256": "45f1f366ff93ca9363b017e8420722773e41ab8c4ab4ec604f9b2d2b2c747ca3",
+      "linkedRows": 0,
+      "additional": []
+    },
+    {
+      "file": "ascension-live_Data_enUS_patch-enUS-2.MPQ.SkillLineAbility.dbc",
+      "sha256": "807398d1a9f75920f66a6faf3301c124220bfe0b072867d6bda15e524674e482",
+      "linkedRows": 0,
+      "additional": []
+    },
+    {
+      "file": "ascension-live_Data_enUS_patch-enUS-3.MPQ.SkillLineAbility.dbc",
+      "sha256": "4154b833d6a26b9b9ce53851d56cb594f0813c0936a72ec89f933cc69abe42c3",
+      "linkedRows": 0,
+      "additional": []
+    },
+    {
+      "file": "ascension-live_Data_enUS_patch-enUS.MPQ.SkillLineAbility.dbc",
+      "sha256": "945588774df6ebf9aac029ab482894223139c19db115c1b0579ea65a44ff3ec3",
+      "linkedRows": 0,
+      "additional": []
+    },
+    {
+      "file": "ascension-live_Data_patch-M.MPQ.SkillLineAbility.dbc",
+      "sha256": "e5267b9c63b26ccf9e79ba39159fe06a1d43411a6f9e7152371ac8aa212c5562",
+      "linkedRows": 328,
+      "additional": []
+    }
+  ],
+  "alternateLinks": [],
+  "sharedCategorySkills": {
+    "862": {
+      "category": "Elemental",
+      "area52Abilities": [
+        {
+          "row": 14502,
+          "spell": 106919,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14505,
+          "spell": 106922,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14506,
+          "spell": 106923,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14507,
+          "spell": 106924,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14509,
+          "spell": 106926,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14510,
+          "spell": 106927,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14511,
+          "spell": 106928,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14512,
+          "spell": 106929,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14513,
+          "spell": 106930,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14514,
+          "spell": 106931,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14515,
+          "spell": 106932,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14516,
+          "spell": 106933,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14517,
+          "spell": 106934,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14518,
+          "spell": 106935,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 315505,
+          "spell": 1132234,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        }
+      ],
+      "sharedClientAbilities": [
+        {
+          "row": 14502,
+          "spell": 106919,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14505,
+          "spell": 106922,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14506,
+          "spell": 106923,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14507,
+          "spell": 106924,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14509,
+          "spell": 106926,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14510,
+          "spell": 106927,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14511,
+          "spell": 106928,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14512,
+          "spell": 106929,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14513,
+          "spell": 106930,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14514,
+          "spell": 106931,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14515,
+          "spell": 106932,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14516,
+          "spell": 106933,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14517,
+          "spell": 106934,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 14518,
+          "spell": 106935,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 315505,
+          "spell": 1132234,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        }
+      ]
+    },
+    "1006": {
+      "category": "Dragonkin",
+      "area52Abilities": [
+        {
+          "row": 17664,
+          "spell": 109367,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17667,
+          "spell": 109370,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17668,
+          "spell": 109371,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17669,
+          "spell": 109372,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17671,
+          "spell": 109374,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17672,
+          "spell": 109375,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17673,
+          "spell": 109376,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17674,
+          "spell": 109377,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17675,
+          "spell": 109378,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17676,
+          "spell": 109379,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17677,
+          "spell": 109380,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17678,
+          "spell": 109381,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17679,
+          "spell": 109382,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17680,
+          "spell": 109383,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        }
+      ],
+      "sharedClientAbilities": [
+        {
+          "row": 17664,
+          "spell": 109367,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17667,
+          "spell": 109370,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17668,
+          "spell": 109371,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17669,
+          "spell": 109372,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17671,
+          "spell": 109374,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17672,
+          "spell": 109375,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17673,
+          "spell": 109376,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17674,
+          "spell": 109377,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17675,
+          "spell": 109378,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17676,
+          "spell": 109379,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17677,
+          "spell": 109380,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17678,
+          "spell": 109381,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17679,
+          "spell": 109382,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        },
+        {
+          "row": 17680,
+          "spell": 109383,
+          "minimumSkillRank": 1,
+          "supersededBy": 0,
+          "acquireMethod": 2,
+          "raceMask": 0,
+          "classMask": 0
+        }
+      ]
+    }
+  },
+  "families": [
+    {
+      "family": 301,
+      "name": "Air Elemental",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892101,
+          "name": "Wind Shock (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892102,
+          "name": "Lightning Bolt (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892103,
+          "name": "Wind Shear",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 302,
+      "name": "Earth Elemental",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892111,
+          "name": "Boulder",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892112,
+          "name": "Earthshatter",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892113,
+          "name": "Rockbiter Strike",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 303,
+      "name": "Fire Elemental",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892121,
+          "name": "Fire Blast (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892122,
+          "name": "Fire Wall",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892123,
+          "name": "Blazing Speed",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 304,
+      "name": "Water Elemental",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892131,
+          "name": "Water Bolt (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892132,
+          "name": "Water Spout (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892133,
+          "name": "Rejuvenating Water (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 305,
+      "name": "Magma Elemental",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892141,
+          "name": "Stomp",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892142,
+          "name": "Molten Blast",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892143,
+          "name": "Magma Splash",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 306,
+      "name": "Ice Elemental",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892151,
+          "name": "Avalanche",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892152,
+          "name": "Frost Nova (Pet)",
+          "reviewReasons": [
+            "proc behavior needs explicit review"
+          ]
+        },
+        {
+          "id": 892153,
+          "name": "Blizzard (Pet)",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 307,
+      "name": "Sand Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 308,
+      "name": "Mana Elemental",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892161,
+          "name": "Mana Burn (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892162,
+          "name": "Slow",
+          "reviewReasons": [
+            "aura needs custom/scaling review"
+          ]
+        },
+        {
+          "id": 892163,
+          "name": "Replenish Mana",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 309,
+      "name": "Entropic Elemental",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892171,
+          "name": "Entropic Shock",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892172,
+          "name": "Entropic Streak",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892173,
+          "name": "Entropic Shield",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "description-variable implementation missing",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 310,
+      "name": "Mojo Elemental",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892181,
+          "name": "Dark Jujubolt",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892182,
+          "name": "Mojo Wave",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892183,
+          "name": "Mojo Beam",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 311,
+      "name": "Shadow Elemental",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892191,
+          "name": "Shadow Mark",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892192,
+          "name": "Shadow Shock",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892193,
+          "name": "Enveloping Shadows",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 312,
+      "name": "Light Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 313,
+      "name": "Bound Air Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 314,
+      "name": "Bound Earth Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 315,
+      "name": "Bound Fire Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 316,
+      "name": "Bound Water Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 317,
+      "name": "Unbound Air Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 318,
+      "name": "Unbound Earth Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 319,
+      "name": "Azerite Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 320,
+      "name": "Unbound Fire Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 321,
+      "name": "Unbound Water Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 322,
+      "name": "Unbound Lightning Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 323,
+      "name": "Steam Elemental",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892201,
+          "name": "Water Mark",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892202,
+          "name": "Steam Blast",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892203,
+          "name": "Steam Push",
+          "reviewReasons": [
+            "proc behavior needs explicit review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 324,
+      "name": "Arcane Elemental",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892211,
+          "name": "Arcane Bolt",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892212,
+          "name": "Drain Power",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892213,
+          "name": "Blink",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "effect needs custom/dependency review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 325,
+      "name": "Flux Elemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 326,
+      "name": "Air Revenant",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892221,
+          "name": "Air Whirl",
+          "reviewReasons": []
+        },
+        {
+          "id": 892222,
+          "name": "Air Enchantment",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892223,
+          "name": "Lightning Blink",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "effect needs custom/dependency review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 327,
+      "name": "Earth Revenant",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892231,
+          "name": "Earth Strike",
+          "reviewReasons": []
+        },
+        {
+          "id": 892232,
+          "name": "Earth Enchantment",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892233,
+          "name": "Stomp",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 328,
+      "name": "Fire Revenant",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892241,
+          "name": "Flame Strike",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892242,
+          "name": "Fire Enchantment",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "description-variable implementation missing",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892243,
+          "name": "Growing Embers",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "description-variable implementation missing",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 329,
+      "name": "Water Revenant",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892251,
+          "name": "Water Splash",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892252,
+          "name": "Water Enchantment",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892253,
+          "name": "Water Wave",
+          "reviewReasons": [
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 330,
+      "name": "Sea Revenant",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 331,
+      "name": "Death Revenant",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892261,
+          "name": "Shadow Cleave",
+          "reviewReasons": [
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892262,
+          "name": "Death Enchantment",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "description-variable implementation missing",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892263,
+          "name": "Death Coil",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 332,
+      "name": "Ice Revenant",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892271,
+          "name": "Ice Slash",
+          "reviewReasons": []
+        },
+        {
+          "id": 892272,
+          "name": "Ice Enchantment",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892273,
+          "name": "Ice Barrier",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 333,
+      "name": "Air Ascendant",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 334,
+      "name": "Earth Ascendant",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 335,
+      "name": "Fire Ascendant",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 336,
+      "name": "Water Ascendant",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 337,
+      "name": "Ice Ascendant",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 338,
+      "name": "Quicksilver Ascendant",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 339,
+      "name": "Primal Ascendant",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 340,
+      "name": "Pandaren Air Spirit",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 341,
+      "name": "Pandaren Earth Spirit",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 342,
+      "name": "Pandaren Fire Spirit",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 343,
+      "name": "Pandaren Water Spirit",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 344,
+      "name": "Alemental",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 345,
+      "name": "Djinn",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 346,
+      "name": "Gemstone Colossus",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 347,
+      "name": "Geode",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 348,
+      "name": "Gyreworm",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 349,
+      "name": "Shale Spider",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 350,
+      "name": "Phoenix",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 892281,
+          "name": "Smoldering Feathers",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892282,
+          "name": "Fire Swoop",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 892283,
+          "name": "Phoenix Egg",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "description-variable implementation missing",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 351,
+      "name": "Flamewaker",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 352,
+      "name": "Fire Hawk",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 353,
+      "name": "Hell Hound",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 354,
+      "name": "Cinderweb Brood",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 355,
+      "name": "Bog Beast",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 356,
+      "name": "Lasher",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92498,
+          "name": "Thrash",
+          "reviewReasons": []
+        },
+        {
+          "id": 92499,
+          "name": "Razor-sharp Barbs",
+          "reviewReasons": [
+            "aura needs custom/scaling review"
+          ]
+        },
+        {
+          "id": 892297,
+          "name": "Virulent Poison",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 357,
+      "name": "Golem",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 358,
+      "name": "Constrictor Orchid",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92498,
+          "name": "Thrash",
+          "reviewReasons": []
+        },
+        {
+          "id": 92504,
+          "name": "Nature's Bounty",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892297,
+          "name": "Virulent Poison",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 359,
+      "name": "Constrictor Lasher",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92498,
+          "name": "Thrash",
+          "reviewReasons": []
+        },
+        {
+          "id": 92506,
+          "name": "Thorn Volley",
+          "reviewReasons": []
+        },
+        {
+          "id": 892297,
+          "name": "Virulent Poison",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 360,
+      "name": "Mutated Orchid",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92498,
+          "name": "Thrash",
+          "reviewReasons": []
+        },
+        {
+          "id": 92512,
+          "name": "Tranqulizing Dust",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892297,
+          "name": "Virulent Poison",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 361,
+      "name": "Mutated Lasher",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 362,
+      "name": "Bloodpetal Orchid",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 363,
+      "name": "Bloodpetal Lasher",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92498,
+          "name": "Thrash",
+          "reviewReasons": []
+        },
+        {
+          "id": 92508,
+          "name": "Bloodthirsty",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892297,
+          "name": "Virulent Poison",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 364,
+      "name": "Frostpetal Orchid",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92498,
+          "name": "Thrash",
+          "reviewReasons": []
+        },
+        {
+          "id": 92500,
+          "name": "Frost Barrier",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892297,
+          "name": "Virulent Poison",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 365,
+      "name": "Frostpetal Lasher",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92498,
+          "name": "Thrash",
+          "reviewReasons": []
+        },
+        {
+          "id": 92507,
+          "name": "Icicle",
+          "reviewReasons": []
+        },
+        {
+          "id": 892297,
+          "name": "Virulent Poison",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 366,
+      "name": "Deathpetal Orchid",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 367,
+      "name": "Deathpetal Lasher",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92498,
+          "name": "Thrash",
+          "reviewReasons": []
+        },
+        {
+          "id": 92510,
+          "name": "Summon Deathpetal Effigy",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 892297,
+          "name": "Virulent Poison",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 368,
+      "name": "Stone War Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92502,
+          "name": "Thunderclap",
+          "reviewReasons": []
+        },
+        {
+          "id": 92503,
+          "name": "Taunt",
+          "reviewReasons": []
+        },
+        {
+          "id": 92516,
+          "name": "Stoneform",
+          "reviewReasons": [
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 369,
+      "name": "Stone Siege Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92519,
+          "name": "Throw Boulder",
+          "reviewReasons": []
+        },
+        {
+          "id": 92522,
+          "name": "Cannon Shot",
+          "reviewReasons": []
+        },
+        {
+          "id": 92523,
+          "name": "Cannon Blast",
+          "reviewReasons": [
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 370,
+      "name": "Dark Iron War Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92502,
+          "name": "Thunderclap",
+          "reviewReasons": []
+        },
+        {
+          "id": 92503,
+          "name": "Taunt",
+          "reviewReasons": []
+        },
+        {
+          "id": 92524,
+          "name": "Oil Spill",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 371,
+      "name": "Dark Iron Siege Golem",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 372,
+      "name": "Ragereaver War Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92502,
+          "name": "Thunderclap",
+          "reviewReasons": []
+        },
+        {
+          "id": 92503,
+          "name": "Taunt",
+          "reviewReasons": []
+        },
+        {
+          "id": 92515,
+          "name": "Enrage",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 373,
+      "name": "Ragereaver Siege Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92515,
+          "name": "Enrage",
+          "reviewReasons": []
+        },
+        {
+          "id": 92522,
+          "name": "Cannon Shot",
+          "reviewReasons": []
+        },
+        {
+          "id": 92523,
+          "name": "Cannon Blast",
+          "reviewReasons": [
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 374,
+      "name": "Molten War Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92502,
+          "name": "Thunderclap",
+          "reviewReasons": []
+        },
+        {
+          "id": 92503,
+          "name": "Taunt",
+          "reviewReasons": []
+        },
+        {
+          "id": 92518,
+          "name": "Immolation",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 375,
+      "name": "Molten Siege Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92520,
+          "name": "Hurl Flaming Boulder",
+          "reviewReasons": [
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 92522,
+          "name": "Cannon Shot",
+          "reviewReasons": []
+        },
+        {
+          "id": 92523,
+          "name": "Cannon Blast",
+          "reviewReasons": [
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 376,
+      "name": "Iron War Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92502,
+          "name": "Thunderclap",
+          "reviewReasons": []
+        },
+        {
+          "id": 92503,
+          "name": "Taunt",
+          "reviewReasons": []
+        },
+        {
+          "id": 92524,
+          "name": "Oil Spill",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 377,
+      "name": "Iron Siege Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92502,
+          "name": "Thunderclap",
+          "reviewReasons": []
+        },
+        {
+          "id": 92503,
+          "name": "Taunt",
+          "reviewReasons": []
+        },
+        {
+          "id": 92524,
+          "name": "Oil Spill",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 378,
+      "name": "Drakkari War Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92502,
+          "name": "Thunderclap",
+          "reviewReasons": []
+        },
+        {
+          "id": 92503,
+          "name": "Taunt",
+          "reviewReasons": []
+        },
+        {
+          "id": 92524,
+          "name": "Oil Spill",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 379,
+      "name": "Drakkari Siege Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92502,
+          "name": "Thunderclap",
+          "reviewReasons": []
+        },
+        {
+          "id": 92503,
+          "name": "Taunt",
+          "reviewReasons": []
+        },
+        {
+          "id": 92524,
+          "name": "Oil Spill",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 380,
+      "name": "Runic War Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92502,
+          "name": "Thunderclap",
+          "reviewReasons": []
+        },
+        {
+          "id": 92503,
+          "name": "Taunt",
+          "reviewReasons": []
+        },
+        {
+          "id": 92524,
+          "name": "Oil Spill",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 381,
+      "name": "Runic Siege Golem",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92502,
+          "name": "Thunderclap",
+          "reviewReasons": []
+        },
+        {
+          "id": 92503,
+          "name": "Taunt",
+          "reviewReasons": []
+        },
+        {
+          "id": 92524,
+          "name": "Oil Spill",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 382,
+      "name": "Verdant Bog Beast",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92526,
+          "name": "Infected Wound",
+          "reviewReasons": [
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 92527,
+          "name": "Tendon Rip",
+          "reviewReasons": []
+        },
+        {
+          "id": 92528,
+          "name": "Moss Covered Hands",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 383,
+      "name": "Fungal Bog Beast",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 92530,
+          "name": "Fungal Regrowth",
+          "reviewReasons": []
+        },
+        {
+          "id": 92531,
+          "name": "War Stomp",
+          "reviewReasons": []
+        },
+        {
+          "id": 92533,
+          "name": "Wild Growth",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 384,
+      "name": "Hardwood Treant",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 93532,
+          "name": "Treant Tamed Pet Passive 12 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93533,
+          "name": "Treant Avoidance",
+          "reviewReasons": [
+            "aura needs custom/scaling review"
+          ]
+        },
+        {
+          "id": 93536,
+          "name": "Treant Invigoration",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 93540,
+          "name": "Treant Tamed Pet Passive 07 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "shared passive/scaling withheld",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 93541,
+          "name": "Treant Tamed Pet Passive 06 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93542,
+          "name": "Treant Tamed Pet Passive 05 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93543,
+          "name": "Treant Tamed Pet Passive 04 (DND)",
+          "reviewReasons": [
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93544,
+          "name": "Treant Tamed Pet Passive 03 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93545,
+          "name": "Treant Tamed Pet Passive 02 (DND)",
+          "reviewReasons": [
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93546,
+          "name": "Treant Tamed Pet Passive 01 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93547,
+          "name": "Treant Tamed Pet Passive 00 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93548,
+          "name": "Treant Tamed Pet Passive 10 (DND)",
+          "reviewReasons": [
+            "proc behavior needs explicit review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93549,
+          "name": "Treant Tamed Pet Passive 09 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93715,
+          "name": "Entangling Roots",
+          "reviewReasons": []
+        },
+        {
+          "id": 93716,
+          "name": "Thorns",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "effect needs custom/dependency review"
+          ]
+        },
+        {
+          "id": 93717,
+          "name": "Rejuvenation",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 385,
+      "name": "Dreadwood Treant",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 93584,
+          "name": "Treant Tamed Pet Passive 12 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93585,
+          "name": "Treant Avoidance",
+          "reviewReasons": [
+            "aura needs custom/scaling review"
+          ]
+        },
+        {
+          "id": 93588,
+          "name": "Treant Invigoration",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 93592,
+          "name": "Treant Tamed Pet Passive 07 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "shared passive/scaling withheld",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 93593,
+          "name": "Treant Tamed Pet Passive 06 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93594,
+          "name": "Treant Tamed Pet Passive 05 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93595,
+          "name": "Treant Tamed Pet Passive 04 (DND)",
+          "reviewReasons": [
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93596,
+          "name": "Treant Tamed Pet Passive 03 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93597,
+          "name": "Treant Tamed Pet Passive 02 (DND)",
+          "reviewReasons": [
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93598,
+          "name": "Treant Tamed Pet Passive 01 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93599,
+          "name": "Treant Tamed Pet Passive 00 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93600,
+          "name": "Treant Tamed Pet Passive 10 (DND)",
+          "reviewReasons": [
+            "proc behavior needs explicit review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93601,
+          "name": "Treant Tamed Pet Passive 09 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93718,
+          "name": "Petrified Bark",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review"
+          ]
+        },
+        {
+          "id": 93720,
+          "name": "Corruption",
+          "reviewReasons": []
+        },
+        {
+          "id": 93721,
+          "name": "Mana Burn",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 386,
+      "name": "Winterwood Treant",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 93663,
+          "name": "Treant Tamed Pet Passive 12 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93664,
+          "name": "Treant Avoidance",
+          "reviewReasons": [
+            "aura needs custom/scaling review"
+          ]
+        },
+        {
+          "id": 93667,
+          "name": "Treant Invigoration",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 93671,
+          "name": "Treant Tamed Pet Passive 07 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "shared passive/scaling withheld",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 93672,
+          "name": "Treant Tamed Pet Passive 06 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93673,
+          "name": "Treant Tamed Pet Passive 05 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93674,
+          "name": "Treant Tamed Pet Passive 04 (DND)",
+          "reviewReasons": [
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93675,
+          "name": "Treant Tamed Pet Passive 03 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93676,
+          "name": "Treant Tamed Pet Passive 02 (DND)",
+          "reviewReasons": [
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93677,
+          "name": "Treant Tamed Pet Passive 01 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93678,
+          "name": "Treant Tamed Pet Passive 00 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93679,
+          "name": "Treant Tamed Pet Passive 10 (DND)",
+          "reviewReasons": [
+            "proc behavior needs explicit review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93680,
+          "name": "Treant Tamed Pet Passive 09 (DND)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "shared passive/scaling withheld"
+          ]
+        },
+        {
+          "id": 93722,
+          "name": "Frost Shock",
+          "reviewReasons": []
+        },
+        {
+          "id": 93723,
+          "name": "Ice Lash",
+          "reviewReasons": [
+            "proc behavior needs explicit review"
+          ]
+        },
+        {
+          "id": 93724,
+          "name": "Replenishment",
+          "reviewReasons": [
+            "aura needs custom/scaling review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 387,
+      "name": "Softwood Treant",
+      "category": "Elemental",
+      "skills": [
+        {
+          "id": 93725,
+          "name": "Holy Shock",
+          "reviewReasons": []
+        },
+        {
+          "id": 93726,
+          "name": "Renew",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 394,
+      "name": "Treant",
+      "category": "Elemental",
+      "skills": []
+    },
+    {
+      "family": 401,
+      "name": "Black Proto-dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 402,
+      "name": "Black Whelp",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91755,
+          "name": "Lesser Fireball",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91757,
+          "name": "Fireball (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91758,
+          "name": "Fire Blast (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 403,
+      "name": "Black Drake",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91834,
+          "name": "Blast Wave (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91835,
+          "name": "Dark Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91836,
+          "name": "Swipe",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 404,
+      "name": "Black Dragon",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 891010,
+          "name": "Brood Power: Black",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891012,
+          "name": "Dark Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891013,
+          "name": "Tail Sweep",
+          "reviewReasons": []
+        },
+        {
+          "id": 891014,
+          "name": "Shadow Cleave",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 405,
+      "name": "Black Aspect",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 406,
+      "name": "Black Drakonid",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91860,
+          "name": "Brood Power: Black",
+          "reviewReasons": [
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 91861,
+          "name": "Shadow Nova",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91862,
+          "name": "Shockwave (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 407,
+      "name": "Black Scalebane",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91888,
+          "name": "Thunderclap",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91889,
+          "name": "Fiery Cleave",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91890,
+          "name": "Strike",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 408,
+      "name": "Black Wyrmkin",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91905,
+          "name": "Dark Bolt",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91906,
+          "name": "Rain of Fire (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91907,
+          "name": "Shadow Nova",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 409,
+      "name": "Black Flametongue",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 410,
+      "name": "Black Drakeadon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 411,
+      "name": "Black Dragonman",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 412,
+      "name": "Black Dracthyr",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 413,
+      "name": "Blue Proto-dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 414,
+      "name": "Blue Whelp",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91759,
+          "name": "Arcane Bolt",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91761,
+          "name": "Frostbolt (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91762,
+          "name": "Drain Mana",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 415,
+      "name": "Blue Drake",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91840,
+          "name": "Devour Magic",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        },
+        {
+          "id": 91842,
+          "name": "Ice Beam",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91843,
+          "name": "Frost Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891893,
+          "name": "Frost Strike",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 416,
+      "name": "Blue Dragon",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 891020,
+          "name": "Brood Power: Blue",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891021,
+          "name": "Frost Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891022,
+          "name": "Drain Mana",
+          "reviewReasons": []
+        },
+        {
+          "id": 891023,
+          "name": "Ice Beam",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 417,
+      "name": "Blue Aspect",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 418,
+      "name": "Blue Drakonid",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91863,
+          "name": "Brood Power: Blue",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91864,
+          "name": "Thunderclap (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91865,
+          "name": "Shockwave (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 419,
+      "name": "Blue Scalebane",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91892,
+          "name": "Frostbite Weapon",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "description-variable implementation missing",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 91893,
+          "name": "Frost Strike",
+          "reviewReasons": []
+        },
+        {
+          "id": 91894,
+          "name": "Frost Nova",
+          "reviewReasons": [
+            "proc behavior needs explicit review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 420,
+      "name": "Blue Wyrmkin",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91909,
+          "name": "Cone of Cold (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91911,
+          "name": "Deep Freeze (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91912,
+          "name": "Arcane Barrage (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 421,
+      "name": "Blue Flametongue",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 422,
+      "name": "Blue Drakeadon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 423,
+      "name": "Blue Dragonman",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 424,
+      "name": "Blue Dracthyr",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 425,
+      "name": "Bronze Proto-dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 426,
+      "name": "Bronze Whelp",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91765,
+          "name": "Sand Bomb",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91766,
+          "name": "Chrono Mend",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91767,
+          "name": "Timelink",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 427,
+      "name": "Bronze Drake",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91844,
+          "name": "Sand Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91845,
+          "name": "Timelink",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91846,
+          "name": "Time Shock",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 428,
+      "name": "Bronze Dragon",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 891030,
+          "name": "Brood Power: Bronze",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 891033,
+          "name": "War Stomp",
+          "reviewReasons": []
+        },
+        {
+          "id": 891034,
+          "name": "Sand Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891035,
+          "name": "Swipe",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 429,
+      "name": "Bronze Aspect",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 430,
+      "name": "Bronze Drakonid",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91866,
+          "name": "Brood Power: Bronze",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 91868,
+          "name": "Arcane Bomb",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91869,
+          "name": "Shockwave",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 431,
+      "name": "Bronze Scalebane",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91895,
+          "name": "Time Cleave",
+          "reviewReasons": [
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 91896,
+          "name": "Time Stop",
+          "reviewReasons": [
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 92045,
+          "name": "Transcendental Scales",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 432,
+      "name": "Bronze Wyrmkin",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 433,
+      "name": "Bronze Flametongue",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 434,
+      "name": "Bronze Drakeadon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 435,
+      "name": "Bronze Dragonman",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 436,
+      "name": "Bronze Dracthyr",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 437,
+      "name": "Green Proto-dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 438,
+      "name": "Green Whelp",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91821,
+          "name": "Acid Spit",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91822,
+          "name": "Minor Rejuvenation",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91823,
+          "name": "Sleep",
+          "reviewReasons": [
+            "custom formula, charge, target-count or tooltip behavior needs review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 439,
+      "name": "Green Drake",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91847,
+          "name": "Corrosive Acid Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91848,
+          "name": "Nature's Wrath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91849,
+          "name": "Nature's Bloom",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 440,
+      "name": "Green Dragon",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 891040,
+          "name": "Brood Power: Green",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 891042,
+          "name": "Nature's Bloom",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891043,
+          "name": "Tail Sweep",
+          "reviewReasons": []
+        },
+        {
+          "id": 891044,
+          "name": "Corrosive Acid Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 441,
+      "name": "Green Aspect",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 442,
+      "name": "Green Drakonid",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91873,
+          "name": "Brood Power: Green",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 91874,
+          "name": "Thunderclap",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91875,
+          "name": "Shockwave",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 443,
+      "name": "Green Scalebane",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91897,
+          "name": "Thorns Aura",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "effect needs custom/dependency review"
+          ]
+        },
+        {
+          "id": 91898,
+          "name": "Acid Splash",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91899,
+          "name": "Pummel (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 444,
+      "name": "Green Wyrmkin",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91914,
+          "name": "Wrath (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91915,
+          "name": "Nature's Wrath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91916,
+          "name": "Restore Nature",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 445,
+      "name": "Green Flametongue",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 446,
+      "name": "Green Drakeadon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 447,
+      "name": "Green Dragonman",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 448,
+      "name": "Green Dracthyr",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 449,
+      "name": "Red Proto-dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 450,
+      "name": "Red Whelp",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91768,
+          "name": "Fireball (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91819,
+          "name": "Fire Blast (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91820,
+          "name": "Fire Shield (Pet)",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "description-variable implementation missing",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 451,
+      "name": "Red Drake",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91850,
+          "name": "Flame Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91851,
+          "name": "Wing Buffet",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91852,
+          "name": "Swipe",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 452,
+      "name": "Red Dragon",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 891050,
+          "name": "Brood Power: Red",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891051,
+          "name": "Flame Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891052,
+          "name": "Bellowing Roar",
+          "reviewReasons": []
+        },
+        {
+          "id": 891053,
+          "name": "Fiery Cleave",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 453,
+      "name": "Red Aspect",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 454,
+      "name": "Red Drakonid",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91879,
+          "name": "Brood Power: Red",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91880,
+          "name": "War Stomp",
+          "reviewReasons": []
+        },
+        {
+          "id": 91881,
+          "name": "Burning Fury",
+          "reviewReasons": [
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 455,
+      "name": "Red Scalebane",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91885,
+          "name": "Fiery Cleave",
+          "reviewReasons": [
+            "description-variable implementation missing"
+          ]
+        },
+        {
+          "id": 91886,
+          "name": "Fire Nova (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91887,
+          "name": "Strike",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 456,
+      "name": "Red Wyrmkin",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 457,
+      "name": "Red Flametongue",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 458,
+      "name": "Red Drakeadon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 459,
+      "name": "Red Dragonman",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 460,
+      "name": "Red Dracthyr",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 461,
+      "name": "Chromatic Proto-dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 462,
+      "name": "Chromatic Whelp",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91945,
+          "name": "Chromatic Bolt",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        },
+        {
+          "id": 91946,
+          "name": "Chromatic Blast",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        },
+        {
+          "id": 91947,
+          "name": "Chromatic Shield",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 463,
+      "name": "Chromatic Drake",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91853,
+          "name": "Wing Buffet",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91948,
+          "name": "Chromatic Swipe",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        },
+        {
+          "id": 91949,
+          "name": "Chromatic Breath",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 464,
+      "name": "Chromatic Dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 465,
+      "name": "Chromatic Aspect",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 466,
+      "name": "Chromatic Drakonid",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91950,
+          "name": "Brood Power: Chromatic",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        },
+        {
+          "id": 91951,
+          "name": "Chromatic Shockwave",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        },
+        {
+          "id": 91952,
+          "name": "Chromatic Flurry",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 467,
+      "name": "Chromatic Scalebane",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91901,
+          "name": "Disarm",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "resource profile not implemented"
+          ]
+        },
+        {
+          "id": 91953,
+          "name": "Chromatic Strike",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        },
+        {
+          "id": 91959,
+          "name": "Reinforcement",
+          "reviewReasons": [
+            "aura needs custom/scaling review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 468,
+      "name": "Chromatic Wyrmkin",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 469,
+      "name": "Chromatic Flametongue",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 470,
+      "name": "Chromatic Drakeadon",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91923,
+          "name": "Enrage",
+          "reviewReasons": []
+        },
+        {
+          "id": 91954,
+          "name": "Brood Power: Chromatic",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        },
+        {
+          "id": 91955,
+          "name": "Chromatic Breath",
+          "reviewReasons": [
+            "effect needs custom/dependency review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 471,
+      "name": "Chromatic Dragonman",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 472,
+      "name": "Chromatic Dracthyr",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 473,
+      "name": "Infinite Proto-dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 474,
+      "name": "Infinite Whelp",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91832,
+          "name": "Shadow Bolt (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91833,
+          "name": "Impending Death",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 92067,
+          "name": "Timebreak",
+          "reviewReasons": [
+            "aura needs custom/scaling review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 475,
+      "name": "Infinite Drake",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91857,
+          "name": "Swipe",
+          "reviewReasons": []
+        },
+        {
+          "id": 91858,
+          "name": "Timerend",
+          "reviewReasons": []
+        },
+        {
+          "id": 91859,
+          "name": "Shadow Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 476,
+      "name": "Infinite Dragon",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 891060,
+          "name": "Shadow Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891061,
+          "name": "Shadowstep",
+          "reviewReasons": [
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review"
+          ]
+        },
+        {
+          "id": 891062,
+          "name": "Timerend",
+          "reviewReasons": []
+        },
+        {
+          "id": 891063,
+          "name": "Shadow Nova",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 477,
+      "name": "Infinite Aspect",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 478,
+      "name": "Infinite Drakonid",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91882,
+          "name": "Shadowstep",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "effect needs custom/dependency review"
+          ]
+        },
+        {
+          "id": 91883,
+          "name": "Shockwave (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91884,
+          "name": "Shadow Nova",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 479,
+      "name": "Infinite Scalebane",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91902,
+          "name": "Shadow Cleave",
+          "reviewReasons": []
+        },
+        {
+          "id": 91903,
+          "name": "Shadowguard",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "proc behavior needs explicit review"
+          ]
+        },
+        {
+          "id": 91904,
+          "name": "Void Strike",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 480,
+      "name": "Infinite Wyrmkin",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91918,
+          "name": "Shadow Blast",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91919,
+          "name": "Shadow Spiral",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91922,
+          "name": "Veil of Shadow",
+          "reviewReasons": [
+            "aura needs custom/scaling review"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 481,
+      "name": "Infinite Flametongue",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 482,
+      "name": "Infinite Drakeadon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 483,
+      "name": "Infinite Dragonman",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 484,
+      "name": "Infinite Dracthyr",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 485,
+      "name": "Twilight Proto-dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 486,
+      "name": "Twilight Whelp",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91825,
+          "name": "Twilight Bolt",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91826,
+          "name": "Binding Twilight",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91827,
+          "name": "Twilight Blast",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 487,
+      "name": "Twilight Drake",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 488,
+      "name": "Twilight Dragon",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 891070,
+          "name": "Bellowing Roar",
+          "reviewReasons": []
+        },
+        {
+          "id": 891071,
+          "name": "Twilight Breath",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891072,
+          "name": "Twilight Blast",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891073,
+          "name": "Twilight Cleave",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 489,
+      "name": "Twilight Aspect",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 490,
+      "name": "Twilight Drakonid",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 491,
+      "name": "Twilight Scalebane",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91900,
+          "name": "Twilight Cleave",
+          "reviewReasons": []
+        },
+        {
+          "id": 891100,
+          "name": "Silent Twilight",
+          "reviewReasons": [
+            "aura needs custom/scaling review",
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891101,
+          "name": "Twilight Nova",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 492,
+      "name": "Twilight Wyrmkin",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 493,
+      "name": "Twilight Flametongue",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 494,
+      "name": "Twilight Drakeadon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 495,
+      "name": "Twilight Dragonman",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 496,
+      "name": "Twilight Dracthyr",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 497,
+      "name": "Netherwing Proto-dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 498,
+      "name": "Netherwing Whelp",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 499,
+      "name": "Netherwing Drake",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91854,
+          "name": "Nether Blast",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91855,
+          "name": "Arcane Blast",
+          "reviewReasons": []
+        },
+        {
+          "id": 91856,
+          "name": "Intangible Presence",
+          "reviewReasons": []
+        },
+        {
+          "id": 891895,
+          "name": "Strike",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 500,
+      "name": "Netherwing Dragon",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 891080,
+          "name": "Nether Breath",
+          "reviewReasons": [
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 891081,
+          "name": "Nether Spike",
+          "reviewReasons": [
+            "proc behavior needs explicit review"
+          ]
+        },
+        {
+          "id": 891082,
+          "name": "Arcane Blast",
+          "reviewReasons": []
+        },
+        {
+          "id": 891083,
+          "name": "Nether Sweep",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 501,
+      "name": "Netherwing Aspect",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 502,
+      "name": "Netherwing Drakonid",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91876,
+          "name": "Sunder Armor",
+          "reviewReasons": []
+        },
+        {
+          "id": 91877,
+          "name": "Shockwave (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91878,
+          "name": "Nether Spike",
+          "reviewReasons": []
+        },
+        {
+          "id": 91890,
+          "name": "Strike",
+          "reviewReasons": []
+        }
+      ]
+    },
+    {
+      "family": 503,
+      "name": "Netherwing Scalebane",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 504,
+      "name": "Netherwing Wyrmkin",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 505,
+      "name": "Netherwing Flametongue",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 506,
+      "name": "Netherwing Drakeadon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 507,
+      "name": "Netherwing Dragonman",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 508,
+      "name": "Netherwing Dracthyr",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 509,
+      "name": "Plagued Proto-dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 510,
+      "name": "Plagued Whelp",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91828,
+          "name": "Poison Bolt",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91956,
+          "name": "Plague Cloud",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91957,
+          "name": "Plague Blast",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 511,
+      "name": "Plagued Drake",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 512,
+      "name": "Plagued Dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 513,
+      "name": "Plagued Aspect",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 514,
+      "name": "Plagued Drakonid",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 515,
+      "name": "Plagued Scalebane",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 516,
+      "name": "Plagued Wyrmkin",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 517,
+      "name": "Plagued Flametongue",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 518,
+      "name": "Plagued Drakeadon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 519,
+      "name": "Plagued Dragonman",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 520,
+      "name": "Plagued Dracthyr",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 521,
+      "name": "Storm Proto-dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 522,
+      "name": "Storm Whelp",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 523,
+      "name": "Storm Drake",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 524,
+      "name": "Storm Dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 525,
+      "name": "Storm Aspect",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 526,
+      "name": "Storm Drakonid",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 527,
+      "name": "Storm Scalebane",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 528,
+      "name": "Storm Wyrmkin",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 529,
+      "name": "Storm Flametongue",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 530,
+      "name": "Storm Drakeadon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 531,
+      "name": "Storm Dragonman",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 532,
+      "name": "Storm Dracthyr",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 533,
+      "name": "Emberwyrm",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 534,
+      "name": "Magmawyrm",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 535,
+      "name": "Frostbrood",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 536,
+      "name": "Undead Whelp",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 537,
+      "name": "Fel Dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 538,
+      "name": "Cloud Serpent",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 539,
+      "name": "Dragonhawk",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 540,
+      "name": "Stone Dragon",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 541,
+      "name": "Faerie Dragon",
+      "category": "Dragonkin",
+      "skills": [
+        {
+          "id": 91829,
+          "name": "Chain Lightning (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "unresolved formula or owner scaling"
+          ]
+        },
+        {
+          "id": 91830,
+          "name": "Mana Burn",
+          "reviewReasons": [
+            "custom formula, charge, target-count or tooltip behavior needs review"
+          ]
+        },
+        {
+          "id": 91831,
+          "name": "Blink (Pet)",
+          "reviewReasons": [
+            "description-variable implementation missing",
+            "effect needs custom/dependency review",
+            "trigger/aura dependency needs implementation review",
+            "unresolved formula or owner scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "family": 542,
+      "name": "Veilwing",
+      "category": "Dragonkin",
+      "skills": []
+    },
+    {
+      "family": 543,
+      "name": "Pseudo-dragon",
+      "category": "Dragonkin",
+      "skills": []
+    }
+  ],
+  "formula182": "$scalingbp=${(0.0267291844060354+0.0048541098014737*$PL+0.0001859597762293*$PL*$PL)}",
+  "status": "Reference review; no Elemental or Dragonkin changes installed"
+}
