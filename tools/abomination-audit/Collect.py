@@ -9,16 +9,20 @@ def main():
  a=p.parse_args()
  if a.output.exists():p.error('Use a new output directory')
  a.output.mkdir(parents=True)
- manifest={'status':'read-only export','files':{},'missing':[]}
+ manifest={'status':'read-only export','files':{},'missing':[],'encodingWarnings':[]}
  def save(name,data):
   f=a.output/name;f.parent.mkdir(parents=True,exist_ok=True);f.write_bytes(data)
   manifest['files'][name]=hashlib.sha256(data).hexdigest()
  def query(name,sql):
-  result=subprocess.run(['docker','exec','-i','classless-test-database','sh','-c','MYSQL_PWD="$MYSQL_ROOT_PASSWORD" mysql -uroot --batch acore_world'],input=sql.encode(),capture_output=True,timeout=180)
+  result=subprocess.run(['docker','exec','-i','classless-test-database','sh','-c','MYSQL_PWD="$MYSQL_ROOT_PASSWORD" mysql --default-character-set=utf8mb4 -uroot --batch acore_world'],input=sql.encode(),capture_output=True,timeout=180)
   if result.returncode:
    manifest['missing'].append(name+': '+result.stderr.decode(errors='replace')[-500:]);return []
   save(name,result.stdout)
-  return list(csv.DictReader(io.StringIO(result.stdout.decode()),delimiter='\t'))
+  try:text=result.stdout.decode('utf-8')
+  except UnicodeDecodeError:
+   manifest['encodingWarnings'].append(name+': invalid UTF-8 bytes escaped for parsing; original bytes retained in TSV')
+   text=result.stdout.decode('utf-8',errors='backslashreplace')
+  return list(csv.DictReader(io.StringIO(text),delimiter='\t'))
  ids=json.loads((Path(__file__).parent/'entries.json').read_text())
  templates=query('templates.tsv','SELECT * FROM creature_template WHERE entry IN ('+','.join(map(str,ids))+") OR name LIKE '%Abomination%';")
  if not templates:raise RuntimeError('No template data; see database access/error')
@@ -31,7 +35,7 @@ def main():
  selected=','.join(map(str,ids))
  spawns=query('spawns.tsv','SELECT * FROM creature WHERE id IN ('+selected+');')
  guids=','.join(str(int(r['guid'])) for r in spawns) or '0'
- query('smart-scripts.tsv','SELECT * FROM smart_scripts WHERE (source_type=0 AND (entryorguid IN ('+selected+') OR entryorguid IN (SELECT -guid FROM creature WHERE id IN ('+selected+')))) OR source_type=9;')
+ query('smart-scripts.tsv','SELECT * FROM smart_scripts WHERE (source_type=0 AND (entryorguid IN ('+selected+') OR entryorguid IN (SELECT -CAST(guid AS SIGNED) FROM creature WHERE id IN ('+selected+')))) OR source_type=9;')
  # All timed action lists are retained so nested/random list calls are not missed.
  query('template-addons.tsv','SELECT * FROM creature_template_addon WHERE entry IN ('+selected+');')
  query('spawn-addons.tsv','SELECT * FROM creature_addon WHERE guid IN ('+guids+');')
