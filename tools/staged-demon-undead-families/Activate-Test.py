@@ -60,9 +60,15 @@ def main():
  assert w['HostConfig']['PortBindings']==s['ports'],'Live ports changed since build'
  for rel,h in s['files'].items():assert sha(ROOT/rel)==h['before'],'Live source changed since build: '+rel
  assert run(['docker','image','inspect','--format','{{.Id}}',s['tag']])==s['builtImage']
- assert w['Config']['Labels']['com.docker.compose.project.config_files']==s['activeConfig'],'Live compose changed'
+ live_config=w['Config']['Labels']['com.docker.compose.project.config_files']
  config=json.loads(run(['docker','compose','-p','classless-test','-f',s['activeConfig'],'config','--format','json']))
  old=copy.deepcopy(config);old['services']['ac-worldserver'].pop('build',None);old['services']['ac-worldserver']['image']=s['previousImage']
+ if live_config!=s['activeConfig']:
+  assert live_config==str(work/'demon-undead-families-rollback.json'),'Live compose changed to an unrecognized configuration'
+  recovery=json.loads((HERE/'activation.json').read_text())
+  assert recovery.get('phase')=='rolled-back' and recovery.get('image')==s['previousImage'],'No matching successful rollback record'
+  recovered=json.loads(run(['docker','compose','-p','classless-test','-f',live_config,'config','--format','json']))
+  assert recovered==old,'Rollback compose differs from the reviewed original configuration'
  new=copy.deepcopy(old);new['services']['ac-worldserver']['image']=s['builtImage']
  private=copy.deepcopy(new);private['services']['ac-worldserver']['ports']=[]
  for name,data in [('rollback',old),('active',new),('private',private)]:
