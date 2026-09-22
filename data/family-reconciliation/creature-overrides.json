@@ -1,0 +1,27 @@
+{
+  "status": "User-requested staged overrides; not installed. Vile Familiar live template/model/spawns require supplemental export before guarded SQL generation.",
+  "creatures": [
+    {
+      "entry": 3102,
+      "name": "Felstalker",
+      "customFamily": 110,
+      "displayFamily": "Felhunter",
+      "referenceFamilyName": "Felhound",
+      "nativeFamily": 15,
+      "type": 3,
+      "levels": "preserve current 3-4",
+      "reason": "Explicit owner assignment for Burning Blade Coven, Valley of Trials."
+    },
+    {
+      "entry": 3101,
+      "name": "Vile Familiar",
+      "customFamily": 115,
+      "displayFamily": "Imp",
+      "nativeFamily": 23,
+      "type": 3,
+      "minlevel": 1,
+      "maxlevel": 4,
+      "reason": "Explicit owner override from Humanoid to Demon. Applies to every spawn using entry 3101; verify all spawn locations before installation."
+    }
+  ]
+}
