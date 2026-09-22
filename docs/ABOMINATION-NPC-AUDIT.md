@@ -7,3 +7,5 @@ The audit selects 125 reference entries plus templates named Abomination and the
 NPC ability evidence will be kept separate from imported Ascension pet abilities. Scripted boss mechanics are not automatically suitable for player pets. Nested compiled spell handlers may require a follow-up source read once IDs are resolved. No database or client modifications are performed.
 
 The collector explicitly requests utf8mb4 from MySQL. Unexpected invalid UTF-8 is recorded in encodingWarnings and escaped during parsing; the original exported bytes remain unchanged. This was checked against the actual SmartAI export that caused the decoding failure. Reruns use a fresh output folder to preserve partial exports.
+
+MySQL batch output is now parsed as LF-delimited records and tab-delimited fields, with no CSV quote interpretation. Raw carriage returns and quoted spell text are preserved. Every saved TSV from the second partial export passed field-count validation, including spell overrides; malformed rows fail explicitly.

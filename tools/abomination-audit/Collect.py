@@ -1,6 +1,20 @@
 """Read-only Abomination NPC spell/AI export; no restart or database writes."""
-import argparse,csv,hashlib,io,json,re,subprocess
+import argparse,hashlib,json,re,subprocess
 from pathlib import Path
+
+def parse_batch(text):
+ # mysql --batch escapes field tabs/newlines with backslashes, not CSV quotes.
+ # Only LF delimits records; a raw CR inside a description is field content.
+ lines=text.split('\n')
+ if lines and lines[-1]=='':lines.pop()
+ if not lines:return []
+ headers=lines[0].split('\t');rows=[]
+ for number,line in enumerate(lines[1:],2):
+  fields=line.split('\t')
+  if len(fields)!=len(headers):
+   raise ValueError('MySQL batch row %d has %d fields; expected %d'%(number,len(fields),len(headers)))
+  rows.append(dict(zip(headers,fields)))
+ return rows
 
 def main():
  p=argparse.ArgumentParser(description=__doc__)
@@ -22,7 +36,7 @@ def main():
   except UnicodeDecodeError:
    manifest['encodingWarnings'].append(name+': invalid UTF-8 bytes escaped for parsing; original bytes retained in TSV')
    text=result.stdout.decode('utf-8',errors='backslashreplace')
-  return list(csv.DictReader(io.StringIO(text),delimiter='\t'))
+  return parse_batch(text)
  ids=json.loads((Path(__file__).parent/'entries.json').read_text())
  templates=query('templates.tsv','SELECT * FROM creature_template WHERE entry IN ('+','.join(map(str,ids))+") OR name LIKE '%Abomination%';")
  if not templates:raise RuntimeError('No template data; see database access/error')
