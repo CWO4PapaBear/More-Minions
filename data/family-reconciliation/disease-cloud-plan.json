@@ -18,5 +18,6 @@
     "Retain source 30 energy and 30 second cooldown unless testing requires a reviewed adjustment",
     "Add to Abomination and Ghoul pet profiles after dependency validation",
     "Do not change stock NPC abilities or Classic summoned ghouls"
-  ]
+  ],
+  "petLevelRequirement": 30
 }

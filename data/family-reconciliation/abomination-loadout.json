@@ -1,0 +1,26 @@
+{
+  "status": "user-approved four-spell loadout; staged, not installed",
+  "family": 203,
+  "spells": [
+    18368,
+    80190,
+    880743,
+    50335
+  ],
+  "removed": [
+    80188
+  ],
+  "duplicateStrikeOmitted": 80186,
+  "ghoulAddition": 880743,
+  "requirements": [
+    "Audit native Scourge Hook behavior and pet targeting; do not assume it applies Hooked",
+    "Resolve Disease Cloud tooltip and trigger mismatch",
+    "Validate native Strike and imported Cleave damage, resource costs and autocast",
+    "Keep stock NPC spell records unchanged; use pet-specific overrides if needed"
+  ],
+  "nativeTimingWarning": "18368 and 50335 have zero spell-record cooldown; NPC AI timing is separate and must be implemented for pet use",
+  "petLevelRequirements": {
+    "880743": 30,
+    "50335": 40
+  }
+}
