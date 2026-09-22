@@ -1,5 +1,5 @@
 {
-  "status": "User-requested staged overrides; not installed. Vile Familiar live template/model/spawns require supplemental export before guarded SQL generation.",
+  "status": "Staged and verified against Valley read-only export; not installed.",
   "creatures": [
     {
       "entry": 3102,
@@ -23,5 +23,27 @@
       "maxlevel": 4,
       "reason": "Explicit owner override from Humanoid to Demon. Applies to every spawn using entry 3101; verify all spawn locations before installation."
     }
-  ]
+  ],
+  "verifiedBaseline": {
+    "3101": {
+      "type": 7,
+      "family": 0,
+      "minlevel": 3,
+      "maxlevel": 4,
+      "spawnCount": 37,
+      "maps": [
+        1
+      ]
+    },
+    "3102": {
+      "type": 3,
+      "family": 0,
+      "minlevel": 3,
+      "maxlevel": 4,
+      "spawnCount": 16,
+      "maps": [
+        1
+      ]
+    }
+  }
 }

@@ -1,0 +1,2533 @@
+# Undead: mapping review
+
+[Status definitions and summary](../STAGED-PET-MAPPINGS.md). Export snapshot; no new mappings installed.
+
+| Entry | Creature | Family (ID) | Status | Min level | Notes |
+| --- | --- | --- | --- | ---: | --- |
+| 1534 | Wailing Ancestor | Banshee (204) | Active | 9 | Enabled mapping; runtime eligibility still applies. |
+| 1655 | Nissa Agamand | Banshee (204) | Active | 10 | Enabled mapping; runtime eligibility still applies. |
+| 1804 | Wailing Death | Banshee (204) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 1983 | Nightlash | Banshee (204) | Active | 14 | Enabled mapping; runtime eligibility still applies. |
+| 2044 | Forlorn Spirit | Banshee (204) | Active | 25 | Enabled mapping; runtime eligibility still applies. |
+| 2176 | Cursed Highborne | Banshee (204) | Active | 10 | Enabled mapping; runtime eligibility still applies. |
+| 2178 | Wailing Highborne | Banshee (204) | Active | 12 | Enabled mapping; runtime eligibility still applies. |
+| 4476 | Screaming Haunt | Banshee (204) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 4958 | Haunting Spirit | Banshee (204) | Active | 20 | Enabled mapping; runtime eligibility still applies. |
+| 6116 | Highborne Apparition | Banshee (204) | Active | 45 | Enabled mapping; runtime eligibility still applies. |
+| 7524 | Anguished Highborne | Banshee (204) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 8540 | Torn Screamer | Banshee (204) | Active | 53 | Enabled mapping; runtime eligibility still applies. |
+| 8541 | Hate Shrieker | Banshee (204) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 8542 | Death Singer | Banshee (204) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 14702 | Wailing Widow | Banshee (204) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 16312 | Spectral Screamer | Banshee (204) | Active | 14 | Enabled mapping; runtime eligibility still applies. |
+| 16314 | Fallen Ranger | Banshee (204) | Active | 15 | Enabled mapping; runtime eligibility still applies. |
+| 16321 | Wailer | Banshee (204) | Active | 18 | Enabled mapping; runtime eligibility still applies. |
+| 24626 | Scourgesong Shrieker | Banshee (204) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 24627 | Scourgesong Wailer | Banshee (204) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 27680 | Dahlia Suntouch | Banshee (204) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 29646 | Banshee Soulclaimer | Banshee (204) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 29770 | Lady Nightswood | Banshee (204) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 29858 | Lady Nightswood | Banshee (204) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 29893 | Banshee Soulclaimer | Banshee (204) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 30804 | Ritual Channeler (1) | Banshee (204) | Active | 81 | Enabled mapping; runtime eligibility still applies. |
+| 39048 | Sylvanas' Lamenter | Banshee (204) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 14707 | Bone Warder | Bone Golem (205) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 16299 | Skeletal Shocktrooper | Bone Golem (205) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 16422 | Skeletal Soldier | Bone Golem (205) | Active | 6 | Enabled mapping; runtime eligibility still applies. |
+| 16438 | Skeletal Trooper | Bone Golem (205) | Active | 9 | Enabled mapping; runtime eligibility still applies. |
+| 17261 | Restless Skeleton | Bone Golem (205) | Active | 68 | Enabled mapping; runtime eligibility still applies. |
+| 27362 | Smoldering Construct | Bone Golem (205) | Active | 73 | Enabled mapping; runtime eligibility still applies. |
+| 27835 | Dreadbone Construct | Bone Golem (205) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 28108 | Bonescythe Ravager | Bone Golem (205) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 33017 | Smoldering Construct | Bone Golem (205) | Active | 73 | Enabled mapping; runtime eligibility still applies. |
+| 7349 | Tomb Fiend | Crypt Fiend (207) | Active | 35 | Enabled mapping; runtime eligibility still applies. |
+| 8501 | TEST Uber Crypt Fiend | Crypt Fiend (207) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 8555 | Crypt Stalker | Crypt Fiend (207) | Active | 53 | Enabled mapping; runtime eligibility still applies. |
+| 8556 | Crypt Walker | Crypt Fiend (207) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 8557 | Crypt Horror | Crypt Fiend (207) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 8558 | Crypt Slayer | Crypt Fiend (207) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 8559 | Undead Nerubian | Crypt Fiend (207) | Active | 60 | Enabled mapping; runtime eligibility still applies. |
+| 14705 | Nerubian Webspinner | Crypt Fiend (207) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 16313 | Nerubis Guard | Crypt Fiend (207) | Active | 9 | Enabled mapping; runtime eligibility still applies. |
+| 16319 | Nerubis Centurion | Crypt Fiend (207) | Active | 18 | Enabled mapping; runtime eligibility still applies. |
+| 24564 | Nerub'ar Webfiend | Crypt Fiend (207) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 25227 | Crypt Crawler | Crypt Fiend (207) | Active | 68 | Enabled mapping; runtime eligibility still applies. |
+| 25382 | Nerub'ar Proxy | Crypt Fiend (207) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 25386 | En'kilah Crypt Fiend | Crypt Fiend (207) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 26073 | High Priest Talet-Kha | Crypt Fiend (207) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 29051 | Anub'ar Crypt Fiend | Crypt Fiend (207) | Active | 73 | Enabled mapping; runtime eligibility still applies. |
+| 29063 | Anub'ar Crypt Fiend | Crypt Fiend (207) | Active | 73 | Enabled mapping; runtime eligibility still applies. |
+| 29097 | Anub'ar Crypt Fiend | Crypt Fiend (207) | Active | 73 | Enabled mapping; runtime eligibility still applies. |
+| 31593 | Anub'ar Crypt Fiend (1) | Crypt Fiend (207) | Active | 81 | Enabled mapping; runtime eligibility still applies. |
+| 31594 | Anub'ar Crypt Fiend (1) | Crypt Fiend (207) | Active | 81 | Enabled mapping; runtime eligibility still applies. |
+| 31595 | Anub'ar Crypt Fiend (1) | Crypt Fiend (207) | Active | 81 | Enabled mapping; runtime eligibility still applies. |
+| 31596 | Anub'ar Crypt Fiend (1) | Crypt Fiend (207) | Active | 81 | Enabled mapping; runtime eligibility still applies. |
+| 37541 | Crypt Raider | Crypt Fiend (207) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 25228 | Risen Crypt Lord | Crypt Lord (208) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 25294 | Nerub'ar Web Lord | Crypt Lord (208) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 25629 | Lord Kryxix | Crypt Lord (208) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 26605 | Anub'ar Underlord | Crypt Lord (208) | Active | 71 | Enabled mapping; runtime eligibility still applies. |
+| 30541 | Forgotten Depths Underking | Crypt Lord (208) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
+| 30544 | Forgotten Depths Underking | Crypt Lord (208) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
+| 31039 | Forgotten Depths Underking | Crypt Lord (208) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
+| 31780 | Fallen Spiderlord | Crypt Lord (208) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 8534 | Putrid Gargoyle | Gargoyle (215) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 8535 | Putrid Shrieker | Gargoyle (215) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 8536 | Putrid Slayer | Gargoyle (215) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 14713 | Putrid Flyer | Gargoyle (215) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 16316 | Stonewing Tracker | Gargoyle (215) | Active | 16 | Enabled mapping; runtime eligibility still applies. |
+| 16324 | Stonewing Slayer | Gargoyle (215) | Active | 13 | Enabled mapping; runtime eligibility still applies. |
+| 24013 | Deathless Watcher | Gargoyle (215) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 24440 | Gjalerbron Gargoyle | Gargoyle (215) | Active | 71 | Enabled mapping; runtime eligibility still applies. |
+| 24624 | Boralstone Gargoyle | Gargoyle (215) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 24625 | Boralstone Skyhunter | Gargoyle (215) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 25387 | En'kilah Gargoyle | Gargoyle (215) | Active | 71 | Enabled mapping; runtime eligibility still applies. |
+| 26491 | [PH] Dragonblight Carrion Field Gargoyle | Gargoyle (215) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 26517 | Carrion Gargoyle | Gargoyle (215) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 28749 | Frostrock Gargoyle (UNUSED) | Gargoyle (215) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 28759 | Flying Fiend | Gargoyle (215) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 28879 | Shalewing | Gargoyle (215) | Active | 76 | Enabled mapping; runtime eligibility still applies. |
+| 29239 | Vigilant Gargoyle | Gargoyle (215) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 30482 | Wrathstrike Gargoyle | Gargoyle (215) | Active | 77 | Enabled mapping; runtime eligibility still applies. |
+| 30545 | [UNUSED] Wrathstrike Gargoyle | Gargoyle (215) | Active | 77 | Enabled mapping; runtime eligibility still applies. |
+| 31012 | Iceskin Sentry | Gargoyle (215) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31040 | Wrathstrike Gargoyle | Gargoyle (215) | Active | 77 | Enabled mapping; runtime eligibility still applies. |
+| 31324 | Iceskin Sentry | Gargoyle (215) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31787 | Citadel Watcher | Gargoyle (215) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
+| 32188 | Gargoyle Ambusher | Gargoyle (215) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 32323 | Aldur'thar Sentry | Gargoyle (215) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
+| 32769 | Gargoyle Ambusher | Gargoyle (215) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 3 | Flesh Eater | Ghoul (218) | Active | 24 | Enabled mapping; runtime eligibility still applies. |
+| 210 | Bone Chewer | Ghoul (218) | Active | 26 | Enabled mapping; runtime eligibility still applies. |
+| 314 | Eliza | Ghoul (218) | Active | 30 | Enabled mapping; runtime eligibility still applies. |
+| 511 | Insane Ghoul | Ghoul (218) | Active | 26 | Enabled mapping; runtime eligibility still applies. |
+| 570 | Brain Eater | Ghoul (218) | Active | 28 | Enabled mapping; runtime eligibility still applies. |
+| 604 | Plague Spreader | Ghoul (218) | Active | 27 | Enabled mapping; runtime eligibility still applies. |
+| 624 | Undead Excavator | Ghoul (218) | Active | 17 | Enabled mapping; runtime eligibility still applies. |
+| 625 | Undead Dynamiter | Ghoul (218) | Active | 17 | Enabled mapping; runtime eligibility still applies. |
+| 626 | Foreman Thistlenettle | Ghoul (218) | Active | 18 | Enabled mapping; runtime eligibility still applies. |
+| 846 | Rotten Ghoul | Ghoul (218) | Active | 14 | Enabled mapping; runtime eligibility still applies. |
+| 948 | Rotted One | Ghoul (218) | Active | 25 | Enabled mapping; runtime eligibility still applies. |
+| 1270 | Fetid Corpse | Ghoul (218) | Active | 29 | Enabled mapping; runtime eligibility still applies. |
+| 1488 | Zanzil Zombie | Ghoul (218) | Active | 43 | Enabled mapping; runtime eligibility still applies. |
+| 1489 | Zanzil Hunter | Ghoul (218) | Active | 43 | Enabled mapping; runtime eligibility still applies. |
+| 1502 | Wretched Ghoul | Ghoul (218) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 1654 | Gregor Agamand | Ghoul (218) | Active | 10 | Enabled mapping; runtime eligibility still applies. |
+| 1790 | Corpse Eater | Ghoul (218) | Active | 50 | Enabled mapping; runtime eligibility still applies. |
+| 1791 | Slavering Ghoul | Ghoul (218) | Active | 50 | Enabled mapping; runtime eligibility still applies. |
+| 1793 | Rotting Ghoul | Ghoul (218) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 1794 | Soulless Ghoul | Ghoul (218) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 1795 | Searing Ghoul | Ghoul (218) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 1796 | Freezing Ghoul | Ghoul (218) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 1866 | Ravenclaw Slave | Ghoul (218) | Active | 11 | Enabled mapping; runtime eligibility still applies. |
+| 1868 | Ravenclaw Servant | Ghoul (218) | Active | 13 | Enabled mapping; runtime eligibility still applies. |
+| 1918 | Karrel Grayves | Ghoul (218) | Active | 2 | Enabled mapping; runtime eligibility still applies. |
+| 1971 | Ivar the Foul | Ghoul (218) | Active | 13 | Enabled mapping; runtime eligibility still applies. |
+| 1974 | Ravenclaw Drudger | Ghoul (218) | Active | 19 | Enabled mapping; runtime eligibility still applies. |
+| 2217 | Undead Druid Trainer | Ghoul (218) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 2218 | Undead Hunter Trainer | Ghoul (218) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 2219 | Undead Shaman Trainer | Ghoul (218) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 2220 | [UNUSED] Undead Blacksmith Trainer | Ghoul (218) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 2221 | Undead Tailor Trainer | Ghoul (218) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 2222 | Undead Mining Trainer | Ghoul (218) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 2325 | Undead First Aid Trainer | Ghoul (218) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 2535 | Maury "Club Foot" Wilkins | Ghoul (218) | Active | 43 | Enabled mapping; runtime eligibility still applies. |
+| 2536 | Jon-Jon the Crow | Ghoul (218) | Active | 43 | Enabled mapping; runtime eligibility still applies. |
+| 2537 | Chucky "Ten Thumbs" | Ghoul (218) | Active | 43 | Enabled mapping; runtime eligibility still applies. |
+| 5621 | Timmy | Ghoul (218) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 5626 | Joey | Ghoul (218) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 5685 | Captive Ghoul | Ghoul (218) | Active | 10 | Enabled mapping; runtime eligibility still applies. |
+| 8530 | Cannibal Ghoul | Ghoul (218) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 8531 | Gibbering Ghoul | Ghoul (218) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 8532 | Diseased Flayer | Ghoul (218) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 10494 | Decrepit Ghoul | Ghoul (218) | Active | 40 | Enabled mapping; runtime eligibility still applies. |
+| 10801 | Jabbering Ghoul | Ghoul (218) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 10836 | Farmer Dalson | Ghoul (218) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 10943 | Decrepit Guardian | Ghoul (218) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 10953 | Servant of Horgus | Ghoul (218) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 11075 | Cauldron Lord Bilemaw | Ghoul (218) | Active | 53 | Enabled mapping; runtime eligibility still applies. |
+| 12262 | Ziggurat Protector | Ghoul (218) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 14711 | Plagued Eater UNUSED | Ghoul (218) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 15655 | Rotlimb Cannibal | Ghoul (218) | Active | 6 | Enabled mapping; runtime eligibility still applies. |
+| 15658 | Rotlimb Marauder | Ghoul (218) | Active | 8 | Enabled mapping; runtime eligibility still applies. |
+| 16138 | [UNUSED] Scourge Invasion Guardian | Ghoul (218) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 16141 | Ghoul Berserker | Ghoul (218) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 16309 | Gangled Cannibal | Ghoul (218) | Active | 12 | Enabled mapping; runtime eligibility still applies. |
+| 16322 | Gangled Flesheater | Ghoul (218) | Active | 10 | Enabled mapping; runtime eligibility still applies. |
+| 16390 | Deathchill Servant | Ghoul (218) | Active | 81 | Enabled mapping; runtime eligibility still applies. |
+| 24084 | Tunneling Ghoul | Ghoul (218) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 24177 | Decomposing Ghoul | Ghoul (218) | Active | 68 | Enabled mapping; runtime eligibility still applies. |
+| 25027 | Frenzied Ghoul | Ghoul (218) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 25393 | En'kilah Ghoul | Ghoul (218) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 25469 | Mindless Aberration | Ghoul (218) | Active | 68 | Enabled mapping; runtime eligibility still applies. |
+| 25650 | Plagued Scavenger | Ghoul (218) | Active | 68 | Enabled mapping; runtime eligibility still applies. |
+| 25660 | Festering Ghoul | Ghoul (218) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 26195 | En'kilah Unit | Ghoul (218) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 26461 | Scourge Corpserender | Ghoul (218) | Active | 73 | Enabled mapping; runtime eligibility still applies. |
+| 26492 | Wastes Digger | Ghoul (218) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 26515 | Carrion Ghoul | Ghoul (218) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 26658 | Reckless Scavenger | Ghoul (218) | Active | 68 | Enabled mapping; runtime eligibility still applies. |
+| 27534 | Frigid Ghoul | Ghoul (218) | Active | 71 | Enabled mapping; runtime eligibility still applies. |
+| 27556 | Mindless Ghoul | Ghoul (218) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 27733 | Ghoul Minion | Ghoul (218) | Active | 82 | Enabled mapping; runtime eligibility still applies. |
+| 27848 | Plagued Resident | Ghoul (218) | Active | 10 | Enabled mapping; runtime eligibility still applies. |
+| 27874 | Minion of Thel'zan | Ghoul (218) | Active | 68 | Enabled mapping; runtime eligibility still applies. |
+| 28005 | Wastes Scavenger | Ghoul (218) | Active | 73 | Enabled mapping; runtime eligibility still applies. |
+| 28022 | Carrion Eater | Ghoul (218) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 28144 | Mindless Aberration (Unkillable) | Ghoul (218) | Active | 68 | Enabled mapping; runtime eligibility still applies. |
+| 28158 | Withered Argent Footman | Ghoul (218) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 28218 | Snowblind Ghoul | Ghoul (218) | Active | 76 | Enabled mapping; runtime eligibility still applies. |
+| 28268 | Scourged Argent Footman | Ghoul (218) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 28405 | Acherus Ghoul | Ghoul (218) | Active | 62 | Enabled mapping; runtime eligibility still applies. |
+| 28528 | Vengeful Ghoul | Ghoul (218) | Active | 50 | Enabled mapping; runtime eligibility still applies. |
+| 28565 | Decaying Ghoul | Ghoul (218) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 28570 | Scourge Disguise | Ghoul (218) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 28897 | Scarlet Ghoul | Ghoul (218) | Active | 44 | Enabled mapping; runtime eligibility still applies. |
+| 28930 | Dansel Adams | Ghoul (218) | Active | 62 | Enabled mapping; runtime eligibility still applies. |
+| 29136 | Volatile Ghoul | Ghoul (218) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 29185 | Volatile Ghoul | Ghoul (218) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 29212 | Risen Drudge | Ghoul (218) | Active | 50 | Enabled mapping; runtime eligibility still applies. |
+| 29219 | Volatile Ghoul | Ghoul (218) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 29232 | Forgotten Servant | Ghoul (218) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 29400 | Corrupted Scarlet Onslaught | Ghoul (218) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
+| 29517 | Darkmender's Ghoul | Ghoul (218) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
+| 29722 | Rabid Cannibal | Ghoul (218) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
+| 29897 | Reanimated Corpse | Ghoul (218) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 29901 | Deathchill Servant (1) | Ghoul (218) | Active | 81 | Enabled mapping; runtime eligibility still applies. |
+| 30728 | Unspiked Ghoul | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 30851 | Melt | Ghoul (218) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
+| 30951 | Restless Lookout | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 30984 | Scourge Drudge | Ghoul (218) | Active | 77 | Enabled mapping; runtime eligibility still applies. |
+| 30993 | Patches | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31015 | Intrepid Ghoul | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31097 | Frightened Ghoul | Ghoul (218) | Active | 50 | Enabled mapping; runtime eligibility still applies. |
+| 31142 | Icy Ghoul | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31207 | Ghoul Minion (1) | Ghoul (218) | Active | 82 | Enabled mapping; runtime eligibility still applies. |
+| 31278 | Ravenous Ghoul | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31554 | Restless Lookout | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31681 | Tunneling Ghoul (1) | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31812 | Decomposed Ghoul | Ghoul (218) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
+| 32502 | Ravaged Ghoul | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 35546 | Risen Jaeren Sunsworn (1) | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 35568 | Risen Arelas Brightstar (1) | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 35717 | Risen Champion (1) | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 36875 | [PH] Icecrown Gauntlet Ghoul | Ghoul (218) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 37539 | Ghoul Invader | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 37550 | Raging Ghoul (1) | Ghoul (218) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 25682 | Lich-Lord Chillwinter | Lich (219) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 30746 | Master Summoner Zarod | Lich (219) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 1798 | Tortured Soul | Shade (224) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 1800 | Cold Wraith | Shade (224) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 1801 | Blood Wraith | Shade (224) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 1802 | Hungering Wraith | Shade (224) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 2638 | Syndicate Spectre | Shade (224) | Active | 35 | Enabled mapping; runtime eligibility still applies. |
+| 5954 | Shade (Deprecated) | Shade (224) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 6092 | Minor Phantasm | Shade (224) | Active | 14 | Enabled mapping; runtime eligibility still applies. |
+| 6106 | Lesser Phantasm | Shade (224) | Active | 22 | Enabled mapping; runtime eligibility still applies. |
+| 6107 | Shade | Shade (224) | Active | 60 | Enabled mapping; runtime eligibility still applies. |
+| 6108 | Greater Phantasm | Shade (224) | Active | 38 | Enabled mapping; runtime eligibility still applies. |
+| 7370 | Restless Shade | Shade (224) | Active | 68 | Enabled mapping; runtime eligibility still applies. |
+| 7374 | Vengeful Wraith | Shade (224) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 7375 | Spirit of Wrath | Shade (224) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 8537 | Interloper | Shade (224) | Active | 42 | Enabled mapping; runtime eligibility still applies. |
+| 8538 | Unseen Servant | Shade (224) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 8539 | Eyeless Watcher | Shade (224) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 10411 | Eye of Naxxramas | Shade (224) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 14698 | Silent Stalker | Shade (224) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 15656 | Angershade | Shade (224) | Active | 7 | Enabled mapping; runtime eligibility still applies. |
+| 15657 | Darkwraith | Shade (224) | Active | 9 | Enabled mapping; runtime eligibility still applies. |
+| 16248 | Jurion the Deceiver | Shade (224) | Active | 20 | Enabled mapping; runtime eligibility still applies. |
+| 16311 | Phantasmal Watcher | Shade (224) | Active | 12 | Enabled mapping; runtime eligibility still applies. |
+| 16320 | Eye of Dar'Khan | Shade (224) | Active | 19 | Enabled mapping; runtime eligibility still applies. |
+| 16323 | Phantasmal Seeker | Shade (224) | Active | 12 | Enabled mapping; runtime eligibility still applies. |
+| 16393 | Cold Wraith [FILMING] | Shade (224) | Active | 52 | Enabled mapping; runtime eligibility still applies. |
+| 17086 | Enraged Wraith | Shade (224) | Active | 9 | Enabled mapping; runtime eligibility still applies. |
+| 21941 | Accursed Apparition | Shade (224) | Active | 64 | Enabled mapping; runtime eligibility still applies. |
+| 22041 | Corrupted Spectre[PH] | Shade (224) | Active | 65 | Enabled mapping; runtime eligibility still applies. |
+| 24262 | Vrykul Soul | Shade (224) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 24485 | Servitor Shade | Shade (224) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 24789 | Forlorn Soul | Shade (224) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 24872 | Blood Shade | Shade (224) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 26225 | Phylactery Guardian | Shade (224) | Active | 71 | Enabled mapping; runtime eligibility still applies. |
+| 26966 | Shadowy Tormentor | Shade (224) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 27551 | Enraged Apparition | Shade (224) | Active | 71 | Enabled mapping; runtime eligibility still applies. |
+| 27824 | Naxxramas Shade | Shade (224) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 27825 | Mausoleum Scourge Proxy | Shade (224) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 28603 | Blightguard | Shade (224) | Active | 74 | Enabled mapping; runtime eligibility still applies. |
+| 28745 | Alarmed Blightguard | Shade (224) | Active | 74 | Enabled mapping; runtime eligibility still applies. |
+| 28769 | Shadowy Tormentor | Shade (224) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 29172 | Frozen Shade | Shade (224) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 29197 | Frozen Shade, Climax | Shade (224) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 29238 | Scourge Haunt | Shade (224) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 30947 | Eidolon Watcher | Shade (224) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 35255 | Death Shade | Shade (224) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 882 | Bone Caster | Skeletal Mage (233) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 1657 | Devlin Agamand | Skeletal Mage (233) | Active | 9 | Enabled mapping; runtime eligibility still applies. |
+| 6036 | Guardian of Backus | Skeletal Mage (233) | Active | 62 | Enabled mapping; runtime eligibility still applies. |
+| 8524 | Cursed Mage | Skeletal Mage (233) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 8528 | Dread Weaver | Skeletal Mage (233) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 10493 | Risen Sorcerer | Skeletal Mage (233) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 11076 | Cauldron Lord Razarch | Skeletal Mage (233) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 15121 | Skeletal Magelord | Skeletal Mage (233) | Active | 51 | Enabled mapping; runtime eligibility still applies. |
+| 15958 | Gharsul the Remorseless | Skeletal Mage (233) | Active | 8 | Enabled mapping; runtime eligibility still applies. |
+| 16249 | Masophet the Black | Skeletal Mage (233) | Active | 20 | Enabled mapping; runtime eligibility still applies. |
+| 16307 | Deathcage Scryer | Skeletal Mage (233) | Active | 9 | Enabled mapping; runtime eligibility still applies. |
+| 16308 | Deathcage Sorcerer | Skeletal Mage (233) | Active | 16 | Enabled mapping; runtime eligibility still applies. |
+| 25396 | Naxxanar Skeletal Mage | Skeletal Mage (233) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 27283 | Risen Wintergarde Mage | Skeletal Mage (233) | Active | 71 | Enabled mapping; runtime eligibility still applies. |
+| 27600 | Risen Shadowcaster | Skeletal Mage (233) | Active | 74 | Enabled mapping; runtime eligibility still applies. |
+| 29231 | Shadow Construct | Skeletal Mage (233) | Active | 76 | Enabled mapping; runtime eligibility still applies. |
+| 31356 | Risen Shadowcaster (1) | Skeletal Mage (233) | Active | 81 | Enabled mapping; runtime eligibility still applies. |
+| 48 | Skeletal Warrior | Skeleton (225) | Active | 21 | Enabled mapping; runtime eligibility still applies. |
+| 200 | Shambling Skeleton UNUSED | Skeleton (225) | Active | 20 | Enabled mapping; runtime eligibility still applies. |
+| 201 | Brittlebones Skeleton | Skeleton (225) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 202 | Skeletal Horror | Skeleton (225) | Active | 23 | Enabled mapping; runtime eligibility still applies. |
+| 203 | Skeletal Mage | Skeleton (225) | Active | 22 | Enabled mapping; runtime eligibility still applies. |
+| 204 | [UNUSED] Cackle Flamebone | Skeleton (225) | Active | 28 | Enabled mapping; runtime eligibility still applies. |
+| 531 | Skeletal Fiend | Skeleton (225) | Active | 24 | Enabled mapping; runtime eligibility still applies. |
+| 623 | Skeletal Miner | Skeleton (225) | Active | 17 | Enabled mapping; runtime eligibility still applies. |
+| 725 | [UNUSED] Skeletal Enforcer | Skeleton (225) | Active | 25 | Enabled mapping; runtime eligibility still applies. |
+| 785 | Skeletal Warder | Skeleton (225) | Active | 28 | Enabled mapping; runtime eligibility still applies. |
+| 787 | Skeletal Healer | Skeleton (225) | Active | 26 | Enabled mapping; runtime eligibility still applies. |
+| 1110 | Skeletal Raider | Skeleton (225) | Active | 27 | Enabled mapping; runtime eligibility still applies. |
+| 1520 | Rattlecage Soldier | Skeleton (225) | Active | 6 | Enabled mapping; runtime eligibility still applies. |
+| 1522 | Darkeye Bonecaster | Skeleton (225) | Active | 7 | Enabled mapping; runtime eligibility still applies. |
+| 1523 | Cracked Skull Soldier | Skeleton (225) | Active | 8 | Enabled mapping; runtime eligibility still applies. |
+| 1658 | Captain Dargol | Skeleton (225) | Active | 13 | Enabled mapping; runtime eligibility still applies. |
+| 1783 | Skeletal Flayer | Skeleton (225) | Active | 50 | Enabled mapping; runtime eligibility still applies. |
+| 1784 | Skeletal Sorcerer | Skeleton (225) | Active | 51 | Enabled mapping; runtime eligibility still applies. |
+| 1785 | Skeletal Terror | Skeleton (225) | Active | 52 | Enabled mapping; runtime eligibility still applies. |
+| 1787 | Skeletal Executioner | Skeleton (225) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 1788 | Skeletal Warlord | Skeleton (225) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 1789 | Skeletal Acolyte | Skeleton (225) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 1865 | Ravenclaw Raider | Skeleton (225) | Active | 12 | Enabled mapping; runtime eligibility still applies. |
+| 1869 | Ravenclaw Champion | Skeleton (225) | Active | 14 | Enabled mapping; runtime eligibility still applies. |
+| 1870 | Hand of Ravenclaw | Skeleton (225) | Active | 15 | Enabled mapping; runtime eligibility still applies. |
+| 1871 | Eliza's Guard | Skeleton (225) | Active | 30 | Enabled mapping; runtime eligibility still applies. |
+| 1890 | Rattlecage Skeleton | Skeleton (225) | Active | 2 | Enabled mapping; runtime eligibility still applies. |
+| 1916 | Stephen Bhartec | Skeleton (225) | Active | 2 | Enabled mapping; runtime eligibility still applies. |
+| 1973 | Ravenclaw Guardian | Skeleton (225) | Active | 20 | Enabled mapping; runtime eligibility still applies. |
+| 2045 | Gunther's Minion | Skeleton (225) | Active | 8 | Enabled mapping; runtime eligibility still applies. |
+| 2454 | Skeletal Fiend (Enraged Form) | Skeleton (225) | Active | 24 | Enabled mapping; runtime eligibility still applies. |
+| 6388 | Zanzil Skeleton | Skeleton (225) | Active | 46 | Enabled mapping; runtime eligibility still applies. |
+| 6412 | Skeleton | Skeleton (225) | Active | 20 | Enabled mapping; runtime eligibility still applies. |
+| 7340 | Skeletal Shadowcaster | Skeleton (225) | Active | 35 | Enabled mapping; runtime eligibility still applies. |
+| 7343 | Splinterbone Skeleton | Skeleton (225) | Active | 35 | Enabled mapping; runtime eligibility still applies. |
+| 7344 | Splinterbone Warrior | Skeleton (225) | Active | 35 | Enabled mapping; runtime eligibility still applies. |
+| 7346 | Splinterbone Centurion | Skeleton (225) | Active | 36 | Enabled mapping; runtime eligibility still applies. |
+| 7786 | Skeleton of Zum'rah | Skeleton (225) | Active | 46 | Enabled mapping; runtime eligibility still applies. |
+| 8324 | Atal'ai Skeleton | Skeleton (225) | Active | 48 | Enabled mapping; runtime eligibility still applies. |
+| 8477 | Skeletal Servant | Skeleton (225) | Active | 51 | Enabled mapping; runtime eligibility still applies. |
+| 8523 | Scourge Soldier | Skeleton (225) | Active | 53 | Enabled mapping; runtime eligibility still applies. |
+| 8525 | Scourge Warder | Skeleton (225) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 8526 | Dark Caster | Skeleton (225) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 8527 | Scourge Guard | Skeleton (225) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 8529 | Scourge Champion | Skeleton (225) | Active | 59 | Enabled mapping; runtime eligibility still applies. |
+| 10390 | Skeletal Guardian | Skeleton (225) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 10391 | Skeletal Berserker | Skeleton (225) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 10482 | Risen Lackey | Skeleton (225) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 10483 | Risen Flayer | Skeleton (225) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 10484 | Risen Terror | Skeleton (225) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 10485 | Risen Aberration | Skeleton (225) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 10816 | Wandering Skeleton | Skeleton (225) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 10952 | Marauding Skeleton | Skeleton (225) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 11077 | Cauldron Lord Malvinious | Skeleton (225) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 11197 | Mindless Skeleton | Skeleton (225) | Active | 62 | Enabled mapping; runtime eligibility still applies. |
+| 11200 | Summoned Skeleton | Skeleton (225) | Active | 60 | Enabled mapping; runtime eligibility still applies. |
+| 11258 | Frail Skeleton | Skeleton (225) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 11476 | Skeletal Highborne | Skeleton (225) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 11477 | Rotting Highborne | Skeleton (225) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 11547 | Skeletal Scholomance Student | Skeleton (225) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 11561 | Undead Ravager | Skeleton (225) | Active | 37 | Enabled mapping; runtime eligibility still applies. |
+| 12208 | Conquered Soul of the Blightcaller | Skeleton (225) | Active | 62 | Enabled mapping; runtime eligibility still applies. |
+| 14486 | Scourge Footsoldier | Skeleton (225) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 14826 | Sacrificed Troll | Skeleton (225) | Active | 60 | Enabled mapping; runtime eligibility still applies. |
+| 15654 | Plaguebone Pillager | Skeleton (225) | Active | 5 | Enabled mapping; runtime eligibility still applies. |
+| 16119 | Bone Minion | Skeleton (225) | Active | 60 | Enabled mapping; runtime eligibility still applies. |
+| 16303 | Dreadbone Skeleton | Skeleton (225) | Active | 10 | Enabled mapping; runtime eligibility still applies. |
+| 16305 | Dreadbone Sentinel | Skeleton (225) | Active | 17 | Enabled mapping; runtime eligibility still applies. |
+| 17878 | Scourge Siege Engineer | Skeleton (225) | Active | 60 | Enabled mapping; runtime eligibility still applies. |
+| 18355 | [UNUSED] Dusty Skeleton [PH] | Skeleton (225) | Active | 64 | Enabled mapping; runtime eligibility still applies. |
+| 18700 | Reanimated Bones | Skeleton (225) | Active | 66 | Enabled mapping; runtime eligibility still applies. |
+| 18797 | Tortured Skeleton | Skeleton (225) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 19460 | Bleeding Hollow Skeleton | Skeleton (225) | Active | 60 | Enabled mapping; runtime eligibility still applies. |
+| 19463 | Orc Skeleton | Skeleton (225) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 20317 | Reanimated Bones (1) | Skeleton (225) | Active | 71 | Enabled mapping; runtime eligibility still applies. |
+| 20662 | Tortured Skeleton (1) | Skeleton (225) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 24344 | Gjalerbron Skeleton | Skeleton (225) | Active | 71 | Enabled mapping; runtime eligibility still applies. |
+| 24621 | Frost Cage Skeleton | Skeleton (225) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 24622 | Frost Cage Reaver | Skeleton (225) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 24623 | Frosty Bones | Skeleton (225) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 25028 | Skeletal Ravager | Skeleton (225) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 25333 | Undying Aggressor | Skeleton (225) | Active | 68 | Enabled mapping; runtime eligibility still applies. |
+| 25463 | Soldier of the Frozen Wastes | Skeleton (225) | Active | 68 | Enabled mapping; runtime eligibility still applies. |
+| 26126 | Bone Warrior | Skeleton (225) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 26224 | Drowned Guardian | Skeleton (225) | Active | 69 | Enabled mapping; runtime eligibility still applies. |
+| 26536 | Mindless Servant | Skeleton (225) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
+| 27286 | Dreadbone Invader | Skeleton (225) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 27360 | Smoldering Skeleton | Skeleton (225) | Active | 73 | Enabled mapping; runtime eligibility still applies. |
+| 27694 | Player Skeleton [PH] | Skeleton (225) | Active | 76 | Enabled mapping; runtime eligibility still applies. |
+| 27823 | Naxxramas Dreadguard | Skeleton (225) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 28104 | Enraged Skeleton | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 28878 | Skeletal Minion | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 28948 | Malmortis | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 29153 | Animated Bones | Skeleton (225) | Active | 73 | Enabled mapping; runtime eligibility still applies. |
+| 29210 | Frigid Bones | Skeleton (225) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 29230 | Lesser Shadow Construct | Skeleton (225) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 30791 | Mindless Servant (1) | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 30921 | Skeletal Runesmith | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 30949 | Risen Laborer | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31048 | Burning Skeleton | Skeleton (225) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
+| 31183 | Skeletal Minion (1) | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31321 | Skeletal Runesmith | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31555 | Risen Laborer | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31585 | Animated Bones (1) | Skeleton (225) | Active | 81 | Enabled mapping; runtime eligibility still applies. |
+| 31843 | Reanimated Miner | Skeleton (225) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
+| 32164 | Skeletal Craftsman | Skeleton (225) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
+| 32267 | Animated Laborer | Skeleton (225) | Active | 78 | Enabled mapping; runtime eligibility still applies. |
+| 32556 | QA Test Dummy 80 Undead | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 33016 | Smoldering Skeleton | Skeleton (225) | Active | 73 | Enabled mapping; runtime eligibility still applies. |
+| 33499 | Skeletal Woodcutter | Skeleton (225) | Active | 79 | Enabled mapping; runtime eligibility still applies. |
+| 34801 | Incinerated Skeleton | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 36677 | Skeletal Miner (Cosmetic) | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 36796 | Corrupted Champion | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 36881 | Skeletal Slave | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 37656 | Skeletal Slave (1) | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 37657 | Corrupted Champion (1) | Skeleton (225) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 23992 | Putrid Wight | Wight (228) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 27287 | Mindless Wight | Wight (228) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 27854 | Plague Zombie Vehicle - TEST | Wight (228) | Active | 70 | Enabled mapping; runtime eligibility still applies. |
+| 29123 | Monstrous Wight | Wight (228) | Active | 75 | Enabled mapping; runtime eligibility still applies. |
+| 31141 | Decaying Wight | Wight (228) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 1501 | Mindless Zombie | Zombie (230) | Active | 1 | Enabled mapping; runtime eligibility still applies. |
+| 1525 | Rotting Dead | Zombie (230) | Active | 5 | Enabled mapping; runtime eligibility still applies. |
+| 1526 | Ravaged Corpse | Zombie (230) | Active | 6 | Enabled mapping; runtime eligibility still applies. |
+| 1527 | Hungering Dead | Zombie (230) | Active | 7 | Enabled mapping; runtime eligibility still applies. |
+| 1528 | Shambling Horror | Zombie (230) | Active | 8 | Enabled mapping; runtime eligibility still applies. |
+| 1529 | Bleeding Horror | Zombie (230) | Active | 9 | Enabled mapping; runtime eligibility still applies. |
+| 1530 | Rotting Ancestor | Zombie (230) | Active | 10 | Enabled mapping; runtime eligibility still applies. |
+| 1656 | Thurman Agamand | Zombie (230) | Active | 10 | Enabled mapping; runtime eligibility still applies. |
+| 1917 | Daniel Ulfman | Zombie (230) | Active | 2 | Enabled mapping; runtime eligibility still applies. |
+| 1919 | Samuel Fipps | Zombie (230) | Active | 5 | Enabled mapping; runtime eligibility still applies. |
+| 3558 | [UNUSED] Temp Poisoning Vendor Undead | Zombie (230) | Active | 20 | Enabled mapping; runtime eligibility still applies. |
+| 3565 | [UNUSED] Temp Reagent Vendor Undead | Zombie (230) | Active | 20 | Enabled mapping; runtime eligibility still applies. |
+| 4474 | Rotting Cadaver | Zombie (230) | Active | 53 | Enabled mapping; runtime eligibility still applies. |
+| 4475 | Blighted Zombie | Zombie (230) | Active | 52 | Enabled mapping; runtime eligibility still applies. |
+| 4612 | Boyle | Zombie (230) | Active | 30 | Enabled mapping; runtime eligibility still applies. |
+| 5686 | Captive Zombie | Zombie (230) | Active | 8 | Enabled mapping; runtime eligibility still applies. |
+| 10383 | Broken Cadaver | Zombie (230) | Active | 55 | Enabled mapping; runtime eligibility still applies. |
+| 10479 | Skulking Corpse | Zombie (230) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 10480 | Unstable Corpse | Zombie (230) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 10481 | Reanimated Corpse | Zombie (230) | Active | 58 | Enabled mapping; runtime eligibility still applies. |
+| 10580 | Fetid Zombie | Zombie (230) | Active | 54 | Enabled mapping; runtime eligibility still applies. |
+| 10698 | Summoned Zombie | Zombie (230) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 10951 | Marauding Corpse | Zombie (230) | Active | 56 | Enabled mapping; runtime eligibility still applies. |
+| 11628 | Decaying Corpse | Zombie (230) | Active | 40 | Enabled mapping; runtime eligibility still applies. |
+| 14708 | Decaying Warrior | Zombie (230) | Active | 57 | Enabled mapping; runtime eligibility still applies. |
+| 16099 | [PH] Naxxramas Test Boss | Zombie (230) | Active | 63 | Enabled mapping; runtime eligibility still applies. |
+| 16300 | Risen Creeper | Zombie (230) | Active | 9 | Enabled mapping; runtime eligibility still applies. |
+| 16301 | Risen Hungerer | Zombie (230) | Active | 13 | Enabled mapping; runtime eligibility still applies. |
+| 16302 | Risen Stalker | Zombie (230) | Active | 16 | Enabled mapping; runtime eligibility still applies. |
+| 22045 | Vengeful Husk | Zombie (230) | Active | 65 | Enabled mapping; runtime eligibility still applies. |
+| 22369 | Dread Relic Thrall | Zombie (230) | Active | 60 | Enabled mapping; runtime eligibility still applies. |
+| 23555 | Risen Husk | Zombie (230) | Active | 35 | Enabled mapping; runtime eligibility still applies. |
+| 26490 | [PH] Dragonblight Carrion Field Zombie | Zombie (230) | Active | 72 | Enabled mapping; runtime eligibility still applies. |
+| 27552 | Reanimated Noble | Zombie (230) | Active | 71 | Enabled mapping; runtime eligibility still applies. |
+| 27598 | Fetid Troll Corpse | Zombie (230) | Active | 74 | Enabled mapping; runtime eligibility still applies. |
+| 27737 | Risen Zombie | Zombie (230) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 28220 | Frostbitten Corpse | Zombie (230) | Active | 76 | Enabled mapping; runtime eligibility still applies. |
+| 31208 | Risen Zombie (1) | Zombie (230) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 31873 | Fetid Troll Corpse (1) | Zombie (230) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 32786 | Rotted Troll Corpse | Zombie (230) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 32787 | Rotted Troll Corpse (1) | Zombie (230) | Active | 80 | Enabled mapping; runtime eligibility still applies. |
+| 27059 | Plague Zombie | Ghoul (218) | Staged | 70 | Assignment candidate; profile/build/effect validation pending. |
+| 30027 | Plague Zombie | Ghoul (218) | Staged | 60 | Assignment candidate; profile/build/effect validation pending. |
+| 30028 | Plague Zombie | Ghoul (218) | Staged | 50 | Assignment candidate; profile/build/effect validation pending. |
+| 30029 | Plague Zombie | Ghoul (218) | Staged | 40 | Assignment candidate; profile/build/effect validation pending. |
+| 30030 | Plague Zombie | Ghoul (218) | Staged | 30 | Assignment candidate; profile/build/effect validation pending. |
+| 30031 | Plague Zombie | Ghoul (218) | Staged | 20 | Assignment candidate; profile/build/effect validation pending. |
+| 30032 | Plague Zombie | Ghoul (218) | Staged | 10 | Assignment candidate; profile/build/effect validation pending. |
+| 30033 | Plague Zombie | Ghoul (218) | Staged | 1 | Assignment candidate; profile/build/effect validation pending. |
+| 30034 | Plague Zombie | Ghoul (218) | Staged | 5 | Assignment candidate; profile/build/effect validation pending. |
+| 30597 | Spiked Ghoul | Ghoul (218) | Staged | 80 | Assignment candidate; profile/build/effect validation pending. |
+| 36916 | Ghoul Minion | Ghoul (218) | Staged | 80 | Assignment candidate; profile/build/effect validation pending. |
+| 37538 | Scourge Zombie | Zombie (230) | Staged | 80 | Assignment candidate; profile/build/effect validation pending. |
+| 412 | Stitches | Abomination (203) | Blocked | 35 | protected-rank |
+| 1805 | Flesh Golem | Abomination (203) | Blocked | 56 | protected-rank |
+| 1850 | Putridius | Abomination (203) | Blocked | 58 | protected-rank |
+| 2531 | Minion of Morganth | Abomination (203) | Blocked | 26 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 5624 | Undercity Guardian | Abomination (203) | Blocked | 75 | protected-npc-vehicle-script |
+| 5687 | Captive Abomination | Abomination (203) | Blocked | 20 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 8500 | TEST Uber Abomination | Abomination (203) | Blocked | 1 | protected-rank |
+| 8543 | Stitched Horror | Abomination (203) | Blocked | 57 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 8544 | Gangled Golem | Abomination (203) | Blocked | 58 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 8545 | Stitched Golem | Abomination (203) | Blocked | 59 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 8567 | Glutton | Abomination (203) | Blocked | 37 | protected-rank |
+| 10414 | Patchwork Horror | Abomination (203) | Blocked | 57 | protected-rank |
+| 10416 | Bile Spewer | Abomination (203) | Blocked | 59 | protected-rank |
+| 10417 | Venom Belcher | Abomination (203) | Blocked | 60 | protected-rank |
+| 10439 | Ramstein the Gorger | Abomination (203) | Blocked | 61 | protected-rank |
+| 10666 | Gordo | Abomination (203) | Blocked | 30 | protected-npc-vehicle-script |
+| 12263 | Slaughterhouse Protector | Abomination (203) | Blocked | 58 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 13145 | Lieutenant Grummus | Abomination (203) | Blocked | 59 | protected-rank |
+| 13146 | Lieutenant Murp <old> | Abomination (203) | Blocked | 59 | protected-rank |
+| 14682 | Sever | Abomination (203) | Blocked | 21 | protected-rank |
+| 14685 | Morbus | Abomination (203) | Blocked | 61 | protected-rank |
+| 14696 | Stitched Behemoth | Abomination (203) | Blocked | 60 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 14697 | Lumbering Horror | Abomination (203) | Blocked | 71 | protected-rank |
+| 15195 | Wickerman Guardian | Abomination (203) | Blocked | 60 | protected-rank |
+| 16017 | Patchwork Golem | Abomination (203) | Blocked | 81 | protected-rank |
+| 16018 | Bile Retcher | Abomination (203) | Blocked | 81 | protected-rank |
+| 16028 | Patchwerk | Abomination (203) | Blocked | 83 | protected-rank; protected-npc-vehicle-script |
+| 16029 | Sludge Belcher | Abomination (203) | Blocked | 82 | protected-rank |
+| 16245 | Luzran | Abomination (203) | Blocked | 21 | protected-rank |
+| 16246 | Knucklerot | Abomination (203) | Blocked | 21 | protected-rank |
+| 16247 | Borgoth the Bloodletter | Abomination (203) | Blocked | 20 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 16382 | Patchwork Terror | Abomination (203) | Blocked | 70 | protected-rank; protected-npc-vehicle-script |
+| 16428 | Unstoppable Abomination | Abomination (203) | Blocked | 80 | protected-rank; protected-npc-vehicle-script |
+| 16432 | Undercity Elite Guardian | Abomination (203) | Blocked | 70 | protected-rank |
+| 17898 | Abomination | Abomination (203) | Blocked | 71 | protected-rank; protected-npc-vehicle-script |
+| 22701 | Lieutenant Grummus (1) | Abomination (203) | Blocked | 69 | protected-rank |
+| 22706 | Lieutenant Murp <old> (1) | Abomination (203) | Blocked | 69 | protected-rank |
+| 23562 | Unstoppable Abomination | Abomination (203) | Blocked | 80 | protected-rank |
+| 23575 | Mindless Abomination | Abomination (203) | Blocked | 68 | protected-rank |
+| 24027 | Sergeant Gorth | Abomination (203) | Blocked | 70 | protected-rank; protected-npc-vehicle-script |
+| 25332 | Stitched Warsong Horror | Abomination (203) | Blocked | 73 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 25383 | En'kilah Abomination | Abomination (203) | Blocked | 71 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 25684 | Talramas Abomination | Abomination (203) | Blocked | 71 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 26518 | Carrion Abomination | Abomination (203) | Blocked | 73 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 26529 | Meathook | Abomination (203) | Blocked | 82 | protected-rank; protected-npc-vehicle-script |
+| 26555 | Scourge Hulk | Abomination (203) | Blocked | 80 | protected-rank |
+| 26624 | Wretched Belcher | Abomination (203) | Blocked | 74 | protected-rank |
+| 27531 | Frigid Abomination Attacker | Abomination (203) | Blocked | 73 | protected-rank; protected-npc-vehicle-script |
+| 27605 | Colossal Abomination | Abomination (203) | Blocked | 76 | protected-rank; protected-npc-vehicle-script |
+| 27736 | Patchwork Construct | Abomination (203) | Blocked | 80 | protected-rank |
+| 27773 | Image of Patchwerk | Abomination (203) | Blocked | 83 | protected-rank |
+| 27797 | Tattered Abomination | Abomination (203) | Blocked | 73 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 27808 | Turgid the Vile | Abomination (203) | Blocked | 74 | protected-rank |
+| 27809 | Weakened Turgid the Vile | Abomination (203) | Blocked | 74 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 28023 | Rotting Abomination | Abomination (203) | Blocked | 75 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 28201 | Bile Golem | Abomination (203) | Blocked | 81 | protected-rank |
+| 28512 | Quartermaster Ozorg | Abomination (203) | Blocked | 72 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 28564 | Putrid Abomination | Abomination (203) | Blocked | 74 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 28589 | Gristlegut | Abomination (203) | Blocked | 74 | protected-npc-vehicle-script |
+| 28651 | Abominable Messenger | Abomination (203) | Blocked | 65 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 28843 | Bloated Abomination | Abomination (203) | Blocked | 75 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 29115 | Rampaging Abomination | Abomination (203) | Blocked | 60 | protected-rank |
+| 29186 | Rampaging Abomination | Abomination (203) | Blocked | 60 | protected-rank |
+| 29205 | Corpulous | Abomination (203) | Blocked | 56 | protected-npc-vehicle-script |
+| 29324 | Patchwerk (1) | Abomination (203) | Blocked | 83 | protected-rank |
+| 29347 | Patchwork Golem (1) | Abomination (203) | Blocked | 81 | protected-rank |
+| 29353 | Bile Retcher (1) | Abomination (203) | Blocked | 81 | protected-rank |
+| 29356 | Sludge Belcher (1) | Abomination (203) | Blocked | 82 | protected-rank |
+| 29629 | Owen Test Creature | Abomination (203) | Blocked | 80 | protected-rank |
+| 29704 | Towering Horror | Abomination (203) | Blocked | 71 | protected-rank |
+| 29719 | Morbid Carcass | Abomination (203) | Blocked | 79 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 29769 | Vile | Abomination (203) | Blocked | 80 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 29860 | Vile | Abomination (203) | Blocked | 80 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 30048 | Unstoppable Abomination (1) | Abomination (203) | Blocked | 80 | protected-rank |
+| 30049 | Unstoppable Abomination (1) | Abomination (203) | Blocked | 80 | protected-rank |
+| 30216 | Vile | Abomination (203) | Blocked | 80 | protected-rank; protected-npc-vehicle-script |
+| 30689 | Chained Abomination | Abomination (203) | Blocked | 80 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 30696 | Corpulent Horror | Abomination (203) | Blocked | 80 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 30806 | Scourge Hulk (1) | Abomination (203) | Blocked | 81 | protected-rank |
+| 30920 | Lumbering Atrocity | Abomination (203) | Blocked | 80 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 31098 | Terrifying Abomination | Abomination (203) | Blocked | 57 | protected-rank |
+| 31099 | Patchwerk | Abomination (203) | Blocked | 63 | protected-rank |
+| 31107 | Lieutenant Murp | Abomination (203) | Blocked | 80 | protected-rank; protected-npc-vehicle-script |
+| 31140 | Hulking Abomination | Abomination (203) | Blocked | 80 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 31199 | Patchwork Construct (1) | Abomination (203) | Blocked | 81 | protected-rank |
+| 31200 | Bile Golem (1) | Abomination (203) | Blocked | 81 | protected-rank |
+| 31211 | Meathook (1) | Abomination (203) | Blocked | 82 | protected-rank |
+| 31226 | Lumbering Atrocity | Abomination (203) | Blocked | 80 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 31363 | Wretched Belcher (1) | Abomination (203) | Blocked | 80 | protected-rank |
+| 31438 | Shadow Vault Abomination | Abomination (203) | Blocked | 80 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 31532 | Treacherous Guardian | Abomination (203) | Blocked | 74 | protected-rank |
+| 31692 | Reanimated Abomination | Abomination (203) | Blocked | 80 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 32031 | Lieutenant Grummus (2) | Abomination (203) | Blocked | 79 | protected-rank |
+| 32037 | Lieutenant Murp <old> (2) | Abomination (203) | Blocked | 79 | protected-rank |
+| 32179 | Stitched Brute | Abomination (203) | Blocked | 80 | protected-rank |
+| 32390 | Treacherous Guardian | Abomination (203) | Blocked | 74 | protected-rank |
+| 32771 | Stitched Brute | Abomination (203) | Blocked | 80 | protected-rank |
+| 33663 | Patchwerk (PTR DPS Test) | Abomination (203) | Blocked | 1 | protected-rank |
+| 33664 | Patchwerk (PTR DPS Test) (1) | Abomination (203) | Blocked | 80 | protected-rank |
+| 33667 | Patchwerk (PTR Tank Test) | Abomination (203) | Blocked | 1 | protected-rank |
+| 33668 | Patchwerk (PTR Tank Test) (1) | Abomination (203) | Blocked | 80 | protected-rank |
+| 33704 | Frigid Abomination | Abomination (203) | Blocked | 73 | Assignment proposed; server spell definitions missing: 80186, 80190 |
+| 37022 | Blighted Abomination | Abomination (203) | Blocked | 80 | protected-rank |
+| 37069 | Lumbering Abomination | Abomination (203) | Blocked | 80 | protected-rank; protected-npc-vehicle-script |
+| 37351 | Lieutenant Grummus (3) | Abomination (203) | Blocked | 79 | protected-rank |
+| 37357 | Lieutenant Murp <old> (3) | Abomination (203) | Blocked | 79 | protected-rank |
+| 37546 | Frenzied Abomination | Abomination (203) | Blocked | 82 | protected-rank |
+| 37549 | Lumbering Abomination (1) | Abomination (203) | Blocked | 80 | protected-rank |
+| 37886 | Gluttonous Abomination | Abomination (203) | Blocked | 83 | protected-rank; protected-npc-vehicle-script |
+| 38108 | Blighted Abomination (1) | Abomination (203) | Blocked | 80 | protected-rank |
+| 38166 | Gluttonous Abomination (1) | Abomination (203) | Blocked | 83 | protected-rank |
+| 38386 | Patchwerk (PTR All-Around Test) | Abomination (203) | Blocked | 1 | protected-rank |
+| 38388 | Patchwerk (PTR All-Around Test) (1) | Abomination (203) | Blocked | 1 | protected-rank |
+| 38446 | Frenzied Abomination (1) | Abomination (203) | Blocked | 82 | protected-rank |
+| 38724 | Gluttonous Abomination (2) | Abomination (203) | Blocked | 83 | protected-rank |
+| 38734 | Gluttonous Abomination (3) | Abomination (203) | Blocked | 83 | protected-rank |
+| 302 | Blind Mary | Banshee (204) | Blocked | 40 | protected-npc-vehicle-script |
+| 1531 | Lost Soul | Banshee (204) | Blocked | 6 | protected-rank |
+| 1533 | Tormented Spirit | Banshee (204) | Blocked | 8 | protected-rank |
+| 2227 | Sharlindra | Banshee (204) | Blocked | 25 | protected-npc-vehicle-script |
+| 2278 | Melisara | Banshee (204) | Blocked | 25 | protected-npc-vehicle-script |
+| 4566 | Kaelystia Hatebringer | Banshee (204) | Blocked | 60 | protected-npc-vehicle-script |
+| 4606 | Aelthalyste | Banshee (204) | Blocked | 60 | protected-npc-vehicle-script |
+| 10436 | Baroness Anastari | Banshee (204) | Blocked | 59 | protected-rank; protected-npc-vehicle-script |
+| 10463 | Shrieking Banshee | Banshee (204) | Blocked | 57 | protected-rank |
+| 10464 | Wailing Banshee | Banshee (204) | Blocked | 58 | protected-rank |
+| 10684 | Remorseful Highborne | Banshee (204) | Blocked | 56 | protected-npc-vehicle-script |
+| 11472 | Eldreth Spirit | Banshee (204) | Blocked | 57 | protected-rank |
+| 14686 | Lady Falther'ess | Banshee (204) | Blocked | 37 | protected-rank |
+| 14703 | Death Siren | Banshee (204) | Blocked | 56 | protected-rank |
+| 16429 | Soul Weaver | Banshee (204) | Blocked | 80 | protected-rank; protected-npc-vehicle-script |
+| 17063 | Wanton Hostess Transform Visual | Banshee (204) | Blocked | 69 | protected-rank |
+| 17905 | Banshee | Banshee (204) | Blocked | 70 | protected-rank; protected-npc-vehicle-script |
+| 21628 | Highborne Lamenter | Banshee (204) | Blocked | 70 | protected-npc-vehicle-script |
+| 23563 | Soul Weaver | Banshee (204) | Blocked | 80 | protected-rank |
+| 27281 | Ritual Channeler | Banshee (204) | Blocked | 81 | protected-npc-vehicle-script |
+| 30018 | Soul Weaver (1) | Banshee (204) | Blocked | 80 | protected-rank |
+| 30047 | Soul Weaver (1) | Banshee (204) | Blocked | 80 | protected-rank |
+| 30955 | Lady Nightswood | Banshee (204) | Blocked | 80 | protected-rank |
+| 31087 | Lady Nightswood | Banshee (204) | Blocked | 80 | protected-rank |
+| 2475 | Sloth | Bog Beast (355) | Blocked | 31 | no-ability-profile |
+| 2479 | Sludge | Bog Beast (355) | Blocked | 31 | no-ability-profile |
+| 10810 | [UNUSED] Deathcaller Majestis | Bog Beast (355) | Blocked | 59 | protected-rank; no-ability-profile |
+| 10488 | Risen Construct | Bone Golem (205) | Blocked | 58 | protected-rank |
+| 11622 | Rattlegore | Bone Golem (205) | Blocked | 61 | protected-rank |
+| 14605 | Bone Construct | Bone Golem (205) | Blocked | 60 | protected-rank |
+| 14706 | Skeletal Shocktrooper UNUSED | Bone Golem (205) | Blocked | 54 | protected-rank |
+| 16167 | Bony Construct | Bone Golem (205) | Blocked | 81 | protected-rank |
+| 16982 | Plagued Construct | Bone Golem (205) | Blocked | 81 | protected-rank |
+| 18689 | Crippler | Bone Golem (205) | Blocked | 65 | protected-rank |
+| 23111 | Shadowy Construct | Bone Golem (205) | Blocked | 70 | protected-rank |
+| 24712 | Test Scaling Bony Construct | Bone Golem (205) | Blocked | 81 | protected-rank |
+| 29635 | Plagued Construct (1) | Bone Golem (205) | Blocked | 81 | protected-rank |
+| 29835 | Bony Construct (1) | Bone Golem (205) | Blocked | 81 | protected-rank |
+| 37011 | The Damned | Bone Golem (205) | Blocked | 80 | protected-rank |
+| 38061 | The Damned (1) | Bone Golem (205) | Blocked | 80 | protected-rank |
+| 7351 | Tomb Reaver | Crypt Fiend (207) | Blocked | 36 | protected-rank |
+| 7355 | Tuten'kash | Crypt Fiend (207) | Blocked | 37 | protected-rank |
+| 9031 | Anub'shiah | Crypt Fiend (207) | Blocked | 52 | protected-rank; protected-npc-vehicle-script |
+| 10412 | Crypt Crawler | Crypt Fiend (207) | Blocked | 58 | protected-rank |
+| 10413 | Crypt Beast | Crypt Fiend (207) | Blocked | 59 | protected-rank |
+| 10437 | Nerub'enkan | Crypt Fiend (207) | Blocked | 60 | protected-rank |
+| 11551 | Necrofiend | Crypt Fiend (207) | Blocked | 58 | protected-rank |
+| 14694 | Necrosis | Crypt Fiend (207) | Blocked | 61 | protected-rank |
+| 14704 | Skittering Dread | Crypt Fiend (207) | Blocked | 54 | protected-rank |
+| 15978 | Crypt Reaver | Crypt Fiend (207) | Blocked | 81 | protected-rank |
+| 15979 | Tomb Horror | Crypt Fiend (207) | Blocked | 81 | protected-rank |
+| 16184 | Nerubian Overseer | Crypt Fiend (207) | Blocked | 60 | protected-rank |
+| 16357 | Anok'suten | Crypt Fiend (207) | Blocked | 11 | protected-rank |
+| 16573 | Crypt Guard | Crypt Fiend (207) | Blocked | 81 | protected-rank |
+| 17897 | Crypt Fiend | Crypt Fiend (207) | Blocked | 70 | protected-rank; protected-npc-vehicle-script |
+| 27630 | [UNUSED] Wrath Gate Crypt Fiend | Crypt Fiend (207) | Blocked | 78 | protected-rank |
+| 27734 | Crypt Fiend | Crypt Fiend (207) | Blocked | 80 | protected-rank |
+| 28199 | Tomb Stalker | Crypt Fiend (207) | Blocked | 79 | protected-rank |
+| 29118 | Anub'ar Crypt Fiend | Crypt Fiend (207) | Blocked | 73 | protected-npc-vehicle-script |
+| 29256 | Crypt Guard (1) | Crypt Fiend (207) | Blocked | 81 | protected-rank |
+| 29286 | Tomb Horror (1) | Crypt Fiend (207) | Blocked | 81 | protected-rank |
+| 30389 | Crypt Reaver (1) | Crypt Fiend (207) | Blocked | 81 | protected-rank |
+| 31187 | Crypt Fiend (1) | Crypt Fiend (207) | Blocked | 80 | protected-rank |
+| 31188 | Tomb Stalker (1) | Crypt Fiend (207) | Blocked | 80 | protected-rank |
+| 15956 | Anub'Rekhan | Crypt Lord (208) | Blocked | 83 | protected-rank; protected-npc-vehicle-script |
+| 16441 | Guardian of Icecrown | Crypt Lord (208) | Blocked | 80 | protected-rank; protected-npc-vehicle-script |
+| 25330 | Nerub'ar Behemoth | Crypt Lord (208) | Blocked | 80 | protected-rank |
+| 26076 | High Priest Naferset | Crypt Lord (208) | Blocked | 72 | protected-npc-vehicle-script |
+| 26608 | Under-King Anub'et'kan | Crypt Lord (208) | Blocked | 73 | protected-rank |
+| 27776 | Image of Anub'rekhan | Crypt Lord (208) | Blocked | 83 | protected-rank |
+| 28922 | Anub'ar Crusher | Crypt Lord (208) | Blocked | 74 | protected-rank; protected-npc-vehicle-script |
+| 29120 | Anub'arak | Crypt Lord (208) | Blocked | 74 | protected-rank; protected-npc-vehicle-script |
+| 29249 | Anub'Rekhan (1) | Crypt Lord (208) | Blocked | 83 | protected-rank |
+| 30057 | Guardian of Icecrown (1) | Crypt Lord (208) | Blocked | 80 | protected-rank |
+| 30830 | Underking Talonox | Crypt Lord (208) | Blocked | 79 | protected-rank |
+| 31592 | Anub'ar Crusher (1) | Crypt Lord (208) | Blocked | 80 | protected-rank |
+| 31610 | Anub'arak (1) | Crypt Lord (208) | Blocked | 82 | protected-rank |
+| 32480 | Nerubian Underking | Crypt Lord (208) | Blocked | 81 | protected-rank |
+| 28450 | Unbound Charger | Felsteed (129) | Blocked | 52 | protected-rank; creature-type-mismatch |
+| 3869 | Lesser Gargoyle | Gargoyle (215) | Blocked | 20 | protected-rank |
+| 3870 | Stone Sleeper | Gargoyle (215) | Blocked | 20 | protected-rank |
+| 10408 | Rockwing Gargoyle | Gargoyle (215) | Blocked | 55 | protected-rank |
+| 10409 | Rockwing Screecher | Gargoyle (215) | Blocked | 58 | protected-rank |
+| 10506 | Kirtonos the Herald | Gargoyle (215) | Blocked | 60 | protected-rank; protected-npc-vehicle-script |
+| 10809 | Stonespine | Gargoyle (215) | Blocked | 60 | protected-rank |
+| 10825 | Gish the Unmoving | Gargoyle (215) | Blocked | 56 | protected-rank |
+| 14691 | Basalt | Gargoyle (215) | Blocked | 61 | protected-rank |
+| 14714 | Winged Horror | Gargoyle (215) | Blocked | 56 | protected-rank |
+| 16168 | Stoneskin Gargoyle | Gargoyle (215) | Blocked | 81 | protected-rank |
+| 16446 | Plagued Gargoyle | Gargoyle (215) | Blocked | 70 | protected-rank |
+| 17906 | Gargoyle | Gargoyle (215) | Blocked | 70 | protected-rank; protected-npc-vehicle-script |
+| 27691 | Frenzied Gargoyle | Gargoyle (215) | Blocked | 76 | protected-rank |
+| 27829 | Ebon Gargoyle | Gargoyle (215) | Blocked | 80 | protected-npc-vehicle-script |
+| 28246 | Sky Terror | Gargoyle (215) | Blocked | 75 | protected-npc-vehicle-script |
+| 28669 | Flying Fiend | Gargoyle (215) | Blocked | 75 | protected-npc-vehicle-script |
+| 28875 | Shalewing | Gargoyle (215) | Blocked | 76 | protected-npc-vehicle-script |
+| 29576 | Stoneskin Gargoyle (1) | Gargoyle (215) | Blocked | 81 | protected-rank |
+| 31078 | Dreadwind | Gargoyle (215) | Blocked | 75 | protected-rank; protected-npc-vehicle-script |
+| 32292 | Aldur'thar Sentry | Gargoyle (215) | Blocked | 79 | protected-npc-vehicle-script |
+| 33550 | Boneguard Scout | Gargoyle (215) | Blocked | 80 | protected-rank |
+| 36896 | Stonespine Gargoyle | Gargoyle (215) | Blocked | 80 | protected-rank; protected-npc-vehicle-script |
+| 37544 | Spire Gargoyle | Gargoyle (215) | Blocked | 82 | protected-rank |
+| 37636 | Stonespine Gargoyle (1) | Gargoyle (215) | Blocked | 80 | protected-rank; protected-npc-vehicle-script |
+| 38481 | Spire Gargoyle (1) | Gargoyle (215) | Blocked | 82 | protected-rank |
+| 27363 | Smoldering Geist | Geist (216) | Blocked | 73 | no-ability-profile |
+| 27370 | Vengeful Geist | Geist (216) | Blocked | 71 | no-ability-profile |
+| 27513 | Covetous Geist | Geist (216) | Blocked | 71 | no-ability-profile |
+| 27533 | Frigid Geist | Geist (216) | Blocked | 72 | no-ability-profile |
+| 27686 | Frigid Geist Attacker | Geist (216) | Blocked | 72 | protected-npc-vehicle-script; no-ability-profile |
+| 27957 | Angrathar Geist | Geist (216) | Blocked | 71 | no-ability-profile |
+| 28026 | Rampaging Geist | Geist (216) | Blocked | 75 | no-ability-profile |
+| 28419 | Frenzied Geist | Geist (216) | Blocked | 70 | no-ability-profile |
+| 28657 | Caged Geist | Geist (216) | Blocked | 72 | no-ability-profile |
+| 28666 | Gorebag | Geist (216) | Blocked | 75 | protected-npc-vehicle-script; no-ability-profile |
+| 28750 | Blight Geist | Geist (216) | Blocked | 74 | no-ability-profile |
+| 28760 | Hargus the Gimp | Geist (216) | Blocked | 72 | protected-npc-vehicle-script; no-ability-profile |
+| 28866 | Corrosion | Geist (216) | Blocked | 75 | protected-npc-vehicle-script; no-ability-profile |
+| 28868 | Mulch | Geist (216) | Blocked | 75 | protected-npc-vehicle-script; no-ability-profile |
+| 28869 | Deathdrip | Geist (216) | Blocked | 69 | protected-npc-vehicle-script; no-ability-profile |
+| 28872 | Squirmworm | Geist (216) | Blocked | 75 | protected-npc-vehicle-script; no-ability-profile |
+| 28905 | Gluttonous Geist | Geist (216) | Blocked | 53 | no-ability-profile |
+| 28943 | Fineous | Geist (216) | Blocked | 72 | protected-npc-vehicle-script; no-ability-profile |
+| 29189 | Howling Geist | Geist (216) | Blocked | 58 | no-ability-profile |
+| 29720 | Vault Geist | Geist (216) | Blocked | 79 | no-ability-profile |
+| 29840 | The Leaper | Geist (216) | Blocked | 80 | no-ability-profile |
+| 29859 | The Leaper | Geist (216) | Blocked | 80 | no-ability-profile |
+| 30074 | The Leaper | Geist (216) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 30083 | Marauding Geist | Geist (216) | Blocked | 80 | protected-rank; no-ability-profile |
+| 30287 | Plundering Geist | Geist (216) | Blocked | 73 | no-ability-profile |
+| 30424 | Marauding Geist (1) | Geist (216) | Blocked | 80 | protected-rank; no-ability-profile |
+| 30701 | Vile Creeper | Geist (216) | Blocked | 79 | no-ability-profile |
+| 30894 | Lithe Stalker | Geist (216) | Blocked | 80 | no-ability-profile |
+| 30895 | Lithe Stalker | Geist (216) | Blocked | 80 | protected-npc-vehicle-script; no-ability-profile |
+| 31090 | Cowardly Acherus Geist | Geist (216) | Blocked | 50 | no-ability-profile |
+| 31100 | Acherus Scourge Proxy | Geist (216) | Blocked | 50 | no-ability-profile |
+| 31147 | Vicious Geist | Geist (216) | Blocked | 80 | no-ability-profile |
+| 31251 | Shadow Vault Skirmisher | Geist (216) | Blocked | 77 | no-ability-profile |
+| 31323 | Lithe Stalker | Geist (216) | Blocked | 80 | no-ability-profile |
+| 31468 | Plundering Geist (1) | Geist (216) | Blocked | 80 | no-ability-profile |
+| 31671 | Frenzied Geist (1) | Geist (216) | Blocked | 80 | no-ability-profile |
+| 31847 | Scavenging Geist | Geist (216) | Blocked | 79 | no-ability-profile |
+| 36886 | Geist Ambusher | Geist (216) | Blocked | 80 | protected-rank; no-ability-profile |
+| 37038 | Vengeful Fleshreaper | Geist (216) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 37622 | Geist Ambusher (1) | Geist (216) | Blocked | 80 | protected-rank; no-ability-profile |
+| 37863 | Suppresser | Geist (216) | Blocked | 83 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 38063 | Vengeful Fleshreaper (1) | Geist (216) | Blocked | 80 | protected-rank; no-ability-profile |
+| 38171 | Suppresser (1) | Geist (216) | Blocked | 83 | protected-rank; no-ability-profile |
+| 38727 | Suppresser (2) | Geist (216) | Blocked | 83 | protected-rank; no-ability-profile |
+| 38737 | Suppresser (3) | Geist (216) | Blocked | 83 | protected-rank; no-ability-profile |
+| 1946 | Lillith Nefara | Ghost (217) | Blocked | 12 | no-ability-profile |
+| 2056 | Ravenclaw Apparition | Ghost (217) | Blocked | 24 | protected-npc-vehicle-script; no-ability-profile |
+| 2177 | Writhing Highborne | Ghost (217) | Blocked | 11 | no-ability-profile |
+| 2623 | Spirit of Old | Ghost (217) | Blocked | 32 | no-ability-profile |
+| 3094 | Unseen | Ghost (217) | Blocked | 49 | no-ability-profile |
+| 3617 | Lordaeron Citizen | Ghost (217) | Blocked | 15 | no-ability-profile |
+| 4308 | Unfettered Spirit | Ghost (217) | Blocked | 30 | no-ability-profile |
+| 4472 | Haunting Vision | Ghost (217) | Blocked | 57 | no-ability-profile |
+| 4550 | Ophelia Montague | Ghost (217) | Blocked | 45 | protected-npc-vehicle-script; no-ability-profile |
+| 6117 | Highborne Lichling | Ghost (217) | Blocked | 46 | no-ability-profile |
+| 6118 | Varo'then's Ghost | Ghost (217) | Blocked | 48 | protected-rank; no-ability-profile |
+| 6493 | Illusionary Phantasm | Ghost (217) | Blocked | 31 | protected-rank; no-ability-profile |
+| 7352 | Frozen Soul | Ghost (217) | Blocked | 35 | protected-rank; no-ability-profile |
+| 7353 | Freezing Spirit | Ghost (217) | Blocked | 36 | protected-rank; no-ability-profile |
+| 7523 | Suffering Highborne | Ghost (217) | Blocked | 54 | no-ability-profile |
+| 7864 | Lingering Highborne | Ghost (217) | Blocked | 48 | no-ability-profile |
+| 8317 | Atal'ai Deathwalker's Spirit | Ghost (217) | Blocked | 48 | protected-rank; no-ability-profile |
+| 8585 | Frost Spectre | Ghost (217) | Blocked | 37 | no-ability-profile |
+| 10358 | Fellicent's Shade | Ghost (217) | Blocked | 12 | protected-rank; no-ability-profile |
+| 10387 | Vengeful Phantom | Ghost (217) | Blocked | 56 | no-ability-profile |
+| 10388 | Spiteful Phantom | Ghost (217) | Blocked | 58 | no-ability-profile |
+| 10389 | Wrath Phantom | Ghost (217) | Blocked | 60 | no-ability-profile |
+| 10498 | Spectral Tutor | Ghost (217) | Blocked | 58 | protected-rank; no-ability-profile |
+| 10499 | Spectral Researcher | Ghost (217) | Blocked | 58 | protected-rank; no-ability-profile |
+| 10500 | Spectral Teacher | Ghost (217) | Blocked | 58 | protected-rank; no-ability-profile |
+| 10516 | The Unforgiven | Ghost (217) | Blocked | 57 | protected-rank; no-ability-profile |
+| 11078 | Cauldron Lord Soulwrath | Ghost (217) | Blocked | 58 | no-ability-profile |
+| 11263 | Spectral Projection | Ghost (217) | Blocked | 59 | no-ability-profile |
+| 11471 | Eldreth Apparition | Ghost (217) | Blocked | 57 | protected-rank; no-ability-profile |
+| 11473 | Eldreth Spectre | Ghost (217) | Blocked | 58 | protected-rank; no-ability-profile |
+| 11475 | Eldreth Phantasm | Ghost (217) | Blocked | 58 | protected-rank; no-ability-profile |
+| 11580 | Kelemis the Lifeless | Ghost (217) | Blocked | 41 | protected-rank; no-ability-profile |
+| 11873 | Spectral Attendant | Ghost (217) | Blocked | 60 | no-ability-profile |
+| 12377 | Wailing Spectre | Ghost (217) | Blocked | 69 | no-ability-profile |
+| 12378 | Damned Soul | Ghost (217) | Blocked | 68 | no-ability-profile |
+| 14511 | Shadowed Spirit | Ghost (217) | Blocked | 60 | protected-rank; no-ability-profile |
+| 14512 | Corrupted Spirit | Ghost (217) | Blocked | 59 | protected-rank; no-ability-profile |
+| 14513 | Malicious Spirit | Ghost (217) | Blocked | 59 | protected-rank; no-ability-profile |
+| 14514 | Banal Spirit | Ghost (217) | Blocked | 60 | no-ability-profile |
+| 14518 | Aspect of Banality | Ghost (217) | Blocked | 60 | protected-rank; no-ability-profile |
+| 14519 | Aspect of Corruption | Ghost (217) | Blocked | 60 | protected-rank; no-ability-profile |
+| 14520 | Aspect of Malice | Ghost (217) | Blocked | 60 | protected-rank; no-ability-profile |
+| 14521 | Aspect of Shadow | Ghost (217) | Blocked | 60 | protected-rank; no-ability-profile |
+| 14564 | Terrordale Spirit | Ghost (217) | Blocked | 59 | no-ability-profile |
+| 14690 | Revanchion | Ghost (217) | Blocked | 60 | protected-rank; no-ability-profile |
+| 14699 | Spectral Soldier UNUSED | Ghost (217) | Blocked | 54 | protected-rank; no-ability-profile |
+| 14700 | Unclean Spirit | Ghost (217) | Blocked | 57 | no-ability-profile |
+| 15117 | Chained Spirit | Ghost (217) | Blocked | 60 | protected-npc-vehicle-script; no-ability-profile |
+| 16127 | Spectral Trainee | Ghost (217) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 16298 | Spectral Soldier | Ghost (217) | Blocked | 69 | no-ability-profile |
+| 16327 | Ravening Apparition | Ghost (217) | Blocked | 11 | no-ability-profile |
+| 16328 | Vengeful Apparition | Ghost (217) | Blocked | 12 | no-ability-profile |
+| 16423 | Spectral Apparition | Ghost (217) | Blocked | 6 | no-ability-profile |
+| 16437 | Spectral Spirit | Ghost (217) | Blocked | 9 | no-ability-profile |
+| 16481 | Ghastly Haunt | Ghost (217) | Blocked | 72 | protected-rank; no-ability-profile |
+| 16482 | Trapped Soul | Ghost (217) | Blocked | 72 | protected-rank; no-ability-profile |
+| 18367 | [UNUSED] Draenei Spirit [PH] | Ghost (217) | Blocked | 64 | no-ability-profile |
+| 19464 | Bleeding Hollow Soul | Ghost (217) | Blocked | 59 | no-ability-profile |
+| 20480 | Kirin'Var Ghost | Ghost (217) | Blocked | 68 | no-ability-profile |
+| 20496 | Kirin'Var Spectre | Ghost (217) | Blocked | 60 | no-ability-profile |
+| 21446 | Bladespire Evil Spirit | Ghost (217) | Blocked | 66 | no-ability-profile |
+| 21449 | Cursed Spirit | Ghost (217) | Blocked | 66 | no-ability-profile |
+| 21452 | Bloodmaul Evil Spirit | Ghost (217) | Blocked | 66 | no-ability-profile |
+| 23109 | Vengeful Spirit | Ghost (217) | Blocked | 70 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 23193 | Lordaeron Citizen (Jesse) | Ghost (217) | Blocked | 15 | no-ability-profile |
+| 23399 | Suffering Soul Fragment | Ghost (217) | Blocked | 72 | protected-rank; no-ability-profile |
+| 23401 | Hungering Soul Fragment | Ghost (217) | Blocked | 72 | protected-rank; no-ability-profile |
+| 23469 | Enslaved Soul | Ghost (217) | Blocked | 70 | protected-rank; no-ability-profile |
+| 23554 | Risen Spirit | Ghost (217) | Blocked | 35 | no-ability-profile |
+| 24246 | Darkheart | Ghost (217) | Blocked | 70 | protected-rank; no-ability-profile |
+| 26455 | Moonrest Highborne | Ghost (217) | Blocked | 71 | no-ability-profile |
+| 26501 | Ethenial Moonshadow | Ghost (217) | Blocked | 73 | protected-npc-vehicle-script; no-ability-profile |
+| 27165 | Drained Moonrest Highborne | Ghost (217) | Blocked | 70 | no-ability-profile |
+| 27386 | Avenging Spirit | Ghost (217) | Blocked | 80 | no-ability-profile |
+| 27465 | Forgotten Soul | Ghost (217) | Blocked | 71 | no-ability-profile |
+| 27836 | Wailing Soul | Ghost (217) | Blocked | 72 | no-ability-profile |
+| 29133 | Disturbed Soul | Ghost (217) | Blocked | 75 | no-ability-profile |
+| 30264 | Spectral Trainee (1) | Ghost (217) | Blocked | 81 | protected-rank; no-ability-profile |
+| 30756 | Avenging Spirit (1) | Ghost (217) | Blocked | 80 | no-ability-profile |
+| 30843 | Severed Soul | Ghost (217) | Blocked | 80 | no-ability-profile |
+| 35557 | The Black Knight | Ghost (217) | Blocked | 80 | protected-rank; no-ability-profile |
+| 35560 | The Black Knight (1) | Ghost (217) | Blocked | 80 | protected-rank; no-ability-profile |
+| 36595 | Unleashed Soul | Ghost (217) | Blocked | 80 | no-ability-profile |
+| 36666 | Spectral Warden | Ghost (217) | Blocked | 80 | protected-rank; no-ability-profile |
+| 37563 | Spectral Warden (1) | Ghost (217) | Blocked | 80 | protected-rank; no-ability-profile |
+| 37678 | Unleashed Soul (1) | Ghost (217) | Blocked | 80 | no-ability-profile |
+| 37799 | Vile Spirit | Ghost (217) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 38222 | Vengeful Shade | Ghost (217) | Blocked | 80 | protected-npc-vehicle-script; no-ability-profile |
+| 39190 | Wicked Spirit | Ghost (217) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 39284 | Vile Spirit (1) | Ghost (217) | Blocked | 80 | protected-rank; no-ability-profile |
+| 39285 | Vile Spirit (2) | Ghost (217) | Blocked | 80 | protected-rank; no-ability-profile |
+| 39286 | Vile Spirit (3) | Ghost (217) | Blocked | 80 | protected-rank; no-ability-profile |
+| 39287 | Wicked Spirit (1) | Ghost (217) | Blocked | 80 | protected-rank; no-ability-profile |
+| 39288 | Wicked Spirit (2) | Ghost (217) | Blocked | 80 | protected-rank; no-ability-profile |
+| 39289 | Wicked Spirit (3) | Ghost (217) | Blocked | 80 | protected-rank; no-ability-profile |
+| 503 | Lord Malathrom | Ghoul (218) | Blocked | 31 | protected-rank |
+| 572 | Leprithus | Ghoul (218) | Blocked | 19 | protected-rank |
+| 1792 | Hissing Ghoul | Ghoul (218) | Blocked | 26 | protected-rank |
+| 1847 | Foulmane | Ghoul (218) | Blocked | 52 | protected-rank |
+| 5627 | Johnny | Ghoul (218) | Blocked | 1 | protected-npc-vehicle-script |
+| 7347 | Boneflayer Ghoul | Ghoul (218) | Blocked | 36 | protected-rank |
+| 7348 | Thorn Eater Ghoul | Ghoul (218) | Blocked | 35 | protected-rank |
+| 10405 | Plague Ghoul | Ghoul (218) | Blocked | 57 | protected-rank |
+| 10406 | Ghoul Ravener | Ghoul (218) | Blocked | 58 | protected-rank |
+| 10407 | Fleshflayer Ghoul | Ghoul (218) | Blocked | 59 | protected-rank |
+| 10495 | Diseased Ghoul | Ghoul (218) | Blocked | 58 | protected-rank |
+| 10497 | Ragged Ghoul | Ghoul (218) | Blocked | 58 | protected-rank |
+| 10808 | Timmy the Cruel | Ghoul (218) | Blocked | 58 | protected-rank |
+| 10946 | Horgus the Ravager | Ghoul (218) | Blocked | 60 | protected-rank |
+| 14712 | Midden Ghoul | Ghoul (218) | Blocked | 55 | protected-rank |
+| 16244 | Infectious Ghoul | Ghoul (218) | Blocked | 81 | protected-rank |
+| 16447 | Plagued Ghoul | Ghoul (218) | Blocked | 81 | protected-rank |
+| 17895 | Ghoul | Ghoul (218) | Blocked | 70 | protected-rank; protected-npc-vehicle-script |
+| 24207 | Army of the Dead Ghoul | Ghoul (218) | Blocked | 80 | protected-npc-vehicle-script |
+| 26125 | Risen Ghoul | Ghoul (218) | Blocked | 1 | protected-npc-vehicle-script |
+| 26621 | Ghoul Tormentor | Ghoul (218) | Blocked | 72 | protected-rank |
+| 27631 | Angrathar Aberration | Ghoul (218) | Blocked | 76 | protected-rank |
+| 27685 | Frigid Ghoul Attacker | Ghoul (218) | Blocked | 71 | protected-npc-vehicle-script |
+| 27712 | Mindless Ghoul | Ghoul (218) | Blocked | 70 | protected-npc-vehicle-script |
+| 27729 | Enraging Ghoul | Ghoul (218) | Blocked | 80 | protected-rank |
+| 27871 | Flesheating Ghoul | Ghoul (218) | Blocked | 74 | protected-rank |
+| 28249 | Devouring Ghoul | Ghoul (218) | Blocked | 77 | protected-rank |
+| 28615 | Baneflight | Ghoul (218) | Blocked | 75 | protected-rank; protected-npc-vehicle-script |
+| 28867 | Spiked | Ghoul (218) | Blocked | 75 | protected-npc-vehicle-script |
+| 28870 | Corpsedust | Ghoul (218) | Blocked | 75 | protected-npc-vehicle-script |
+| 28871 | Scabbard | Ghoul (218) | Blocked | 75 | protected-npc-vehicle-script |
+| 29208 | Fester | Ghoul (218) | Blocked | 56 | protected-npc-vehicle-script |
+| 29480 | Grimwing | Ghoul (218) | Blocked | 75 | protected-rank; protected-npc-vehicle-script |
+| 29574 | Infectious Ghoul (1) | Ghoul (218) | Blocked | 81 | protected-rank |
+| 30097 | Plagued Ghoul (1) | Ghoul (218) | Blocked | 81 | protected-rank |
+| 30230 | Risen Ally | Ghoul (218) | Blocked | 50 | protected-npc-vehicle-script |
+| 30306 | Bileblow | Ghoul (218) | Blocked | 80 | protected-npc-vehicle-script |
+| 31178 | Enraging Ghoul (1) | Ghoul (218) | Blocked | 80 | protected-rank |
+| 31179 | Devouring Ghoul (1) | Ghoul (218) | Blocked | 80 | protected-rank |
+| 31346 | Flesheating Ghoul (1) | Ghoul (218) | Blocked | 80 | protected-rank |
+| 31347 | Ghoul Tormentor (1) | Ghoul (218) | Blocked | 80 | protected-rank |
+| 32176 | Plague Drenched Ghoul | Ghoul (218) | Blocked | 81 | protected-rank |
+| 32178 | Rampaging Ghoul | Ghoul (218) | Blocked | 80 | protected-rank |
+| 32182 | Enraged Fleshrender | Ghoul (218) | Blocked | 80 | protected-rank |
+| 32770 | Enraged Fleshrender | Ghoul (218) | Blocked | 80 | protected-rank |
+| 35545 | Risen Jaeren Sunsworn | Ghoul (218) | Blocked | 80 | protected-npc-vehicle-script |
+| 35564 | Risen Arelas Brightstar | Ghoul (218) | Blocked | 80 | protected-npc-vehicle-script |
+| 35590 | Risen Champion | Ghoul (218) | Blocked | 80 | protected-npc-vehicle-script |
+| 36940 | Raging Ghoul | Ghoul (218) | Blocked | 80 | protected-npc-vehicle-script |
+| 37545 | Spire Minion | Ghoul (218) | Blocked | 82 | protected-rank |
+| 37695 | Drudge Ghoul | Ghoul (218) | Blocked | 80 | protected-rank; protected-npc-vehicle-script |
+| 37711 | Hungering Ghoul | Ghoul (218) | Blocked | 80 | protected-rank |
+| 37881 | Wretched Ghoul | Ghoul (218) | Blocked | 80 | protected-npc-vehicle-script |
+| 38249 | Hungering Ghoul (1) | Ghoul (218) | Blocked | 80 | protected-rank |
+| 38445 | Spire Minion (1) | Ghoul (218) | Blocked | 82 | protected-rank |
+| 39309 | Drudge Ghoul (1) | Ghoul (218) | Blocked | 80 | protected-rank |
+| 39310 | Drudge Ghoul (2) | Ghoul (218) | Blocked | 80 | protected-rank |
+| 39311 | Drudge Ghoul (3) | Ghoul (218) | Blocked | 80 | protected-rank |
+| 17588 | Veridian Whelp | Green Whelp (438) | Blocked | 16 | creature-type-mismatch |
+| 17589 | Veridian Broodling | Green Whelp (438) | Blocked | 17 | creature-type-mismatch |
+| 1852 | Araj the Summoner | Lich (219) | Blocked | 61 | protected-rank |
+| 7358 | Amnennar the Coldbringer | Lich (219) | Blocked | 37 | protected-rank |
+| 10508 | Ras Frostwhisper | Lich (219) | Blocked | 62 | protected-rank |
+| 14684 | Balzaphon | Lich (219) | Blocked | 60 | protected-rank |
+| 14693 | Scorn | Lich (219) | Blocked | 34 | protected-rank |
+| 17767 | Rage Winterchill | Lich (219) | Blocked | 73 | protected-rank; protected-npc-vehicle-script |
+| 18040 | Lich | Lich (219) | Blocked | 73 | protected-rank |
+| 20483 | Naberius | Lich (219) | Blocked | 69 | protected-rank |
+| 23993 | Sepulchral Overseer | Lich (219) | Blocked | 71 | protected-rank |
+| 25352 | Scourge Overlord | Lich (219) | Blocked | 78 | protected-rank |
+| 26631 | Novos the Summoner | Lich (219) | Blocked | 76 | protected-rank; protected-npc-vehicle-script |
+| 27383 | Thel'zan the Duskbringer | Lich (219) | Blocked | 73 | protected-rank |
+| 27510 | Shadow of Thel'zan the Duskbringer | Lich (219) | Blocked | 73 | protected-rank |
+| 28474 | Amal'thazad | Lich (219) | Blocked | 80 | protected-rank; protected-npc-vehicle-script |
+| 28659 | Artruis the Heartless | Lich (219) | Blocked | 77 | protected-rank |
+| 29194 | Amal'thazad | Lich (219) | Blocked | 80 | protected-rank; protected-npc-vehicle-script |
+| 31350 | Novos the Summoner (1) | Lich (219) | Blocked | 82 | protected-rank |
+| 31775 | Thexal Deathchill | Lich (219) | Blocked | 80 | protected-rank |
+| 32278 | Harbinger of Horror | Lich (219) | Blocked | 80 | protected-rank |
+| 37571 | Darkfallen Advisor | Lich (219) | Blocked | 82 | protected-rank; protected-npc-vehicle-script |
+| 37868 | Risen Archmage | Lich (219) | Blocked | 83 | protected-rank; protected-npc-vehicle-script |
+| 38098 | Darkfallen Advisor (1) | Lich (219) | Blocked | 82 | protected-rank |
+| 38167 | Risen Archmage (1) | Lich (219) | Blocked | 83 | protected-rank |
+| 38725 | Risen Archmage (2) | Lich (219) | Blocked | 83 | protected-rank |
+| 38735 | Risen Archmage (3) | Lich (219) | Blocked | 83 | protected-rank |
+| 31531 | Perfidious Dreadlord | Nathrezim (128) | Blocked | 75 | protected-rank; creature-type-mismatch |
+| 32391 | Perfidious Dreadlord | Nathrezim (128) | Blocked | 74 | protected-rank; creature-type-mismatch |
+| 18371 | Shirrak the Dead Watcher | Observer (131) | Blocked | 66 | protected-rank; protected-npc-vehicle-script; creature-type-mismatch |
+| 20318 | Shirrak the Dead Watcher (1) | Observer (131) | Blocked | 72 | protected-rank; creature-type-mismatch |
+| 24074 | Surveyor | Observer (131) | Blocked | 72 | creature-type-mismatch |
+| 1849 | Dreadwhisper | Shade (224) | Blocked | 58 | protected-rank |
+| 6427 | Haunting Phantasm | Shade (224) | Blocked | 31 | protected-rank |
+| 11284 | Dark Shade | Shade (224) | Blocked | 60 | protected-rank |
+| 11474 | Eldreth Wraith | Shade (224) | Blocked | 59 | protected-rank |
+| 14687 | Soulless | Shade (224) | Blocked | 61 | protected-rank |
+| 14701 | Doom Wraith | Shade (224) | Blocked | 54 | protected-rank |
+| 16143 | Shadow of Doom | Shade (224) | Blocked | 70 | protected-rank |
+| 16164 | Shade of Naxxramas | Shade (224) | Blocked | 81 | protected-rank |
+| 16379 | Spirit of the Damned | Shade (224) | Blocked | 71 | protected-rank |
+| 16449 | Spirit of Naxxramas | Shade (224) | Blocked | 61 | protected-rank |
+| 28937 | Crypt Guardian | Shade (224) | Blocked | 55 | protected-rank |
+| 29825 | Shade of Naxxramas (1) | Shade (224) | Blocked | 81 | protected-rank |
+| 30085 | Vigilant Shade | Shade (224) | Blocked | 81 | protected-rank |
+| 30087 | Vigilant Shade (1) | Shade (224) | Blocked | 81 | protected-rank |
+| 30285 | Eye of Taldaram | Shade (224) | Blocked | 73 | protected-rank |
+| 31110 | Eidolon Watcher | Shade (224) | Blocked | 80 | protected-npc-vehicle-script |
+| 31457 | Eye of Taldaram (1) | Shade (224) | Blocked | 81 | protected-rank |
+| 36522 | Soul Horror | Shade (224) | Blocked | 80 | protected-rank |
+| 37128 | [PH] Icecrown Shade | Shade (224) | Blocked | 80 | protected-rank |
+| 37565 | Soul Horror (1) | Shade (224) | Blocked | 80 | protected-rank |
+| 4543 | Bloodmage Thalnos | Skeletal Mage (233) | Blocked | 32 | protected-rank |
+| 7342 | Skeletal Summoner | Skeletal Mage (233) | Blocked | 36 | protected-rank |
+| 10393 | Skul | Skeletal Mage (233) | Blocked | 58 | protected-rank |
+| 10432 | Vectus | Skeletal Mage (233) | Blocked | 60 | protected-rank; protected-npc-vehicle-script |
+| 10491 | Risen Bonewarder | Skeletal Mage (233) | Blocked | 58 | protected-rank |
+| 10492 | Risen Shadowmage | Skeletal Mage (233) | Blocked | 58 | protected-rank |
+| 14710 | Dread Sorcerer | Skeletal Mage (233) | Blocked | 55 | protected-rank |
+| 16120 | Bone Mage | Skeletal Mage (233) | Blocked | 60 | protected-rank |
+| 16380 | Bone Witch | Skeletal Mage (233) | Blocked | 71 | protected-rank |
+| 16452 | Necro Knight Guardian | Skeletal Mage (233) | Blocked | 62 | protected-rank |
+| 16471 | Skeletal Usher | Skeletal Mage (233) | Blocked | 72 | protected-rank |
+| 17903 | Skeleton Mage | Skeletal Mage (233) | Blocked | 69 | protected-rank |
+| 30307 | Sarhule the Risen | Skeletal Mage (233) | Blocked | 80 | protected-npc-vehicle-script |
+| 36791 | Blazing Skeleton | Skeletal Mage (233) | Blocked | 83 | protected-rank; protected-npc-vehicle-script |
+| 38169 | Blazing Skeleton (1) | Skeletal Mage (233) | Blocked | 83 | protected-rank |
+| 38721 | Blazing Skeleton (2) | Skeletal Mage (233) | Blocked | 83 | protected-rank |
+| 38722 | Blazing Skeleton (3) | Skeletal Mage (233) | Blocked | 83 | protected-rank |
+| 522 | Mor'Ladim | Skeleton (225) | Blocked | 30 | protected-rank |
+| 771 | Commander Felstrom | Skeleton (225) | Blocked | 32 | protected-rank |
+| 2283 | Ravenclaw Regent | Skeleton (225) | Blocked | 22 | protected-rank |
+| 2946 | Puppet of Helcular | Skeleton (225) | Blocked | 44 | protected-rank |
+| 4473 | Skeletal Adept | Skeleton (225) | Blocked | 1 | protected-rank |
+| 6489 | Ironspine | Skeleton (225) | Blocked | 32 | protected-rank |
+| 7341 | Skeletal Frostweaver | Skeleton (225) | Blocked | 35 | protected-rank |
+| 7345 | Splinterbone Captain | Skeleton (225) | Blocked | 36 | protected-rank |
+| 7357 | Mordresh Fire Eye | Skeleton (225) | Blocked | 37 | protected-rank |
+| 8663 | Splinterbone Elite | Skeleton (225) | Blocked | 35 | protected-rank |
+| 10394 | Black Guard Sentry | Skeleton (225) | Blocked | 58 | protected-rank |
+| 10395 | Black Guard Warrior | Skeleton (225) | Blocked | 59 | protected-rank |
+| 10397 | Black Guard Executioner | Skeleton (225) | Blocked | 61 | protected-rank |
+| 10478 | Splintered Skeleton | Skeleton (225) | Blocked | 59 | protected-rank |
+| 10486 | Risen Warrior | Skeleton (225) | Blocked | 59 | protected-rank |
+| 10487 | Risen Protector | Skeleton (225) | Blocked | 58 | protected-rank |
+| 10489 | Risen Guard | Skeleton (225) | Blocked | 57 | protected-rank |
+| 10826 | Lord Darkscythe | Skeleton (225) | Blocked | 57 | protected-rank |
+| 11121 | Black Guard Swordsmith | Skeleton (225) | Blocked | 61 | protected-rank |
+| 14489 | Scourge Archer | Skeleton (225) | Blocked | 60 | protected-npc-vehicle-script |
+| 14695 | Lord Blackwood | Skeleton (225) | Blocked | 60 | protected-rank |
+| 16193 | Skeletal Smith | Skeleton (225) | Blocked | 81 | protected-rank |
+| 16383 | Flameshocker | Skeleton (225) | Blocked | 63 | protected-rank; protected-npc-vehicle-script |
+| 16415 | Skeletal Waiter | Skeleton (225) | Blocked | 71 | protected-rank |
+| 16427 | Soldier of the Frozen Wastes | Skeleton (225) | Blocked | 80 | protected-rank; protected-npc-vehicle-script |
+| 17902 | Skeleton Invader | Skeleton (225) | Blocked | 69 | protected-rank |
+| 23389 | Fallen Ally | Skeleton (225) | Blocked | 71 | protected-rank |
+| 23561 | Soldier of the Frozen Wastes | Skeleton (225) | Blocked | 80 | protected-rank |
+| 25377 | Brittle Skeleton | Skeleton (225) | Blocked | 71 | protected-rank |
+| 26623 | Scourge Brute | Skeleton (225) | Blocked | 76 | protected-rank |
+| 27604 | Frail Construct | Skeleton (225) | Blocked | 71 | protected-rank |
+| 29837 | Skeletal Smith (1) | Skeleton (225) | Blocked | 81 | protected-rank |
+| 30015 | Soldier of the Frozen Wastes (1) | Skeleton (225) | Blocked | 80 | protected-rank |
+| 30016 | Soldier of the Frozen Wastes (1) | Skeleton (225) | Blocked | 80 | protected-rank |
+| 31357 | Scourge Brute (1) | Skeleton (225) | Blocked | 80 | protected-rank |
+| 33438 | Boneguard Footman | Skeleton (225) | Blocked | 80 | protected-npc-vehicle-script |
+| 315 | Stalvan Mistmantle | Unassigned () | Blocked | 32 | missing-or-ambiguous-model-assignment |
+| 392 | Captain Grayson | Unassigned () | Blocked | 30 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 1157 | Cursed Sailor | Unassigned () | Blocked | 26 | missing-or-ambiguous-model-assignment |
+| 1158 | Cursed Marine | Unassigned () | Blocked | 27 | missing-or-ambiguous-model-assignment |
+| 1159 | First Mate Snellig | Unassigned () | Blocked | 29 | missing-or-ambiguous-model-assignment |
+| 1160 | Captain Halyndor | Unassigned () | Blocked | 30 | missing-or-ambiguous-model-assignment |
+| 1491 | Zanzil Naga | Unassigned () | Blocked | 44 | missing-or-ambiguous-model-assignment |
+| 1515 | Executor Zygand | Unassigned () | Blocked | 14 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 1518 | Apothecary Johaan | Unassigned () | Blocked | 20 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 1532 | Wandering Spirit | Unassigned () | Blocked | 10 | missing-or-ambiguous-model-assignment |
+| 1652 | Deathguard Burgess | Unassigned () | Blocked | 24 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 1674 | Rot Hide Gnoll | Unassigned () | Blocked | 6 | missing-or-ambiguous-model-assignment |
+| 1675 | Rot Hide Mongrel | Unassigned () | Blocked | 7 | missing-or-ambiguous-model-assignment |
+| 1735 | Deathguard Abraham | Unassigned () | Blocked | 22 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 1738 | Deathguard Terrence | Unassigned () | Blocked | 21 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 1742 | Deathguard Bartholomew | Unassigned () | Blocked | 22 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 1743 | Deathguard Lawrence | Unassigned () | Blocked | 22 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 1745 | Deathguard Morris | Unassigned () | Blocked | 22 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 1746 | Deathguard Cyrus | Unassigned () | Blocked | 21 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 1753 | Maggot Eye | Unassigned () | Blocked | 10 | missing-or-ambiguous-model-assignment |
+| 1772 | Rot Hide Gladerunner | Unassigned () | Blocked | 11 | missing-or-ambiguous-model-assignment |
+| 1773 | Rot Hide Mystic | Unassigned () | Blocked | 12 | missing-or-ambiguous-model-assignment |
+| 1939 | Rot Hide Brute | Unassigned () | Blocked | 16 | missing-or-ambiguous-model-assignment |
+| 1940 | Rot Hide Plague Weaver | Unassigned () | Blocked | 17 | missing-or-ambiguous-model-assignment |
+| 1941 | Rot Hide Graverobber | Unassigned () | Blocked | 6 | missing-or-ambiguous-model-assignment |
+| 1942 | Rot Hide Savage | Unassigned () | Blocked | 18 | missing-or-ambiguous-model-assignment |
+| 1943 | Raging Rot Hide | Unassigned () | Blocked | 18 | missing-or-ambiguous-model-assignment |
+| 1944 | Rot Hide Bruiser | Unassigned () | Blocked | 22 | protected-rank; missing-or-ambiguous-model-assignment |
+| 1948 | Snarlmane | Unassigned () | Blocked | 23 | protected-rank; missing-or-ambiguous-model-assignment |
+| 2114 | Faruza | Unassigned () | Blocked | 5 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 2118 | Abigail Shiel | Unassigned () | Blocked | 9 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 2134 | Mrs. Winters | Unassigned () | Blocked | 10 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 2135 | Abe Winters | Unassigned () | Blocked | 14 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 2136 | Oliver Dwor | Unassigned () | Blocked | 13 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 2137 | Eliza Callen | Unassigned () | Blocked | 12 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 2184 | Lady Moongazer | Unassigned () | Blocked | 17 | protected-rank; missing-or-ambiguous-model-assignment |
+| 2288 | Skracher Mudmuzzle | Unassigned () | Blocked | 30 | missing-or-ambiguous-model-assignment |
+| 2309 | Thomas Arlento | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
+| 2311 | Doreen Beltis | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
+| 2314 | Sahvan Bloodshadow | Unassigned () | Blocked | 5 | missing-or-ambiguous-model-assignment |
+| 2433 | Helcular's Remains | Unassigned () | Blocked | 44 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 3301 | Morgan Ladimore | Unassigned () | Blocked | 38 | missing-or-ambiguous-model-assignment |
+| 3547 | Hamlin Atkins | Unassigned () | Blocked | 10 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 3667 | Anaya Dawnrunner | Unassigned () | Blocked | 16 | missing-or-ambiguous-model-assignment |
+| 3799 | Severed Druid | Unassigned () | Blocked | 28 | missing-or-ambiguous-model-assignment |
+| 3801 | Severed Sleeper | Unassigned () | Blocked | 28 | missing-or-ambiguous-model-assignment |
+| 3802 | Severed Dreamer | Unassigned () | Blocked | 29 | missing-or-ambiguous-model-assignment |
+| 3803 | Severed Keeper | Unassigned () | Blocked | 29 | missing-or-ambiguous-model-assignment |
+| 3863 | Lupine Horror | Unassigned () | Blocked | 20 | protected-rank; missing-or-ambiguous-model-assignment |
+| 3872 | Deathsworn Captain | Unassigned () | Blocked | 21 | protected-rank; missing-or-ambiguous-model-assignment |
+| 3873 | Tormented Officer | Unassigned () | Blocked | 20 | protected-rank; missing-or-ambiguous-model-assignment |
+| 3875 | Haunted Servitor | Unassigned () | Blocked | 18 | protected-rank; missing-or-ambiguous-model-assignment |
+| 3876 | Traumatized Spirit | Unassigned () | Blocked | 18 | protected-rank; missing-or-ambiguous-model-assignment |
+| 3877 | Wailing Guardsman | Unassigned () | Blocked | 19 | protected-rank; missing-or-ambiguous-model-assignment |
+| 3887 | Baron Silverlaine | Unassigned () | Blocked | 20 | protected-rank; missing-or-ambiguous-model-assignment |
+| 3940 | Taneel Darkwood | Unassigned () | Blocked | 32 | missing-or-ambiguous-model-assignment |
+| 3941 | Uthil Mooncall | Unassigned () | Blocked | 32 | missing-or-ambiguous-model-assignment |
+| 3942 | Mavoris Cloudsbreak | Unassigned () | Blocked | 32 | missing-or-ambiguous-model-assignment |
+| 4278 | Commander Springvale | Unassigned () | Blocked | 20 | protected-rank; missing-or-ambiguous-model-assignment |
+| 4542 | High Inquisitor Fairbanks | Unassigned () | Blocked | 40 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 4731 | Zachariah Post | Unassigned () | Blocked | 30 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 4773 | Velma Warnam | Unassigned () | Blocked | 30 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 5097 | Lupine Delusion | Unassigned () | Blocked | 20 | missing-or-ambiguous-model-assignment |
+| 5263 | Mummified Atal'ai | Unassigned () | Blocked | 46 | missing-or-ambiguous-model-assignment |
+| 5267 | Unliving Atal'ai | Unassigned () | Blocked | 47 | protected-rank; missing-or-ambiguous-model-assignment |
+| 5270 | Atal'ai Corpse Eater | Unassigned () | Blocked | 48 | protected-rank; missing-or-ambiguous-model-assignment |
+| 5271 | Atal'ai Deathwalker | Unassigned () | Blocked | 48 | protected-rank; missing-or-ambiguous-model-assignment |
+| 5400 | Zekkis | Unassigned () | Blocked | 48 | protected-rank; missing-or-ambiguous-model-assignment |
+| 5711 | Ogom the Wretched | Unassigned () | Blocked | 49 | protected-rank; missing-or-ambiguous-model-assignment |
+| 5712 | Zolo | Unassigned () | Blocked | 49 | protected-rank; missing-or-ambiguous-model-assignment |
+| 5713 | Gasher | Unassigned () | Blocked | 49 | protected-rank; missing-or-ambiguous-model-assignment |
+| 5714 | Loro | Unassigned () | Blocked | 49 | protected-rank; missing-or-ambiguous-model-assignment |
+| 5715 | Hukku | Unassigned () | Blocked | 49 | protected-rank; missing-or-ambiguous-model-assignment |
+| 5716 | Zul'Lor | Unassigned () | Blocked | 49 | protected-rank; missing-or-ambiguous-model-assignment |
+| 5717 | Mijan | Unassigned () | Blocked | 49 | protected-rank; missing-or-ambiguous-model-assignment |
+| 5725 | Deathguard Lundmark | Unassigned () | Blocked | 15 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 6133 | Shade of Elura | Unassigned () | Blocked | 11 | missing-or-ambiguous-model-assignment |
+| 6346 | Skeletal Horse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 6486 | Black Skeletal Horse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 6488 | Fallen Champion | Unassigned () | Blocked | 32 | protected-rank; missing-or-ambiguous-model-assignment |
+| 6490 | Azshir the Sleepless | Unassigned () | Blocked | 32 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7050 | Defias Drone | Unassigned () | Blocked | 22 | missing-or-ambiguous-model-assignment |
+| 7067 | Venture Co. Drone | Unassigned () | Blocked | 22 | missing-or-ambiguous-model-assignment |
+| 7068 | Condemned Acolyte | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7069 | Condemned Monk | Unassigned () | Blocked | 58 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7070 | Condemned Cleric | Unassigned () | Blocked | 59 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7071 | Cursed Paladin | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7072 | Cursed Justicar | Unassigned () | Blocked | 59 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7073 | Arados the Damned | Unassigned () | Blocked | 35 | missing-or-ambiguous-model-assignment |
+| 7074 | Judge Thelgram | Unassigned () | Blocked | 34 | missing-or-ambiguous-model-assignment |
+| 7075 | Writhing Mage | Unassigned () | Blocked | 58 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7270 | Sandfury Zombie | Unassigned () | Blocked | 44 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7272 | Theka the Martyr | Unassigned () | Blocked | 46 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7276 | Zul'Farrak Dead Hero | Unassigned () | Blocked | 45 | missing-or-ambiguous-model-assignment |
+| 7286 | Zul'Farrak Zombie | Unassigned () | Blocked | 43 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7310 | Mutated Venture Co. Drone | Unassigned () | Blocked | 25 | missing-or-ambiguous-model-assignment |
+| 7327 | Withered Warrior | Unassigned () | Blocked | 34 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7328 | Withered Reaver | Unassigned () | Blocked | 35 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7329 | Withered Quilguard | Unassigned () | Blocked | 35 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7332 | Withered Spearhide | Unassigned () | Blocked | 34 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7333 | Withered Battle Boar | Unassigned () | Blocked | 34 | missing-or-ambiguous-model-assignment |
+| 7334 | Battle Boar Horror | Unassigned () | Blocked | 35 | missing-or-ambiguous-model-assignment |
+| 7503 | Curse of the Eye (Male) | Unassigned () | Blocked | 26 | missing-or-ambiguous-model-assignment |
+| 7504 | Curse of the Eye (Female) | Unassigned () | Blocked | 26 | missing-or-ambiguous-model-assignment |
+| 7624 | Slim's Test Death Knight | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 7791 | Theka the Martyr Shapeshift | Unassigned () | Blocked | 49 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7796 | Nekrum Gutchewer | Unassigned () | Blocked | 45 | protected-rank; missing-or-ambiguous-model-assignment |
+| 7895 | Ambassador Bloodrage | Unassigned () | Blocked | 35 | protected-rank; missing-or-ambiguous-model-assignment |
+| 8552 | Necrolyte | Unassigned () | Blocked | 54 | missing-or-ambiguous-model-assignment |
+| 8884 | Skeletal Mount | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 9034 | Hate'rel | Unassigned () | Blocked | 55 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 9035 | Anger'rel | Unassigned () | Blocked | 55 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 9036 | Vile'rel | Unassigned () | Blocked | 56 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 9037 | Gloom'rel | Unassigned () | Blocked | 56 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 9038 | Seeth'rel | Unassigned () | Blocked | 56 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 9039 | Doom'rel | Unassigned () | Blocked | 56 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 9040 | Dope'rel | Unassigned () | Blocked | 56 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 10055 | Morganus | Unassigned () | Blocked | 30 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 10117 | Tortured Slave | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 10384 | Spectral Citizen | Unassigned () | Blocked | 55 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10385 | Ghostly Citizen | Unassigned () | Blocked | 56 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10402 | [UNUSED] Cannibal Wight | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10404 | Pustulating Horror | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10433 | Marduk Blackpool | Unassigned () | Blocked | 58 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 10440 | Baron Rivendare | Unassigned () | Blocked | 62 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10502 | Lady Illucia Barov | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10503 | Jandice Barov | Unassigned () | Blocked | 61 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10504 | Lord Alexei Barov | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10558 | Hearthsinger Forresten | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10579 | Kirtonos the Herald (Spell Visual) | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10665 | Junior Apothecary Holland | Unassigned () | Blocked | 20 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 10699 | Carrion Scarab | Unassigned () | Blocked | 57 | missing-or-ambiguous-model-assignment |
+| 10778 | Janice Felstone | Unassigned () | Blocked | 5 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 10818 | Death Knight Soulbearer | Unassigned () | Blocked | 43 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10819 | Baron Bloodbane | Unassigned () | Blocked | 59 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10820 | Duke Ragereaver | Unassigned () | Blocked | 45 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10821 | Hed'mush the Rotting | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10876 | Undead Scarab | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 10926 | Pamela Redpath | Unassigned () | Blocked | 1 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 10927 | Marlene Redpath | Unassigned () | Blocked | 10 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 10936 | Joseph Redpath | Unassigned () | Blocked | 60 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 10937 | Captain Redpath | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10938 | Redpath the Corrupted | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10939 | Marduk the Black | Unassigned () | Blocked | 58 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10940 | Ghost of the Past | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 10944 | Davil Lightfire | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10945 | Davil Crokford | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 10947 | Darrowshire Betrayer | Unassigned () | Blocked | 57 | missing-or-ambiguous-model-assignment |
+| 10948 | Darrowshire Defender | Unassigned () | Blocked | 57 | missing-or-ambiguous-model-assignment |
+| 10949 | Silver Hand Disciple | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
+| 10950 | Redpath Militia | Unassigned () | Blocked | 56 | missing-or-ambiguous-model-assignment |
+| 10954 | Bloodletter | Unassigned () | Blocked | 57 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 10996 | Fallen Hero | Unassigned () | Blocked | 58 | protected-rank; missing-or-ambiguous-model-assignment |
+| 11027 | Illusory Wraith | Unassigned () | Blocked | 61 | missing-or-ambiguous-model-assignment |
+| 11030 | Mindless Undead | Unassigned () | Blocked | 56 | missing-or-ambiguous-model-assignment |
+| 11058 | Fras Siabi | Unassigned () | Blocked | 61 | protected-rank; missing-or-ambiguous-model-assignment |
+| 11064 | Darrowshire Spirit | Unassigned () | Blocked | 56 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11082 | Stratholme Courier | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
+| 11141 | Spirit of Trey Lightforge | Unassigned () | Blocked | 53 | missing-or-ambiguous-model-assignment |
+| 11142 | Undead Postman | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
+| 11143 | Postmaster Malown | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 11153 | Red Skeletal Horse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 11154 | Blue Skeletal Horse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 11155 | Brown Skeletal Horse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 11156 | Green Skeletal Warhorse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 11195 | Deathcharger | Unassigned () | Blocked | 40 | missing-or-ambiguous-model-assignment |
+| 11216 | Eva Sarkhoff | Unassigned () | Blocked | 54 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11217 | Lucien Sarkhoff | Unassigned () | Blocked | 55 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11277 | Caer Darrow Citizen | Unassigned () | Blocked | 43 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11278 | Magnus Frostwake | Unassigned () | Blocked | 50 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11279 | Caer Darrow Guardsman | Unassigned () | Blocked | 51 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11280 | Caer Darrow Cannoneer | Unassigned () | Blocked | 54 | missing-or-ambiguous-model-assignment |
+| 11281 | Caer Darrow Horseman | Unassigned () | Blocked | 52 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11282 | Melia | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 11283 | Sammy | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 11285 | Rory | Unassigned () | Blocked | 35 | missing-or-ambiguous-model-assignment |
+| 11286 | Magistrate Marduke | Unassigned () | Blocked | 57 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11287 | Baker Masterson | Unassigned () | Blocked | 37 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11288 | Spectral Betrayer | Unassigned () | Blocked | 57 | missing-or-ambiguous-model-assignment |
+| 11289 | Spectral Defender | Unassigned () | Blocked | 57 | missing-or-ambiguous-model-assignment |
+| 11290 | Mossflayer Zombie | Unassigned () | Blocked | 53 | missing-or-ambiguous-model-assignment |
+| 11291 | Unliving Mossflayer | Unassigned () | Blocked | 54 | missing-or-ambiguous-model-assignment |
+| 11292 | Mossflayer Berserker | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 11296 | Darrowshire Poltergeist | Unassigned () | Blocked | 56 | missing-or-ambiguous-model-assignment |
+| 11316 | Joseph Dirte | Unassigned () | Blocked | 31 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11412 | Danielle Koppen | Unassigned () | Blocked | 30 | missing-or-ambiguous-model-assignment |
+| 11414 | Nicole Tarlow | Unassigned () | Blocked | 40 | missing-or-ambiguous-model-assignment |
+| 11415 | Amber Provost | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 11439 | Illusion of Jandice Barov | Unassigned () | Blocked | 61 | protected-rank; missing-or-ambiguous-model-assignment |
+| 11446 | Gordok Spirit | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 11466 | Highborne Summoner | Unassigned () | Blocked | 55 | protected-rank; missing-or-ambiguous-model-assignment |
+| 11467 | Tsu'zee | Unassigned () | Blocked | 59 | protected-rank; missing-or-ambiguous-model-assignment |
+| 11468 | [UNUSED] Eldreth Lichling | Unassigned () | Blocked | 59 | protected-rank; missing-or-ambiguous-model-assignment |
+| 11469 | Eldreth Seether | Unassigned () | Blocked | 58 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11470 | Eldreth Sorcerer | Unassigned () | Blocked | 58 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11487 | Magister Kalendris | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 11488 | Illyanna Ravenoak | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 11560 | Magrami Spectre | Unassigned () | Blocked | 38 | missing-or-ambiguous-model-assignment |
+| 11598 | Risen Guardian | Unassigned () | Blocked | 59 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 11620 | Spectral Marauder | Unassigned () | Blocked | 57 | missing-or-ambiguous-model-assignment |
+| 11621 | Spectral Corpse | Unassigned () | Blocked | 57 | missing-or-ambiguous-model-assignment |
+| 11686 | Ghostly Raider | Unassigned () | Blocked | 40 | missing-or-ambiguous-model-assignment |
+| 11687 | Ghostly Marauder | Unassigned () | Blocked | 41 | missing-or-ambiguous-model-assignment |
+| 11936 | Artist Renfray | Unassigned () | Blocked | 12 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 12178 | Tortured Druid | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 12179 | Tortured Sentinel | Unassigned () | Blocked | 56 | missing-or-ambiguous-model-assignment |
+| 12199 | Shade of Ambermoon | Unassigned () | Blocked | 58 | missing-or-ambiguous-model-assignment |
+| 12238 | Zaetar's Spirit | Unassigned () | Blocked | 60 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 12239 | Spirit of Gelk | Unassigned () | Blocked | 42 | protected-rank; missing-or-ambiguous-model-assignment |
+| 12240 | Spirit of Kolk | Unassigned () | Blocked | 43 | protected-rank; missing-or-ambiguous-model-assignment |
+| 12241 | Spirit of Magra | Unassigned () | Blocked | 43 | protected-rank; missing-or-ambiguous-model-assignment |
+| 12242 | Spirit of Maraudos | Unassigned () | Blocked | 44 | protected-rank; missing-or-ambiguous-model-assignment |
+| 12243 | Spirit of Veng | Unassigned () | Blocked | 44 | protected-rank; missing-or-ambiguous-model-assignment |
+| 12248 | Infiltrator Hameya | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 12250 | Zaeldarr the Outcast | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 12261 | Infected Mossflayer | Unassigned () | Blocked | 57 | missing-or-ambiguous-model-assignment |
+| 12341 | Blue Skeletal Horse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 12342 | Brown Skeletal Horse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 12343 | Red Skeletal Horse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 12344 | Swift Green Skeletal Horse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 12379 | Unliving Caretaker | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 12380 | Unliving Resident | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 12865 | Ambassador Malcin | Unassigned () | Blocked | 35 | missing-or-ambiguous-model-assignment |
+| 13738 | Veng | Unassigned () | Blocked | 47 | protected-rank; missing-or-ambiguous-model-assignment |
+| 13739 | Maraudos | Unassigned () | Blocked | 46 | protected-rank; missing-or-ambiguous-model-assignment |
+| 13740 | Magra | Unassigned () | Blocked | 43 | protected-rank; missing-or-ambiguous-model-assignment |
+| 13741 | Gelk | Unassigned () | Blocked | 42 | protected-rank; missing-or-ambiguous-model-assignment |
+| 13742 | Kolk | Unassigned () | Blocked | 43 | protected-rank; missing-or-ambiguous-model-assignment |
+| 14331 | Red Skeletal Warhorse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 14358 | Shen'dralar Ancient | Unassigned () | Blocked | 60 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 14364 | Shen'dralar Spirit | Unassigned () | Blocked | 56 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 14484 | Injured Peasant | Unassigned () | Blocked | 51 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 14485 | Plagued Peasant | Unassigned () | Blocked | 52 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 14494 | Eris Havenfire | Unassigned () | Blocked | 60 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 14516 | Death Knight Darkreaver | Unassigned () | Blocked | 62 | protected-rank; missing-or-ambiguous-model-assignment |
+| 14558 | Purple Skeletal Warhorse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 14683 | Baron Titus Rivendare | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 14688 | Prince Sandoval | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 14825 | Withered Mistress | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 14986 | Shade of Jin'do | Unassigned () | Blocked | 60 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15081 | Gri'lek [UNUSED] | Unassigned () | Blocked | 45 | protected-rank; missing-or-ambiguous-model-assignment |
+| 15082 | Gri'lek | Unassigned () | Blocked | 63 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15083 | Hazza'rah | Unassigned () | Blocked | 63 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15084 | Renataki | Unassigned () | Blocked | 63 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15085 | Wushoolay | Unassigned () | Blocked | 63 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15163 | Nightmare Illusion | Unassigned () | Blocked | 63 | missing-or-ambiguous-model-assignment |
+| 15374 | Halloween Undead Pirate | Unassigned () | Blocked | 30 | missing-or-ambiguous-model-assignment |
+| 15376 | Halloween Male Ghost | Unassigned () | Blocked | 56 | protected-rank; missing-or-ambiguous-model-assignment |
+| 15377 | Halloween Female Ghost | Unassigned () | Blocked | 56 | protected-rank; missing-or-ambiguous-model-assignment |
+| 15547 | Spectral Charger | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 15548 | Spectral Stallion | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 15550 | Attumen the Huntsman | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15551 | Spectral Stable Hand | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 15665 | Mounted Reindeer | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 15687 | Moroes | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15720 | Timbermaw Ancestor | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 15928 | Thaddius | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15931 | Grobbulus | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15932 | Gluth | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15936 | Heigan the Unclean | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15954 | Noth the Plaguebringer | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15989 | Sapphiron | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 15990 | Kel'Thuzad | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16011 | Loatheb | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16020 | Mad Scientist | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16022 | Surgical Assistant | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16025 | Stitched Giant | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16026 | Flesh Giant B [PH] | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16027 | Living Poison | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16034 | Plague Beast | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16039 | Pack Trainer [PH] | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16040 | Pack Handler [PH] | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16060 | Gothik the Harvester | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16061 | Instructor Razuvious | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16062 | Highlord Mograine | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16063 | Sir Zeliek | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16064 | Thane Korth'azz | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16065 | Lady Blaumeux | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16066 | Spectral Assassin | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 16067 | Deathcharger Steed | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16093 | Spectral Stalker | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 16101 | Jarien | Unassigned () | Blocked | 60 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16102 | Sothos | Unassigned () | Blocked | 60 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16103 | Spirit of Jarien | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 16104 | Spirit of Sothos | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 16125 | Unrelenting Death Knight | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16126 | Unrelenting Rider | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16145 | Death Knight Captain | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16146 | Death Knight | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16148 | Spectral Death Knight | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16149 | Spectral Horse | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16150 | Spectral Rider | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16151 | Midnight | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16152 | Attumen the Huntsman | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16153 | Berthold | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16154 | Risen Squire | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16159 | Calliard | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16163 | Death Knight Cavalier | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16169 | Hastings | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16194 | Unholy Axe | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16215 | Unholy Staff | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16216 | Unholy Swords | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16250 | Mirdoran the Fallen | Unassigned () | Blocked | 20 | missing-or-ambiguous-model-assignment |
+| 16325 | Quel'dorei Ghost | Unassigned () | Blocked | 10 | missing-or-ambiguous-model-assignment |
+| 16326 | Quel'dorei Wraith | Unassigned () | Blocked | 11 | missing-or-ambiguous-model-assignment |
+| 16329 | Dar'Khan Drathir | Unassigned () | Blocked | 21 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16342 | Mummified Headhunter | Unassigned () | Blocked | 16 | missing-or-ambiguous-model-assignment |
+| 16388 | Koren | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16389 | Spectral Apprentice | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16402 | Zombified Grimscale | Unassigned () | Blocked | 12 | missing-or-ambiguous-model-assignment |
+| 16403 | Withered Grimscale | Unassigned () | Blocked | 12 | missing-or-ambiguous-model-assignment |
+| 16406 | Phantom Attendant | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16407 | Spectral Servant | Unassigned () | Blocked | 69 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16408 | Phantom Valet | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16409 | Phantom Guest | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 16410 | Spectral Retainer | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16411 | Spectral Chef | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16412 | Ghostly Baker | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16414 | Ghostly Steward | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16424 | Spectral Sentry | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16425 | Phantom Guardsman | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16426 | Bennett | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16439 | Fairbanks Transformed | Unassigned () | Blocked | 40 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16440 | Highlord Mograine Transform | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16451 | [UNUSED] Death Knight Vindicator | Unassigned () | Blocked | 62 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16459 | Wanton Hostess | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16460 | Night Mistress | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16468 | Spectral Patron | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 16470 | Ghostly Philanthropist | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16472 | Phantom Stagehand | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16473 | Spectral Performer | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16524 | Shade of Aran | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16525 | Spell Shade | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16526 | Sorcerous Shade | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16775 | Spirit of Mograine | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16776 | Spirit of Blaumeux | Unassigned () | Blocked | 63 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16777 | Spirit of Zeliek | Unassigned () | Blocked | 63 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16778 | Spirit of Korth'azz | Unassigned () | Blocked | 63 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16805 | Broken Skeleton | Unassigned () | Blocked | 64 | missing-or-ambiguous-model-assignment |
+| 16806 | Ebonlocke | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16811 | Sebastian | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16812 | Barnes | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16813 | Wravien | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16814 | Gradav | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16815 | Kamsis | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16816 | Echo of Medivh | Unassigned () | Blocked | 70 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 16861 | [UNUSED] Death Lord | Unassigned () | Blocked | 61 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16904 | Unyielding Footman | Unassigned () | Blocked | 59 | missing-or-ambiguous-model-assignment |
+| 16905 | Unyielding Sorcerer | Unassigned () | Blocked | 59 | missing-or-ambiguous-model-assignment |
+| 16906 | Unyielding Knight | Unassigned () | Blocked | 59 | missing-or-ambiguous-model-assignment |
+| 16976 | Ghostly Denizen | Unassigned () | Blocked | 59 | missing-or-ambiguous-model-assignment |
+| 16977 | Arch Mage Xintor | Unassigned () | Blocked | 61 | missing-or-ambiguous-model-assignment |
+| 16978 | Lieutenant Commander Thalvos | Unassigned () | Blocked | 61 | missing-or-ambiguous-model-assignment |
+| 16983 | Plagued Champion | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 16984 | Plagued Warrior | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 17007 | Lady Keira Berrybuck | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 17064 | Night Mistress Transform Visual | Unassigned () | Blocked | 69 | protected-rank; missing-or-ambiguous-model-assignment |
+| 17067 | Phantom Hound | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 17225 | Nightbane | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 17415 | Lordaeron Mage | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 17466 | Lordaeron Spirit | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 17503 | Woeful Healer | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 17533 | Romulo | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 17534 | Julianne | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 17535 | Dorothee | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 17592 | Razormaw | Unassigned () | Blocked | 20 | protected-rank; missing-or-ambiguous-model-assignment |
+| 17612 | Quel'dorei Magewraith | Unassigned () | Blocked | 10 | missing-or-ambiguous-model-assignment |
+| 17660 | Skeletal Gryphon | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 17672 | Deadwind Villager | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 17674 | Prince Toreth | Unassigned () | Blocked | 23 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 17714 | Bloodcursed Voyager | Unassigned () | Blocked | 16 | missing-or-ambiguous-model-assignment |
+| 17907 | Frost Wyrm | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 18043 | Agitated Orc Spirit | Unassigned () | Blocked | 66 | missing-or-ambiguous-model-assignment |
+| 18254 | Shadow of Aran | Unassigned () | Blocked | 63 | protected-rank; missing-or-ambiguous-model-assignment |
+| 18319 | Time-Lost Scryer | Unassigned () | Blocked | 67 | protected-rank; missing-or-ambiguous-model-assignment |
+| 18320 | Time-Lost Shadowmage | Unassigned () | Blocked | 69 | protected-rank; missing-or-ambiguous-model-assignment |
+| 18327 | Time-Lost Controller | Unassigned () | Blocked | 67 | protected-rank; missing-or-ambiguous-model-assignment |
+| 18441 | Stolen Soul | Unassigned () | Blocked | 67 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 18460 | Lost Spirit | Unassigned () | Blocked | 64 | missing-or-ambiguous-model-assignment |
+| 18478 | Avatar of the Martyred | Unassigned () | Blocked | 67 | protected-rank; missing-or-ambiguous-model-assignment |
+| 18498 | Unliving Soldier | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 18499 | Unliving Sorcerer | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 18500 | Unliving Cleric | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 18501 | Unliving Stalker | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 18503 | Phantasmal Possessor | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 18521 | Raging Skeleton | Unassigned () | Blocked | 66 | protected-rank; missing-or-ambiguous-model-assignment |
+| 18524 | Angered Skeleton | Unassigned () | Blocked | 66 | protected-rank; missing-or-ambiguous-model-assignment |
+| 18556 | Phasing Soldier | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 18557 | Phasing Cleric | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 18558 | Phasing Sorcerer | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 18559 | Phasing Stalker | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 18588 | Floon | Unassigned () | Blocked | 68 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 18643 | Barnes (Tuxedo) | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 18872 | Disembodied Vindicator | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 18873 | Disembodied Protector | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 19416 | Ancient Draenei Spirit | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 19417 | Ramdor the Mad | Unassigned () | Blocked | 66 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 19488 | Custodian Dieworth | Unassigned () | Blocked | 68 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 19489 | Lieutenant-Sorcerer Morran | Unassigned () | Blocked | 67 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 19543 | Battle-Mage Dathric | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 19544 | Conjurer Luminrath | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 19545 | Cohlien Frostweaver | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 19546 | Abjurist Belmara | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 19579 | Cohlien Frostweaver with Hat | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 19580 | Luminrath with Cape | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 19682 | Emissary Mordiba | Unassigned () | Blocked | 59 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 19698 | Greatfather Aldrimus | Unassigned () | Blocked | 70 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 19719 | Ricole Nichie | Unassigned () | Blocked | 61 | missing-or-ambiguous-model-assignment |
+| 19736 | Althen the Historian | Unassigned () | Blocked | 59 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 19749 | Shadowmoon Specter | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 19751 | Vengeful Shadowmoon Wraith | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 19825 | Dark Conclave Talonite | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 19826 | Dark Conclave Shadowmancer | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 19827 | Dark Conclave Ravenguard | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 19846 | [PH] Horn Ghost | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 19863 | Vengeful Unyielding | Unassigned () | Blocked | 58 | missing-or-ambiguous-model-assignment |
+| 19864 | Vengeful Unyielding Captain | Unassigned () | Blocked | 59 | missing-or-ambiguous-model-assignment |
+| 19872 | Lady Catriona Von'Indi | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 19873 | Lord Crispin Ference | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 19874 | Baron Rafe Dreuger | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 19875 | Baroness Dorothea Millstipe | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 19876 | Lord Robin Daris | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 19878 | Spirit of Exarch Maladaar | Unassigned () | Blocked | 67 | protected-rank; missing-or-ambiguous-model-assignment |
+| 19879 | Horvon the Armorer | Unassigned () | Blocked | 62 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 19881 | Severed Spirit | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 19937 | Commander Hogarth | Unassigned () | Blocked | 59 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 20117 | Vengeful Unyielding Knight | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 20137 | Vengeful Unyielding Footman | Unassigned () | Blocked | 59 | missing-or-ambiguous-model-assignment |
+| 20298 | Angered Skeleton (1) | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 20303 | Avatar of the Martyred (1) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 20305 | Stolen Soul (1) | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 20309 | Phantasmal Possessor (1) | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 20310 | Phasing Cleric (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 20311 | Phasing Soldier (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 20312 | Phasing Sorcerer (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 20313 | Phasing Stalker (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 20315 | Raging Skeleton (1) | Unassigned () | Blocked | 69 | protected-rank; missing-or-ambiguous-model-assignment |
+| 20319 | Spirit of Exarch Maladaar (1) | Unassigned () | Blocked | 67 | protected-rank; missing-or-ambiguous-model-assignment |
+| 20320 | Unliving Cleric (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 20321 | Unliving Soldier (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 20322 | Unliving Sorcerer (1) | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 20323 | Unliving Stalker (1) | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 20409 | Kirin'Var Apprentice | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 20410 | Rhonsus | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 20495 | Skeletal Stallion | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 20512 | Tormented Soul | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 20691 | Time-Lost Controller (1) | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 20697 | Time-Lost Scryer (1) | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 20698 | Time-Lost Shadowmage (1) | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 20934 | Severed Defender | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 21049 | Spirit of the Past | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 21058 | Disembodied Exarch | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 21065 | Tormented Citizen | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 21163 | Spectral Arakkoa Melee [PH] | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 21184 | Arakkoa Bonewalker (Red) | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 21198 | Deathtalon Spirit | Unassigned () | Blocked | 64 | missing-or-ambiguous-model-assignment |
+| 21199 | Arakkoa Bonewalker (Green) | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 21200 | Screeching Spirit | Unassigned () | Blocked | 63 | missing-or-ambiguous-model-assignment |
+| 21201 | Arakkoa Bonewalker (Yellow) | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 21202 | Arakkoa Bonewalker (Black) | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 21324 | Spirit Raven | Unassigned () | Blocked | 63 | missing-or-ambiguous-model-assignment |
+| 21354 | Fiery Warhorse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 21384 | Dark Conclave Harbinger | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 21385 | Dark Conclave Scorncrow | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 21386 | Dark Conclave Hawkeye | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 21430 | Unliving Draenei | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 21450 | Skethyl Owl | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 21636 | Vengeful Draenei | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 21638 | Vengeful Harbinger | Unassigned () | Blocked | 65 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 21651 | Time-Lost Skettis Reaver | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 21763 | Time-Lost Skettis Worshipper | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 21778 | Doctor Gutrick | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 21779 | Doctor Maleficus | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 21784 | Ghostrider of Karabor | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 21787 | Time-Lost Skettis High Priest | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 21788 | Shadowmoon Zealot | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 21795 | Shadowmoon Harbinger | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 21797 | Ancient Shadowmoon Spirit | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 21801 | Vhel'kur | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 21815 | Cleric of Karabor | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 21838 | Terokk | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 21866 | Reanimated Spirit | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 21867 | Teron Gorefiend | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 21869 | Unliving Guardian | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 21870 | Unliving Initiate | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 22025 | Asghar | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 22062 | Dr. Whitherlimb | Unassigned () | Blocked | 18 | protected-rank; missing-or-ambiguous-model-assignment |
+| 22138 | Dark Conclave Ritualist | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 22226 | Koi-Koi Spirit | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 22235 | Evil Koi-Koi | Unassigned () | Blocked | 67 | missing-or-ambiguous-model-assignment |
+| 22441 | Teribus the Cursed | Unassigned () | Blocked | 65 | protected-rank; missing-or-ambiguous-model-assignment |
+| 22452 | Reanimated Exarch | Unassigned () | Blocked | 65 | missing-or-ambiguous-model-assignment |
+| 22454 | Fel Spirit | Unassigned () | Blocked | 61 | missing-or-ambiguous-model-assignment |
+| 22871 | Teron Gorefiend | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 22953 | Wrathbone Flayer | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 23066 | Talonpriest Ishaal | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 23067 | Talonpriest Skizzik | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 23068 | Talonpriest Zellek | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 23103 | Derek the Undying | Unassigned () | Blocked | 58 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 23126 | [UNUSED] Boss Teron Gorefiend (Mounted) | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 23161 | Darkscreecher Akkarai | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 23204 | Vakkiz the Windrager | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 23371 | Shadowmoon Fallen | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 23408 | Raven Lord | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 23509 | Spirit of the Past | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 23545 | Pumpkin Fiend | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 23643 | Unstable Mur'ghoul | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 23644 | Mur'ghoul Flesheater | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 23645 | Mur'ghoul Corrupter | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 23786 | Stonemaul Spirit | Unassigned () | Blocked | 40 | missing-or-ambiguous-model-assignment |
+| 23861 | Restless Apparition | Unassigned () | Blocked | 35 | missing-or-ambiguous-model-assignment |
+| 23898 | UNUSED Reanimated Berserker | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 23904 | Sir Thomas | Unassigned () | Blocked | 1 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 23953 | Prince Keleseth | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 23970 | Vrykul Skeleton | Unassigned () | Blocked | 70 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 24019 | Glacion | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 24041 | Prince Keleseth | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 24073 | Fearsome Horror | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 24153 | UNUSED Reanimated Oracle | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 24168 | Micah Stonebreaker | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 24248 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 24266 | Arthas, Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 24267 | Arthas, Dark | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 24272 | Val'kyr Watcher | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 24446 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 24447 | Frostwyrm (Dragonblight) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 24546 | Rotgill | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 24562 | Nerub'ar Invader | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 24563 | Nerub'ar Venomspitter | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 24566 | Nerub'ar Skitterer | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 24693 | [UNUSED] Arcane Nightmare | Unassigned () | Blocked | 1 | protected-rank; missing-or-ambiguous-model-assignment |
+| 24695 | [UNUSED] Nether Shade | Unassigned () | Blocked | 1 | protected-rank; missing-or-ambiguous-model-assignment |
+| 24790 | Black Conrad's Ghost | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 24796 | Spectral Sailor | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 24808 | Broken Sentinel | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 24814 | Headless Horseman's Mount | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 24871 | Risen Vrykul Ancestor | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 24874 | Fengir the Disgraced | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 24875 | Windan of the Kvaldir | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 24876 | Rodin the Reckless | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 24877 | Isuldof Iceheart | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 24880 | Korf | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 25038 | Felmyst | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 25041 | Felmyst Visual | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 25224 | Vengeful Kvaldir Spirit | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 25268 | Unyielding Dead | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 25296 | Nerub'ar Larva | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 25331 | Nerub'ar Destroyer | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 25350 | Risen Longrunner | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 25351 | Ghostly Sage | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 25359 | Force-Commander Steeljaw | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 25365 | (PH) Dreadweave Spinner | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 25366 | (PH) DEPRECATED | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 25375 | Giant Scarab | Unassigned () | Blocked | 49 | missing-or-ambiguous-model-assignment |
+| 25445 | Nerub'ar Corpse Harvester | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 25451 | Nerub'ar Sky Darkener | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 25452 | Scourged Mammoth | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 25453 | Ith'rix the Harvester | Unassigned () | Blocked | 75 | protected-rank; missing-or-ambiguous-model-assignment |
+| 25462 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 25465 | Kel'Thuzad | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 25542 | [UNUSED] Arcane Nightmare (1) | Unassigned () | Blocked | 1 | protected-rank; missing-or-ambiguous-model-assignment |
+| 25546 | Broken Sentinel (1) | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 25559 | [UNUSED] Nether Shade (1) | Unassigned () | Blocked | 1 | protected-rank; missing-or-ambiguous-model-assignment |
+| 25582 | Scourged Flamespitter | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 25600 | Unliving Swine | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 25611 | Warsong Aberration | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 25619 | Nerub'ar Warrior | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 25622 | Nerub'ar Tunneler | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 25625 | Warsong Aberration | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 25652 | Nerub'ar Scarab | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 25655 | Bane | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 25668 | Vengeful Taunka Spirit | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 25678 | Doctor Razorgrin | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 25981 | Scourged Footman | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 26103 | Darkfallen Deathblade | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 26115 | Darkfallen Bloodbearer | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 26165 | Damned Taunka Spirit | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 26202 | Ziggurat Defender | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 26203 | Image of the Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26250 | Scourged Burrower | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 26252 | Captain Jacobs | Unassigned () | Blocked | 69 | missing-or-ambiguous-model-assignment |
+| 26286 | Emberwyrm | Unassigned () | Blocked | 75 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26287 | Icestorm | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26292 | [PH] Dragonblight Scourge Carrion Fields | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 26294 | [PH] Dragonblight Magma Wyrm | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 26317 | [PH] Dragonblight Scourge Galakrond Rest | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 26318 | [PH] Dragonblight Scourge Obsidian Dragonshire | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 26320 | [PH] Dragonblight Scourge Ruby Dragonshrine | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 26336 | Indu'le Mystic | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 26343 | Indu'le Fisherman | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 26344 | Indu'le Warrior | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 26402 | Anub'ar Ambusher | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 26404 | Black Skeletal Warhorse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 26413 | Anub'ar Dreadweaver | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 26457 | Diseased Drakkari | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 26458 | Drakkari Plaguebringer | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26475 | Magmawyrm | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26509 | Lucid Test Subject | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 26526 | Scourged Scarlet Footman | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 26570 | Famished Scourge Troll | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 26573 | Lingering Villager | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 26606 | Anub'ar Slayer | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 26607 | Anub'ar Blightbeast | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 26630 | Trollgore | Unassigned () | Blocked | 76 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 26632 | The Prophet Tharon'ja | Unassigned () | Blocked | 76 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 26635 | Risen Drakkari Warrior | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26636 | Risen Drakkari Soulmage | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26637 | Risen Drakkari Handler | Unassigned () | Blocked | 75 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26638 | Risen Drakkari Bat Rider | Unassigned () | Blocked | 75 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26676 | Anub'ar Invader | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 26693 | Skadi the Ruthless | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 26702 | Scourged Drakkari Oracle | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 26703 | Scourged Drakkari Warmonger | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 26769 | Anok'ra the Manipulator | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 26770 | Tivax the Breaker | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 26771 | Sinok the Shadowrager | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 26811 | Ancient Drakkari Warmonger | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 26812 | Ancient Drakkari Soothsayer | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 26830 | Risen Drakkari Death Knight | Unassigned () | Blocked | 76 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26840 | [PH] Dragonblight Named Frost Wyrm Horde | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26841 | Reanimated Frost Wyrm | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26858 | Sarathstra | Unassigned () | Blocked | 75 | protected-rank; missing-or-ambiguous-model-assignment |
+| 26861 | King Ymiron | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 26871 | Ancient Drakkari King | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 26891 | Undead Miner | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 26946 | Reanimated Drakkari Tribesman | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 26948 | Hulking Atrocity | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 26967 | Frostbrood Slayer | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27018 | Shade of Arugal | Unassigned () | Blocked | 75 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27105 | Kreug Oathbreaker | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27122 | Overseer Deathgaze | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27152 | Headless Horseman's Mount | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 27153 | Headless Horseman's Mount | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 27219 | Forsaken Prisoner | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 27220 | Forgotten Captain | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 27224 | Forgotten Knight | Unassigned () | Blocked | 71 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 27225 | Forgotten Rifleman | Unassigned () | Blocked | 71 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 27226 | Forgotten Peasant | Unassigned () | Blocked | 71 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 27229 | Forgotten Footman | Unassigned () | Blocked | 71 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 27240 | Forgotten Gryphon | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 27241 | Risen Gryphon | Unassigned () | Blocked | 71 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 27268 | Risen Gryphon Rider | Unassigned () | Blocked | 71 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27270 | Rotting Storm Giant | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 27272 | Risen Villager | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 27282 | Buried Prisoner | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 27284 | Risen Wintergarde Defender | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 27285 | Reconstructed Frost Wyrm | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27288 | Death Knight Champion | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 27290 | Hungering Dead | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 27335 | Hungering Dead | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 27400 | Forsaken Prisoner | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 27401 | Risen Wintergarde Miner | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 27410 | Scourge Siegesmith | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 27505 | Raised Gryphon | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 27561 | Undead Miner Credit | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 27611 | Plague Eruptor | Unassigned () | Blocked | 75 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27614 | Jintha'kalar Necromancer | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 27616 | Prince Atherann | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27618 | Prince Keleseth | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27620 | Shade of Arugal | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 27623 | Image of the Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27624 | Prince Theraldis | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27683 | Remnant of Dahlia Suntouch | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 27693 | Reconstructed Wyrm | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27696 | The Prophet Tharon'ja | Unassigned () | Blocked | 76 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27766 | Image of Kel'Thuzad | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27767 | Image of Sapphiron | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27768 | Image of Razuvious | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27769 | Image of Gothik | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27770 | Image of Thane Korth'azz | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27771 | Image of Lady Blaumeux | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27772 | Image of Sir Zeliek | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27774 | Image of Grobbulus | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27775 | Image of Thaddius | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27777 | Image of Faerlina | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27778 | Image of Maexxna | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27779 | Image of Noth | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27780 | Image of Heigan | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27781 | Image of Loatheb | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27782 | Image of Gluth | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 27799 | Scourge Technician | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 27800 | Leprous Servant | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 27807 | Weakened Overseer Deathgaze | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 27821 | Weakened Reanimated Frost Wyrm | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 27822 | Scourge Test Subject | Unassigned () | Blocked | 71 | missing-or-ambiguous-model-assignment |
+| 27941 | Drakkari Plague Spreader | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 28006 | Grand Necrolord Antiok | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 28007 | Antiok's Mount | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28014 | Transformed Warhorse | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 28018 | Thiassi the Lightning Bringer | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28101 | Blighted Corpse | Unassigned () | Blocked | 76 | missing-or-ambiguous-model-assignment |
+| 28103 | Urgreth of the Thousand Tombs | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28159 | Scourgeheart Drakkari | Unassigned () | Blocked | 75 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28162 | Drakkari Corpse | Unassigned () | Blocked | 75 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28170 | Frosthowl Screecher | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 28194 | Prince Tenris Mirkblood | Unassigned () | Blocked | 73 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28207 | Cerberon | Unassigned () | Blocked | 78 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28208 | Hailscorn | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28211 | Glonn | Unassigned () | Blocked | 78 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28212 | Bythius the Flesh-Shaper | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28232 | Sanguine Spirit | Unassigned () | Blocked | 70 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28243 | Thrym | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28255 | Malas the Corrupter | Unassigned () | Blocked | 76 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28257 | Hath'ar Necromagus | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 28258 | Hath'ar Skimmer | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 28270 | Jintha'kalar Scourge (PROXY DO NOT SPAWN) | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 28278 | Ravenous Plaguehound | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 28356 | Prince Keleseth | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28357 | Instructor Razuvious | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28364 | Slim's Test Mage | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 28365 | Slim's Test Warlock | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 28369 | Burning Skimmer | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 28377 | Prince Valanar | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28383 | Acherus Necromancer | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 28395 | DK (Human Male) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28406 | Death Knight Initiate | Unassigned () | Blocked | 55 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28412 | Hath'ar Broodmaster | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 28414 | Drakkari Captive | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 28420 | DK (Human Female) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28421 | DK (Dwarf Female) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28422 | DK (Gnome Female) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28423 | DK (Night Elf Female) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28424 | DK (Draenei Female) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28425 | DK (Dwarf Male) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28426 | DK (Gnome Male) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28427 | DK (Night Elf Male) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28428 | DK (Draenei Male) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28429 | DK (Blood Elf Male) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28430 | DK (Orc Male) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28431 | DK (Forsaken Male) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28432 | DK (Troll Male) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28433 | DK (Tauren Male) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28434 | DK (Blood Elf Female) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28435 | DK (Troll Female) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28436 | DK (Orc Female) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28437 | DK (Forsaken Female) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28438 | DK (Tauren Female) | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28444 | Highlord Darion Mograine | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28445 | Baron Rivendare | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28446 | Fury | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28447 | Koltira Deathweaver | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28448 | Orbaz Bloodbane | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28449 | Thassarian | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28471 | Lady Alistra | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28472 | Lord Thorval | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28475 | Runebladed Axe | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28476 | Runebladed Sword | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28498 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28499 | Sindragosa | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28500 | Master Siegesmith Corvus | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28503 | Overlord Drakuru | Unassigned () | Blocked | 77 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28506 | Mindless Laborer | Unassigned () | Blocked | 49 | missing-or-ambiguous-model-assignment |
+| 28510 | Scourge Commander Thalanor | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28519 | Withered Troll | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 28590 | Corpse Explosion Rubble | Unassigned () | Blocked | 59 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28599 | Plagueroach | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 28628 | Slim's Test Priest | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 28641 | Blighted Corpse | Unassigned () | Blocked | 76 | missing-or-ambiguous-model-assignment |
+| 28642 | Scourge Sky Darkener | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28647 | Orithos the Sky Darkener | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28653 | Salanar the Horseman | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28654 | Dark Rider of Acherus | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28658 | Gothik the Harvester | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28670 | Frostbrood Vanquisher | Unassigned () | Blocked | 62 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28684 | Krik'thir the Gatewatcher | Unassigned () | Blocked | 74 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28711 | Undead Eagle | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 28729 | Watcher Narjil | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28730 | Watcher Gashra | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28731 | Watcher Silthik | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28732 | Anub'ar Warrior | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28733 | Anub'ar Shadowcaster | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28734 | Anub'ar Skirmisher | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28735 | Skittering Swarmer | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28736 | Skittering Infector | Unassigned () | Blocked | 72 | missing-or-ambiguous-model-assignment |
+| 28747 | Quetz'lun Worshipper | Unassigned () | Blocked | 76 | missing-or-ambiguous-model-assignment |
+| 28748 | Serpent-Touched Berserker | Unassigned () | Blocked | 76 | missing-or-ambiguous-model-assignment |
+| 28752 | High Priest Mu'funu | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 28754 | High Priestess Tua-Tua | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 28756 | High Priest Hawinni | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 28768 | Dark Rider of Acherus | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 28782 | Acherus Deathcharger | Unassigned () | Blocked | 55 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28788 | Salanar the Horseman | Unassigned () | Blocked | 55 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28793 | Darmuk | Unassigned () | Blocked | 76 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28802 | Servant of Drakuru | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 28803 | Drakuru's Guard | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 28805 | Hand of Drakuru | Unassigned () | Blocked | 75 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28864 | Scourge Gryphon | Unassigned () | Blocked | 55 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28889 | Acherus Necromancer | Unassigned () | Blocked | 70 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28890 | Gothik the Harvester | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28901 | Acherus Deathcharger | Unassigned () | Blocked | 55 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28903 | Scourge Plaguehound | Unassigned () | Blocked | 54 | missing-or-ambiguous-model-assignment |
+| 28906 | Scourge Gryphon | Unassigned () | Blocked | 53 | missing-or-ambiguous-model-assignment |
+| 28907 | Prince Valanar | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28908 | Salanar the Horseman | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28909 | Dark Rider of Acherus | Unassigned () | Blocked | 55 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28910 | Baron Rivendare | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28911 | Prince Keleseth | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28912 | Koltira Deathweaver | Unassigned () | Blocked | 55 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28913 | Thassarian | Unassigned () | Blocked | 55 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28914 | Orbaz Bloodbane | Unassigned () | Blocked | 55 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28915 | Dark Rider Mount Fixed | Unassigned () | Blocked | 55 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28919 | Noth the Plaguebringer | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 28924 | Anub'ar Champion | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 28925 | Anub'ar Necromancer | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 28931 | Blightblood Troll | Unassigned () | Blocked | 77 | protected-rank; missing-or-ambiguous-model-assignment |
+| 28933 | Death Knight | Unassigned () | Blocked | 56 | missing-or-ambiguous-model-assignment |
+| 28934 | Death Knight | Unassigned () | Blocked | 56 | missing-or-ambiguous-model-assignment |
+| 28998 | Overlord Drakuru | Unassigned () | Blocked | 77 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29030 | Death Knight | Unassigned () | Blocked | 56 | missing-or-ambiguous-model-assignment |
+| 29031 | Death Knight | Unassigned () | Blocked | 56 | missing-or-ambiguous-model-assignment |
+| 29053 | Knight Commander Plaguefist | Unassigned () | Blocked | 56 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29062 | Anub'ar Champion | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 29064 | Anub'ar Necromancer | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 29096 | Anub'ar Champion | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 29098 | Anub'ar Necromancer | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 29101 | Death Knight Champion | Unassigned () | Blocked | 56 | missing-or-ambiguous-model-assignment |
+| 29106 | Death Knight Champion | Unassigned () | Blocked | 56 | missing-or-ambiguous-model-assignment |
+| 29107 | Prince Valanar | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29108 | Prince Keleseth | Unassigned () | Blocked | 72 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29109 | Baron Rivendare | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29110 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29112 | Gothik the Harvester | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29113 | Noth the Plaguebringer | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29117 | Anub'ar Champion | Unassigned () | Blocked | 73 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29119 | Anub'ar Necromancer | Unassigned () | Blocked | 73 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29128 | Anub'ar Prime Guard | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29129 | Lost Drakkari Spirit | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 29173 | Highlord Darion Mograine | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29183 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29187 | Plague Eruptor | Unassigned () | Blocked | 60 | missing-or-ambiguous-model-assignment |
+| 29190 | Flesh Behemoth | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29191 | Acherus Necromancer | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 29193 | Scarlet Deserter | Unassigned () | Blocked | 59 | missing-or-ambiguous-model-assignment |
+| 29195 | Lady Alistra | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29196 | Lord Thorval | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29198 | Mograine's Mount | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29199 | Koltira Deathweaver | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29200 | Thassarian | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29201 | Death Knight Mount | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29202 | Knight of the Ebon Blade | Unassigned () | Blocked | 56 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29204 | Orbaz Bloodbane | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29209 | Carrion Beetle | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 29213 | Anub'ar Darter | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 29214 | Anub'ar Assassin | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 29216 | Anub'ar Guardian | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29217 | Anub'ar Venomancer | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29221 | Death Knight Mount, Ebon Hold | Unassigned () | Blocked | 55 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29227 | Highlord Alexandros Mograine | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29245 | [Chapter IV] Light of Dawn Credit | Unassigned () | Blocked | 70 | missing-or-ambiguous-model-assignment |
+| 29246 | Highlord Darion Mograine | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29263 | PattyMacks Hovering Dummy | Unassigned () | Blocked | 68 | missing-or-ambiguous-model-assignment |
+| 29280 | Image of Arthas | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29309 | Elder Nadox | Unassigned () | Blocked | 75 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29335 | Anub'ar Webspinner | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29340 | Anub'ar Brood Keeper | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29349 | Anub'ar Darter | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 29362 | Mad Scientist (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29363 | Surgical Assistant (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29371 | Stitched Giant (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29373 | Grobbulus (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29394 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29414 | Bone Gryphon | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29417 | Gluth (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29448 | Thaddius (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29453 | Vargul Plaguetalon | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 29468 | Crusader Dargath | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 29488 | Scourge Gryphon | Unassigned () | Blocked | 53 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29501 | Scourge Gryphon | Unassigned () | Blocked | 53 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29519 | Unworthy Initiate | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 29520 | Unworthy Initiate | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 29522 | Frost Wyrm Raptor | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29565 | Unworthy Initiate | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 29566 | Unworthy Initiate | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 29567 | Unworthy Initiate | Unassigned () | Blocked | 55 | missing-or-ambiguous-model-assignment |
+| 29587 | Dread Commander Thalanor | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29609 | Plague Beast (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29615 | Noth the Plaguebringer (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29632 | Plagued Warrior (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29633 | Plagued Champion (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29648 | Bone Gryphon | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 29654 | Drakuru Blood Drinker | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 29656 | Drakuru Berserker | Unassigned () | Blocked | 75 | missing-or-ambiguous-model-assignment |
+| 29697 | Drakuru Prophet | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 29699 | Drakuru Raptor Rider | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 29701 | Heigan the Unclean (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29718 | Loatheb (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29738 | Death Knight Master | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
+| 29821 | Prince Navarius | Unassigned () | Blocked | 76 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29823 | Death Knight (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29824 | Death Knight Captain (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29831 | Risen Squire (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29842 | Death Knight Cavalier (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29851 | General Lightsbane | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29852 | Deathcharger Steed (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29856 | Gooey Ghoul Drool | Unassigned () | Blocked | 75 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29863 | Persistence | Unassigned () | Blocked | 76 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 29872 | Algar the Chosen | Unassigned () | Blocked | 78 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29894 | Vargul Plaguetalon | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 29895 | Thrym | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29898 | Unholy Axe (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29899 | Unholy Staff (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29900 | Unholy Swords (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29934 | Acolyte of Agony | Unassigned () | Blocked | 75 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29935 | Acolyte of Pain | Unassigned () | Blocked | 75 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29940 | Instructor Razuvious (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29955 | Gothik the Harvester (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29974 | Niffelem Forefather | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
+| 29985 | Unrelenting Death Knight (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29986 | Unrelenting Rider (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29988 | Spectral Rider (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29989 | Spectral Horse (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29990 | Spectral Death Knight (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 29991 | Sapphiron (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30061 | Kel'Thuzad (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30071 | Stitched Colossus | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30075 | Stitched Colossus (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30135 | Restless Frostborn Warrior | Unassigned () | Blocked | 78 | missing-or-ambiguous-model-assignment |
+| 30144 | Restless Frostborn Ghost | Unassigned () | Blocked | 78 | missing-or-ambiguous-model-assignment |
+| 30150 | Frostbrood Destroyer | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30176 | Ahn'kahar Guardian | Unassigned () | Blocked | 74 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 30178 | Ahn'kahar Swarmer | Unassigned () | Blocked | 74 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 30202 | Reanimated Crusader | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 30203 | Forgotten Depths High Priest | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 30204 | Forgotten Depths Ambusher | Unassigned () | Blocked | 77 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 30205 | Forgotten Depths Acolyte | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 30232 | The Bone Witch | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 30235 | Glory | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 30276 | Ahn'kahar Web Winder | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30277 | Ahn'kahar Slasher | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30278 | Ahn'kahar Spell Flinger | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30283 | Plague Walker | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30284 | Bonegrinder | Unassigned () | Blocked | 74 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30288 | Ahn'kahar Channeler | Unassigned () | Blocked | 73 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30333 | Forgotten Depths Slayer | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 30335 | Shadow Vault Gryphon | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 30338 | Ahn'kahar Swarmer | Unassigned () | Blocked | 74 | missing-or-ambiguous-model-assignment |
+| 30378 | Iydallus | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30403 | Nergeld | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 30404 | Dr. Terrible | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30432 | Grimmr Hound | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
+| 30443 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30486 | Frostbrood Destroyer | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30542 | Rivendare's Deathcharger | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 30543 | Forgotten Depths High Priest | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 30546 | [UNUSED] Reanimated Crusader | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 30549 | Baron Rivendare | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 30575 | Frostbrood Destroyer | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30593 | Forgotten Depths Slayer | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 30594 | [UNUSED] Forgotten Depths High Priest | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 30600 | Baron Rivendare (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30601 | Lady Blaumeux (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30602 | Sir Zeliek (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30603 | Thane Korth'azz (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30609 | Frost Drake | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30629 | Mortal Essence | Unassigned () | Blocked | 78 | missing-or-ambiguous-model-assignment |
+| 30670 | Scourge Proxy Chapter II | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 30697 | Putrid Colossus | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30698 | Morbidus | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 30748 | Prince Keleseth (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30778 | Image of Arthas (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30788 | King Ymiron (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30807 | Skadi the Ruthless (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30831 | High Priest Yath'amon | Unassigned () | Blocked | 79 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30863 | Shandaral Druid Spirit | Unassigned () | Blocked | 78 | missing-or-ambiguous-model-assignment |
+| 30864 | Shandaral Hunter Spirit | Unassigned () | Blocked | 78 | missing-or-ambiguous-model-assignment |
+| 30865 | Shandaral Warrior Spirit | Unassigned () | Blocked | 78 | missing-or-ambiguous-model-assignment |
+| 30944 | Vereth the Cunning | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 30946 | Keritose Bloodblade | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 30952 | Hungering Plaguehound | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 30953 | Baelok | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30954 | Rokir | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30956 | Sapph | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30957 | Death Knight Initiate | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 30958 | Death Knight Initiate | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 30960 | Risen Soldier | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 30985 | Summoned Soldier | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 30986 | Reanimated Captain | Unassigned () | Blocked | 78 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30987 | Hideous Plaguebringer | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30988 | Scourgebeak Fleshripper | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 30989 | Halof the Deathbringer | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 30992 | Doctor Sabnok | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31014 | [UNUSED] The Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31037 | Forgotten Depths High Priest | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 31042 | Death Knight Adept | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31043 | Reanimated Crusader | Unassigned () | Blocked | 77 | missing-or-ambiguous-model-assignment |
+| 31082 | Scourge Commander Thalanor | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31083 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31084 | Highlord Darion Mograine | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31088 | Koltira Deathweaver | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31089 | Thassarian | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31094 | Knight of the Ebon Blade | Unassigned () | Blocked | 57 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31096 | Scourge Necromancer | Unassigned () | Blocked | 60 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31104 | Ahn'kahar Watcher | Unassigned () | Blocked | 79 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31123 | Shandaral Spirit Wolf | Unassigned () | Blocked | 78 | missing-or-ambiguous-model-assignment |
+| 31137 | Frostbrood Skytalon | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31139 | Pustulent Horror | Unassigned () | Blocked | 81 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31150 | Plagued Fiend | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31152 | Undying Minion | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31154 | Gjonner the Merciless | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31157 | Skeletal Assault Gryphon | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31159 | Baelok | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31160 | Rokir | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31161 | Sapph | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31163 | Icefury | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31191 | Father Jhadras | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31192 | Masud | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31193 | Geness Half-Soul | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31194 | Talla | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31195 | Eldreth | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31196 | Rith | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31198 | Coprous the Defiled | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31205 | Risen Alliance Soldier | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31220 | Plaguehoof | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31221 | Bloodsunder | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31222 | Khit'rix the Dark Master | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31223 | Bloodsunder | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31224 | Icefury | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31225 | Plaguehoof | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31227 | Death Knight Warhorse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 31231 | Lost Shandaral Spirit | Unassigned () | Blocked | 78 | missing-or-ambiguous-model-assignment |
+| 31237 | Matthias Lehner | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31255 | Saronite Shaper | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31263 | Carrion Hunter | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31266 | Shadow Vault Assaulter | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31268 | The Prodigal Leader | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31271 | Carnage | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31274 | Death Knight Overseer | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31283 | Orbaz Bloodbane | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31301 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31318 | Death Knight Adept | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31322 | Saronite Shaper | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31325 | Death Knight Adept | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31326 | Death Knight Initiate | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31327 | Death Knight Initiate | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31342 | Risen Drakkari Handler (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31351 | Risen Drakkari Bat Rider (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31352 | Risen Drakkari Death Knight (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31354 | Risen Drakkari Soulmage (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31355 | Risen Drakkari Warrior (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31360 | The Prophet Tharon'ja (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31361 | The Prophet Tharon'ja  (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31362 | Trollgore (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31398 | The Chosen Champion | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31411 | Hulking Horror | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
+| 31413 | Hulking Horror | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
+| 31441 | Ahn'kahar Guardian (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31442 | Ahn'kahar Slasher (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31443 | Ahn'kahar Spell Flinger (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31447 | Ahn'kahar Swarmer (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31448 | Ahn'kahar Swarmer  (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31449 | Ahn'kahar Watcher (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31450 | Ahn'kahar Web Winder (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31451 | Bonegrinder (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31456 | Elder Nadox (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31466 | Plague Walker (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31556 | Hungering Plaguehound | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31583 | Frostbrood Skytalon | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31586 | Anub'ar Assassin (1) | Unassigned () | Blocked | 81 | missing-or-ambiguous-model-assignment |
+| 31587 | Anub'ar Brood Keeper (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31588 | Anub'ar Champion (1) | Unassigned () | Blocked | 73 | missing-or-ambiguous-model-assignment |
+| 31589 | Anub'ar Champion (1) | Unassigned () | Blocked | 81 | missing-or-ambiguous-model-assignment |
+| 31590 | Anub'ar Champion (1) | Unassigned () | Blocked | 81 | missing-or-ambiguous-model-assignment |
+| 31591 | Anub'ar Champion (1) | Unassigned () | Blocked | 81 | missing-or-ambiguous-model-assignment |
+| 31597 | Anub'ar Darter (1) | Unassigned () | Blocked | 81 | missing-or-ambiguous-model-assignment |
+| 31598 | Anub'ar Darter (1) | Unassigned () | Blocked | 81 | missing-or-ambiguous-model-assignment |
+| 31599 | Anub'ar Guardian (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31600 | Anub'ar Necromancer (1) | Unassigned () | Blocked | 81 | missing-or-ambiguous-model-assignment |
+| 31601 | Anub'ar Necromancer (1) | Unassigned () | Blocked | 81 | missing-or-ambiguous-model-assignment |
+| 31602 | Anub'ar Necromancer (1) | Unassigned () | Blocked | 81 | missing-or-ambiguous-model-assignment |
+| 31603 | Anub'ar Necromancer (1) | Unassigned () | Blocked | 81 | missing-or-ambiguous-model-assignment |
+| 31604 | Anub'ar Prime Guard (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31605 | Anub'ar Shadowcaster (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31606 | Anub'ar Skirmisher (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31607 | Anub'ar Venomancer (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31608 | Anub'ar Warrior (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31609 | Anub'ar Webspinner (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31612 | Krik'thir the Gatewatcher (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31613 | Skittering Infector (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31614 | Skittering Swarmer (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31615 | Watcher Gashra (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31616 | Watcher Narjil (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31617 | Watcher Silthik (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31635 | Vrykul Skeleton (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31647 | Carrion Beetle (1) | Unassigned () | Blocked | 82 | missing-or-ambiguous-model-assignment |
+| 31702 | Frostbrood Spawn | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 31718 | Frostbrood Whelp | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31721 | Frostbrood Sentry | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31754 | Glacial Bonelord | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 31815 | Bone Giant | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31844 | Blight Aberration | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 31900 | Scourge Banner-Bearer | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 32149 | Fallen Hero's Spirit | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
+| 32160 | Khanok the Impassable | Unassigned () | Blocked | 76 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32161 | Scourge War Engineer | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 32163 | Grimkor's Hound | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32175 | Chosen Zealot | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32181 | Living Plague | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 32183 | Skeletal Footsoldier | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32184 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32255 | Converted Hero | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 32257 | Scourge Converter | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 32272 | High Invoker Basaleph | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32280 | Corp'rethar Guardian | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32283 | Unquiet Remnant | Unassigned () | Blocked | 79 | missing-or-ambiguous-model-assignment |
+| 32288 | Freed Remnant | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 32299 | Bone Sentinel | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32300 | Alumeth the Ascended | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32309 | Ebon Knight | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32326 | Prince Arthas Menethil | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 32350 | TF-Xplosive Rocket Turret | Unassigned () | Blocked | 50 | missing-or-ambiguous-model-assignment |
+| 32404 | Matthias Lehner | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 32408 | Matthias Lehner | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 32423 | Matthias Lehner | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 32446 | Sindragosa | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32467 | Skeletal Reaver | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32479 | Bone Guard | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32482 | Pustulent Colossus | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32483 | Engorged Blight Worm | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 32490 | Scourge Deathcharger | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 32492 | Frostbrood Matriarch | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32497 | Matthias Lehner | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 32499 | Shambling Zombie | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 32501 | High Thane Jorfus | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32503 | Shambling Zombie | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 32507 | Cultist Acolyte | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 32511 | Khanok the Impassable | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 32593 | Skittering Swarmer | Unassigned () | Blocked | 72 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32609 | Hansen's Warhorse | Unassigned () | Blocked | 70 | protected-rank; missing-or-ambiguous-model-assignment |
+| 32767 | Frostbrood Sentry | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 32772 | Skeletal Footsoldier | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 33429 | Boneguard Lieutenant | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 33441 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 33513 | Black Knight's Gryphon | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 33519 | Black Knight's Gryphon | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 33687 | Chillmaw | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 33798 | Stabled Forsaken Warhorse | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 33996 | William Saldean | Unassigned () | Blocked | 5 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 34127 | Boneguard Commander | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 34154 | Blue Skeletal Warhorse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 34238 | Black Skeletal Horse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 34564 | Anub'arak | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 34566 | Anub'arak (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 34605 | Swarm Scarab | Unassigned () | Blocked | 80 | protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 34607 | Nerubian Burrower | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 34648 | Nerubian Burrower (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 34650 | Swarm Scarab (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 34660 | Anub'arak | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 35049 | Memory of Heigan | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 35169 | Ochre Skeletal Warhorse | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 35444 | The Black Knight | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 35451 | The Black Knight | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 35461 | The Black Knight Image | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35490 | The Black Knight (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35491 | Black Knight's Skeletal Gryphon | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 35493 | Vengeful Frostwyrm | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35529 | Memory of Heigan (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35547 | The Black Knight | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35559 | The Black Knight (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35615 | Anub'arak (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35616 | Anub'arak (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35652 | Anub'arak (1) | Unassigned () | Blocked | 1 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35653 | Anub'arak (2) | Unassigned () | Blocked | 1 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35654 | Anub'arak (3) | Unassigned () | Blocked | 1 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35655 | Nerubian Burrower (2) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35656 | Nerubian Burrower (3) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 35658 | Swarm Scarab (2) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 35659 | Swarm Scarab (3) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 35763 | Skittering Scarab | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 35877 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36128 | Frostwyrm Rider | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36173 | Innocuous Scarab | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 36476 | Ick | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36477 | Krick | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36478 | Soulguard Watchman | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36494 | Forgemaster Garfrost | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36502 | Devourer of Souls | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36503 | Devourer of Souls | Unassigned () | Blocked | 1 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36504 | Devourer of Souls | Unassigned () | Blocked | 1 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36597 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36612 | Lord Marrowgar | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36619 | Bone Spike | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36626 | Festergut | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36627 | Rotface | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36661 | Rimefang | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36678 | Professor Putricide | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36701 | Raging Spirit | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36723 | Frostsworn General | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36725 | Nerub'ar Broodkeeper | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36726 | [PH] Icecrown Reanimated Crusader | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 36792 | [PH] Unused Quarry Overseer | Unassigned () | Blocked | 1 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36794 | Scourgelord Tyrannus | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36795 | Scourgelord Tyrannus | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36824 | Spirit Warden | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36829 | Deathspeaker High Priest | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36830 | Wrathbone Laborer | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36841 | Fallen Warrior | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36844 | Risen Deathspeaker Servant | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36853 | Sindragosa | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36855 | Lady Deathwhisper | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 36877 | Wrathbone Skeleton | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36879 | Plagueborn Horror | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36880 | Decaying Colossus | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 36907 | Wrathbone Siegesmith | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 36954 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37007 | Deathbound Ward | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37012 | Ancient Skeletal Soldier | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37023 | Plague Scientist | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37025 | Stinky | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37120 | Highlord Darion Mograine | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37217 | Precious | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37226 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37230 | Spire Frostwyrm | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37232 | Nerub'ar Broodling | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 37491 | Captain Arnath | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37493 | Captain Brandon | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37494 | Captain Grondel | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37495 | Captain Rupert | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37501 | Nerub'ar Champion | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37502 | Nerub'ar Webweaver | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37504 | Festergut (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37505 | Festergut (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37506 | Festergut (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37530 | Slimy Tentacle | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37532 | Frostwing Whelp | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37533 | Rimefang | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37534 | Spinestalker | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37535 | Ooze Covered Tentacle | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37542 | Morlen Coldgrip | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37569 | Soulguard Watchman (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37586 | Fury | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37595 | Darkfallen Blood Knight | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37612 | Fallen Warrior (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37613 | Forgemaster Garfrost (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37627 | Ick (1) | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37629 | Krick (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37635 | Plagueborn Horror (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37638 | Wrathbone Laborer (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37639 | Wrathbone Siegesmith (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37640 | Wrathbone Skeleton (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37655 | Decaying Colossus (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37658 | [PH] Unused Quarry Overseer (1) | Unassigned () | Blocked | 1 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37662 | Darkfallen Commander | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37663 | Darkfallen Noble | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37664 | Darkfallen Archmage | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37665 | Darkfallen Lieutenant | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37666 | Darkfallen Tactician | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37672 | Mutated Abomination | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37677 | Devourer of Souls (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37720 | Frostsworn General (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37728 | Wrathbone Sorcerer | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37729 | Wrathbone Reaver | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37730 | Wrathbone Reaver (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37731 | Wrathbone Sorcerer (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37755 | Sindragosa | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37813 | Deathbringer Saurfang | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37845 | Image of Morlen Coldgrip | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37846 | Blood-Queen Lana'thel | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37857 | The Lich King | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37906 | Imprisoned Soul | Unassigned () | Blocked | 1 | missing-or-ambiguous-model-assignment |
+| 37934 | Blistering Zombie | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37945 | Dream Portal | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37955 | Blood-Queen Lana'thel | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37957 | Lord Marrowgar (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37958 | Lord Marrowgar (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37959 | Lord Marrowgar (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 37970 | Prince Valanar | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37972 | Prince Keleseth | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37973 | Prince Taldaram | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 37976 | Vegard the Unforgiven | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38004 | Blood-Queen Lana'thel | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38009 | Reanimated Fanatic | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38010 | Reanimated Adherent | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38031 | Deathbound Ward (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38058 | Nerub'ar Broodkeeper (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38059 | Ancient Skeletal Soldier (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38062 | Plague Scientist (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38064 | Stinky (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38074 | Deathspeaker High Priest (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38077 | Risen Deathspeaker Servant (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38099 | Darkfallen Archmage (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38100 | Darkfallen Blood Knight (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38101 | Darkfallen Lieutenant (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38102 | Darkfallen Commander (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38103 | Precious (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38106 | Lady Deathwhisper (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38110 | Pustulating Horror (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38112 | Falric | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38113 | Marwyn | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38135 | Deformed Fanatic | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38151 | Frostwing Whelp (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38170 | Blistering Zombie (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38172 | Phantom Mage | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38173 | Spectral Footman | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38175 | Ghostly Priest | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38176 | Tortured Rifleman | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38177 | Shadowy Mercenary | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38186 | Dream Portal (Pre-effect) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38197 | Nerub'ar Champion (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38198 | Nerub'ar Webweaver (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38216 | Mutated Professor Putricide | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38219 | Spinestalker (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38220 | Rimefang (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38233 | Bone Spike (1) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38248 | Impaling Spear | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38260 | Invincible | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 38265 | Sindragosa (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38266 | Sindragosa (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38267 | Sindragosa (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38285 | Mutated Abomination | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38296 | Lady Deathwhisper (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38297 | Lady Deathwhisper (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38308 | Ooze Covered Tentacle Stalker | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38309 | Slimy Tentacle Stalker | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38349 | Captain Arnath (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38350 | Captain Brandon (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38351 | Captain Grondel (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38352 | Captain Rupert (1) | Unassigned () | Blocked | 81 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38362 | Nerub'ar Broodling (1) | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 38367 | Tesla Coil Stalker | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38390 | Rotface (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38395 | Deformed Fanatic (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38397 | Reanimated Adherent (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38398 | Reanimated Fanatic (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38399 | Prince Keleseth (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38400 | Prince Taldaram (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38401 | Prince Valanar (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38402 | Deathbringer Saurfang (1) | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38410 | Severed Essence | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38419 | Severed Essence (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38429 | Nightmare Portal (Pre-effect) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38430 | Nightmare Portal | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38431 | Professor Putricide (1) | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38434 | Blood-Queen Lana'thel (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38435 | Blood-Queen Lana'thel (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38436 | Blood-Queen Lana'thel (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38444 | Spire Frostwyrm (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38459 | Bone Spike (2) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38460 | Bone Spike (3) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38479 | Darkfallen Tactician (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38480 | Darkfallen Noble (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38487 | Fallen Warrior | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38490 | Rotting Frost Giant | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38494 | Rotting Frost Giant | Unassigned () | Blocked | 82 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38524 | Phantom Mage (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38525 | Spectral Footman (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38544 | Tortured Rifleman (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38545 | Invincible | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 38549 | Rotface (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38550 | Rotface (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38563 | Ghostly Priest (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38564 | Shadowy Mercenary (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38567 | Phantom Hallucination | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38568 | Phantom Hallucination (1) | Unassigned () | Blocked | 80 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38572 | Bug 181860 | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38582 | Deathbringer Saurfang (2) | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38583 | Deathbringer Saurfang (3) | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38585 | Professor Putricide (2) | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38586 | Professor Putricide (3) | Unassigned () | Blocked | 83 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38599 | Falric (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38603 | Marwyn (1) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38605 | Mutated Abomination (1) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38610 | Highlord Alexandros Mograine | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38630 | Reanimated Fanatic (2) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38631 | Reanimated Fanatic (3) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38634 | Deformed Fanatic (2) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38635 | Deformed Fanatic (3) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38711 | Bone Spike | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38712 | Bone Spike | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38723 | Blistering Zombie (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38733 | Blistering Zombie (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38763 | Summoned Cadaver | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 38769 | Prince Keleseth (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38770 | Prince Keleseth (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38771 | Prince Taldaram (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38772 | Prince Taldaram (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38784 | Prince Valanar (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38785 | Prince Valanar (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38786 | Mutated Abomination (2) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38787 | Mutated Abomination (3) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38788 | Mutated Abomination (1) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38789 | Mutated Abomination (2) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38790 | Mutated Abomination (3) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38857 | PattyMacks LK | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38883 | ScottG Test | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 38970 | Bone Spike (1) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38971 | Bone Spike (2) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38972 | Bone Spike (3) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38973 | Bone Spike (1) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38974 | Bone Spike (2) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 38975 | Bone Spike (3) | Unassigned () | Blocked | 80 | protected-rank; protected-npc-vehicle-script; missing-or-ambiguous-model-assignment |
+| 39000 | Reanimated Adherent (2) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39001 | Reanimated Adherent (3) | Unassigned () | Blocked | 82 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39166 | The Lich King (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39167 | The Lich King (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39168 | The Lich King (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39231 | The Lich King (Temp) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39232 | The Lich King (Temp) (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39233 | The Lich King (Temp) (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39234 | The Lich King (Temp) (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39296 | Spirit Warden (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39302 | Raging Spirit (1) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39303 | Raging Spirit (2) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39304 | Raging Spirit (3) | Unassigned () | Blocked | 83 | protected-rank; missing-or-ambiguous-model-assignment |
+| 39639 | Restless Zombie | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 40274 | Restless Zombie | Unassigned () | Blocked | 80 | missing-or-ambiguous-model-assignment |
+| 23935 | Val'kyr Watcher | Val'kyr (226) | Blocked | 72 | no-ability-profile |
+| 24068 | Annhylde the Caller | Val'kyr (226) | Blocked | 72 | protected-rank; no-ability-profile |
+| 24118 | Val'kyr Observer | Val'kyr (226) | Blocked | 72 | no-ability-profile |
+| 24258 | Val'kyr Overseer | Val'kyr (226) | Blocked | 72 | no-ability-profile |
+| 24327 | Val'kyr Soulclaimer | Val'kyr (226) | Blocked | 72 | no-ability-profile |
+| 26668 | Svala Sorrowgrave | Val'kyr (226) | Blocked | 80 | protected-rank; no-ability-profile |
+| 28487 | Val'kyr Battle-maiden | Val'kyr (226) | Blocked | 80 | protected-rank; no-ability-profile |
+| 28534 | Val'kyr Battle-maiden | Val'kyr (226) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 29047 | Olrun the Battlecaller | Val'kyr (226) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 29111 | Val'kyr Battle-maiden | Val'kyr (226) | Blocked | 80 | protected-rank; no-ability-profile |
+| 29570 | Nascent Val'kyr | Val'kyr (226) | Blocked | 79 | no-ability-profile |
+| 30501 | Val'kyr Arbiter | Val'kyr (226) | Blocked | 80 | protected-rank; no-ability-profile |
+| 30810 | Svala Sorrowgrave (1) | Val'kyr (226) | Blocked | 82 | protected-rank; no-ability-profile |
+| 30836 | Image of Vardmadra | Val'kyr (226) | Blocked | 80 | protected-rank; no-ability-profile |
+| 30945 | Vardmadra | Val'kyr (226) | Blocked | 80 | protected-rank; no-ability-profile |
+| 31029 | Possessed Vardmadra | Val'kyr (226) | Blocked | 80 | protected-rank; no-ability-profile |
+| 31095 | Val'kyr Battle-maiden | Val'kyr (226) | Blocked | 59 | protected-rank; no-ability-profile |
+| 31135 | Geirrvif | Val'kyr (226) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 31396 | Val'kyr Taskmistress | Val'kyr (226) | Blocked | 80 | no-ability-profile |
+| 31655 | Annhylde the Caller (1) | Val'kyr (226) | Blocked | 80 | protected-rank; no-ability-profile |
+| 32495 | Hildana Deathstealer | Val'kyr (226) | Blocked | 80 | protected-rank; no-ability-profile |
+| 34496 | Eydis Darkbane | Val'kyr (226) | Blocked | 83 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 34497 | Fjola Lightbane | Val'kyr (226) | Blocked | 83 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 35347 | Eydis Darkbane (1) | Val'kyr (226) | Blocked | 83 | protected-rank; no-ability-profile |
+| 35348 | Eydis Darkbane (2) | Val'kyr (226) | Blocked | 83 | protected-rank; no-ability-profile |
+| 35349 | Eydis Darkbane (3) | Val'kyr (226) | Blocked | 83 | protected-rank; no-ability-profile |
+| 35350 | Fjola Lightbane (1) | Val'kyr (226) | Blocked | 83 | protected-rank; no-ability-profile |
+| 35351 | Fjola Lightbane (2) | Val'kyr (226) | Blocked | 83 | protected-rank; no-ability-profile |
+| 35352 | Fjola Lightbane (3) | Val'kyr (226) | Blocked | 83 | protected-rank; no-ability-profile |
+| 35474 | Vengeful Val'kyr | Val'kyr (226) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 36065 | Fjola Lightbane | Val'kyr (226) | Blocked | 83 | protected-rank; no-ability-profile |
+| 36066 | Eydis Darkbane | Val'kyr (226) | Blocked | 83 | protected-rank; no-ability-profile |
+| 36609 | Val'kyr Shadowguard | Val'kyr (226) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 37098 | Val'kyr Herald | Val'kyr (226) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 37126 | Sister Svalna | Val'kyr (226) | Blocked | 82 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 38258 | Sister Svalna (1) | Val'kyr (226) | Blocked | 82 | protected-rank; no-ability-profile |
+| 38391 | Val'kyr Guardian | Val'kyr (226) | Blocked | 80 | protected-npc-vehicle-script; no-ability-profile |
+| 38392 | Val'kyr Protector | Val'kyr (226) | Blocked | 80 | protected-npc-vehicle-script; no-ability-profile |
+| 38418 | Val'kyr Herald (1) | Val'kyr (226) | Blocked | 80 | protected-rank; no-ability-profile |
+| 39120 | Val'kyr Shadowguard (1) | Val'kyr (226) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 39121 | Val'kyr Shadowguard (2) | Val'kyr (226) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 39122 | Val'kyr Shadowguard (3) | Val'kyr (226) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 23980 | Ingvar the Plunderer | Vargul (227) | Blocked | 72 | protected-rank; no-ability-profile |
+| 24029 | Wyrmcaller Vile | Vargul (227) | Blocked | 71 | no-ability-profile |
+| 26669 | Ymirjar Savage | Vargul (227) | Blocked | 79 | protected-rank; no-ability-profile |
+| 26670 | Ymirjar Flesh Hunter | Vargul (227) | Blocked | 79 | protected-rank; no-ability-profile |
+| 26690 | Ymirjar Warrior | Vargul (227) | Blocked | 79 | protected-rank; no-ability-profile |
+| 26691 | Ymirjar Witch Doctor | Vargul (227) | Blocked | 79 | protected-rank; no-ability-profile |
+| 26692 | Ymirjar Harpooner | Vargul (227) | Blocked | 79 | protected-rank; no-ability-profile |
+| 26694 | Ymirjar Dusk Shaman | Vargul (227) | Blocked | 79 | protected-rank; no-ability-profile |
+| 26696 | Ymirjar Berserker | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 28242 | Risen Reaver | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 28349 | Risen Vrykul Berserker | Vargul (227) | Blocked | 80 | no-ability-profile |
+| 28350 | Risen Vrykul Magus | Vargul (227) | Blocked | 80 | no-ability-profile |
+| 28443 | Thalgran Blightbringer | Vargul (227) | Blocked | 77 | protected-rank; no-ability-profile |
+| 29206 | Warrior of the Frozen Wastes | Vargul (227) | Blocked | 72 | protected-rank; no-ability-profile |
+| 29449 | Vargul Deathwaker | Vargul (227) | Blocked | 75 | no-ability-profile |
+| 29450 | Vargul Runelord | Vargul (227) | Blocked | 75 | no-ability-profile |
+| 29451 | Vargul Slayer | Vargul (227) | Blocked | 75 | no-ability-profile |
+| 29882 | Vargul Proxy | Vargul (227) | Blocked | 75 | no-ability-profile |
+| 29887 | Vargul Doombringer | Vargul (227) | Blocked | 77 | protected-rank; no-ability-profile |
+| 29890 | Vargul Deathwaker | Vargul (227) | Blocked | 75 | no-ability-profile |
+| 29891 | Vargul Runelord | Vargul (227) | Blocked | 75 | no-ability-profile |
+| 29892 | Vargul Slayer | Vargul (227) | Blocked | 75 | no-ability-profile |
+| 29943 | SCOURGE PROXY (PHASED) | Vargul (227) | Blocked | 75 | no-ability-profile |
+| 30250 | Valhalas Vargul | Vargul (227) | Blocked | 79 | no-ability-profile |
+| 30406 | Bethod Feigr | Vargul (227) | Blocked | 80 | protected-npc-vehicle-script; no-ability-profile |
+| 30409 | Apprentice Osterkilgr | Vargul (227) | Blocked | 80 | no-ability-profile |
+| 30471 | Vargul Assailant | Vargul (227) | Blocked | 79 | no-ability-profile |
+| 30523 | Thane Illskar the Damned | Vargul (227) | Blocked | 80 | no-ability-profile |
+| 30816 | Ymirjar Berserker (1) | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 30817 | Ymirjar Dusk Shaman (1) | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 30818 | Ymirjar Flesh Hunter (1) | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 30819 | Ymirjar Harpooner (1) | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 30821 | Ymirjar Savage (1) | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 30822 | Ymirjar Warrior (1) | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 30823 | Ymirjar Witch Doctor (1) | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 30829 | Salranax the Flesh Render | Vargul (227) | Blocked | 79 | protected-rank; no-ability-profile |
+| 30922 | Umbral Brute | Vargul (227) | Blocked | 80 | no-ability-profile |
+| 31320 | Umbral Brute | Vargul (227) | Blocked | 80 | no-ability-profile |
+| 31674 | Ingvar the Plunderer (1) | Vargul (227) | Blocked | 81 | protected-rank; no-ability-profile |
+| 31783 | Vrykul Necrolord | Vargul (227) | Blocked | 80 | no-ability-profile |
+| 31853 | Cruel Overseer | Vargul (227) | Blocked | 80 | no-ability-profile |
+| 32505 | Vargul Wanderer | Vargul (227) | Blocked | 80 | no-ability-profile |
+| 32508 | David Test Creature 1235 | Vargul (227) | Blocked | 80 | no-ability-profile |
+| 35045 | Memory of Ingvar | Vargul (227) | Blocked | 82 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 35534 | Memory of Ingvar (1) | Vargul (227) | Blocked | 82 | protected-rank; no-ability-profile |
+| 36840 | Ymirjar Wrathbringer | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 36893 | Ymirjar Flamebearer | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 36941 | Risen Witch Doctor | Vargul (227) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 37551 | Risen Witch Doctor (1) | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 37642 | Ymirjar Flamebearer (1) | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 37644 | Ymirjar Wrathbringer (1) | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 37698 | Shambling Horror | Vargul (227) | Blocked | 83 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 37893 | Vegard the Unforgiven | Vargul (227) | Blocked | 80 | protected-rank; protected-npc-vehicle-script; no-ability-profile |
+| 38184 | Corrupted Ymirjar | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 38185 | Corrupted Ymirjar (1) | Vargul (227) | Blocked | 80 | protected-rank; no-ability-profile |
+| 39299 | Shambling Horror (1) | Vargul (227) | Blocked | 83 | protected-rank; no-ability-profile |
+| 39300 | Shambling Horror (2) | Vargul (227) | Blocked | 83 | protected-rank; no-ability-profile |
+| 39301 | Shambling Horror (3) | Vargul (227) | Blocked | 83 | protected-rank; no-ability-profile |
+| 10403 | [UNUSED] Devouring Wight | Wight (228) | Blocked | 58 | protected-rank |
+| 10435 | Magistrate Barthilas | Wight (228) | Blocked | 58 | protected-rank |
+| 10507 | The Ravenian | Wight (228) | Blocked | 60 | protected-rank |
+| 14692 | Wollstonecraft | Wight (228) | Blocked | 61 | protected-rank |
+| 15929 | Stalagg | Wight (228) | Blocked | 83 | protected-rank; protected-npc-vehicle-script |
+| 15930 | Feugen | Wight (228) | Blocked | 83 | protected-rank; protected-npc-vehicle-script |
+| 16021 | Living Monstrosity | Wight (228) | Blocked | 82 | protected-rank |
+| 16394 | Pallid Horror | Wight (228) | Blocked | 70 | protected-rank; protected-npc-vehicle-script |
+| 24247 | Koragg | Wight (228) | Blocked | 70 | protected-rank |
+| 27597 | Hulking Corpse | Wight (228) | Blocked | 74 | protected-rank |
+| 29359 | Living Monstrosity (1) | Wight (228) | Blocked | 82 | protected-rank |
+| 29446 | Stalagg (1) | Wight (228) | Blocked | 83 | protected-rank |
+| 29447 | Feugen (1) | Wight (228) | Blocked | 83 | protected-rank |
+| 30309 | Shambles | Wight (228) | Blocked | 80 | protected-npc-vehicle-script |
+| 31348 | Hulking Corpse (1) | Wight (228) | Blocked | 80 | protected-rank |
+| 32471 | Griegen | Wight (228) | Blocked | 75 | protected-rank |
+| 16165 | Necro Knight | Wraith (229) | Blocked | 81 | protected-rank; no-supported-skills |
+| 16981 | Plagued Guardian | Wraith (229) | Blocked | 81 | protected-rank; no-supported-skills |
+| 28488 | Coldwraith | Wraith (229) | Blocked | 55 | no-supported-skills |
+| 29188 | Coldwraith | Wraith (229) | Blocked | 60 | no-supported-skills |
+| 29634 | Plagued Guardian (1) | Wraith (229) | Blocked | 81 | protected-rank; no-supported-skills |
+| 29828 | Necro Knight (1) | Wraith (229) | Blocked | 81 | protected-rank; no-supported-skills |
+| 30286 | Frostbringer | Wraith (229) | Blocked | 73 | protected-rank; no-supported-skills |
+| 30687 | Skeletal Constructor | Wraith (229) | Blocked | 80 | no-supported-skills |
+| 31155 | Malefic Necromancer | Wraith (229) | Blocked | 80 | no-supported-skills |
+| 31460 | Frostbringer (1) | Wraith (229) | Blocked | 81 | protected-rank; no-supported-skills |
+| 31779 | Skeletal Archmage | Wraith (229) | Blocked | 80 | no-supported-skills |
+| 31813 | Frostskull Magus | Wraith (229) | Blocked | 80 | no-supported-skills |
+| 32284 | Scourge Soulbinder | Wraith (229) | Blocked | 80 | no-supported-skills |
+| 36564 | Soulguard Bonecaster | Wraith (229) | Blocked | 80 | protected-rank; no-supported-skills |
+| 36724 | Servant of the Throne | Wraith (229) | Blocked | 80 | protected-rank; no-supported-skills |
+| 36807 | Deathspeaker Disciple | Wraith (229) | Blocked | 82 | protected-rank; no-supported-skills |
+| 36842 | Wrathbone Coldwraith | Wraith (229) | Blocked | 80 | protected-rank; no-supported-skills |
+| 37637 | Wrathbone Coldwraith (1) | Wraith (229) | Blocked | 80 | protected-rank; no-supported-skills |
+| 38057 | Servant of the Throne (1) | Wraith (229) | Blocked | 80 | protected-rank; no-supported-skills |
+| 38073 | Deathspeaker Disciple (1) | Wraith (229) | Blocked | 82 | protected-rank; no-supported-skills |
+| 38193 | Soulguard Bonecaster (1) | Wraith (229) | Blocked | 80 | protected-rank; no-supported-skills |
+| 18287 | Brian Birmingham | Wrathguard (123) | Blocked | 73 | creature-type-mismatch |
+| 4610 | Algernon | Zombie (230) | Blocked | 30 | protected-npc-vehicle-script |
+| 6426 | Anguished Dead | Zombie (230) | Blocked | 31 | protected-rank |
+| 10381 | Ravaged Cadaver | Zombie (230) | Blocked | 56 | protected-rank |
+| 10382 | Mangled Cadaver | Zombie (230) | Blocked | 55 | protected-rank |
+| 10901 | Lorekeeper Polkelt | Zombie (230) | Blocked | 60 | protected-rank |
+| 14709 | Blighted Dead | Zombie (230) | Blocked | 54 | protected-rank |
+| 16360 | Zombie Chow | Zombie (230) | Blocked | 80 | protected-rank |
+| 29207 | Gangrenus | Zombie (230) | Blocked | 56 | protected-npc-vehicle-script |
+| 30303 | Zombie Chow (1) | Zombie (230) | Blocked | 80 | protected-rank |
+| 30310 | Boltskull | Zombie (230) | Blocked | 80 | protected-npc-vehicle-script |
+| 30311 | Mangled | Zombie (230) | Blocked | 80 | protected-npc-vehicle-script |
+| 38104 | Plagued Zombie | Zombie (230) | Blocked | 80 | protected-rank |
+| 38105 | Plagued Zombie (1) | Zombie (230) | Blocked | 80 | protected-rank |
