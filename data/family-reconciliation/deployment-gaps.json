@@ -1,0 +1,1305 @@
+[
+  {
+    "family": 101,
+    "name": "Pit Lord",
+    "candidateCreatures": 3,
+    "newCreatureMappings": 3,
+    "missingServerSpellIDs": [
+      80134,
+      80135,
+      80136
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 105,
+    "name": "Darkhound",
+    "candidateCreatures": 16,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 106,
+    "name": "Doomguard",
+    "candidateCreatures": 48,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 109,
+    "name": "Fel Beast",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      80145,
+      80146
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 114,
+    "name": "Terrorfiend",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      80148
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 118,
+    "name": "Infernal",
+    "candidateCreatures": 26,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 119,
+    "name": "Abyssal",
+    "candidateCreatures": 3,
+    "newCreatureMappings": 3,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 123,
+    "name": "Wrathguard",
+    "candidateCreatures": 20,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 124,
+    "name": "Gan'arg",
+    "candidateCreatures": 24,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 128,
+    "name": "Nathrezim",
+    "candidateCreatures": 17,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 129,
+    "name": "Felsteed",
+    "candidateCreatures": 10,
+    "newCreatureMappings": 10,
+    "missingServerSpellIDs": [
+      80166,
+      80167,
+      891894
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 130,
+    "name": "Dreadsteed",
+    "candidateCreatures": 2,
+    "newCreatureMappings": 2,
+    "missingServerSpellIDs": [
+      80168,
+      80169,
+      80170,
+      891894
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 131,
+    "name": "Observer",
+    "candidateCreatures": 13,
+    "newCreatureMappings": 13,
+    "missingServerSpellIDs": [
+      80171
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 134,
+    "name": "Satyr",
+    "candidateCreatures": 67,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 136,
+    "name": "Shivarra",
+    "candidateCreatures": 24,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 140,
+    "name": "Void Terror",
+    "candidateCreatures": 4,
+    "newCreatureMappings": 4,
+    "missingServerSpellIDs": [
+      80180
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 144,
+    "name": "Mo'arg Engineer",
+    "candidateCreatures": 14,
+    "newCreatureMappings": 14,
+    "missingServerSpellIDs": [
+      80183,
+      80184,
+      80185
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 145,
+    "name": "Man'ari Eredar (Blue)",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      93828,
+      93830
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 146,
+    "name": "Man'ari Eredar (Purple)",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      93822,
+      93823,
+      93824
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 147,
+    "name": "Man'ari Eredar (Red)",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      93825,
+      93826,
+      93827
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 148,
+    "name": "Man'ari Eredar (Green)",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      93831,
+      93832,
+      93833
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 203,
+    "name": "Abomination",
+    "candidateCreatures": 30,
+    "newCreatureMappings": 30,
+    "missingServerSpellIDs": [
+      80186,
+      80190
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 204,
+    "name": "Banshee",
+    "candidateCreatures": 27,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 205,
+    "name": "Bone Golem",
+    "candidateCreatures": 9,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 207,
+    "name": "Crypt Fiend",
+    "candidateCreatures": 23,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 208,
+    "name": "Crypt Lord",
+    "candidateCreatures": 8,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 214,
+    "name": "Fungal Monster",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      80207
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 215,
+    "name": "Gargoyle",
+    "candidateCreatures": 26,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 218,
+    "name": "Ghoul",
+    "candidateCreatures": 128,
+    "newCreatureMappings": 11,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 219,
+    "name": "Lich",
+    "candidateCreatures": 2,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 222,
+    "name": "Plague Eruptor",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      91236
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 223,
+    "name": "Undead Quilboar",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 224,
+    "name": "Shade",
+    "candidateCreatures": 45,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 225,
+    "name": "Skeleton",
+    "candidateCreatures": 116,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 228,
+    "name": "Wight",
+    "candidateCreatures": 5,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 229,
+    "name": "Wraith",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 230,
+    "name": "Zombie",
+    "candidateCreatures": 42,
+    "newCreatureMappings": 1,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 233,
+    "name": "Skeletal Mage",
+    "candidateCreatures": 17,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 301,
+    "name": "Air Elemental",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 302,
+    "name": "Earth Elemental",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 303,
+    "name": "Fire Elemental",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 304,
+    "name": "Water Elemental",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 305,
+    "name": "Magma Elemental",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 306,
+    "name": "Ice Elemental",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      892153
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 308,
+    "name": "Mana Elemental",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 309,
+    "name": "Entropic Elemental",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 310,
+    "name": "Mojo Elemental",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      892183
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 311,
+    "name": "Shadow Elemental",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 323,
+    "name": "Steam Elemental",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 324,
+    "name": "Arcane Elemental",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 326,
+    "name": "Air Revenant",
+    "candidateCreatures": 6,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 327,
+    "name": "Earth Revenant",
+    "candidateCreatures": 7,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 328,
+    "name": "Fire Revenant",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 329,
+    "name": "Water Revenant",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 331,
+    "name": "Death Revenant",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      892263
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 332,
+    "name": "Ice Revenant",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      892271,
+      892273
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 350,
+    "name": "Phoenix",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 356,
+    "name": "Lasher",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92498,
+      892297
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 358,
+    "name": "Constrictor Orchid",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92498,
+      892297
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 359,
+    "name": "Constrictor Lasher",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92498,
+      92506,
+      892297
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 360,
+    "name": "Mutated Orchid",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92498,
+      892297
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 363,
+    "name": "Bloodpetal Lasher",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92498,
+      892297
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 364,
+    "name": "Frostpetal Orchid",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92498,
+      892297
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 365,
+    "name": "Frostpetal Lasher",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92498,
+      92507,
+      892297
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 367,
+    "name": "Deathpetal Lasher",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92498,
+      892297
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 368,
+    "name": "Stone War Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92502,
+      92503
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 369,
+    "name": "Stone Siege Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92519,
+      92522
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 370,
+    "name": "Dark Iron War Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92502,
+      92503,
+      92524
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 372,
+    "name": "Ragereaver War Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92502,
+      92503,
+      92515
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 373,
+    "name": "Ragereaver Siege Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92515,
+      92522
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 374,
+    "name": "Molten War Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92502,
+      92503
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 375,
+    "name": "Molten Siege Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92522
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 376,
+    "name": "Iron War Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92502,
+      92503,
+      92524
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 377,
+    "name": "Iron Siege Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92502,
+      92503,
+      92524
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 378,
+    "name": "Drakkari War Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92502,
+      92503,
+      92524
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 379,
+    "name": "Drakkari Siege Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92502,
+      92503,
+      92524
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 380,
+    "name": "Runic War Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92502,
+      92503,
+      92524
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 381,
+    "name": "Runic Siege Golem",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92502,
+      92503,
+      92524
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 382,
+    "name": "Verdant Bog Beast",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92527
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 383,
+    "name": "Fungal Bog Beast",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      92530,
+      92531,
+      92533
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 384,
+    "name": "Hardwood Treant",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      93715
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 385,
+    "name": "Dreadwood Treant",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      93720,
+      93721
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 386,
+    "name": "Winterwood Treant",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      93722
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 387,
+    "name": "Softwood Treant",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      93725
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 402,
+    "name": "Black Whelp",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 403,
+    "name": "Black Drake",
+    "candidateCreatures": 9,
+    "newCreatureMappings": 9,
+    "missingServerSpellIDs": [
+      91836
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 404,
+    "name": "Black Dragon",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      891013,
+      891014
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 406,
+    "name": "Black Drakonid",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 407,
+    "name": "Black Scalebane",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      91890
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 408,
+    "name": "Black Wyrmkin",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 414,
+    "name": "Blue Whelp",
+    "candidateCreatures": 6,
+    "newCreatureMappings": 6,
+    "missingServerSpellIDs": [
+      91762
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 415,
+    "name": "Blue Drake",
+    "candidateCreatures": 1,
+    "newCreatureMappings": 1,
+    "missingServerSpellIDs": [
+      891893
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 416,
+    "name": "Blue Dragon",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      891022
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 418,
+    "name": "Blue Drakonid",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 419,
+    "name": "Blue Scalebane",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      91893
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 420,
+    "name": "Blue Wyrmkin",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 426,
+    "name": "Bronze Whelp",
+    "candidateCreatures": 1,
+    "newCreatureMappings": 1,
+    "missingServerSpellIDs": [
+      91767
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 427,
+    "name": "Bronze Drake",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 428,
+    "name": "Bronze Dragon",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      891033,
+      891035
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 430,
+    "name": "Bronze Drakonid",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 431,
+    "name": "Bronze Scalebane",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 438,
+    "name": "Green Whelp",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 439,
+    "name": "Green Drake",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 440,
+    "name": "Green Dragon",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      891043
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 442,
+    "name": "Green Drakonid",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 443,
+    "name": "Green Scalebane",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 444,
+    "name": "Green Wyrmkin",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 450,
+    "name": "Red Whelp",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 451,
+    "name": "Red Drake",
+    "candidateCreatures": 6,
+    "newCreatureMappings": 6,
+    "missingServerSpellIDs": [
+      91852
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 452,
+    "name": "Red Dragon",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      891052,
+      891053
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 454,
+    "name": "Red Drakonid",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      91880
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 455,
+    "name": "Red Scalebane",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      91887
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 462,
+    "name": "Chromatic Whelp",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 463,
+    "name": "Chromatic Drake",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 466,
+    "name": "Chromatic Drakonid",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 467,
+    "name": "Chromatic Scalebane",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 470,
+    "name": "Chromatic Drakeadon",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      91923
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 474,
+    "name": "Infinite Whelp",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 475,
+    "name": "Infinite Drake",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      91857,
+      91858
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 476,
+    "name": "Infinite Dragon",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      891062
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 478,
+    "name": "Infinite Drakonid",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 479,
+    "name": "Infinite Scalebane",
+    "candidateCreatures": 2,
+    "newCreatureMappings": 2,
+    "missingServerSpellIDs": [
+      91902,
+      91904
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 480,
+    "name": "Infinite Wyrmkin",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 486,
+    "name": "Twilight Whelp",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 488,
+    "name": "Twilight Dragon",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      891070,
+      891073
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 491,
+    "name": "Twilight Scalebane",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      91900
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 499,
+    "name": "Netherwing Drake",
+    "candidateCreatures": 10,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      91856
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 500,
+    "name": "Netherwing Dragon",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [
+      891082,
+      891083
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 502,
+    "name": "Netherwing Drakonid",
+    "candidateCreatures": 1,
+    "newCreatureMappings": 1,
+    "missingServerSpellIDs": [
+      91876,
+      91878,
+      91890
+    ],
+    "status": "definitions-required"
+  },
+  {
+    "family": 510,
+    "name": "Plagued Whelp",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 541,
+    "name": "Faerie Dragon",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "missing-skill-implementation"
+  },
+  {
+    "family": 115,
+    "name": "Imp",
+    "candidateCreatures": 21,
+    "newCreatureMappings": 21,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 116,
+    "name": "Fel Imp",
+    "candidateCreatures": 24,
+    "newCreatureMappings": 24,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 110,
+    "name": "Felhound",
+    "candidateCreatures": 39,
+    "newCreatureMappings": 39,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 111,
+    "name": "Felstalker",
+    "candidateCreatures": 0,
+    "newCreatureMappings": 0,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 135,
+    "name": "Succubus",
+    "candidateCreatures": 36,
+    "newCreatureMappings": 36,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 143,
+    "name": "Voidwalker",
+    "candidateCreatures": 28,
+    "newCreatureMappings": 28,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  },
+  {
+    "family": 126,
+    "name": "Felguard",
+    "candidateCreatures": 26,
+    "newCreatureMappings": 26,
+    "missingServerSpellIDs": [],
+    "status": "definition-ids-present-behavior-review-required"
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "status": "Expanded taxonomy candidates; no automatic skill grants or live activation. Model identity is evidence, not a recovered Ascension server assignment.",
+  "models": {
+    "creature/darkhound/darkhound.mdx": 105,
+    "creature/doomguard/doomguard.mdx": 106,
+    "creature/doomguardoutland/doomguardoutland.mdx": 106,
+    "creature/infernal/infernal.mdx": 118,
+    "creature/wrathguard/wrathguard.mdx": 123,
+    "creature/moargminion/moargminion.mdx": 124,
+    "creature/dreadlord/dreadlord.mdx": 128,
+    "creature/satyr/satyr.mdx": 134,
+    "creature/shivan/shivan.mdx": 136,
+    "creature/banshee/banshee.mdx": 204,
+    "creature/bonegolem/bonegolem.mdx": 205,
+    "creature/cryptfiend/cryptfiend.mdx": 207,
+    "creature/cryptlord/cryptlord.mdx": 208,
+    "creature/gargoyle/gargoyle.mdx": 215,
+    "creature/ghoul/ghoul.mdx": 218,
+    "creature/northrendghoul/northrendghoul.mdx": 218,
+    "creature/lich/lich.mdx": 219,
+    "creature/shade/shade.mdx": 224,
+    "creature/skeleton/skeleton.mdx": 225,
+    "creature/skeletonnaked/skeletonnaked.mdx": 225,
+    "creature/wight/wight.mdx": 228,
+    "creature/zombie/zombie.mdx": 230,
+    "creature/zombie/zombiearm.mdx": 230,
+    "creature/skeletonmage/skeletonmage.mdx": 233,
+    "creature/revenantair/revenantair.mdx": 326,
+    "creature/revenantearth/revenantearth.mdx": 327,
+    "creature/revenantice/revenantice.mdx": 332,
+    "creature/netherdrake/netherdrake.mdx": 499,
+    "creature/imp/imp.mdx": 115,
+    "creature/impoutland/impoutland.mdx": 116,
+    "creature/succubus/succubus.mdx": 135,
+    "creature/felguard/felguard.mdx": 126,
+    "creature/voidwalker/voidwalker.mdx": 143,
+    "creature/voidwalkeroutland/voidwalker_outland.mdx": 143,
+    "creature/beholder/beholder.mdx": 131,
+    "creature/fleshgolem/fleshgolem.mdx": 203,
+    "creature/northrendgeist/northrendgeist.mdx": 216,
+    "creature/ghost/ghost.mdx": 217,
+    "creature/ghoul/ghoulnobirth.mdx": 218,
+    "creature/zombiefiedvrykul/zombiefiedvrykul.mdx": 227,
+    "creature/zombiefiedvrykulcaster/zombiefiedvrykulcaster.mdx": 227,
+    "creature/airelemental/airelemental.mdx": 301,
+    "creature/elementalearth/elementalearth.mdx": 302,
+    "creature/fireelemental/fireelemental.mdx": 303,
+    "creature/waterelemental/waterelemental.mdx": 304,
+    "creature/revenantfire/revenantfire.mdx": 328,
+    "creature/revenantwater/revenantwater.mdx": 329,
+    "creature/faeriedragon/faeriedragon.mdx": 541,
+    "creature/bogbeast/bogbeast.mdx": 355,
+    "creature/ent/ent.mdx": 394,
+    "creature/moarg/moarg3.mdx": 144,
+    "creature/moarg/moarg5.mdx": 144,
+    "creature/felhound/felhound.mdx": 110,
+    "creature/pitlord/pitlord.mdx": 101,
+    "creature/abyssaloutland/abyssal_outland.mdx": 119,
+    "creature/nightmare/nightmare.mdx": 129,
+    "creature/nightmare/gorgon101.mdx": 130,
+    "creature/voidterror/voidterror.mdx": 140,
+    "creature/northrendghoul/northrendghoulspiked.mdx": 218,
+    "creature/zombie/zombiesword.mdx": 230,
+    "creature/valkier/valkier.mdx": 226,
+    "creature/valkierdark/valkierdark.mdx": 226,
+    "creature/coldwraith/coldwraith.mdx": 229,
+    "creature/netherdrakonid/netherdrakonid.mdx": 502,
+    "creature/dragonspawnarmoreddarkshade/dragonspawnarmoreddarkshade.mdx": 479,
+    "creature/dragonspawncasterdarkshade/dragonspawncasterdarkshade.mdx": 480,
+    "creature/dragonwhelpdarkshade/dragonwhelpdarkshade.mdx": 474,
+    "creature/dragonfootsoldierdarkshade/dragonfootsoldierdarkshade.mdx": 478
+  },
+  "textureRules": [
+    {
+      "model": "creature/dragonwhelp/dragonwhelp.mdx",
+      "texturePrefix": "dragonwhelpskinblack",
+      "family": 402
+    },
+    {
+      "model": "creature/dragonwhelp/dragonwhelp.mdx",
+      "texturePrefix": "dragonwhelpskinblue",
+      "family": 414
+    },
+    {
+      "model": "creature/dragonwhelp/dragonwhelp.mdx",
+      "texturePrefix": "dragonwhelpskinbronze",
+      "family": 426
+    },
+    {
+      "model": "creature/dragonwhelp/dragonwhelp.mdx",
+      "texturePrefix": "dragonwhelpskingreen",
+      "family": 438
+    },
+    {
+      "model": "creature/dragonwhelp/dragonwhelp.mdx",
+      "texturePrefix": "dragonwhelpskinred",
+      "family": 450
+    },
+    {
+      "model": "creature/drake/drake.mdx",
+      "texturePrefix": "drakeskinblack",
+      "family": 403
+    },
+    {
+      "model": "creature/drake/drake.mdx",
+      "texturePrefix": "drakeskinblue",
+      "family": 415
+    },
+    {
+      "model": "creature/drake/drake.mdx",
+      "texturePrefix": "drakeskinbronze",
+      "family": 427
+    },
+    {
+      "model": "creature/drake/drake.mdx",
+      "texturePrefix": "drakeskingreen",
+      "family": 439
+    },
+    {
+      "model": "creature/drake/drake.mdx",
+      "texturePrefix": "drakeskinred",
+      "family": 451
+    }
+  ]
+}

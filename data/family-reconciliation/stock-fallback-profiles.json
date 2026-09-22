@@ -1,0 +1,986 @@
+{
+  "status": "User-approved stock fallback policy; native ranks retained; staged for runtime and binding validation",
+  "excluded": "No Warlock scaling passives, Demonic Pact or Empowered Imp automatically granted to enslaved pets. Matching active skills plus Felguard Demonic Frenzy only.",
+  "skillLineSourceSHA256": "0d963049934fd0f96ca69bdcf4c338c99476881de841bf65c9bad570b5b500cd",
+  "spellSourceSHA256": "b56fcb11d4901656b54ff97ab5f27a371d7c0fb582864613f70706024002e5a3",
+  "profiles": [
+    {
+      "id": 115,
+      "name": "Imp",
+      "type": 3,
+      "power": 0,
+      "spells": [
+        2947,
+        3110,
+        4511,
+        6307,
+        7799,
+        7800,
+        7801,
+        7802,
+        7804,
+        7805,
+        8316,
+        8317,
+        11762,
+        11763,
+        11766,
+        11767,
+        11770,
+        11771,
+        27267,
+        27268,
+        27269,
+        47964,
+        47982,
+        47983
+      ],
+      "withheld": [],
+      "stockSkillLine": 188,
+      "skills": [
+        {
+          "id": 3110,
+          "name": "Firebolt",
+          "level": 1
+        },
+        {
+          "id": 6307,
+          "name": "Blood Pact",
+          "level": 4
+        },
+        {
+          "id": 7799,
+          "name": "Firebolt",
+          "level": 8
+        },
+        {
+          "id": 7800,
+          "name": "Firebolt",
+          "level": 18
+        },
+        {
+          "id": 7801,
+          "name": "Firebolt",
+          "level": 28
+        },
+        {
+          "id": 7802,
+          "name": "Firebolt",
+          "level": 38
+        },
+        {
+          "id": 7804,
+          "name": "Blood Pact",
+          "level": 14
+        },
+        {
+          "id": 7805,
+          "name": "Blood Pact",
+          "level": 26
+        },
+        {
+          "id": 2947,
+          "name": "Fire Shield",
+          "level": 14
+        },
+        {
+          "id": 8316,
+          "name": "Fire Shield",
+          "level": 24
+        },
+        {
+          "id": 8317,
+          "name": "Fire Shield",
+          "level": 34
+        },
+        {
+          "id": 4511,
+          "name": "Phase Shift",
+          "level": 12
+        },
+        {
+          "id": 11766,
+          "name": "Blood Pact",
+          "level": 38
+        },
+        {
+          "id": 11767,
+          "name": "Blood Pact",
+          "level": 50
+        },
+        {
+          "id": 11770,
+          "name": "Fire Shield",
+          "level": 44
+        },
+        {
+          "id": 11771,
+          "name": "Fire Shield",
+          "level": 54
+        },
+        {
+          "id": 11762,
+          "name": "Firebolt",
+          "level": 48
+        },
+        {
+          "id": 11763,
+          "name": "Firebolt",
+          "level": 58
+        },
+        {
+          "id": 27267,
+          "name": "Firebolt",
+          "level": 68
+        },
+        {
+          "id": 27268,
+          "name": "Blood Pact",
+          "level": 62
+        },
+        {
+          "id": 27269,
+          "name": "Fire Shield",
+          "level": 64
+        },
+        {
+          "id": 47964,
+          "name": "Firebolt",
+          "level": 78
+        },
+        {
+          "id": 47982,
+          "name": "Blood Pact",
+          "level": 74
+        },
+        {
+          "id": 47983,
+          "name": "Fire Shield",
+          "level": 76
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Fel Imp",
+      "type": 3,
+      "power": 0,
+      "spells": [
+        2947,
+        3110,
+        4511,
+        6307,
+        7799,
+        7800,
+        7801,
+        7802,
+        7804,
+        7805,
+        8316,
+        8317,
+        11762,
+        11763,
+        11766,
+        11767,
+        11770,
+        11771,
+        27267,
+        27268,
+        27269,
+        47964,
+        47982,
+        47983
+      ],
+      "withheld": [],
+      "stockSkillLine": 188,
+      "skills": [
+        {
+          "id": 3110,
+          "name": "Firebolt",
+          "level": 1
+        },
+        {
+          "id": 6307,
+          "name": "Blood Pact",
+          "level": 4
+        },
+        {
+          "id": 7799,
+          "name": "Firebolt",
+          "level": 8
+        },
+        {
+          "id": 7800,
+          "name": "Firebolt",
+          "level": 18
+        },
+        {
+          "id": 7801,
+          "name": "Firebolt",
+          "level": 28
+        },
+        {
+          "id": 7802,
+          "name": "Firebolt",
+          "level": 38
+        },
+        {
+          "id": 7804,
+          "name": "Blood Pact",
+          "level": 14
+        },
+        {
+          "id": 7805,
+          "name": "Blood Pact",
+          "level": 26
+        },
+        {
+          "id": 2947,
+          "name": "Fire Shield",
+          "level": 14
+        },
+        {
+          "id": 8316,
+          "name": "Fire Shield",
+          "level": 24
+        },
+        {
+          "id": 8317,
+          "name": "Fire Shield",
+          "level": 34
+        },
+        {
+          "id": 4511,
+          "name": "Phase Shift",
+          "level": 12
+        },
+        {
+          "id": 11766,
+          "name": "Blood Pact",
+          "level": 38
+        },
+        {
+          "id": 11767,
+          "name": "Blood Pact",
+          "level": 50
+        },
+        {
+          "id": 11770,
+          "name": "Fire Shield",
+          "level": 44
+        },
+        {
+          "id": 11771,
+          "name": "Fire Shield",
+          "level": 54
+        },
+        {
+          "id": 11762,
+          "name": "Firebolt",
+          "level": 48
+        },
+        {
+          "id": 11763,
+          "name": "Firebolt",
+          "level": 58
+        },
+        {
+          "id": 27267,
+          "name": "Firebolt",
+          "level": 68
+        },
+        {
+          "id": 27268,
+          "name": "Blood Pact",
+          "level": 62
+        },
+        {
+          "id": 27269,
+          "name": "Fire Shield",
+          "level": 64
+        },
+        {
+          "id": 47964,
+          "name": "Firebolt",
+          "level": 78
+        },
+        {
+          "id": 47982,
+          "name": "Blood Pact",
+          "level": 74
+        },
+        {
+          "id": 47983,
+          "name": "Fire Shield",
+          "level": 76
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Felhound",
+      "type": 3,
+      "power": 0,
+      "spells": [
+        19244,
+        19505,
+        19647,
+        19731,
+        19734,
+        19736,
+        27276,
+        27277,
+        48011,
+        54049,
+        54050,
+        54051,
+        54052,
+        54053,
+        54424,
+        57564,
+        57565,
+        57566,
+        57567
+      ],
+      "withheld": [],
+      "stockSkillLine": 189,
+      "skills": [
+        {
+          "id": 19244,
+          "name": "Spell Lock",
+          "level": 36
+        },
+        {
+          "id": 19647,
+          "name": "Spell Lock",
+          "level": 52
+        },
+        {
+          "id": 19505,
+          "name": "Devour Magic",
+          "level": 30
+        },
+        {
+          "id": 19731,
+          "name": "Devour Magic",
+          "level": 38
+        },
+        {
+          "id": 19734,
+          "name": "Devour Magic",
+          "level": 46
+        },
+        {
+          "id": 19736,
+          "name": "Devour Magic",
+          "level": 54
+        },
+        {
+          "id": 27276,
+          "name": "Devour Magic",
+          "level": 62
+        },
+        {
+          "id": 27277,
+          "name": "Devour Magic",
+          "level": 70
+        },
+        {
+          "id": 48011,
+          "name": "Devour Magic",
+          "level": 77
+        },
+        {
+          "id": 54049,
+          "name": "Shadow Bite",
+          "level": 42
+        },
+        {
+          "id": 54050,
+          "name": "Shadow Bite",
+          "level": 50
+        },
+        {
+          "id": 54051,
+          "name": "Shadow Bite",
+          "level": 58
+        },
+        {
+          "id": 54052,
+          "name": "Shadow Bite",
+          "level": 66
+        },
+        {
+          "id": 54053,
+          "name": "Shadow Bite",
+          "level": 74
+        },
+        {
+          "id": 54424,
+          "name": "Fel Intelligence",
+          "level": 32
+        },
+        {
+          "id": 57564,
+          "name": "Fel Intelligence",
+          "level": 42
+        },
+        {
+          "id": 57565,
+          "name": "Fel Intelligence",
+          "level": 52
+        },
+        {
+          "id": 57566,
+          "name": "Fel Intelligence",
+          "level": 62
+        },
+        {
+          "id": 57567,
+          "name": "Fel Intelligence",
+          "level": 72
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Felstalker",
+      "type": 3,
+      "power": 0,
+      "spells": [
+        19244,
+        19505,
+        19647,
+        19731,
+        19734,
+        19736,
+        27276,
+        27277,
+        48011,
+        54049,
+        54050,
+        54051,
+        54052,
+        54053,
+        54424,
+        57564,
+        57565,
+        57566,
+        57567
+      ],
+      "withheld": [],
+      "stockSkillLine": 189,
+      "skills": [
+        {
+          "id": 19244,
+          "name": "Spell Lock",
+          "level": 36
+        },
+        {
+          "id": 19647,
+          "name": "Spell Lock",
+          "level": 52
+        },
+        {
+          "id": 19505,
+          "name": "Devour Magic",
+          "level": 30
+        },
+        {
+          "id": 19731,
+          "name": "Devour Magic",
+          "level": 38
+        },
+        {
+          "id": 19734,
+          "name": "Devour Magic",
+          "level": 46
+        },
+        {
+          "id": 19736,
+          "name": "Devour Magic",
+          "level": 54
+        },
+        {
+          "id": 27276,
+          "name": "Devour Magic",
+          "level": 62
+        },
+        {
+          "id": 27277,
+          "name": "Devour Magic",
+          "level": 70
+        },
+        {
+          "id": 48011,
+          "name": "Devour Magic",
+          "level": 77
+        },
+        {
+          "id": 54049,
+          "name": "Shadow Bite",
+          "level": 42
+        },
+        {
+          "id": 54050,
+          "name": "Shadow Bite",
+          "level": 50
+        },
+        {
+          "id": 54051,
+          "name": "Shadow Bite",
+          "level": 58
+        },
+        {
+          "id": 54052,
+          "name": "Shadow Bite",
+          "level": 66
+        },
+        {
+          "id": 54053,
+          "name": "Shadow Bite",
+          "level": 74
+        },
+        {
+          "id": 54424,
+          "name": "Fel Intelligence",
+          "level": 32
+        },
+        {
+          "id": 57564,
+          "name": "Fel Intelligence",
+          "level": 42
+        },
+        {
+          "id": 57565,
+          "name": "Fel Intelligence",
+          "level": 52
+        },
+        {
+          "id": 57566,
+          "name": "Fel Intelligence",
+          "level": 62
+        },
+        {
+          "id": 57567,
+          "name": "Fel Intelligence",
+          "level": 72
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Succubus",
+      "type": 3,
+      "power": 0,
+      "spells": [
+        6358,
+        6360,
+        7813,
+        7814,
+        7815,
+        7816,
+        7870,
+        11778,
+        11779,
+        11780,
+        11784,
+        11785,
+        27274,
+        27275,
+        47991,
+        47992
+      ],
+      "withheld": [],
+      "stockSkillLine": 205,
+      "skills": [
+        {
+          "id": 6360,
+          "name": "Soothing Kiss",
+          "level": 22
+        },
+        {
+          "id": 7813,
+          "name": "Soothing Kiss",
+          "level": 34
+        },
+        {
+          "id": 7814,
+          "name": "Lash of Pain",
+          "level": 20
+        },
+        {
+          "id": 7815,
+          "name": "Lash of Pain",
+          "level": 28
+        },
+        {
+          "id": 7816,
+          "name": "Lash of Pain",
+          "level": 36
+        },
+        {
+          "id": 6358,
+          "name": "Seduction",
+          "level": 26
+        },
+        {
+          "id": 7870,
+          "name": "Lesser Invisibility",
+          "level": 32
+        },
+        {
+          "id": 11778,
+          "name": "Lash of Pain",
+          "level": 44
+        },
+        {
+          "id": 11779,
+          "name": "Lash of Pain",
+          "level": 52
+        },
+        {
+          "id": 11780,
+          "name": "Lash of Pain",
+          "level": 60
+        },
+        {
+          "id": 11784,
+          "name": "Soothing Kiss",
+          "level": 46
+        },
+        {
+          "id": 11785,
+          "name": "Soothing Kiss",
+          "level": 58
+        },
+        {
+          "id": 27274,
+          "name": "Lash of Pain",
+          "level": 68
+        },
+        {
+          "id": 27275,
+          "name": "Soothing Kiss",
+          "level": 70
+        },
+        {
+          "id": 47991,
+          "name": "Lash of Pain",
+          "level": 74
+        },
+        {
+          "id": 47992,
+          "name": "Lash of Pain",
+          "level": 80
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Voidwalker",
+      "type": 3,
+      "power": 0,
+      "spells": [
+        3716,
+        7809,
+        7810,
+        7811,
+        7812,
+        11774,
+        11775,
+        17735,
+        17750,
+        17751,
+        17752,
+        17767,
+        17850,
+        17851,
+        17852,
+        17853,
+        17854,
+        19438,
+        19440,
+        19441,
+        19442,
+        19443,
+        27270,
+        27271,
+        27272,
+        27273,
+        33701,
+        47984,
+        47985,
+        47986,
+        47987,
+        47988,
+        47989,
+        47990
+      ],
+      "withheld": [],
+      "stockSkillLine": 204,
+      "skills": [
+        {
+          "id": 7812,
+          "name": "Sacrifice",
+          "level": 16
+        },
+        {
+          "id": 3716,
+          "name": "Torment",
+          "level": 10
+        },
+        {
+          "id": 7809,
+          "name": "Torment",
+          "level": 20
+        },
+        {
+          "id": 7810,
+          "name": "Torment",
+          "level": 30
+        },
+        {
+          "id": 7811,
+          "name": "Torment",
+          "level": 40
+        },
+        {
+          "id": 11774,
+          "name": "Torment",
+          "level": 50
+        },
+        {
+          "id": 11775,
+          "name": "Torment",
+          "level": 60
+        },
+        {
+          "id": 17735,
+          "name": "Suffering",
+          "level": 24
+        },
+        {
+          "id": 17750,
+          "name": "Suffering",
+          "level": 36
+        },
+        {
+          "id": 17751,
+          "name": "Suffering",
+          "level": 48
+        },
+        {
+          "id": 17752,
+          "name": "Suffering",
+          "level": 60
+        },
+        {
+          "id": 17767,
+          "name": "Consume Shadows",
+          "level": 18
+        },
+        {
+          "id": 17850,
+          "name": "Consume Shadows",
+          "level": 26
+        },
+        {
+          "id": 17851,
+          "name": "Consume Shadows",
+          "level": 34
+        },
+        {
+          "id": 17852,
+          "name": "Consume Shadows",
+          "level": 42
+        },
+        {
+          "id": 17853,
+          "name": "Consume Shadows",
+          "level": 50
+        },
+        {
+          "id": 17854,
+          "name": "Consume Shadows",
+          "level": 58
+        },
+        {
+          "id": 19438,
+          "name": "Sacrifice",
+          "level": 24
+        },
+        {
+          "id": 19440,
+          "name": "Sacrifice",
+          "level": 32
+        },
+        {
+          "id": 19441,
+          "name": "Sacrifice",
+          "level": 40
+        },
+        {
+          "id": 19442,
+          "name": "Sacrifice",
+          "level": 48
+        },
+        {
+          "id": 19443,
+          "name": "Sacrifice",
+          "level": 56
+        },
+        {
+          "id": 27272,
+          "name": "Consume Shadows",
+          "level": 66
+        },
+        {
+          "id": 27273,
+          "name": "Sacrifice",
+          "level": 64
+        },
+        {
+          "id": 27271,
+          "name": "Suffering",
+          "level": 63
+        },
+        {
+          "id": 27270,
+          "name": "Torment",
+          "level": 70
+        },
+        {
+          "id": 33701,
+          "name": "Suffering",
+          "level": 69
+        },
+        {
+          "id": 47984,
+          "name": "Torment",
+          "level": 80
+        },
+        {
+          "id": 47985,
+          "name": "Sacrifice",
+          "level": 72
+        },
+        {
+          "id": 47986,
+          "name": "Sacrifice",
+          "level": 79
+        },
+        {
+          "id": 47987,
+          "name": "Consume Shadows",
+          "level": 73
+        },
+        {
+          "id": 47988,
+          "name": "Consume Shadows",
+          "level": 78
+        },
+        {
+          "id": 47989,
+          "name": "Suffering",
+          "level": 75
+        },
+        {
+          "id": 47990,
+          "name": "Suffering",
+          "level": 80
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Felguard",
+      "type": 3,
+      "power": 0,
+      "spells": [
+        30151,
+        30194,
+        30198,
+        30213,
+        30219,
+        30223,
+        32850,
+        33698,
+        33699,
+        33700,
+        47993,
+        47994,
+        47996
+      ],
+      "withheld": [],
+      "stockSkillLine": 761,
+      "skills": [
+        {
+          "id": 30151,
+          "name": "Intercept",
+          "level": 52
+        },
+        {
+          "id": 30194,
+          "name": "Intercept",
+          "level": 61
+        },
+        {
+          "id": 30198,
+          "name": "Intercept",
+          "level": 69
+        },
+        {
+          "id": 30213,
+          "name": "Cleave",
+          "level": 50
+        },
+        {
+          "id": 30219,
+          "name": "Cleave",
+          "level": 60
+        },
+        {
+          "id": 30223,
+          "name": "Cleave",
+          "level": 68
+        },
+        {
+          "id": 32850,
+          "name": "Demonic Frenzy",
+          "level": 0
+        },
+        {
+          "id": 33698,
+          "name": "Anguish",
+          "level": 50
+        },
+        {
+          "id": 33699,
+          "name": "Anguish",
+          "level": 60
+        },
+        {
+          "id": 33700,
+          "name": "Anguish",
+          "level": 69
+        },
+        {
+          "id": 47993,
+          "name": "Anguish",
+          "level": 78
+        },
+        {
+          "id": 47994,
+          "name": "Cleave",
+          "level": 76
+        },
+        {
+          "id": 47996,
+          "name": "Intercept",
+          "level": 79
+        }
+      ]
+    }
+  ]
+}
