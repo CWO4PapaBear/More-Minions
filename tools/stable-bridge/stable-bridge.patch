@@ -1,0 +1,7 @@
+--- a/modules/mod-more-minions/src/MoreMinions.cpp
++++ b/modules/mod-more-minions/src/MoreMinions.cpp
+@@ -328 +328,3 @@
+-void Addmod_more_minionsScripts(){new MoreMinions::World();new MoreMinions::Players();new MoreMinions::CaptureLoader();new MoreMinions::ControlLoader();AddMoreMinionsDemonScripts();AddMoreMinionsAbominationScripts();}
++#include "StableBridge.h"
++
++void Addmod_more_minionsScripts(){new MoreMinionsStable::Commands();new MoreMinions::World();new MoreMinions::Players();new MoreMinions::CaptureLoader();new MoreMinions::ControlLoader();AddMoreMinionsDemonScripts();AddMoreMinionsAbominationScripts();}

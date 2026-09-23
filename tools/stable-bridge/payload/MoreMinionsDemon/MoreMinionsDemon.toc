@@ -1,0 +1,16 @@
+## Interface: 30300
+## SavedVariablesPerCharacter: MoreMinionsBarSettings
+## Title: More Minions: Secondary Companion
+## Notes: Independent Demon Mastery controls; requires the server module.
+## Version: 0.6.0-staged
+## OptionalDeps: HeroFreePick, HeroClassPlusCommitTest
+MoreMinionsDemon.lua
+CompanionTooltipPolicies.lua
+CompanionTooltips.lua
+BeckonVersion.lua
+Beckon.lua
+DemonCapstone.lua
+WarlockTiers.lua
+PetMasteryNames.lua
+StableCompatibility.lua
+StableBridge.lua

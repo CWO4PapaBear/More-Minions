@@ -1,0 +1,14 @@
+{
+  "MoreMinionsDemon/MoreMinionsDemon.toc": {
+    "before": "98c6e96ebc5c4f9971d5b4da3f7747bdd58247aff18d5c695f08f981bbfd4de3",
+    "after": "f1bacface70149517fd4d60e28733020e7f050c82496152e0a0185fdb350b26d"
+  },
+  "MoreMinionsDemon/StableBridge.lua": {
+    "before": null,
+    "after": "cb71955aff02e5b68f37fe8464a793fa0cdaa34cf77d98b8483eee7612fe3938"
+  },
+  "MoreMinionsDemon/StableCompatibility.lua": {
+    "before": "a78ed35aba938c7f566dd348c39a722c4aad82f9a3cd5470d8476f17c331197d",
+    "after": "a78ed35aba938c7f566dd348c39a722c4aad82f9a3cd5470d8476f17c331197d"
+  }
+}
