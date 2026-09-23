@@ -1,0 +1,358 @@
+{
+  "MoreMinionsDemon/StableBridge.lua": {
+    "before": "07dd7b59098866a737f3cf7b0d82ac7dceb8d1a80d0dea2d3761c4cea45cf8e4",
+    "after": "8749cc207338aab85e757ba478e191615156114485c8b34e16b44ffcae2b0204"
+  },
+  "MoreMinionsDemon/FamilyIcons/030e08dedf88a5bd.blp": {
+    "before": null,
+    "after": "030e08dedf88a5bd0b9ed0df6e7d57657cfdd5e813f22be33b86da9ac2bb2d31"
+  },
+  "MoreMinionsDemon/FamilyIcons/06054c5afb36a145.blp": {
+    "before": null,
+    "after": "06054c5afb36a1456d66899009a6bbbfb6ca0e4b15bbb7c2a2213f31feb57fad"
+  },
+  "MoreMinionsDemon/FamilyIcons/09e6a2e4b4461e7e.blp": {
+    "before": null,
+    "after": "09e6a2e4b4461e7e69368c58fc0a324e69bb068bc7c743d762e68966276d6833"
+  },
+  "MoreMinionsDemon/FamilyIcons/0b4728d05aca8397.blp": {
+    "before": null,
+    "after": "0b4728d05aca8397634cd263fb044c0823f26ce80858030c0b195568cb43c069"
+  },
+  "MoreMinionsDemon/FamilyIcons/14bebc80be8779f6.blp": {
+    "before": null,
+    "after": "14bebc80be8779f64529dca45b326869c8c40d8718854456f8e692a4f1cc94a8"
+  },
+  "MoreMinionsDemon/FamilyIcons/1524dc653cc22727.blp": {
+    "before": null,
+    "after": "1524dc653cc227272930e57ff8f03c62d1f7cb796beac4d4b5c51c4cf3df8331"
+  },
+  "MoreMinionsDemon/FamilyIcons/15a39135df456ff7.blp": {
+    "before": null,
+    "after": "15a39135df456ff7f29e16206bf032cfe171e2c2420e5bf5b20e61fac3871274"
+  },
+  "MoreMinionsDemon/FamilyIcons/176c433c8ac2291c.blp": {
+    "before": null,
+    "after": "176c433c8ac2291cfcf60102913d5c257d2bd92ebd884f5fd9c30ba82c5d80ac"
+  },
+  "MoreMinionsDemon/FamilyIcons/179589217801bf41.blp": {
+    "before": null,
+    "after": "179589217801bf415fa459c316b3f303df5fd351882e7314543831f14f62184f"
+  },
+  "MoreMinionsDemon/FamilyIcons/194c55d11501462c.blp": {
+    "before": null,
+    "after": "194c55d11501462cb9733fb4aacdcb67a569164b83bbea21b8c6b4dc5db56a22"
+  },
+  "MoreMinionsDemon/FamilyIcons/1ae4009d542678ea.blp": {
+    "before": null,
+    "after": "1ae4009d542678ea584f372107d1bf910363e6a73b02e300cb7a8399b66a5d17"
+  },
+  "MoreMinionsDemon/FamilyIcons/1d28e6b487f10325.blp": {
+    "before": null,
+    "after": "1d28e6b487f10325fe20a0a4c4bb3aa4f10552b481446a228cbbd799a8129fa4"
+  },
+  "MoreMinionsDemon/FamilyIcons/264aaddb4c5a7109.blp": {
+    "before": null,
+    "after": "264aaddb4c5a710992f2e793cfacfc891913983794729eae9ff026d46e0b5505"
+  },
+  "MoreMinionsDemon/FamilyIcons/26f6402343726f90.blp": {
+    "before": null,
+    "after": "26f6402343726f90993cdd4d7460427d3d07414c3ea0391f35790875229a6c12"
+  },
+  "MoreMinionsDemon/FamilyIcons/283a3817e607b1d5.blp": {
+    "before": null,
+    "after": "283a3817e607b1d5393308455506a4f685340ece5fcd52da8fe3b84b79b50eca"
+  },
+  "MoreMinionsDemon/FamilyIcons/290ed8d5f9bb9197.blp": {
+    "before": null,
+    "after": "290ed8d5f9bb91973755e231128f8aabd532e636bef39520c9d2697827394a44"
+  },
+  "MoreMinionsDemon/FamilyIcons/2d25a0c7b422ef16.blp": {
+    "before": null,
+    "after": "2d25a0c7b422ef164bfc8751311dfdf49293f31bb7bce1518d4318e3b8125722"
+  },
+  "MoreMinionsDemon/FamilyIcons/369453fc7909b721.blp": {
+    "before": null,
+    "after": "369453fc7909b721decd7b73b7002b43e4639a27f7e76ca40f1ad650197c35bc"
+  },
+  "MoreMinionsDemon/FamilyIcons/37b7e825190b95d5.blp": {
+    "before": null,
+    "after": "37b7e825190b95d555dd834e4042a7899e02ccf469b2b838b032c66416baaf9e"
+  },
+  "MoreMinionsDemon/FamilyIcons/39b003c9e222f44b.blp": {
+    "before": null,
+    "after": "39b003c9e222f44b86aea171a1866dc2ea6595389ed7fd6deb06bc93c37f2b46"
+  },
+  "MoreMinionsDemon/FamilyIcons/3edd6961e54ecc21.blp": {
+    "before": null,
+    "after": "3edd6961e54ecc21e83a5c0dd920c9aef8f44b0ceae4eea59f7eb243b83c07ca"
+  },
+  "MoreMinionsDemon/FamilyIcons/3fa5eb10183c4719.blp": {
+    "before": null,
+    "after": "3fa5eb10183c4719b8ae65f3bacfa57a714e8ed7f3bcbc2e2de679ebe1ed822c"
+  },
+  "MoreMinionsDemon/FamilyIcons/4284cdfbd631e3c0.blp": {
+    "before": null,
+    "after": "4284cdfbd631e3c05bd7f07108aec02cf968c9a695e1b4c820f5dbdc8956bc01"
+  },
+  "MoreMinionsDemon/FamilyIcons/42c04dd16417315c.blp": {
+    "before": null,
+    "after": "42c04dd16417315c438c96bb1f4ffc2e000a463a3a2eea91588835290773bec0"
+  },
+  "MoreMinionsDemon/FamilyIcons/45d474f5bd54454d.blp": {
+    "before": null,
+    "after": "45d474f5bd54454dd1c98b7668a95dfc5cb287786a4755e0ca61ece794e4ce34"
+  },
+  "MoreMinionsDemon/FamilyIcons/4cc37da77f8d00c5.blp": {
+    "before": null,
+    "after": "4cc37da77f8d00c575c9ad6a2610d13187b532ecf6c3cb84c2e0f4b8ef45c509"
+  },
+  "MoreMinionsDemon/FamilyIcons/4da158439961a512.blp": {
+    "before": null,
+    "after": "4da158439961a512061f4cd9da325256db7682508e54731e937cba6cd059a0be"
+  },
+  "MoreMinionsDemon/FamilyIcons/5267df3b25f90eb6.blp": {
+    "before": null,
+    "after": "5267df3b25f90eb670fda455bc3e1029c27f9bdb076d31ca11d0eddc9f8a1f53"
+  },
+  "MoreMinionsDemon/FamilyIcons/52ff991fc375c4e6.blp": {
+    "before": null,
+    "after": "52ff991fc375c4e6abc1f094075e461c5c5bac558c20007a1c5d839d91891e5c"
+  },
+  "MoreMinionsDemon/FamilyIcons/537f1ebb309879cd.blp": {
+    "before": null,
+    "after": "537f1ebb309879cd81c41ddfd0dbf8b8a00485df574315ad2bbb5914e2e1a185"
+  },
+  "MoreMinionsDemon/FamilyIcons/5449df931be5f87a.blp": {
+    "before": null,
+    "after": "5449df931be5f87a409190d8dc8e1d64588fc3be63ffdd0524f7ae2100b0e4b7"
+  },
+  "MoreMinionsDemon/FamilyIcons/5b3a120c723db395.blp": {
+    "before": null,
+    "after": "5b3a120c723db39552dc1ee5106fc7188239d08036c4f7217364703d67314d1b"
+  },
+  "MoreMinionsDemon/FamilyIcons/5c85f6c7e18acc60.blp": {
+    "before": null,
+    "after": "5c85f6c7e18acc6022e8adda79c8be959152f819d25d9c004de21cf2345ed9be"
+  },
+  "MoreMinionsDemon/FamilyIcons/5f67e8d95b799fde.blp": {
+    "before": null,
+    "after": "5f67e8d95b799fded039ec1822590c8d9fc9226fc05c5526b309b370ab0745dd"
+  },
+  "MoreMinionsDemon/FamilyIcons/605e8a5d51932bdf.blp": {
+    "before": null,
+    "after": "605e8a5d51932bdf0fd1e218d11810dc2b2a92d4bee217eb52a3ecafdd8a77d5"
+  },
+  "MoreMinionsDemon/FamilyIcons/63751212044d845e.blp": {
+    "before": null,
+    "after": "63751212044d845e81008a35160baf9a4aeb9714c0de5177d93bfc12c0861903"
+  },
+  "MoreMinionsDemon/FamilyIcons/650966bcf26d5e23.blp": {
+    "before": null,
+    "after": "650966bcf26d5e23825d2fdad00e2cd245c0c0df097d4fb0697f37b76179b672"
+  },
+  "MoreMinionsDemon/FamilyIcons/668dec0832e554a7.blp": {
+    "before": null,
+    "after": "668dec0832e554a73b62ccf954bb1cdc70f68132b5770ff8c2c32c4f18ea9cf2"
+  },
+  "MoreMinionsDemon/FamilyIcons/66d495643f7c8120.blp": {
+    "before": null,
+    "after": "66d495643f7c8120e3b6fa4c931b63dd96277be7af2b1a7d7e597ae958f14621"
+  },
+  "MoreMinionsDemon/FamilyIcons/69cf93863a95ea6d.blp": {
+    "before": null,
+    "after": "69cf93863a95ea6d0e068ecbca7243374605a931ea30a2912d8d1f3a524d42ca"
+  },
+  "MoreMinionsDemon/FamilyIcons/6bbd16580f31583d.blp": {
+    "before": null,
+    "after": "6bbd16580f31583df6e9cef0a0b7541368bac05a14204b747cde9ad926d01a85"
+  },
+  "MoreMinionsDemon/FamilyIcons/6cf9be3bfa0913f0.blp": {
+    "before": null,
+    "after": "6cf9be3bfa0913f065b5f83cf8caa6ad54ca8266db003d7f6a9906b4394ef866"
+  },
+  "MoreMinionsDemon/FamilyIcons/77c9f5957a512c95.blp": {
+    "before": null,
+    "after": "77c9f5957a512c959f2a2223e6299048acdfdaab889a5135ca8abffc54a1d88b"
+  },
+  "MoreMinionsDemon/FamilyIcons/7b9acbebb631e697.blp": {
+    "before": null,
+    "after": "7b9acbebb631e697733061434c38adc29291fbf6a7321a8af7fbf9aa7fb1ce72"
+  },
+  "MoreMinionsDemon/FamilyIcons/7efbcbd0b614550e.blp": {
+    "before": null,
+    "after": "7efbcbd0b614550e2681efbd6b313f2f163a7e2c36898e27a87547cb375dca60"
+  },
+  "MoreMinionsDemon/FamilyIcons/7f1acca6d0fcad34.blp": {
+    "before": null,
+    "after": "7f1acca6d0fcad34223045cd7b2d41515988c19bfc6112c0842c96e5c1aa9480"
+  },
+  "MoreMinionsDemon/FamilyIcons/893b6e00bd204150.blp": {
+    "before": null,
+    "after": "893b6e00bd204150926f802593eec90afe47eeb016292738db64d9b1e10b2f75"
+  },
+  "MoreMinionsDemon/FamilyIcons/8a12435918d672dd.blp": {
+    "before": null,
+    "after": "8a12435918d672dd5b1b0bacbc62b4bd94f9412a0abac78d2322b7d72f1d7842"
+  },
+  "MoreMinionsDemon/FamilyIcons/8c94b1d62dc89bb5.blp": {
+    "before": null,
+    "after": "8c94b1d62dc89bb509d35b0baf54b10914a04596a22101df3eff876134a0a4c9"
+  },
+  "MoreMinionsDemon/FamilyIcons/8cd65f2d08611821.blp": {
+    "before": null,
+    "after": "8cd65f2d086118218abd55fe3368e0745fc4b4f425b37774221e9e2237e87c1d"
+  },
+  "MoreMinionsDemon/FamilyIcons/927e4d24e65f14ff.blp": {
+    "before": null,
+    "after": "927e4d24e65f14ffbc7271da0827ca2dbc5b9459ac95f5d478a2bcdfbd5cfe15"
+  },
+  "MoreMinionsDemon/FamilyIcons/9bd03bf91540595d.blp": {
+    "before": null,
+    "after": "9bd03bf91540595dba6ea22db6d51b69af418c867e3e33fe77cda83bbfbb853a"
+  },
+  "MoreMinionsDemon/FamilyIcons/9d6892d64e58cee3.blp": {
+    "before": null,
+    "after": "9d6892d64e58cee39715579ece4cda22ada976246721008183e58918be49b640"
+  },
+  "MoreMinionsDemon/FamilyIcons/a100c4b63a6df301.blp": {
+    "before": null,
+    "after": "a100c4b63a6df301f81c1bc67c6e18cab2c05386de879b39dd8655f692ad7948"
+  },
+  "MoreMinionsDemon/FamilyIcons/a1b358a36b250c0a.blp": {
+    "before": null,
+    "after": "a1b358a36b250c0a866eea585a37a1fe54547f9648cd7fac28841bb893f0a02a"
+  },
+  "MoreMinionsDemon/FamilyIcons/a538cbda7482f5d3.blp": {
+    "before": null,
+    "after": "a538cbda7482f5d3f9ec4274443c61b89cb82a18cdb320961503cf268f2c8aed"
+  },
+  "MoreMinionsDemon/FamilyIcons/a631870f7cb3e793.blp": {
+    "before": null,
+    "after": "a631870f7cb3e793c327427e80690a9230f617ac991085b52817147523100b21"
+  },
+  "MoreMinionsDemon/FamilyIcons/aabcb4bffb014656.blp": {
+    "before": null,
+    "after": "aabcb4bffb0146562b2bed294b73f0653539e4b357d7b97136060c1f835f67ec"
+  },
+  "MoreMinionsDemon/FamilyIcons/af5e192f38378f5b.blp": {
+    "before": null,
+    "after": "af5e192f38378f5b0f6d1aab392d615429408038276fb4e2b6bb20717e5d57d0"
+  },
+  "MoreMinionsDemon/FamilyIcons/b0ccb8841432c610.blp": {
+    "before": null,
+    "after": "b0ccb8841432c610f11a36b657a95c1b4e0eae409ab2e05aa47e53d11acd9824"
+  },
+  "MoreMinionsDemon/FamilyIcons/b56d238c40d6dca0.blp": {
+    "before": null,
+    "after": "b56d238c40d6dca0d63fa47a31395b797db12fcea4a288df44ec280fcfb86035"
+  },
+  "MoreMinionsDemon/FamilyIcons/b6155b6193c6d9b6.blp": {
+    "before": null,
+    "after": "b6155b6193c6d9b646ba469ce5e2e33c36934ab2ad0fa7d6caa7cd39bfea8d8f"
+  },
+  "MoreMinionsDemon/FamilyIcons/b674d2da377436d2.blp": {
+    "before": null,
+    "after": "b674d2da377436d2c6052e52abd35c630e7baa80e54671e46830a79bf9c0ced3"
+  },
+  "MoreMinionsDemon/FamilyIcons/b9c48fd2ae954b31.blp": {
+    "before": null,
+    "after": "b9c48fd2ae954b31c2cff63b019e840746b0426b352fb8461f9eaac2ca2fd889"
+  },
+  "MoreMinionsDemon/FamilyIcons/ba887af27d4b39ef.blp": {
+    "before": null,
+    "after": "ba887af27d4b39efd95d7c0c94c2e007e4735de2ed653b699c5e550aad76701d"
+  },
+  "MoreMinionsDemon/FamilyIcons/bc609e48a4c9af3a.blp": {
+    "before": null,
+    "after": "bc609e48a4c9af3ada328fb2accf4d4bddbbd7068d70ea61d7ce274eb1d17259"
+  },
+  "MoreMinionsDemon/FamilyIcons/c13fa18e0d4f1298.blp": {
+    "before": null,
+    "after": "c13fa18e0d4f1298a0c56443bb5ff50a517bd88d1f26248f95d395118d4b5536"
+  },
+  "MoreMinionsDemon/FamilyIcons/c4b69eac9c52b371.blp": {
+    "before": null,
+    "after": "c4b69eac9c52b3716f8df496f047bf93786f887d03fefa62c1cffebcc990c0ee"
+  },
+  "MoreMinionsDemon/FamilyIcons/c83226e05091812e.blp": {
+    "before": null,
+    "after": "c83226e05091812e498af096e1669c8447881ffe0bfa4fad073f6c82d52eff7a"
+  },
+  "MoreMinionsDemon/FamilyIcons/c854c531ad0deb98.blp": {
+    "before": null,
+    "after": "c854c531ad0deb98bc05ca5820d1c0a5dca1b6db0e3ec2683b39aa9db0d2d473"
+  },
+  "MoreMinionsDemon/FamilyIcons/ca8cc07eeb80a53b.blp": {
+    "before": null,
+    "after": "ca8cc07eeb80a53bde36fef59799d8779dc71f902c2173fa64c2f12831cbb9c3"
+  },
+  "MoreMinionsDemon/FamilyIcons/cb08f9a0ac5c1944.blp": {
+    "before": null,
+    "after": "cb08f9a0ac5c1944e7991121eef78d2b59325f25e405174c71cb679110d29aa0"
+  },
+  "MoreMinionsDemon/FamilyIcons/cb3782694cb7f501.blp": {
+    "before": null,
+    "after": "cb3782694cb7f5015e60da91fe2d0b45b0a9f937235cd95167d73e13331ff866"
+  },
+  "MoreMinionsDemon/FamilyIcons/cec394c2ee029000.blp": {
+    "before": null,
+    "after": "cec394c2ee029000cbb626cd88275c580bb18c2caa7b0f00b029b5c84edf9422"
+  },
+  "MoreMinionsDemon/FamilyIcons/d684ae655b7091a7.blp": {
+    "before": null,
+    "after": "d684ae655b7091a73d7b3e4d2a16a05be98ebf13b1af1b8ae5893ebab4526acf"
+  },
+  "MoreMinionsDemon/FamilyIcons/d75be0f98eaaaf32.blp": {
+    "before": null,
+    "after": "d75be0f98eaaaf32770ec5385e6544d86c57340e406ac5ff249e60aa87d0df16"
+  },
+  "MoreMinionsDemon/FamilyIcons/d7cc149b62cfec23.blp": {
+    "before": null,
+    "after": "d7cc149b62cfec23950207b3b382792f455879fa8f1b86740c5be5df6955e87f"
+  },
+  "MoreMinionsDemon/FamilyIcons/d896a61ac2275b67.blp": {
+    "before": null,
+    "after": "d896a61ac2275b675cbc899f6088f4c02eaf1e5589bb538f321ce8984a5a0ed6"
+  },
+  "MoreMinionsDemon/FamilyIcons/dae3d9336169bd2d.blp": {
+    "before": null,
+    "after": "dae3d9336169bd2db74b53d7449bc51acf6a8ad2af7749187963ed7e8c596e90"
+  },
+  "MoreMinionsDemon/FamilyIcons/defd080ad2e4222e.blp": {
+    "before": null,
+    "after": "defd080ad2e4222e42818c9f82baa0b9ec53492f6cbbf0dd0accba58c4a32510"
+  },
+  "MoreMinionsDemon/FamilyIcons/e5f35ecb5c0edc0d.blp": {
+    "before": null,
+    "after": "e5f35ecb5c0edc0da52b0e477c180962ed1a41c5c35394375687de89f2bea4a9"
+  },
+  "MoreMinionsDemon/FamilyIcons/ec8d2b41a3643459.blp": {
+    "before": null,
+    "after": "ec8d2b41a36434592a702f1680efaa45fb3dfd773e7cca12c907a29910e3908f"
+  },
+  "MoreMinionsDemon/FamilyIcons/f186c13cfeb884ed.blp": {
+    "before": null,
+    "after": "f186c13cfeb884ed5f817d04091161b2712418da3057c2d75dd5d57039ad1ed3"
+  },
+  "MoreMinionsDemon/FamilyIcons/f1d486fa58b3e2d8.blp": {
+    "before": null,
+    "after": "f1d486fa58b3e2d80fca5ddd32ba293cdbb849e0de875e6acc67fa7f937ac2a9"
+  },
+  "MoreMinionsDemon/FamilyIcons/f63d9ecc2b662008.blp": {
+    "before": null,
+    "after": "f63d9ecc2b662008c5e5190849ab4edbb94bfb775298d700e221b5f3bef2574a"
+  },
+  "MoreMinionsDemon/FamilyIcons/f977c256c22dfae3.blp": {
+    "before": null,
+    "after": "f977c256c22dfae3300a85aeac412de4a7e9e4750732821875b42fc2189de519"
+  },
+  "MoreMinionsDemon/FamilyIcons/fbb23d1719a7dfd1.blp": {
+    "before": null,
+    "after": "fbb23d1719a7dfd1e573534908aded514d61397beccf626deef8a4258fe7ff58"
+  },
+  "MoreMinionsDemon/FamilyIcons/fcfa71d9722989bf.blp": {
+    "before": null,
+    "after": "fcfa71d9722989bf71fc5e072744535cff416d16dec01d30ab58e03e6511804c"
+  }
+}

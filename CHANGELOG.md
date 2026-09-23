@@ -1,3 +1,7 @@
+## Family icons across pet types
+
+Classic interface appearance confirmed by the owner. Replace generic creature-type icons with the catalog's family icons in both current/stored boxes; Abomination uses its stitched-head family icon. Local payload resolves 345 family references, with native Beast family lookup/cache support. Logic, asset decoding and installer checks passed; in-game icon confirmation and launcher publication pending. See tools/stable-family-icons. Extracted artwork remains outside source control.
+
 ## Classic stable interface follow-up
 
 Owner verified server-backed store/retrieve/purchase on PTR. Restore the original stable slot buttons, Purchase button, frame art and layout while retaining that transport. Support current/stored drag transfers and consistent icons in both locations; non-Beast happiness stays hidden. Client-only package: [classic stable UI](tools/stable-classic-ui/README.md). Local Lua and installer checks passed; visual/drag verification and launcher publication remain pending.
