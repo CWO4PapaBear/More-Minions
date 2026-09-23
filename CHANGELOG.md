@@ -1,5 +1,7 @@
 ## Staged server-backed stable controls
 
+Build follow-up: qualify the command table and console flag with `Acore::ChatCommands`. The first full PTR compile caught the missing namespace; source restoration succeeded and no activation occurred. Contract tests now use the same namespace instead of global stand-ins. Local recheck passed; full rebuild pending.
+
 Add a More Minions stable bridge for imported primary pets whose native client stable list is empty. Store, retrieve/swap and buy actions use the existing server handlers, with access, proximity and pet ownership checks. Demon, Undead, Elemental and Dragonkin share the interface without enabling withheld families or stabling secondary guardians. Non-Beast happiness is hidden; current pet portraits use the live unit.
 
 Lua 5.1 lifecycle/action tests, mocked C++ command-contract tests and isolated installer checks passed. Full PTR build, activation, gameplay validation and launcher publication remain pending. See [stable bridge](tools/stable-bridge/README.md).

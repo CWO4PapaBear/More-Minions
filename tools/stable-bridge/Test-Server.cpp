@@ -34,9 +34,12 @@ struct WorldSession{
  void HandleBuyStableSlot(WorldPacket& p){called=p.opcode;}
 };
 struct ChatHandler{WorldSession session;std::vector<std::string>messages;WorldSession* GetSession(){return &session;}void SendSysMessage(std::string s){messages.push_back(s);}};
-enum class Console{No};constexpr unsigned SEC_PLAYER=0;
+constexpr unsigned SEC_PLAYER=0;
+namespace Acore::ChatCommands {
+enum class Console{No};
 struct Command{template<class F>Command(char const*,F,unsigned,Console){}};using ChatCommandTable=std::vector<Command>;
-struct CommandScript{explicit CommandScript(char const*){}virtual ChatCommandTable GetCommands()const=0;};
+}
+struct CommandScript{explicit CommandScript(char const*){}virtual Acore::ChatCommands::ChatCommandTable GetCommands()const=0;};
 #include "StableBridge.h"
 int main(){
  using MoreMinionsStable::Commands;

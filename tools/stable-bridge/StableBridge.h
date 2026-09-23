@@ -69,6 +69,6 @@ public:Commands():CommandScript("MoreMinionsStableBridge"){}
   // Persist purchased slots and money using the normal character save path.
   p->SaveToDB();State(h,request);return true;
  }
- ChatCommandTable GetCommands()const override{return {{"mmstable",Control,SEC_PLAYER,Console::No}};}
+ Acore::ChatCommands::ChatCommandTable GetCommands()const override{return {{"mmstable",Control,SEC_PLAYER,Acore::ChatCommands::Console::No}};}
 };
 }
