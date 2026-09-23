@@ -19,7 +19,7 @@ struct PetStable{
 struct Player{
  PetStable stable;bool access=true,alive=true,combat=false,mounted=false,flight=false,near=true;int saves=0;
  PetStable* GetPetStable(){return &stable;}bool IsAlive(){return alive;}bool IsInCombat(){return combat;}bool IsMounted(){return mounted;}bool IsInFlight(){return flight;}
- bool GetNPCIfCanInteractWith(ObjectGuid g,unsigned){return near&&g.value==0xF130000001000001;}void SaveToDB(){++saves;}
+ bool GetNPCIfCanInteractWith(ObjectGuid g,unsigned){return near&&g.value==0xF130000001000001;}void SaveToDB(bool create,bool logout){assert(!create&&!logout);++saves;}
 };
 bool MoreMinionsHasAccess(Player* p){return p->access;}
 struct CreatureTemplate{unsigned type=6;};

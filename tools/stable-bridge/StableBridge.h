@@ -67,7 +67,7 @@ public:Commands():CommandScript("MoreMinionsStableBridge"){}
    WorldPacket packet(CMSG_BUY_STABLE_SLOT,8);packet<<guid;session->HandleBuyStableSlot(packet);
   }
   // Persist purchased slots and money using the normal character save path.
-  p->SaveToDB();State(h,request);return true;
+  p->SaveToDB(false,false);State(h,request);return true;
  }
  Acore::ChatCommands::ChatCommandTable GetCommands()const override{return {{"mmstable",Control,SEC_PLAYER,Acore::ChatCommands::Console::No}};}
 };

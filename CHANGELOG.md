@@ -1,5 +1,7 @@
 ## Staged server-backed stable controls
 
+Second compile follow-up: use the core's required `SaveToDB(false, false)` signature for an existing character outside logout. The test now requires both arguments and verifies their values. Local contract check passed; full rebuild remains pending. Failed builds restored source without activation.
+
 Build follow-up: qualify the command table and console flag with `Acore::ChatCommands`. The first full PTR compile caught the missing namespace; source restoration succeeded and no activation occurred. Contract tests now use the same namespace instead of global stand-ins. Local recheck passed; full rebuild pending.
 
 Add a More Minions stable bridge for imported primary pets whose native client stable list is empty. Store, retrieve/swap and buy actions use the existing server handlers, with access, proximity and pet ownership checks. Demon, Undead, Elemental and Dragonkin share the interface without enabling withheld families or stabling secondary guardians. Non-Beast happiness is hidden; current pet portraits use the live unit.
