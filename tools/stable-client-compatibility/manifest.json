@@ -1,0 +1,10 @@
+{
+  "MoreMinionsDemon/MoreMinionsDemon.toc": {
+    "before": "0ba5a14d5b421499b61e80a5149b2d661b52c06ebc914be97025c625b4e59895",
+    "after": "98c6e96ebc5c4f9971d5b4da3f7747bdd58247aff18d5c695f08f981bbfd4de3"
+  },
+  "MoreMinionsDemon/StableCompatibility.lua": {
+    "before": null,
+    "after": "70a7864bb6b7b1f09d65be0fc93e57ea085e85726b3f4d85147b1cd82fa421e6"
+  }
+}
