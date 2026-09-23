@@ -1,3 +1,7 @@
+## Classic stable interface follow-up
+
+Owner verified server-backed store/retrieve/purchase on PTR. Restore the original stable slot buttons, Purchase button, frame art and layout while retaining that transport. Support current/stored drag transfers and consistent icons in both locations; non-Beast happiness stays hidden. Client-only package: [classic stable UI](tools/stable-classic-ui/README.md). Local Lua and installer checks passed; visual/drag verification and launcher publication remain pending.
+
 ## Staged server-backed stable controls
 
 Second compile follow-up: use the core's required `SaveToDB(false, false)` signature for an existing character outside logout. The test now requires both arguments and verifies their values. Local contract check passed; full rebuild remains pending. Failed builds restored source without activation.
