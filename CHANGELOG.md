@@ -1,3 +1,7 @@
+## Stable live-primary display follow-up
+
+Live diagnostics showed the client exposes no slot-0 record for the Abomination. Use the permanent primary pet unit for stable display and scoped icon/family fallback; leave native slot data and server transactions unchanged. Reference UI tests pass; in-game transactions and launcher publication pending.
+
 ## Staged stable UI compatibility
 
 Add a narrowly scoped client adapter for server-listed primary companions with imported capture abilities. Covers Demon, Undead, Elemental and Dragonkin stable display and purchase controls. Lua 5.1 reference-UI and installer tests passed; live store/retrieve and launcher publication pending. See tools/stable-client-compatibility.

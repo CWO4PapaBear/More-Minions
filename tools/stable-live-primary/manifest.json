@@ -1,0 +1,6 @@
+{
+  "MoreMinionsDemon/StableCompatibility.lua": {
+    "before": "986a72c4d99cac7968354b4b3c160eca8f4fc24529361936ea391e473ea627cd",
+    "after": "99add76e75d80a48404d307afbcb52863e877812a4f9aba14211a62477744814"
+  }
+}
