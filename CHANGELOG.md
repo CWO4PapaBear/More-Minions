@@ -1,3 +1,7 @@
+## Staged Beast-only happiness UI
+
+Hide happiness/diet controls for non-Beast companions. Stable current-pet fallback uses the live portrait rather than a whistle. Display tests passed; stable transactions remain unresolved. Local installation and launcher publication pending.
+
 ## Stable live-primary display follow-up
 
 Live diagnostics showed the client exposes no slot-0 record for the Abomination. Use the permanent primary pet unit for stable display and scoped icon/family fallback; leave native slot data and server transactions unchanged. Reference UI tests pass; in-game transactions and launcher publication pending.
