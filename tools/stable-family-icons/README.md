@@ -10,4 +10,6 @@ Validation: all assets decode, all catalog references resolve, Abomination 16247
 
 Close WoW and run the local Install-Client.py with --wow-closed. No server restart, SQL or MPQ changes. Launcher publication remains pending.
 
+PTR owner confirmation (September 23, 2026): Undead and Demon stabling both work. Classic interface appearance was also confirmed. This does not establish Elemental/Dragonkin behavior, relog persistence or explicit confirmation of each family icon.
+
 Source control contains the addon logic, tests, installer and manifest only. Extracted artwork is excluded from the source repository; the complete pinned local installation package contains the required assets. A fresh source checkout alone is not an installable client release.

@@ -1,3 +1,7 @@
+## PTR stable validation — September 23, 2026
+
+Full server build and activation completed. Owner confirmed the classic interface appearance and successful Undead and Demon stabling. Earlier store/retrieve/purchase tests also passed. Elemental/Dragonkin stabling, relog persistence and explicit family-icon appearance confirmation remain unverified. Launcher publication is still pending. This status supersedes the build/activation pending notes in the development entries below.
+
 ## Family icons across pet types
 
 Classic interface appearance confirmed by the owner. Replace generic creature-type icons with the catalog's family icons in both current/stored boxes; Abomination uses its stitched-head family icon. Local payload resolves 345 family references, with native Beast family lookup/cache support. Logic, asset decoding and installer checks passed; in-game icon confirmation and launcher publication pending. See tools/stable-family-icons. Extracted artwork remains outside source control.
