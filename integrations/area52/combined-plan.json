@@ -1,0 +1,81 @@
+{
+  "status": "Implementation preparation; not compiled or activated",
+  "upstream_revision": "341e49df6a1e151d6ae6c57cb771de85aeb0219e",
+  "more_minions_revision": "920ae65a6faf7cd190176e6da9692c9a14423701",
+  "client_overlay_sha256": {
+    "patch-B.MPQ": "e0486e683f752ade26278857b0dbb5b492c295f535890d3e8bb777489891f6ad",
+    "patch-M.MPQ": "d0ee360bfcb13584304851a55ca412f614ec52f7ac0d1834c92450a22ec321f6"
+  },
+  "evidence_limits": [
+    "Upstream is an independent reconstruction, not Ascension's official backend.",
+    "Local PTR module source supplements the incomplete public implementation overlays.",
+    "Installed overlay hashes are not evidence of latest upstream client release. Discord release identity and full upstream manifest remain unavailable.",
+    "No new combined-system runtime tests have run. Previously verified PTR behavior is not Area 52 verification."
+  ],
+  "architecture": {
+    "primary": "Upstream native Pet, PetStable and AscensionTaming own capture, family calls, saved pets and purchased stable slots.",
+    "secondary": "Retain More Minions optional independent guardian, including Demon and Beckon Beast paths. Never allocate a native primary/stable slot to it.",
+    "progression": "Area 52 advancement catalog and learned server spells authorize access; do not copy PTR AP prices, synthetic purchase IDs or Wildcard rolls.",
+    "isolation": "Independent Area 52 secondary feature switch, disabled outside the authorized Free Pick mode. Disabling suspends the secondary without deleting ownership records."
+  },
+  "decisions": [
+    {
+      "area": "Primary capture and family data",
+      "choice": "Adopt pet portions of upstream PRs 6380, 6161 and 6407 with dependencies reviewed individually.",
+      "reason": "Native family IDs, DBC skill lines, starter pets and captured-versus-summoned separation better match Ascension client data than copying PTR family substitutions."
+    },
+    {
+      "area": "Primary storage",
+      "choice": "Do not transplant More Minions reserved slots 101-105 or its competing PrimaryController.",
+      "reason": "PTR reserves one primary per creature kind; upstream uses paid native stable slots. Running both would produce incompatible slot ownership. No PTR pet records are being migrated."
+    },
+    {
+      "area": "Failure atomicity",
+      "choice": "Carry More Minions plan-before-mutation and commit-confirmation lessons into focused upstream regression review.",
+      "reason": "Upstream CheckCast calls StableUnslottedHunterPets before MakePlan and performs swaps/starter creation in CheckCast. Verify later cast failure, starter creation failure, repeated checks and database failures do not leave unintended state. These are review risks, not reproduced defects."
+    },
+    {
+      "area": "Second companion",
+      "choice": "Retain separate ownership, health/resource state, cooldowns, autocast, reactions, controls, strain and fatigue.",
+      "reason": "This intentionally extends upstream's single primary pet. Keep one secondary total, with native target/resource/cooldown validation and owner-scoped control."
+    },
+    {
+      "area": "Secondary authorization",
+      "choice": "Split Demon and Beckon entitlements before porting.",
+      "reason": "Current MoreDemons::Access requires synthetic Demon Mastery authorization for both paths. Beckon additionally checks custom spell 920000 and talent 34454; Demon checks 920007 and talent 18710 at level 35. Resolve effective Area 52 ranks and catalog links rather than assuming these IDs express equivalent progression."
+    },
+    {
+      "area": "Effects and scaling",
+      "choice": "Retain reviewed More Minions audience distinctions and shared-budget safeguards where native handlers do not cover the secondary.",
+      "reason": "Distinguish summoned demon, captured demon, beast and general minion targets; do not apply both native and module scaling/procs to one actor. Revalidate ImportedEffectAudiences against current effective spell data."
+    },
+    {
+      "area": "Capture edge cases",
+      "choice": "Compare neutral-target eligibility, completed-channel ownership, target validity, long names and captured size against upstream before adding patches.",
+      "reason": "More Minions contains dedicated handling, but source presence alone does not establish superiority over current upstream."
+    },
+    {
+      "area": "Client",
+      "choice": "Prefer native Ascension stable UI. Port only required secondary controls and verified missing spell definitions.",
+      "reason": "PTR Classic stable compatibility shims and custom spell range 919990-920007 require collision, shape and icon checks; do not distribute them wholesale."
+    }
+  ],
+  "implementation_sequence": [
+    "Prepare focused CoA fork branch from the reconciled Area 52 integration source; preserve early-login, data-path, terrain, advancement and builder changes.",
+    "Integrate native primary pet changes and shared Hero eligibility without Wildcard progression or CoA class-specific changes.",
+    "Audit effective Spell/CreatureFamily/SkillLineAbility data and SQL families; validate every secondary prerequisite and custom ID before authorizing or granting it.",
+    "Port optional secondary controller separately, remove native-demon auto-adoption unless explicitly routed by verified secondary entitlement, and keep primary pet save/load untouched.",
+    "Add additive secondary storage migrations and client control adapter; preserve rollback compatibility and do not import PTR characters.",
+    "Review pet effect audiences, scaling and proc budgets; port only demonstrated gaps.",
+    "Run focused verification through CoA verify_all, compile, then stage paired client/server candidate with backup and gameplay checklist."
+  ],
+  "acceptance": [
+    "Beast, Undead, Demon, Elemental and Dragonkin: capture, starter, recall, dismiss, death/revive, stable, purchased/full slots, relog and restart.",
+    "Primary plus secondary: independent control, switching each, death, mount, teleport, level-up, logout and restart without replacing or deleting the other.",
+    "Secondary Demon and Beast unlock independently through verified Area 52 progression; removing entitlement suspends only the affected secondary.",
+    "Interrupted capture, invalid target, cast failure and database failure preserve prior pets and ownership.",
+    "Cooldowns, autocast, strain/fatigue and resource drain cannot be reset by relog or replacement; no doubled scaling or proc awards.",
+    "Feature disabled, non-Hero, CoA and Wildcard configurations retain intended baseline behavior.",
+    "Skull Banner remains outside this pet integration; Bear Cave PTR is unchanged."
+  ]
+}
