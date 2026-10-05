@@ -1,3 +1,9 @@
+## Area 52 authorization adapter — October 5, 2026
+
+Begin the Area 52 port with opt-in live/Hero/class-10 gating and server-learned parent-spell authorization for six companion packages. Unknown and PTR-only Beckon IDs are denied. Configuration-disabled installations retain their existing authorization callback. A separate-source staging tool preserves the running PTR module. C++ policy/adapter tests cover mode isolation, missing parents, refunds and registration. Full CoA compilation, core lifecycle hooks, effective spell/family data and gameplay validation remain pending; no Area 52 pet activation is claimed.
+
+Correct the root README's obsolete claim that no server work exists. Historical foundation documents remain dated evidence.
+
 ## PTR stable validation — September 23, 2026
 
 Full server build and activation completed. Owner confirmed the classic interface appearance and successful Undead and Demon stabling. Earlier store/retrieve/purchase tests also passed. Elemental/Dragonkin stabling, relog persistence and explicit family-icon appearance confirmation remain unverified. Launcher publication is still pending. This status supersedes the build/activation pending notes in the development entries below.
